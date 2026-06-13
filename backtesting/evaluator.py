@@ -162,10 +162,11 @@ class BacktestEvaluator:
             all_metrics.append(year_metrics)
             all_predictions.append(year_preds)
 
-            # Save per-year predictions
-            pred_path = self.results_dir / f"predictions_{year}.csv"
-            year_preds.to_csv(pred_path, index=False)
-            logger.info("Saved %d predictions → %s", len(year_preds), pred_path)
+            # Save per-year predictions (skip if empty)
+            if not year_preds.empty:
+                pred_path = self.results_dir / f"predictions_{year}.csv"
+                year_preds.to_csv(pred_path, index=False)
+                logger.info("Saved %d predictions → %s", len(year_preds), pred_path)
 
         # ── Consolidate metrics ──────────────────────────────────────
         metrics_df = pd.DataFrame(all_metrics)

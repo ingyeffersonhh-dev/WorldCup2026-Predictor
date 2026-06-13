@@ -1,6 +1,7 @@
 {
   "feature_names": [
     "elo_diff",
+    "elo_diff_sq",
     "form_home_5f",
     "form_home_5a",
     "form_away_5f",
@@ -17,7 +18,7 @@
     "implied_draw",
     "implied_away"
   ],
-  "n_features": 16,
+  "n_features": 17,
   "target_mapping": {
     "1": "home_win",
     "0": "draw",
@@ -34,5 +35,5 @@
     "eval_metric": "mlogloss",
     "verbosity": 1
   },
-  "fit_date": "2026-06-13 13:16:09"
+  "fit_date": "2026-06-13 14:56:14"
 }

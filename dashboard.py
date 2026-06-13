@@ -213,7 +213,7 @@ def load_backtesting_results() -> Tuple[pd.DataFrame, pd.DataFrame, Dict[str, An
     pred_dfs = []
     for year in [2014, 2018, 2022]:
         p = BACKTESTING_RESULTS / f"predictions_{year}.csv"
-        if p.exists():
+        if p.exists() and p.stat().st_size > 10:
             pred_dfs.append(pd.read_csv(p, parse_dates=["date"]))
 
     predictions_df = pd.concat(pred_dfs, ignore_index=True) if pred_dfs else pd.DataFrame()
