@@ -36,6 +36,11 @@ logger = logging.getLogger(__name__)
 # Features to use (same as XGBoost — all non-target, non-identity columns)
 FEATURE_COLUMNS: List[str] = [
     "elo_diff",
+    "elo_diff_sq",
+    "form_home_3f",
+    "form_home_3a",
+    "form_away_3f",
+    "form_away_3a",
     "form_home_5f",
     "form_home_5a",
     "form_away_5f",
@@ -48,6 +53,10 @@ FEATURE_COLUMNS: List[str] = [
     "home_advantage",
     "rest_days_home",
     "rest_days_away",
+    "streak_home",
+    "streak_away",
+    "tournament_importance",
+    "has_real_odds",
     "implied_home",
     "implied_draw",
     "implied_away",
@@ -341,6 +350,14 @@ class DixonColesPoisson:
 
         if self.scaler is None:
             raise ValueError("No scaler found — model was not fitted correctly.")
+
+        # Filter to the features this model was trained on
+        if hasattr(self, 'feature_names_') and self.feature_names_:
+            available = [c for c in self.feature_names_ if c in X.columns]
+            X = X[available]
+        elif hasattr(self.scaler, 'feature_names_in_'):
+            available = [c for c in self.scaler.feature_names_in_ if c in X.columns]
+            X = X[available]
 
         X_scaled = self.scaler.transform(X)
 

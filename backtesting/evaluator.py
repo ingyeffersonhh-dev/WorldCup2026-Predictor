@@ -43,6 +43,10 @@ WC_GROUP_MATCHES: Dict[int, int] = {
 FEATURE_COLUMNS: List[str] = [
     "elo_diff",
     "elo_diff_sq",
+    "form_home_3f",
+    "form_home_3a",
+    "form_away_3f",
+    "form_away_3a",
     "form_home_5f",
     "form_home_5a",
     "form_away_5f",
@@ -55,6 +59,10 @@ FEATURE_COLUMNS: List[str] = [
     "home_advantage",
     "rest_days_home",
     "rest_days_away",
+    "streak_home",
+    "streak_away",
+    "tournament_importance",
+    "has_real_odds",
     "implied_home",
     "implied_draw",
     "implied_away",
@@ -92,6 +100,26 @@ class BacktestEvaluator:
         self.results_dir = Path(results_dir)
         self.results_dir.mkdir(parents=True, exist_ok=True)
 
+    def walk_forward(
+        self,
+        data: pd.DataFrame,
+        year: int,
+        ensemble_alpha: float = 0.5,
+    ) -> pd.DataFrame:
+        """Run single-year walk-forward and return the predictions DataFrame."""
+        if "tournament_type" not in data.columns or "is_wc" not in data.columns:
+            logger.info("Merging clean_matches.csv onto input data in walk_forward...")
+            cm = pd.read_csv("data/processed/clean_matches.csv", parse_dates=["date"])
+            data = data.merge(
+                cm[["match_id", "tournament_type", "home_goals", "away_goals"]],
+                on="match_id",
+                how="left",
+            )
+            data["is_wc"] = data["tournament_type"].str.strip().str.lower() == "fifa world cup"
+
+        metrics, pred_df = self._walk_forward_single(data, year, ensemble_alpha=ensemble_alpha)
+        return pred_df
+
     # ------------------------------------------------------------------
     # Public API — full backtest run
     # ------------------------------------------------------------------
@@ -101,6 +129,7 @@ class BacktestEvaluator:
         feature_store_path: str | Path = "data/processed/feature_store.csv",
         clean_matches_path: str | Path = "data/processed/clean_matches.csv",
         years: Optional[List[int]] = None,
+        ensemble_alpha: float = 0.5,
     ) -> pd.DataFrame:
         """Run walk-forward backtesting for all specified World Cup years.
 
@@ -112,14 +141,14 @@ class BacktestEvaluator:
             Path to ``clean_matches.csv`` (needed for tournament_type).
         years : list[int] | None
             World Cup years to evaluate.  Defaults to ``[2014, 2018, 2022]``.
+        ensemble_alpha : float
+            Weight for XGBoost in the 1X2 ensemble.
 
         Returns
         -------
         pd.DataFrame
             Consolidated metrics for all years.
         """
-        from models.xgboost_model import XGBoostModel
-
         if years is None:
             years = [2014, 2018, 2022]
 
@@ -157,7 +186,7 @@ class BacktestEvaluator:
             logger.info("Walk-forward: %d World Cup", year)
 
             year_metrics, year_preds = self._walk_forward_single(
-                data, year, XGBoostModel
+                data, year, ensemble_alpha=ensemble_alpha
             )
             all_metrics.append(year_metrics)
             all_predictions.append(year_preds)
@@ -188,16 +217,19 @@ class BacktestEvaluator:
         self,
         data: pd.DataFrame,
         year: int,
-        XGBoostModel: type,
+        ensemble_alpha: float = 0.5,
     ) -> Tuple[Dict[str, Any], pd.DataFrame]:
         """Run walk-forward for one World Cup year.
 
         Steps:
           1. Filter World Cup matches for *year*.
-          2. Train model on data *before* the first match of that WC.
-          3. Predict WC match outcomes.
+          2. Train models on data *before* the first match of that WC.
+          3. Predict WC match outcomes using ensemble of XGBoost & Poisson.
           4. Compute and return metrics + predictions.
         """
+        from models.xgboost_model import XGBoostModel
+        from models.poisson_model import DixonColesPoisson
+
         # ── Identify WC matches for this year ────────────────────────
         wc_mask = data["is_wc"] & (data["date"].dt.year == year)
         wc_matches = data[wc_mask].copy()
@@ -212,6 +244,9 @@ class BacktestEvaluator:
                     "rps": float("nan"),
                     "log_loss": float("nan"),
                     "accuracy": float("nan"),
+                    "naive_brier": float("nan"),
+                    "naive_rps": float("nan"),
+                    "naive_log_loss": float("nan"),
                     "n_teams_trained": 0,
                 },
                 pd.DataFrame(),
@@ -237,13 +272,16 @@ class BacktestEvaluator:
                     "rps": float("nan"),
                     "log_loss": float("nan"),
                     "accuracy": float("nan"),
+                    "naive_brier": float("nan"),
+                    "naive_rps": float("nan"),
+                    "naive_log_loss": float("nan"),
                     "n_teams_trained": 0,
                 },
                 pd.DataFrame(),
             )
 
-        # ── Train model ──────────────────────────────────────────────
-        model = XGBoostModel()
+        # ── Train XGBoost ─────────────────────────────────────────────
+        model_xgb = XGBoostModel()
 
         # Prepare features
         X_all, y_all = XGBoostModel.prepare_data(train_data)
@@ -267,27 +305,48 @@ class BacktestEvaluator:
                     "rps": float("nan"),
                     "log_loss": float("nan"),
                     "accuracy": float("nan"),
+                    "naive_brier": float("nan"),
+                    "naive_rps": float("nan"),
+                    "naive_log_loss": float("nan"),
                     "n_teams_trained": 0,
                 },
                 pd.DataFrame(),
             )
 
-        logger.info("  Training: %d samples, Validation: %d samples", len(X_train), len(X_val))
-        model.train(X_train, y_train, X_val, y_val)
+        logger.info("  Training XGBoost: %d samples, Validation: %d samples", len(X_train), len(X_val))
+        model_xgb.train(X_train, y_train, X_val, y_val)
 
-        # Calibrate
+        # Calibrate XGBoost
         try:
-            model.calibrate(X_val, y_val)
+            model_xgb.calibrate(X_val, y_val)
             logger.info("  Calibration complete (isotonic)")
         except Exception as exc:
             logger.warning("  Calibration failed (%s) — using raw probabilities", exc)
 
+        # ── Train Poisson ─────────────────────────────────────────────
+        logger.info("  Training Poisson (Dixon-Coles) on %d matches...", len(train_data))
+        model_pois = DixonColesPoisson()
+        X_pois_all, y_pois_all = model_pois.prepare_data(train_data)
+        pois_params = model_pois.fit(X_pois_all, y_pois_all)
+
         # ── Predict on WC matches ────────────────────────────────────
         X_wc, y_wc = XGBoostModel.prepare_data(wc_matches)
-        y_pred = model.predict_proba(X_wc)
+        y_pred_xgb = model_xgb.predict_proba(X_wc)
 
-        # y_pred shape: (n_matches, 3), order: [P(draw), P(home), P(away)]
-        # y_wc values: 0=draw, 1=home, 2=away
+        # Predict Poisson 1X2 probabilities
+        X_wc_pois, y_wc_pois = model_pois.prepare_data(wc_matches)
+        lambda_h, lambda_a = model_pois.predict_lambdas(X_wc_pois, params=pois_params)
+        rho = pois_params[-1]
+
+        pois_probs = []
+        for lh, la in zip(lambda_h, lambda_a):
+            score_matrix = model_pois.exact_score_prob(lh, la, rho)
+            p_h_p, p_d_p, p_a_p = model_pois.match_1x2_from_score_matrix(score_matrix)
+            pois_probs.append([p_d_p, p_h_p, p_a_p])  # order: [P(draw), P(home), P(away)]
+        pois_probs = np.array(pois_probs)
+
+        # Ensemble
+        y_pred = ensemble_alpha * y_pred_xgb + (1.0 - ensemble_alpha) * pois_probs
 
         # Build predictions DataFrame
         pred_df = wc_matches[["match_id", "date", "home_team", "away_team",
@@ -320,13 +379,34 @@ class BacktestEvaluator:
         # Classify match round (group vs KO for confusion matrices)
         pred_df["match_type"] = self._classify_match_round(pred_df, year)
 
-        # ── Compute metrics ──────────────────────────────────────────
+        # Calculate individual match metrics for the runner script
+        briers = []
+        rpss = []
+        for i in range(len(y_wc)):
+            t = int(y_wc.values[i])
+            pred = y_pred[i]
+            oh = np.zeros(3)
+            oh[t] = 1.0
+            briers.append(float(np.sum((oh - pred)**2)))
+
+            pred_ord = pred[[1, 0, 2]]
+            oh_ord = oh[[1, 0, 2]]
+            pred_cs = np.cumsum(pred_ord)[:2]
+            oh_cs = np.cumsum(oh_ord)[:2]
+            rpss.append(float(np.sum((pred_cs - oh_cs)**2) / 2.0))
+
+        pred_df["brier"] = briers
+        pred_df["rps"] = rpss
+
+        # ── Compute overall metrics ───────────────────────────────────
         n_matches = len(pred_df)
         if n_matches == 0:
             return (
                 {"year": year, "n_matches": 0, "brier_score": float("nan"),
                  "rps": float("nan"), "log_loss": float("nan"),
-                 "accuracy": float("nan"), "n_teams_trained": 0},
+                 "accuracy": float("nan"), "naive_brier": float("nan"),
+                 "naive_rps": float("nan"), "naive_log_loss": float("nan"),
+                 "n_teams_trained": 0},
                 pred_df,
             )
 
@@ -341,6 +421,12 @@ class BacktestEvaluator:
 
         # Accuracy
         acc = float(pred_df["correct"].mean())
+
+        # Naive baseline metrics (1/3 for all classes)
+        naive_pred = np.full((n_matches, 3), 1.0 / 3.0)
+        naive_brier = self.brier_score(pred_df["target"].values, naive_pred)
+        naive_rps = self.ranked_probability_score(pred_df["target"].values, naive_pred)
+        naive_ll = self.log_loss(pred_df["target"].values, naive_pred)
 
         # Fractional Kelly ROI (if implied probs exist)
         roi = self.fractional_kelly_roi(
@@ -361,8 +447,8 @@ class BacktestEvaluator:
         )
 
         logger.info(
-            "  %d: Brier=%.4f  RPS=%.4f  LogLoss=%.4f  Acc=%.1f%%  ROI=%.1f%%",
-            year, brier, rps, ll, acc * 100, roi * 100,
+            "  %d: Brier=%.4f (Naive=%.4f)  RPS=%.4f (Naive=%.4f)  LogLoss=%.4f (Naive=%.4f)  Acc=%.1f%%  ROI=%.1f%%",
+            year, brier, naive_brier, rps, naive_rps, ll, naive_ll, acc * 100, roi * 100,
         )
 
         metrics = {
@@ -372,10 +458,13 @@ class BacktestEvaluator:
             "rps": round(rps, 4),
             "log_loss": round(ll, 4),
             "accuracy": round(acc, 4),
+            "naive_brier": round(naive_brier, 4),
+            "naive_rps": round(naive_rps, 4),
+            "naive_log_loss": round(naive_ll, 4),
             "roi": round(roi, 4),
             "calibration_data": calib,
             "confusion_matrix": cm,
-            "n_teams_trained": len(model.feature_names),
+            "n_teams_trained": len(model_xgb.feature_names),
         }
 
         # Save detailed metrics

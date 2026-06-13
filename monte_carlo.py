@@ -29,6 +29,11 @@ logger = logging.getLogger(__name__)
 # Feature columns used by the XGBoost model (in order)
 FEATURE_COLUMNS: List[str] = [
     "elo_diff",
+    "elo_diff_sq",
+    "form_home_3f",
+    "form_home_3a",
+    "form_away_3f",
+    "form_away_3a",
     "form_home_5f",
     "form_home_5a",
     "form_away_5f",
@@ -41,6 +46,10 @@ FEATURE_COLUMNS: List[str] = [
     "home_advantage",
     "rest_days_home",
     "rest_days_away",
+    "streak_home",
+    "streak_away",
+    "tournament_importance",
+    "has_real_odds",
     "implied_home",
     "implied_draw",
     "implied_away",
@@ -51,6 +60,9 @@ K_WORLD_CUP = 40.0
 DRAW_SCORE = 0.5
 WIN_SCORE = 1.0
 LOSS_SCORE = 0.0
+
+# Host countries for the 2026 World Cup (home advantage adjustment)
+HOST_COUNTRIES_2026 = {"United States", "Canada", "Mexico"}
 
 
 # ===================================================================
@@ -72,12 +84,14 @@ class MonteCarloSimulator:
         max_goals: int = 6,
         random_state: int = 42,
         closest_only: bool = False,
+        ensemble_alpha: float = 0.5,
     ) -> None:
         self.max_goals = max_goals
         self.rng = np.random.default_rng(random_state)
         self._match_counter: int = 0
         self.prediction_cache: Dict[Tuple, Tuple] = {}
         self.closest_only = closest_only
+        self.ensemble_alpha = ensemble_alpha
         self.live_results_map = {}
         self.closest_cutoff = pd.to_datetime("2099-01-01")
 
@@ -490,8 +504,11 @@ class MonteCarloSimulator:
                 winner, loser = away, home
                 is_penalty = False
             else:
-                # Still a draw → penalties → home wins (simplification)
-                winner, loser = home, away
+                # Still a draw → penalties → coin flip (50/50)
+                if self.rng.random() < 0.5:
+                    winner, loser = home, away
+                else:
+                    winner, loser = away, home
                 is_penalty = True
 
         # Path-dependent ELO update
@@ -1067,6 +1084,16 @@ class MonteCarloSimulator:
         lambda_h_val = float(lambda_h.item() if hasattr(lambda_h, "item") else lambda_h[0])
         lambda_a_val = float(lambda_a.item() if hasattr(lambda_a, "item") else lambda_a[0])
 
+        # Compute Poisson 1X2 probabilities and ensemble if ensemble_alpha < 1.0
+        if self.ensemble_alpha < 1.0:
+            rho = poisson.params_[-1] if (poisson is not None and poisson.params_ is not None) else 0.0
+            score_matrix = poisson.exact_score_prob(lambda_h_val, lambda_a_val, rho)
+            p_home_pois, p_draw_pois, p_away_pois = poisson.match_1x2_from_score_matrix(score_matrix)
+
+            p_home = self.ensemble_alpha * p_home + (1.0 - self.ensemble_alpha) * p_home_pois
+            p_draw = self.ensemble_alpha * p_draw + (1.0 - self.ensemble_alpha) * p_draw_pois
+            p_away = self.ensemble_alpha * p_away + (1.0 - self.ensemble_alpha) * p_away_pois
+
         result = (p_home, p_draw, p_away, lambda_h_val, lambda_a_val)
         self.prediction_cache[cache_key] = result
         return result
@@ -1324,6 +1351,11 @@ class MonteCarloSimulator:
 
         row = {
             "elo_diff": elo_diff,
+            "elo_diff_sq": elo_diff ** 2,
+            "form_home_3f": hf.get("form_home_3f", 0.0),
+            "form_home_3a": hf.get("form_home_3a", 0.0),
+            "form_away_3f": af.get("form_away_3f", 0.0),
+            "form_away_3a": af.get("form_away_3a", 0.0),
             "form_home_5f": hf.get("form_home_5f", 0.0),
             "form_home_5a": hf.get("form_home_5a", 0.0),
             "form_away_5f": af.get("form_away_5f", 0.0),
@@ -1332,10 +1364,14 @@ class MonteCarloSimulator:
             "form_home_10a": hf.get("form_home_10a", 0.0),
             "form_away_10f": af.get("form_away_10f", 0.0),
             "form_away_10a": af.get("form_away_10a", 0.0),
-            "h2h_avg_diff": 0.0,  # simplified: no H2H in tournament
-            "home_advantage": 0.0,  # neutral venue
+            "h2h_avg_diff": hf.get("h2h_avg_diff", 0.0),
+            "home_advantage": 0.5 if home in HOST_COUNTRIES_2026 else 0.0,
             "rest_days_home": float(rest_days_home),
             "rest_days_away": float(rest_days_away),
+            "streak_home": hf.get("streak_home", 0.0),
+            "streak_away": af.get("streak_away", 0.0),
+            "tournament_importance": 1.0,  # World Cup = max importance
+            "has_real_odds": 1.0 if odds_map is not None and (home, away) in odds_map else 0.0,
             "implied_home": 1.0 / 3.0,
             "implied_draw": 1.0 / 3.0,
             "implied_away": 1.0 / 3.0,
@@ -1362,8 +1398,33 @@ class MonteCarloSimulator:
         away_team: str,
         elo_state: Dict[str, Any],
     ) -> None:
-        """Update ELO ratings after one match (disabled for speed and stability)."""
-        pass
+        """Update ELO ratings after one match (path-dependent)."""
+        ratings = elo_state["ratings"]
+        home_elo = ratings.get(home_team, 1500.0)
+        away_elo = ratings.get(away_team, 1500.0)
+
+        # Determine actual scores
+        if home_goals > away_goals:
+            s_home, s_away = WIN_SCORE, LOSS_SCORE
+        elif home_goals == away_goals:
+            s_home, s_away = DRAW_SCORE, DRAW_SCORE
+        else:
+            s_home, s_away = LOSS_SCORE, WIN_SCORE
+
+        # Expected scores
+        e_home = 1.0 / (1.0 + 10.0 ** ((away_elo - home_elo) / 400.0))
+        e_away = 1.0 - e_home
+
+        # Goal margin multiplier
+        gd = abs(home_goals - away_goals)
+        elo_diff = home_elo - away_elo
+        margin_mult = 1.0
+        if gd > 0:
+            margin_mult = np.log(gd + 1.0) * (2.2 / (abs(elo_diff) * 0.001 + 2.2))
+
+        # Update
+        ratings[home_team] = home_elo + K_WORLD_CUP * (s_home * margin_mult - e_home)
+        ratings[away_team] = away_elo + K_WORLD_CUP * (s_away * margin_mult - e_away)
 
 
 # ------------------------------------------------------------------
@@ -1399,6 +1460,10 @@ def build_base_features(
     base: Dict[str, Dict[str, float]] = {}
     for team in team_list:
         base[team] = {
+            "form_home_3f": 0.0,
+            "form_home_3a": 0.0,
+            "form_away_3f": 0.0,
+            "form_away_3a": 0.0,
             "form_home_5f": 0.0,
             "form_home_5a": 0.0,
             "form_away_5f": 0.0,
@@ -1407,8 +1472,23 @@ def build_base_features(
             "form_home_10a": 0.0,
             "form_away_10f": 0.0,
             "form_away_10a": 0.0,
+            "h2h_avg_diff": 0.0,
+            "streak_home": 0.0,
+            "streak_away": 0.0,
             "rest_days": 7,
         }
+
+    # Feature keys to extract from last match
+    form_keys_home = [
+        "form_home_3f", "form_home_3a",
+        "form_home_5f", "form_home_5a",
+        "form_home_10f", "form_home_10a",
+    ]
+    form_keys_away = [
+        "form_away_3f", "form_away_3a",
+        "form_away_5f", "form_away_5a",
+        "form_away_10f", "form_away_10a",
+    ]
 
     # Find last match for each team
     for team in team_list:
@@ -1422,15 +1502,16 @@ def build_base_features(
         last = team_matches.iloc[-1]
 
         if last["home_team"] == team:
-            base[team]["form_home_5f"] = float(last.get("form_home_5f", 0))
-            base[team]["form_home_5a"] = float(last.get("form_home_5a", 0))
-            base[team]["form_home_10f"] = float(last.get("form_home_10f", 0))
-            base[team]["form_home_10a"] = float(last.get("form_home_10a", 0))
+            for key in form_keys_home:
+                base[team][key] = float(last.get(key, 0))
+            base[team]["streak_home"] = float(last.get("streak_home", 0))
         else:
-            base[team]["form_home_5f"] = float(last.get("form_away_5f", 0))
-            base[team]["form_home_5a"] = float(last.get("form_away_5a", 0))
-            base[team]["form_home_10f"] = float(last.get("form_away_10f", 0))
-            base[team]["form_home_10a"] = float(last.get("form_away_10a", 0))
+            # Map away features to home keys for this team
+            for hk, ak in zip(form_keys_home, form_keys_away):
+                base[team][hk] = float(last.get(ak, 0))
+            base[team]["streak_home"] = float(last.get("streak_away", 0))
+
+        base[team]["h2h_avg_diff"] = float(last.get("h2h_avg_diff", 0))
 
     return base
 
@@ -1487,6 +1568,12 @@ if __name__ == "__main__":
         "--closest-only",
         action="store_true",
         help="Simulate only closest matches probabilistically and others deterministically for speed",
+    )
+    parser.add_argument(
+        "--ensemble-alpha",
+        type=float,
+        default=0.5,
+        help="Weight for XGBoost predictions in 1X2 ensemble (0.0 to 1.0, rest is Poisson)",
     )
     parser.add_argument(
         "--odds",
@@ -1559,7 +1646,11 @@ if __name__ == "__main__":
         logger.warning("Odds file not found at %s — using uniform 1/3 fallback", odds_path)
 
     # Run simulation
-    simulator = MonteCarloSimulator(random_state=args.seed, closest_only=args.closest_only)
+    simulator = MonteCarloSimulator(
+        random_state=args.seed,
+        closest_only=args.closest_only,
+        ensemble_alpha=args.ensemble_alpha,
+    )
     champion_df, match_df, all_results = simulator.simulate_tournament(
         fixture, models, initial_elo, base_features,
         n_sims=args.n_sims, verbose=True, odds_map=odds_map,

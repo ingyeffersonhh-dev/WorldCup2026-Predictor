@@ -2,6 +2,10 @@
   "feature_names": [
     "elo_diff",
     "elo_diff_sq",
+    "form_home_3f",
+    "form_home_3a",
+    "form_away_3f",
+    "form_away_3a",
     "form_home_5f",
     "form_home_5a",
     "form_away_5f",
@@ -14,11 +18,15 @@
     "home_advantage",
     "rest_days_home",
     "rest_days_away",
+    "streak_home",
+    "streak_away",
+    "tournament_importance",
+    "has_real_odds",
     "implied_home",
     "implied_draw",
     "implied_away"
   ],
-  "n_features": 17,
+  "n_features": 25,
   "target_mapping": {
     "1": "home_win",
     "0": "draw",
@@ -26,14 +34,17 @@
   },
   "params": {
     "n_estimators": 1000,
-    "max_depth": 6,
-    "learning_rate": 0.01,
+    "max_depth": 4,
+    "learning_rate": 0.02,
     "subsample": 0.8,
     "colsample_bytree": 0.8,
+    "min_child_weight": 5,
+    "reg_alpha": 0.1,
+    "reg_lambda": 1.5,
     "random_state": 42,
-    "early_stopping_rounds": 20,
+    "early_stopping_rounds": 30,
     "eval_metric": "mlogloss",
     "verbosity": 1
   },
-  "fit_date": "2026-06-13 14:56:14"
+  "fit_date": "2026-06-13 16:09:26"
 }

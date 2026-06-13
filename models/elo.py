@@ -42,7 +42,7 @@ BASE_RATINGS: Dict[str, int] = {
 K_FACTORS: Dict[str, int] = {
     "World Cup": 40,
     "Qualifiers": 30,
-    "others": 20,
+    "others": 10,
 }
 
 # Provisional rating rules (R2.3)

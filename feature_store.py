@@ -38,6 +38,10 @@ FEATURE_STORE_COLUMNS = [
     "away_team",
     "elo_diff",
     "elo_diff_sq",
+    "form_home_3f",
+    "form_home_3a",
+    "form_away_3f",
+    "form_away_3a",
     "form_home_5f",
     "form_home_5a",
     "form_away_5f",
@@ -50,6 +54,10 @@ FEATURE_STORE_COLUMNS = [
     "home_advantage",
     "rest_days_home",
     "rest_days_away",
+    "streak_home",
+    "streak_away",
+    "tournament_importance",
+    "has_real_odds",
     "implied_home",
     "implied_draw",
     "implied_away",
@@ -58,6 +66,10 @@ FEATURE_STORE_COLUMNS = [
 
 # Default fill values for NaN features
 NAN_FILL_DEFAULTS = {
+    "form_home_3f": 0.0,
+    "form_home_3a": 0.0,
+    "form_away_3f": 0.0,
+    "form_away_3a": 0.0,
     "form_home_5f": 0.0,
     "form_home_5a": 0.0,
     "form_away_5f": 0.0,
@@ -67,6 +79,10 @@ NAN_FILL_DEFAULTS = {
     "form_away_10f": 0.0,
     "form_away_10a": 0.0,
     "h2h_avg_diff": 0.0,
+    "streak_home": 0.0,
+    "streak_away": 0.0,
+    "tournament_importance": 0.3,
+    "has_real_odds": 0.0,
     "implied_home": 1.0 / 3.0,
     "implied_draw": 1.0 / 3.0,
     "implied_away": 1.0 / 3.0,
@@ -151,6 +167,14 @@ class FeatureStore:
         df = self._rest_days(df)
         logger.info("  rest_days ✓")
 
+        # Step 5b — Streak (consecutive wins/losses)
+        df = self._streak(df)
+        logger.info("  streak ✓")
+
+        # Step 5c — Tournament importance
+        df = self._tournament_importance(df)
+        logger.info("  tournament_importance ✓")
+
         # Step 6 — Odds integration (load + merge all available years)
         all_odds = []
         # Load historical league data first (2005-2013 for pre-WC training data)
@@ -175,6 +199,12 @@ class FeatureStore:
             df["implied_draw"] = np.nan
             df["implied_away"] = np.nan
         logger.info("  odds ✓ (%d files loaded)", len(all_odds))
+
+        # Step 6b — has_real_odds binary flag
+        df["has_real_odds"] = (
+            ~df["implied_home"].isna()
+            & (df["implied_home"] != 1.0 / 3.0)
+        ).astype(float)
 
         # Step 7 — Target variable (1=home, 0=draw, 2=away)
         df = self._add_target(df)
@@ -272,9 +302,9 @@ class FeatureStore:
 
     @staticmethod
     def _rolling_goals(df: pd.DataFrame) -> pd.DataFrame:
-        """Rolling average goals for/against per team (5 and 10 matches).
+        """Rolling average goals for/against per team (3, 5 and 10 matches).
 
-        Produces columns ``form_{home,away}_{5,10}{f,a}``.  The current
+        Produces columns ``form_{home,away}_{3,5,10}{f,a}``.  The current
         match's goals are excluded via ``shift(1)`` so features only use
         historical data (no look-ahead bias).
         """
@@ -288,10 +318,10 @@ class FeatureStore:
         team_df = pd.concat([home_view, away_view], ignore_index=True)
         team_df = team_df.sort_values(["team", "date"]).reset_index(drop=True)
 
-        # Compute rolling averages per team
+        # Compute rolling averages per team (3, 5, 10 match windows)
         #   shift(1): exclude current match from the window
         #   min_periods=1: use whatever is available (first match → NaN)
-        for col, window in [("gf", 5), ("ga", 5), ("gf", 10), ("ga", 10)]:
+        for col, window in [("gf", 3), ("ga", 3), ("gf", 5), ("ga", 5), ("gf", 10), ("ga", 10)]:
             col_name = f"{col}_{window}"
             team_df[col_name] = (
                 team_df.groupby("team")[col]
@@ -302,6 +332,8 @@ class FeatureStore:
         home_form = team_df.rename(
             columns={
                 "team": "home_team",
+                "gf_3": "form_home_3f",
+                "ga_3": "form_home_3a",
                 "gf_5": "form_home_5f",
                 "ga_5": "form_home_5a",
                 "gf_10": "form_home_10f",
@@ -310,6 +342,7 @@ class FeatureStore:
         )
         home_cols = [
             "match_id", "home_team",
+            "form_home_3f", "form_home_3a",
             "form_home_5f", "form_home_5a", "form_home_10f", "form_home_10a",
         ]
         df = df.merge(
@@ -320,6 +353,8 @@ class FeatureStore:
         away_form = team_df.rename(
             columns={
                 "team": "away_team",
+                "gf_3": "form_away_3f",
+                "ga_3": "form_away_3a",
                 "gf_5": "form_away_5f",
                 "ga_5": "form_away_5a",
                 "gf_10": "form_away_10f",
@@ -328,6 +363,7 @@ class FeatureStore:
         )
         away_cols = [
             "match_id", "away_team",
+            "form_away_3f", "form_away_3a",
             "form_away_5f", "form_away_5a", "form_away_10f", "form_away_10a",
         ]
         df = df.merge(
@@ -437,6 +473,87 @@ class FeatureStore:
 
         df["rest_days_home"] = rest_home
         df["rest_days_away"] = rest_away
+        return df
+
+    @staticmethod
+    def _streak(df: pd.DataFrame) -> pd.DataFrame:
+        """Compute win/loss streak per team (positive = wins, negative = losses).
+
+        Uses shift(1) to exclude the current match (no look-ahead bias).
+        """
+        # Build per-team result records
+        home_view = df[["match_id", "date", "home_team", "home_goals", "away_goals"]].copy()
+        home_view.columns = ["match_id", "date", "team", "gf", "ga"]
+        away_view = df[["match_id", "date", "away_team", "away_goals", "home_goals"]].copy()
+        away_view.columns = ["match_id", "date", "team", "gf", "ga"]
+
+        team_df = pd.concat([home_view, away_view], ignore_index=True)
+        team_df = team_df.sort_values(["team", "date"]).reset_index(drop=True)
+
+        # Result: +1 win, 0 draw, -1 loss
+        team_df["result"] = np.sign(team_df["gf"] - team_df["ga"])
+
+        # Compute streak: count consecutive same results
+        def calc_streak(results):
+            streak = np.zeros(len(results))
+            for i in range(1, len(results)):
+                if results.iloc[i - 1] == results.iloc[i - 1]:  # valid
+                    r = results.iloc[i - 1]
+                    if r == 1:
+                        streak[i] = max(streak[i - 1] + 1, 1)
+                    elif r == -1:
+                        streak[i] = min(streak[i - 1] - 1, -1)
+                    else:
+                        streak[i] = 0
+            return pd.Series(streak, index=results.index)
+
+        team_df["streak"] = team_df.groupby("team")["result"].transform(
+            lambda x: calc_streak(x)
+        )
+        # Shift to avoid look-ahead
+        team_df["streak"] = team_df.groupby("team")["streak"].shift(1).fillna(0)
+
+        # Merge home
+        home_streak = team_df[["match_id", "team", "streak"]].rename(
+            columns={"team": "home_team", "streak": "streak_home"}
+        )
+        df = df.merge(home_streak, on=["match_id", "home_team"], how="left")
+
+        # Merge away
+        away_streak = team_df[["match_id", "team", "streak"]].rename(
+            columns={"team": "away_team", "streak": "streak_away"}
+        )
+        df = df.merge(away_streak, on=["match_id", "away_team"], how="left")
+
+        return df
+
+    @staticmethod
+    def _tournament_importance(df: pd.DataFrame) -> pd.DataFrame:
+        """Assign a numeric importance weight per match based on tournament type.
+
+        World Cup = 1.0, Qualifiers = 0.7, Continental cups = 0.6,
+        Friendlies = 0.3, others = 0.5.
+        """
+        if "tournament_type" not in df.columns:
+            df["tournament_importance"] = 0.5
+            return df
+
+        def classify(t: str) -> float:
+            t_lower = str(t).lower()
+            if "world cup" in t_lower and "qualification" not in t_lower:
+                return 1.0
+            if "qualification" in t_lower or "qualifier" in t_lower:
+                return 0.7
+            if any(kw in t_lower for kw in [
+                "euro", "copa am", "african cup", "asian cup",
+                "gold cup", "nations league", "confederations"
+            ]):
+                return 0.6
+            if "friendly" in t_lower:
+                return 0.3
+            return 0.5
+
+        df["tournament_importance"] = df["tournament_type"].apply(classify)
         return df
 
     # ------------------------------------------------------------------

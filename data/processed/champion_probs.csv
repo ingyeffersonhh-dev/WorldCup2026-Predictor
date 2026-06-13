@@ -1,49 +1,49 @@
 team,champion_count,champion_pct,runner_up_count,runner_up_pct
-England,20,20.0,4,4.0
-Germany,14,14.0,4,4.0
-Spain,13,13.0,5,5.0
-Netherlands,7,7.0,5,5.0
-Portugal,6,6.0,5,5.0
-United States,5,5.0,3,3.0
-Belgium,4,4.0,7,7.0
-France,4,4.0,7,7.0
-Morocco,2,2.0,1,1.0
-Argentina,2,2.0,6,6.0
-Iraq,2,2.0,0,0.0
-Turkey,2,2.0,5,5.0
-Uruguay,2,2.0,3,3.0
-Bosnia and Herzegovina,1,1.0,0,0.0
-Austria,1,1.0,2,2.0
-Australia,1,1.0,1,1.0
-Switzerland,1,1.0,2,2.0
-Tunisia,1,1.0,1,1.0
-Senegal,1,1.0,0,0.0
-Scotland,1,1.0,0,0.0
-Japan,1,1.0,3,3.0
-South Korea,1,1.0,6,6.0
-Haiti,1,1.0,1,1.0
-Mexico,1,1.0,1,1.0
-Curaçao,1,1.0,0,0.0
-Croatia,1,1.0,4,4.0
-Ecuador,1,1.0,0,0.0
-Panama,1,1.0,1,1.0
-Norway,1,1.0,6,6.0
-New Zealand,1,1.0,1,1.0
-Brazil,0,0.0,1,1.0
-Canada,0,0.0,3,3.0
-Egypt,0,0.0,0,0.0
-DR Congo,0,0.0,0,0.0
-Czech Republic,0,0.0,2,2.0
-Cape Verde,0,0.0,0,0.0
-Colombia,0,0.0,3,3.0
-Algeria,0,0.0,1,1.0
-Iran,0,0.0,0,0.0
-Ivory Coast,0,0.0,0,0.0
-Jordan,0,0.0,2,2.0
-Ghana,0,0.0,1,1.0
-Qatar,0,0.0,0,0.0
-Saudi Arabia,0,0.0,1,1.0
-South Africa,0,0.0,1,1.0
-Paraguay,0,0.0,0,0.0
-Sweden,0,0.0,1,1.0
-Uzbekistan,0,0.0,0,0.0
+England,732,14.64,302,6.04
+Belgium,597,11.94,322,6.44
+Spain,548,10.96,314,6.28
+Germany,453,9.06,288,5.76
+Netherlands,365,7.3,254,5.08
+France,343,6.86,302,6.04
+Portugal,261,5.22,281,5.62
+Norway,173,3.46,221,4.42
+Japan,160,3.2,119,2.38
+United States,127,2.54,198,3.96
+Switzerland,115,2.3,207,4.14
+Croatia,90,1.8,112,2.24
+Brazil,87,1.74,157,3.14
+Turkey,87,1.74,162,3.24
+Argentina,85,1.7,170,3.4
+Canada,72,1.44,85,1.7
+Panama,61,1.22,114,2.28
+Scotland,61,1.22,131,2.62
+Mexico,53,1.06,116,2.32
+New Zealand,51,1.02,105,2.1
+Jordan,51,1.02,114,2.28
+Australia,46,0.92,52,1.04
+Czech Republic,40,0.8,77,1.54
+South Korea,39,0.78,78,1.56
+Curaçao,31,0.62,64,1.28
+Morocco,30,0.6,62,1.24
+Colombia,28,0.56,75,1.5
+Ecuador,26,0.52,70,1.4
+Austria,24,0.48,49,0.98
+Haiti,22,0.44,32,0.64
+Uruguay,22,0.44,61,1.22
+Iran,20,0.4,36,0.72
+Senegal,17,0.34,36,0.72
+Algeria,12,0.24,27,0.54
+Tunisia,11,0.22,31,0.62
+Sweden,11,0.22,21,0.42
+Bosnia and Herzegovina,10,0.2,26,0.52
+Uzbekistan,9,0.18,20,0.4
+Ivory Coast,7,0.14,7,0.14
+Saudi Arabia,7,0.14,14,0.28
+Ghana,4,0.08,10,0.2
+DR Congo,3,0.06,9,0.18
+Iraq,2,0.04,20,0.4
+Cape Verde,2,0.04,7,0.14
+Qatar,2,0.04,15,0.3
+Paraguay,2,0.04,4,0.08
+Egypt,1,0.02,19,0.38
+South Africa,0,0.0,4,0.08

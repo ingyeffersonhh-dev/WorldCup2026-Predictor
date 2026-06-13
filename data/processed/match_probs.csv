@@ -1,73 +1,73 @@
 match_id,group,round,home_team,away_team,p_home,p_draw,p_away,avg_home_goals,avg_away_goals
-G_A_Mexico_South Africa,A,group,Mexico,South Africa,0.8318,0.1488,0.0194,2.0,0.0
-G_A_South Korea_Czech Republic,A,group,South Korea,Czech Republic,0.5619,0.2423,0.1958,2.0,1.0
-G_A_Czech Republic_South Africa,A,group,Czech Republic,South Africa,0.6841,0.2095,0.1064,1.42,0.32
-G_A_Mexico_South Korea,A,group,Mexico,South Korea,0.5418,0.2534,0.2048,1.23,0.36
-G_A_Czech Republic_Mexico,A,group,Czech Republic,Mexico,0.2064,0.3028,0.4908,1.25,0.47
-G_A_South Africa_South Korea,A,group,South Africa,South Korea,0.3205,0.2145,0.465,1.06,0.26
-G_B_Canada_Bosnia and Herzegovina,B,group,Canada,Bosnia and Herzegovina,0.7022,0.1975,0.1003,1.0,1.0
-G_B_Qatar_Switzerland,B,group,Qatar,Switzerland,0.2597,0.2337,0.5066,1.3,0.36
-G_B_Switzerland_Bosnia and Herzegovina,B,group,Switzerland,Bosnia and Herzegovina,0.6841,0.2095,0.1064,1.5,0.37
-G_B_Canada_Qatar,B,group,Canada,Qatar,0.6841,0.2095,0.1064,1.28,0.3
-G_B_Switzerland_Canada,B,group,Switzerland,Canada,0.4767,0.223,0.3003,1.11,0.38
-G_B_Bosnia and Herzegovina_Qatar,B,group,Bosnia and Herzegovina,Qatar,0.4767,0.223,0.3003,1.28,0.33
-G_C_Brazil_Morocco,C,group,Brazil,Morocco,0.4763,0.2236,0.3001,1.26,0.36
-G_C_Haiti_Scotland,C,group,Haiti,Scotland,0.4767,0.223,0.3003,1.17,0.3
-G_C_Scotland_Morocco,C,group,Scotland,Morocco,0.3577,0.32,0.3223,1.24,0.43
-G_C_Brazil_Haiti,C,group,Brazil,Haiti,0.4767,0.223,0.3003,1.17,0.24
-G_C_Scotland_Brazil,C,group,Scotland,Brazil,0.4763,0.2236,0.3001,1.12,0.27
-G_C_Morocco_Haiti,C,group,Morocco,Haiti,0.4864,0.2189,0.2948,1.23,0.34
-G_D_United States_Paraguay,D,group,United States,Paraguay,0.7628,0.2145,0.0227,3.0,0.0
-G_D_Australia_Turkey,D,group,Australia,Turkey,0.4767,0.223,0.3003,1.3,0.4
-G_D_United States_Australia,D,group,United States,Australia,0.3203,0.2151,0.4646,1.22,0.41
-G_D_Turkey_Paraguay,D,group,Turkey,Paraguay,0.6841,0.2095,0.1064,1.34,0.41
-G_D_Turkey_United States,D,group,Turkey,United States,0.4767,0.223,0.3003,1.3,0.32
-G_D_Paraguay_Australia,D,group,Paraguay,Australia,0.3577,0.32,0.3223,1.24,0.42
-G_E_Germany_Curaçao,E,group,Germany,Curaçao,0.7628,0.2145,0.0227,1.48,0.46
-G_E_Ivory Coast_Ecuador,E,group,Ivory Coast,Ecuador,0.2989,0.2675,0.4336,1.18,0.4
-G_E_Germany_Ivory Coast,E,group,Germany,Ivory Coast,0.7628,0.2145,0.0227,1.33,0.37
-G_E_Ecuador_Curaçao,E,group,Ecuador,Curaçao,0.3203,0.2151,0.4646,1.22,0.27
-G_E_Curaçao_Ivory Coast,E,group,Curaçao,Ivory Coast,0.5514,0.2481,0.2005,1.27,0.36
-G_E_Ecuador_Germany,E,group,Ecuador,Germany,0.2828,0.1653,0.5519,1.16,0.26
-G_F_Netherlands_Japan,F,group,Netherlands,Japan,0.3891,0.2603,0.3506,1.2,0.39
-G_F_Sweden_Tunisia,F,group,Sweden,Tunisia,0.5877,0.2654,0.1469,1.23,0.39
-G_F_Netherlands_Sweden,F,group,Netherlands,Sweden,0.747,0.2288,0.0242,1.41,0.34
-G_F_Tunisia_Japan,F,group,Tunisia,Japan,0.3205,0.2145,0.465,1.14,0.24
-G_F_Japan_Sweden,F,group,Japan,Sweden,0.7699,0.2121,0.018,1.36,0.31
-G_F_Tunisia_Netherlands,F,group,Tunisia,Netherlands,0.3205,0.2145,0.465,1.13,0.23
-G_G_Belgium_Egypt,G,group,Belgium,Egypt,0.7022,0.1975,0.1003,1.53,0.42
-G_G_Iran_New Zealand,G,group,Iran,New Zealand,0.4767,0.223,0.3003,1.34,0.26
-G_G_Belgium_Iran,G,group,Belgium,Iran,0.6841,0.2095,0.1064,1.27,0.37
-G_G_New Zealand_Egypt,G,group,New Zealand,Egypt,0.497,0.2143,0.2887,1.42,0.38
-G_G_Egypt_Iran,G,group,Egypt,Iran,0.2407,0.2897,0.4696,1.15,0.34
-G_G_New Zealand_Belgium,G,group,New Zealand,Belgium,0.3466,0.1506,0.5028,1.27,0.31
-G_H_Spain_Cape Verde,H,group,Spain,Cape Verde,0.7022,0.1975,0.1003,1.72,0.47
-G_H_Saudi Arabia_Uruguay,H,group,Saudi Arabia,Uruguay,0.4767,0.223,0.3003,1.11,0.31
-G_H_Spain_Saudi Arabia,H,group,Spain,Saudi Arabia,0.6841,0.2095,0.1064,1.55,0.5
-G_H_Uruguay_Cape Verde,H,group,Uruguay,Cape Verde,0.8318,0.1488,0.0194,1.3,0.27
-G_H_Cape Verde_Saudi Arabia,H,group,Cape Verde,Saudi Arabia,0.2407,0.2897,0.4696,1.18,0.38
-G_H_Uruguay_Spain,H,group,Uruguay,Spain,0.3205,0.2145,0.465,1.03,0.16
-G_I_France_Senegal,I,group,France,Senegal,0.7628,0.2145,0.0227,1.45,0.43
-G_I_Iraq_Norway,I,group,Iraq,Norway,0.3205,0.2145,0.465,1.17,0.35
-G_I_France_Iraq,I,group,France,Iraq,0.7665,0.2112,0.0223,1.37,0.43
-G_I_Norway_Senegal,I,group,Norway,Senegal,0.6773,0.2074,0.1152,1.4,0.35
-G_I_Norway_France,I,group,Norway,France,0.3205,0.2145,0.465,1.23,0.34
-G_I_Senegal_Iraq,I,group,Senegal,Iraq,0.5619,0.2423,0.1958,1.34,0.36
-G_J_Argentina_Algeria,J,group,Argentina,Algeria,0.7545,0.1378,0.1078,1.44,0.38
-G_J_Austria_Jordan,J,group,Austria,Jordan,0.4767,0.223,0.3003,1.44,0.4
-G_J_Argentina_Austria,J,group,Argentina,Austria,0.5514,0.2481,0.2005,1.18,0.42
-G_J_Jordan_Algeria,J,group,Jordan,Algeria,0.5413,0.2541,0.2046,1.27,0.31
-G_J_Algeria_Austria,J,group,Algeria,Austria,0.2989,0.2675,0.4336,1.0,0.28
-G_J_Jordan_Argentina,J,group,Jordan,Argentina,0.3343,0.3107,0.355,1.12,0.28
-G_K_Portugal_DR Congo,K,group,Portugal,DR Congo,0.8278,0.1481,0.0241,1.49,0.4
-G_K_Uzbekistan_Colombia,K,group,Uzbekistan,Colombia,0.4781,0.2237,0.2982,1.15,0.28
-G_K_Portugal_Uzbekistan,K,group,Portugal,Uzbekistan,0.7628,0.2145,0.0227,1.39,0.48
-G_K_Colombia_DR Congo,K,group,Colombia,DR Congo,0.747,0.2288,0.0242,1.2,0.37
-G_K_Colombia_Portugal,K,group,Colombia,Portugal,0.2597,0.2337,0.5066,1.03,0.3
-G_K_DR Congo_Uzbekistan,K,group,DR Congo,Uzbekistan,0.2064,0.3028,0.4908,1.19,0.3
-G_L_England_Croatia,L,group,England,Croatia,0.747,0.2288,0.0242,1.26,0.33
-G_L_Ghana_Panama,L,group,Ghana,Panama,0.3205,0.2145,0.465,1.2,0.28
-G_L_England_Ghana,L,group,England,Ghana,0.7628,0.2145,0.0227,1.56,0.4
-G_L_Panama_Croatia,L,group,Panama,Croatia,0.2407,0.2897,0.4696,1.16,0.32
-G_L_Panama_England,L,group,Panama,England,0.3205,0.2145,0.465,1.21,0.25
-G_L_Croatia_Ghana,L,group,Croatia,Ghana,0.7665,0.2112,0.0223,1.3,0.38
+G_A_Mexico_South Africa,A,group,Mexico,South Africa,0.7077,0.2271,0.0652,2.0,0.0
+G_A_South Korea_Czech Republic,A,group,South Korea,Czech Republic,0.6299,0.2437,0.1264,2.0,1.0
+G_A_Czech Republic_South Africa,A,group,Czech Republic,South Africa,0.649,0.2229,0.1281,1.28,0.32
+G_A_Mexico_South Korea,A,group,Mexico,South Korea,0.2873,0.2958,0.4169,1.12,0.29
+G_A_Czech Republic_Mexico,A,group,Czech Republic,Mexico,0.284,0.2579,0.4582,1.17,0.31
+G_A_South Africa_South Korea,A,group,South Africa,South Korea,0.2191,0.2053,0.5755,1.05,0.2
+G_B_Canada_Bosnia and Herzegovina,B,group,Canada,Bosnia and Herzegovina,0.6498,0.2359,0.1143,1.0,1.0
+G_B_Qatar_Switzerland,B,group,Qatar,Switzerland,0.2328,0.2646,0.5026,1.07,0.28
+G_B_Switzerland_Bosnia and Herzegovina,B,group,Switzerland,Bosnia and Herzegovina,0.7029,0.2256,0.0716,1.5,0.47
+G_B_Canada_Qatar,B,group,Canada,Qatar,0.6607,0.2231,0.1162,1.26,0.29
+G_B_Switzerland_Canada,B,group,Switzerland,Canada,0.5781,0.2373,0.1846,1.28,0.34
+G_B_Bosnia and Herzegovina_Qatar,B,group,Bosnia and Herzegovina,Qatar,0.576,0.2199,0.2041,1.4,0.42
+G_C_Brazil_Morocco,C,group,Brazil,Morocco,0.5667,0.2326,0.2007,1.21,0.28
+G_C_Haiti_Scotland,C,group,Haiti,Scotland,0.4437,0.2387,0.3175,1.22,0.31
+G_C_Scotland_Morocco,C,group,Scotland,Morocco,0.3127,0.3244,0.3629,1.14,0.36
+G_C_Brazil_Haiti,C,group,Brazil,Haiti,0.5667,0.2326,0.2007,1.24,0.32
+G_C_Scotland_Brazil,C,group,Scotland,Brazil,0.4307,0.2956,0.2737,1.19,0.34
+G_C_Morocco_Haiti,C,group,Morocco,Haiti,0.576,0.2199,0.2041,1.23,0.28
+G_D_United States_Paraguay,D,group,United States,Paraguay,0.6863,0.2492,0.0645,3.0,0.0
+G_D_Australia_Turkey,D,group,Australia,Turkey,0.5128,0.2664,0.2209,1.19,0.31
+G_D_United States_Australia,D,group,United States,Australia,0.2902,0.2988,0.411,1.1,0.29
+G_D_Turkey_Paraguay,D,group,Turkey,Paraguay,0.6756,0.2168,0.1076,1.35,0.36
+G_D_Turkey_United States,D,group,Turkey,United States,0.5756,0.2363,0.1882,1.28,0.35
+G_D_Paraguay_Australia,D,group,Paraguay,Australia,0.2833,0.2472,0.4695,1.04,0.22
+G_E_Germany_Curaçao,E,group,Germany,Curaçao,0.707,0.221,0.072,1.3,0.32
+G_E_Ivory Coast_Ecuador,E,group,Ivory Coast,Ecuador,0.2873,0.2958,0.4169,1.14,0.31
+G_E_Germany_Ivory Coast,E,group,Germany,Ivory Coast,0.764,0.1313,0.1047,1.34,0.22
+G_E_Ecuador_Curaçao,E,group,Ecuador,Curaçao,0.3627,0.262,0.3753,1.09,0.27
+G_E_Curaçao_Ivory Coast,E,group,Curaçao,Ivory Coast,0.6446,0.2282,0.1272,1.26,0.31
+G_E_Ecuador_Germany,E,group,Ecuador,Germany,0.2665,0.1306,0.6029,1.0,0.1
+G_F_Netherlands_Japan,F,group,Netherlands,Japan,0.5532,0.2398,0.207,1.24,0.33
+G_F_Sweden_Tunisia,F,group,Sweden,Tunisia,0.6299,0.2437,0.1264,1.25,0.33
+G_F_Netherlands_Sweden,F,group,Netherlands,Sweden,0.7029,0.2256,0.0716,1.3,0.32
+G_F_Tunisia_Japan,F,group,Tunisia,Japan,0.2552,0.125,0.6198,1.02,0.12
+G_F_Japan_Sweden,F,group,Japan,Sweden,0.7077,0.2271,0.0652,1.23,0.29
+G_F_Tunisia_Netherlands,F,group,Tunisia,Netherlands,0.2552,0.125,0.6198,1.04,0.12
+G_G_Belgium_Egypt,G,group,Belgium,Egypt,0.7993,0.1374,0.0633,1.38,0.27
+G_G_Iran_New Zealand,G,group,Iran,New Zealand,0.6337,0.2412,0.1251,1.28,0.34
+G_G_Belgium_Iran,G,group,Belgium,Iran,0.7077,0.2271,0.0652,1.37,0.38
+G_G_New Zealand_Egypt,G,group,New Zealand,Egypt,0.6635,0.2116,0.1249,1.34,0.34
+G_G_Egypt_Iran,G,group,Egypt,Iran,0.3358,0.2331,0.4311,1.09,0.24
+G_G_New Zealand_Belgium,G,group,New Zealand,Belgium,0.3246,0.1265,0.5488,1.05,0.12
+G_H_Spain_Cape Verde,H,group,Spain,Cape Verde,0.7516,0.1292,0.1193,1.32,0.17
+G_H_Saudi Arabia_Uruguay,H,group,Saudi Arabia,Uruguay,0.4246,0.247,0.3285,1.16,0.3
+G_H_Spain_Saudi Arabia,H,group,Spain,Saudi Arabia,0.7516,0.1292,0.1193,1.43,0.27
+G_H_Uruguay_Cape Verde,H,group,Uruguay,Cape Verde,0.7077,0.2271,0.0652,1.25,0.29
+G_H_Cape Verde_Saudi Arabia,H,group,Cape Verde,Saudi Arabia,0.2833,0.2472,0.4695,1.07,0.24
+G_H_Uruguay_Spain,H,group,Uruguay,Spain,0.2665,0.1306,0.6029,1.01,0.11
+G_I_France_Senegal,I,group,France,Senegal,0.7029,0.2256,0.0716,1.29,0.32
+G_I_Iraq_Norway,I,group,Iraq,Norway,0.2701,0.2518,0.4781,1.02,0.22
+G_I_France_Iraq,I,group,France,Iraq,0.764,0.1313,0.1047,1.34,0.23
+G_I_Norway_Senegal,I,group,Norway,Senegal,0.5667,0.2326,0.2007,1.37,0.36
+G_I_Norway_France,I,group,Norway,France,0.351,0.2437,0.4053,1.19,0.31
+G_I_Senegal_Iraq,I,group,Senegal,Iraq,0.616,0.2529,0.1311,1.22,0.31
+G_J_Argentina_Algeria,J,group,Argentina,Algeria,0.6337,0.2412,0.1251,1.25,0.32
+G_J_Austria_Jordan,J,group,Austria,Jordan,0.649,0.2229,0.1281,1.25,0.31
+G_J_Argentina_Austria,J,group,Argentina,Austria,0.616,0.2529,0.1311,1.22,0.32
+G_J_Jordan_Algeria,J,group,Jordan,Algeria,0.5756,0.2363,0.1882,1.2,0.29
+G_J_Algeria_Austria,J,group,Algeria,Austria,0.3504,0.287,0.3626,1.15,0.32
+G_J_Jordan_Argentina,J,group,Jordan,Argentina,0.3135,0.3228,0.3638,1.06,0.3
+G_K_Portugal_DR Congo,K,group,Portugal,DR Congo,0.8045,0.1338,0.0617,1.33,0.25
+G_K_Uzbekistan_Colombia,K,group,Uzbekistan,Colombia,0.494,0.2766,0.2294,1.17,0.31
+G_K_Portugal_Uzbekistan,K,group,Portugal,Uzbekistan,0.7667,0.1725,0.0608,1.35,0.3
+G_K_Colombia_DR Congo,K,group,Colombia,DR Congo,0.66,0.2348,0.1052,1.27,0.32
+G_K_Colombia_Portugal,K,group,Colombia,Portugal,0.2833,0.2472,0.4695,1.0,0.21
+G_K_DR Congo_Uzbekistan,K,group,DR Congo,Uzbekistan,0.3179,0.2456,0.4365,1.08,0.24
+G_L_England_Croatia,L,group,England,Croatia,0.668,0.2088,0.1232,1.33,0.29
+G_L_Ghana_Panama,L,group,Ghana,Panama,0.2903,0.2285,0.4811,1.09,0.24
+G_L_England_Ghana,L,group,England,Ghana,0.693,0.1792,0.1278,1.23,0.14
+G_L_Panama_Croatia,L,group,Panama,Croatia,0.3358,0.2331,0.4311,1.08,0.24
+G_L_Panama_England,L,group,Panama,England,0.2665,0.1306,0.6029,0.98,0.08
+G_L_Croatia_Ghana,L,group,Croatia,Ghana,0.7993,0.1374,0.0633,1.3,0.22

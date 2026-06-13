@@ -37,12 +37,15 @@ logger = logging.getLogger(__name__)
 # ---------------------------------------------------------------------------
 DEFAULT_PARAMS: Dict[str, Any] = {
     "n_estimators": 1000,
-    "max_depth": 6,
-    "learning_rate": 0.01,
+    "max_depth": 4,
+    "learning_rate": 0.02,
     "subsample": 0.8,
     "colsample_bytree": 0.8,
+    "min_child_weight": 5,
+    "reg_alpha": 0.1,
+    "reg_lambda": 1.5,
     "random_state": 42,
-    "early_stopping_rounds": 20,
+    "early_stopping_rounds": 30,
     "eval_metric": "mlogloss",
     "verbosity": 1,
 }
@@ -51,6 +54,10 @@ DEFAULT_PARAMS: Dict[str, Any] = {
 FEATURE_COLUMNS: List[str] = [
     "elo_diff",
     "elo_diff_sq",
+    "form_home_3f",
+    "form_home_3a",
+    "form_away_3f",
+    "form_away_3a",
     "form_home_5f",
     "form_home_5a",
     "form_away_5f",
@@ -63,6 +70,10 @@ FEATURE_COLUMNS: List[str] = [
     "home_advantage",
     "rest_days_home",
     "rest_days_away",
+    "streak_home",
+    "streak_away",
+    "tournament_importance",
+    "has_real_odds",
     "implied_home",
     "implied_draw",
     "implied_away",
@@ -231,12 +242,28 @@ class XGBoostModel:
         y_train_int = y_train.astype(int)
         y_val_int = y_val.astype(int)
 
+        # Compute sample weights to fix class imbalance (draws are ~23%
+        # of matches but the model never predicts them without weights)
+        class_counts = np.bincount(y_train_int, minlength=3)
+        n_samples = len(y_train_int)
+        # Inverse frequency weighting: rarer classes get higher weight
+        class_weights = {
+            c: n_samples / (3.0 * count) if count > 0 else 1.0
+            for c, count in enumerate(class_counts)
+        }
+        sample_weights = np.array([class_weights[int(y)] for y in y_train_int])
+        logger.info(
+            "Class weights: draw=%.2f, home=%.2f, away=%.2f",
+            class_weights.get(0, 0), class_weights.get(1, 0), class_weights.get(2, 0),
+        )
+
         # Set num_class explicitly for multi-class
         self.model.set_params(num_class=len(np.unique(y_train_int)))
 
         self.model.fit(
             X_train,
             y_train_int,
+            sample_weight=sample_weights,
             eval_set=[(X_train, y_train_int), (X_val, y_val_int)],
             verbose=self.params.get("verbosity", 0) > 0,
         )
