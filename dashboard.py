@@ -43,10 +43,31 @@ FEATURE_SCHEMA_PATH = MODELS_DIR / "feature_schema.json"
 
 # Feature columns (mirrors xgboost_model.py)
 FEATURE_COLUMNS: List[str] = [
-    "elo_diff", "form_home_5f", "form_home_5a", "form_away_5f", "form_away_5a",
-    "form_home_10f", "form_home_10a", "form_away_10f", "form_away_10a",
-    "h2h_avg_diff", "home_advantage", "rest_days_home", "rest_days_away",
-    "implied_home", "implied_draw", "implied_away",
+    "elo_diff",
+    "elo_diff_sq",
+    "form_home_3f",
+    "form_home_3a",
+    "form_away_3f",
+    "form_away_3a",
+    "form_home_5f",
+    "form_home_5a",
+    "form_away_5f",
+    "form_away_5a",
+    "form_home_10f",
+    "form_home_10a",
+    "form_away_10f",
+    "form_away_10a",
+    "h2h_avg_diff",
+    "home_advantage",
+    "rest_days_home",
+    "rest_days_away",
+    "streak_home",
+    "streak_away",
+    "tournament_importance",
+    "has_real_odds",
+    "implied_home",
+    "implied_draw",
+    "implied_away",
 ]
 
 # ---------------------------------------------------------------------------
@@ -312,6 +333,11 @@ def build_feature_vector(
     # Default feature values
     features = {
         "elo_diff": 0.0,
+        "elo_diff_sq": 0.0,
+        "form_home_3f": 0.0,
+        "form_home_3a": 0.0,
+        "form_away_3f": 0.0,
+        "form_away_3a": 0.0,
         "form_home_5f": 0.0,
         "form_home_5a": 0.0,
         "form_away_5f": 0.0,
@@ -324,6 +350,10 @@ def build_feature_vector(
         "home_advantage": 0.0,  # neutral venue
         "rest_days_home": 7.0,
         "rest_days_away": 7.0,
+        "streak_home": 0.0,
+        "streak_away": 0.0,
+        "tournament_importance": 1.0,  # World Cup
+        "has_real_odds": 0.0,
         "implied_home": 1.0 / 3.0,
         "implied_draw": 1.0 / 3.0,
         "implied_away": 1.0 / 3.0,
@@ -337,6 +367,7 @@ def build_feature_vector(
             features["implied_home"] = real_odds["implied_home"]
             features["implied_draw"] = real_odds["implied_draw"]
             features["implied_away"] = real_odds["implied_away"]
+            features["has_real_odds"] = 1.0
 
     # Get last known form for home team
     home_matches = feature_store[
@@ -346,15 +377,21 @@ def build_feature_vector(
     if not home_matches.empty:
         last = home_matches.iloc[-1]
         if last.get("home_team") == home_team:
+            features["form_home_3f"] = float(last.get("form_home_3f", 0))
+            features["form_home_3a"] = float(last.get("form_home_3a", 0))
             features["form_home_5f"] = float(last.get("form_home_5f", 0))
             features["form_home_5a"] = float(last.get("form_home_5a", 0))
             features["form_home_10f"] = float(last.get("form_home_10f", 0))
             features["form_home_10a"] = float(last.get("form_home_10a", 0))
+            features["streak_home"] = float(last.get("streak_home", 0))
         else:
+            features["form_home_3f"] = float(last.get("form_away_3f", 0))
+            features["form_home_3a"] = float(last.get("form_away_3a", 0))
             features["form_home_5f"] = float(last.get("form_away_5f", 0))
             features["form_home_5a"] = float(last.get("form_away_5a", 0))
             features["form_home_10f"] = float(last.get("form_away_10f", 0))
             features["form_home_10a"] = float(last.get("form_away_10a", 0))
+            features["streak_home"] = float(last.get("streak_away", 0))
 
     # Get last known form for away team
     away_matches = feature_store[
@@ -364,21 +401,28 @@ def build_feature_vector(
     if not away_matches.empty:
         last = away_matches.iloc[-1]
         if last.get("home_team") == away_team:
+            features["form_away_3f"] = float(last.get("form_home_3f", 0))
+            features["form_away_3a"] = float(last.get("form_home_3a", 0))
             features["form_away_5f"] = float(last.get("form_home_5f", 0))
             features["form_away_5a"] = float(last.get("form_home_5a", 0))
             features["form_away_10f"] = float(last.get("form_home_10f", 0))
             features["form_away_10a"] = float(last.get("form_home_10a", 0))
+            features["streak_away"] = float(last.get("streak_home", 0))
         else:
+            features["form_away_3f"] = float(last.get("form_away_3f", 0))
+            features["form_away_3a"] = float(last.get("form_away_3a", 0))
             features["form_away_5f"] = float(last.get("form_away_5f", 0))
             features["form_away_5a"] = float(last.get("form_away_5a", 0))
             features["form_away_10f"] = float(last.get("form_away_10f", 0))
             features["form_away_10a"] = float(last.get("form_away_10a", 0))
+            features["streak_away"] = float(last.get("streak_away", 0))
 
     # ELO ratings
     if elo_ratings is not None:
         home_elo = elo_ratings.get(home_team, 1500.0)
         away_elo = elo_ratings.get(away_team, 1500.0)
         features["elo_diff"] = home_elo - away_elo
+        features["elo_diff_sq"] = (home_elo - away_elo) ** 2
 
     # H2H
     h2h_matches = feature_store[
