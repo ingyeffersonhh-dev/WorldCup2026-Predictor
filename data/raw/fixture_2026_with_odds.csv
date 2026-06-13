@@ -1,0 +1,73 @@
+match_id,group,round,date,home_team,away_team,neutral_venue,implied_home,implied_draw,implied_away,commence_time_ve
+1,A,group,2026-06-11,Mexico,South Africa,1,,,,
+2,A,group,2026-06-11,South Korea,Czech Republic,1,,,,
+3,B,group,2026-06-12,Canada,Bosnia and Herzegovina,1,,,,
+4,D,group,2026-06-12,United States,Paraguay,1,0.2516,0.3628,0.3856,12/06 21:02
+5,B,group,2026-06-13,Qatar,Switzerland,1,0.3122,0.3352,0.3526,13/06 15:00
+6,C,group,2026-06-13,Brazil,Morocco,1,0.3396,0.3327,0.3277,13/06 18:00
+7,C,group,2026-06-13,Haiti,Scotland,1,0.3268,0.3323,0.341,13/06 21:00
+8,D,group,2026-06-13,Australia,Turkey,1,0.3283,0.3326,0.3391,14/06 00:00
+9,E,group,2026-06-14,Germany,Curaçao,1,0.3876,0.333,0.2793,14/06 13:00
+10,F,group,2026-06-14,Netherlands,Japan,1,0.337,0.3318,0.3312,14/06 16:00
+11,E,group,2026-06-14,Ivory Coast,Ecuador,1,0.3312,0.3337,0.335,14/06 19:00
+12,F,group,2026-06-14,Sweden,Tunisia,1,0.3377,0.3326,0.3297,14/06 22:00
+13,H,group,2026-06-15,Spain,Cape Verde,1,0.3688,0.3352,0.296,15/06 12:00
+14,G,group,2026-06-15,Belgium,Egypt,1,0.3402,0.3326,0.3271,15/06 15:00
+15,H,group,2026-06-15,Saudi Arabia,Uruguay,1,0.3225,0.3337,0.3438,15/06 18:00
+16,G,group,2026-06-15,Iran,New Zealand,1,0.3382,0.3328,0.3289,15/06 21:00
+17,I,group,2026-06-16,France,Senegal,1,0.3427,0.3331,0.3242,16/06 15:00
+18,I,group,2026-06-16,Iraq,Norway,1,0.3122,0.3344,0.3534,16/06 18:00
+19,J,group,2026-06-16,Argentina,Algeria,1,0.3448,0.3342,0.321,16/06 21:00
+20,J,group,2026-06-16,Austria,Jordan,1,0.3461,0.3326,0.3213,17/06 00:00
+21,K,group,2026-06-17,Portugal,DR Congo,1,0.3481,0.3338,0.3181,17/06 13:00
+22,L,group,2026-06-17,England,Croatia,1,0.339,0.3324,0.3287,17/06 16:00
+23,L,group,2026-06-17,Ghana,Panama,1,0.3361,0.3321,0.3318,17/06 19:00
+24,K,group,2026-06-17,Uzbekistan,Colombia,1,0.3212,0.334,0.3448,17/06 22:00
+25,A,group,2026-06-18,Czech Republic,South Africa,1,0.3387,0.3321,0.3293,18/06 12:00
+26,B,group,2026-06-18,Switzerland,Bosnia and Herzegovina,1,,,,
+27,B,group,2026-06-18,Canada,Qatar,1,0.3475,0.3344,0.3181,18/06 18:00
+28,A,group,2026-06-18,Mexico,South Korea,1,0.3369,0.3326,0.3305,18/06 21:00
+29,D,group,2026-06-19,United States,Australia,1,0.1487,0.4283,0.423,19/06 15:00
+30,C,group,2026-06-19,Scotland,Morocco,1,0.3301,0.3328,0.3371,19/06 18:00
+31,C,group,2026-06-19,Brazil,Haiti,1,0.3724,0.3348,0.2928,19/06 21:00
+32,D,group,2026-06-19,Turkey,Paraguay,1,0.3367,0.3327,0.3306,19/06 23:00
+33,F,group,2026-06-20,Netherlands,Sweden,1,0.3397,0.3321,0.3282,20/06 13:00
+34,E,group,2026-06-20,Germany,Ivory Coast,1,0.3408,0.3319,0.3274,20/06 16:00
+35,E,group,2026-06-20,Ecuador,Curaçao,1,0.353,0.3343,0.3126,20/06 20:00
+36,F,group,2026-06-20,Tunisia,Japan,1,0.3277,0.333,0.3393,21/06 00:00
+37,H,group,2026-06-21,Spain,Saudi Arabia,1,0.3647,0.3364,0.2989,21/06 12:00
+38,G,group,2026-06-21,Belgium,Iran,1,0.3438,0.3331,0.3231,21/06 15:00
+39,H,group,2026-06-21,Uruguay,Cape Verde,1,0.3429,0.333,0.3241,21/06 18:00
+40,G,group,2026-06-21,New Zealand,Egypt,1,0.3288,0.3325,0.3387,21/06 21:00
+41,J,group,2026-06-22,Argentina,Austria,1,0.3399,0.3326,0.3275,22/06 13:00
+42,I,group,2026-06-22,France,Iraq,1,0.3641,0.3382,0.2977,22/06 17:00
+43,I,group,2026-06-22,Norway,Senegal,1,0.3361,0.3318,0.3321,22/06 20:00
+44,J,group,2026-06-22,Jordan,Algeria,1,0.3259,0.3327,0.3414,22/06 23:00
+45,K,group,2026-06-23,Portugal,Uzbekistan,1,0.349,0.3331,0.3179,23/06 13:00
+46,L,group,2026-06-23,England,Ghana,1,0.3461,0.3333,0.3207,23/06 16:00
+47,L,group,2026-06-23,Panama,Croatia,1,0.3255,0.3334,0.3411,23/06 19:00
+48,K,group,2026-06-23,Colombia,DR Congo,1,0.3424,0.3337,0.3239,23/06 22:00
+49,B,group,2026-06-24,Switzerland,Canada,1,0.3361,0.3323,0.3316,24/06 15:00
+50,B,group,2026-06-24,Bosnia and Herzegovina,Qatar,1,,,,
+51,C,group,2026-06-24,Scotland,Brazil,1,0.3253,0.3324,0.3423,24/06 18:00
+52,C,group,2026-06-24,Morocco,Haiti,1,0.3455,0.3335,0.3211,24/06 18:00
+53,A,group,2026-06-24,Czech Republic,Mexico,1,0.3293,0.3326,0.338,24/06 21:00
+54,A,group,2026-06-24,South Africa,South Korea,1,0.3273,0.3326,0.3401,24/06 21:00
+55,E,group,2026-06-25,Curaçao,Ivory Coast,1,0.3142,0.3349,0.3509,25/06 16:00
+56,E,group,2026-06-25,Ecuador,Germany,1,0.3291,0.3322,0.3387,25/06 16:00
+57,F,group,2026-06-25,Japan,Sweden,1,0.3363,0.3321,0.3316,25/06 19:00
+58,F,group,2026-06-25,Tunisia,Netherlands,1,0.3259,0.3326,0.3415,25/06 19:00
+59,D,group,2026-06-25,Turkey,United States,1,0.4284,0.4251,0.1465,25/06 22:00
+60,D,group,2026-06-25,Paraguay,Australia,1,0.3359,0.3325,0.3316,25/06 22:00
+61,I,group,2026-06-26,Norway,France,1,0.33,0.3322,0.3379,26/06 15:00
+62,I,group,2026-06-26,Senegal,Iraq,1,0.3433,0.3334,0.3232,26/06 15:00
+63,H,group,2026-06-26,Cape Verde,Saudi Arabia,1,0.3352,0.3316,0.3332,26/06 20:00
+64,H,group,2026-06-26,Uruguay,Spain,1,0.328,0.3324,0.3396,26/06 20:00
+65,G,group,2026-06-26,Egypt,Iran,1,0.3356,0.333,0.3314,26/06 23:00
+66,G,group,2026-06-26,New Zealand,Belgium,1,0.3202,0.333,0.3468,26/06 23:00
+67,L,group,2026-06-27,Panama,England,1,0.3204,0.3325,0.3471,27/06 17:00
+68,L,group,2026-06-27,Croatia,Ghana,1,0.3396,0.3328,0.3276,27/06 17:00
+69,K,group,2026-06-27,Colombia,Portugal,1,0.3317,0.3323,0.3361,27/06 19:30
+70,K,group,2026-06-27,DR Congo,Uzbekistan,1,0.3352,0.3322,0.3326,27/06 19:30
+71,J,group,2026-06-27,Algeria,Austria,1,0.3315,0.3326,0.3359,27/06 22:00
+72,J,group,2026-06-27,Jordan,Argentina,1,0.3131,0.3344,0.3526,27/06 22:00

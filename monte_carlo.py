@@ -428,10 +428,12 @@ class MonteCarloSimulator:
         rest_days_home: int = 4,
         rest_days_away: int = 4,
         deterministic: bool = False,
+        odds_map: Optional[Dict[Tuple[str, str], Dict[str, float]]] = None,
     ) -> Tuple[str, str, int, int, bool]:
         """Simulate a single knockout match using cache or deterministically."""
         p_home, p_draw, p_away, lambda_h_val, lambda_a_val = self._predict_match_cached(
-            home, away, elo_state, base_features, models, rest_days_home, rest_days_away
+            home, away, elo_state, base_features, models, rest_days_home, rest_days_away,
+            odds_map=odds_map,
         )
 
         if deterministic:
@@ -510,6 +512,7 @@ class MonteCarloSimulator:
         base_features: Dict[str, Dict[str, float]],
         n_sims: int = 1000,
         verbose: bool = True,
+        odds_map: Optional[Dict[Tuple[str, str], Dict[str, float]]] = None,
     ) -> Tuple[pd.DataFrame, pd.DataFrame, List[Dict[str, Any]]]:
         """Run the full tournament simulation multiple times.
 
@@ -527,6 +530,10 @@ class MonteCarloSimulator:
             Number of simulations (default 1000).
         verbose : bool
             Show progress bar.
+        odds_map : dict, optional
+            Mapping of ``(home_team, away_team)`` to
+            ``(implied_home, implied_draw, implied_away)`` from bookmaker odds.
+            Falls back to 1/3 uniform when a match is not found.
 
         Returns
         -------
@@ -537,6 +544,29 @@ class MonteCarloSimulator:
         all_results : list[dict]
             Raw per-simulation results.
         """
+        # Store odds map for use in _build_feature_vec
+        self.odds_map = odds_map if odds_map is not None else {}
+
+        # Load odds from file if not provided
+        if odds_map is None:
+            odds_path = Path("data/raw/odds_2026.csv")
+            if odds_path.exists():
+                try:
+                    odds_df = pd.read_csv(odds_path)
+                    odds_map = {}
+                    for _, orow in odds_df.iterrows():
+                        key = (orow["home_team"], orow["away_team"])
+                        odds_map[key] = {
+                            "implied_home": float(orow["implied_home"]),
+                            "implied_draw": float(orow["implied_draw"]),
+                            "implied_away": float(orow["implied_away"]),
+                        }
+                    self.odds_map = odds_map
+                    logger.info("Loaded odds for %d matches from %s", len(odds_map), odds_path)
+                except Exception as e:
+                    logger.warning(f"Error loading odds: {e}")
+                    odds_map = {}
+
         # Load live results if present
         self.live_results_map = {}
         live_path = Path("data/raw/live_results.csv")
@@ -631,7 +661,8 @@ class MonteCarloSimulator:
                         rest_home = base_features.get(m["home"], {}).get("rest_days", 7)
                         rest_away = base_features.get(m["away"], {}).get("rest_days", 7)
                         ph, pd_, pa, _, _ = self._predict_match_cached(
-                            m["home"], m["away"], initial_elo, base_features, models, rest_home, rest_away
+                            m["home"], m["away"], initial_elo, base_features, models, rest_home, rest_away,
+                            odds_map=odds_map,
                         )
 
                         match_acc[mid]["p_home_sum"] += ph
@@ -704,12 +735,14 @@ class MonteCarloSimulator:
 
             # --- Knockout stage ---
             ko_state = self._simulate_ko_round(
-                r32_pairings, "R32", models, elo_state, base_features
+                r32_pairings, "R32", models, elo_state, base_features,
+                odds_map=odds_map,
             )
             r16_state = self._simulate_ko_round(
                 [(m["winner"], m.get("extra", "")) for m in ko_state],
                 "R16", models, elo_state, base_features,
                 feeders=True,
+                odds_map=odds_map,
             )
 
             # Flatten the bracket for higher rounds
@@ -725,7 +758,7 @@ class MonteCarloSimulator:
                 w1 = r16_winners[j][1] if r16_winners[j][0] == "feeder" else r16_winners[j][0]
                 w2 = r16_winners[j + 1][1] if r16_winners[j + 1][0] == "feeder" else r16_winners[j + 1][0]
                 qf_pair = self._simulate_ko_pair(
-                    w1, w2, models, elo_state, base_features
+                    w1, w2, models, elo_state, base_features, odds_map
                 )
                 qf_winners.append(qf_pair)
 
@@ -733,21 +766,21 @@ class MonteCarloSimulator:
             for j in range(0, len(qf_winners), 2):
                 sf_pair = self._simulate_ko_pair(
                     qf_winners[j][0], qf_winners[j + 1][0],
-                    models, elo_state, base_features
+                    models, elo_state, base_features, odds_map
                 )
                 sf_winners.append(sf_pair)
 
             # Final: SF winners
             final = self._simulate_ko_pair(
                 sf_winners[0][0], sf_winners[1][0],
-                models, elo_state, base_features
+                models, elo_state, base_features, odds_map
             )
             champion = final[0]
 
             # 3rd place: SF losers
             third_match = self._simulate_ko_pair(
                 sf_winners[0][1], sf_winners[1][1],
-                models, elo_state, base_features
+                models, elo_state, base_features, odds_map
             )
             third_place_winner = third_match[0]
             runner_up = final[1]
@@ -986,6 +1019,7 @@ class MonteCarloSimulator:
         models: Dict[str, Any],
         rest_home: float = 7.0,
         rest_away: float = 7.0,
+        odds_map: Optional[Dict[Tuple[str, str], Dict[str, float]]] = None,
     ) -> Tuple[float, float, float, float, float]:
         """Get 1X2 probabilities and Poisson lambdas, using cache if available."""
         if not hasattr(self, "prediction_cache"):
@@ -1008,6 +1042,7 @@ class MonteCarloSimulator:
             home, away, elo_state, base_features,
             rest_days_home=rest_home,
             rest_days_away=rest_away,
+            odds_map=getattr(self, "odds_map", None),
         )
 
         xgb_model = models["xgb"]
@@ -1135,6 +1170,7 @@ class MonteCarloSimulator:
         models: Dict[str, Any],
         elo_state: Dict[str, Any],
         base_features: Dict[str, Dict[str, float]],
+        odds_map: Optional[Dict[Tuple[str, str], Dict[str, float]]] = None,
     ) -> Tuple[str, str]:
         """Simulate a single KO match between two teams.
 
@@ -1148,7 +1184,8 @@ class MonteCarloSimulator:
 
         winner, loser, _, _, _ = self.simulate_ko_match(
             home, away, models, elo_state, base_features,
-            deterministic=self.closest_only
+            deterministic=self.closest_only,
+            odds_map=odds_map,
         )
         return winner, loser
 
@@ -1160,6 +1197,7 @@ class MonteCarloSimulator:
         elo_state: Dict[str, Any],
         base_features: Dict[str, Dict[str, float]],
         feeders: bool = False,
+        odds_map: Optional[Dict[Tuple[str, str], Dict[str, float]]] = None,
     ) -> List[Dict[str, Any]]:
         """Simulate all matches in one KO round.
 
@@ -1192,7 +1230,7 @@ class MonteCarloSimulator:
                 continue
 
             winner, loser = self._simulate_ko_pair(
-                team_a, team_b, models, elo_state, base_features
+                team_a, team_b, models, elo_state, base_features, odds_map
             )
             results.append({"winner": winner, "loser": loser})
 
@@ -1247,6 +1285,7 @@ class MonteCarloSimulator:
         base_features: Dict[str, Dict[str, float]],
         rest_days_home: int = 7,
         rest_days_away: int = 7,
+        odds_map: Optional[Dict[Tuple[str, str], Dict[str, float]]] = None,
     ) -> pd.DataFrame:
         """Build a feature vector for a single match.
 
@@ -1267,6 +1306,10 @@ class MonteCarloSimulator:
             Rest days for home team.
         rest_days_away : int
             Rest days for away team.
+        odds_map : dict, optional
+            Mapping of ``(home_team, away_team)`` to
+            ``{"implied_home": ..., "implied_draw": ..., "implied_away": ...}``.
+            Falls back to 1/3 uniform when a match is not found.
 
         Returns
         -------
@@ -1297,6 +1340,16 @@ class MonteCarloSimulator:
             "implied_draw": 1.0 / 3.0,
             "implied_away": 1.0 / 3.0,
         }
+
+        # Use real bookmaker odds when available
+        if odds_map is not None:
+            key = (home, away)
+            if key in odds_map:
+                real_odds = odds_map[key]
+                row["implied_home"] = real_odds["implied_home"]
+                row["implied_draw"] = real_odds["implied_draw"]
+                row["implied_away"] = real_odds["implied_away"]
+
         return pd.DataFrame([row])
 
     def _update_elo(
@@ -1435,6 +1488,11 @@ if __name__ == "__main__":
         action="store_true",
         help="Simulate only closest matches probabilistically and others deterministically for speed",
     )
+    parser.add_argument(
+        "--odds",
+        default="data/raw/odds_2026.csv",
+        help="Path to odds CSV with bookmaker implied probabilities (default: data/raw/odds_2026.csv)",
+    )
     args = parser.parse_args()
 
     # Load models
@@ -1483,11 +1541,28 @@ if __name__ == "__main__":
         args.features, initial_elo, all_teams
     )
 
+    # Load bookmaker odds
+    odds_map: Dict[Tuple[str, str], Dict[str, float]] = {}
+    odds_path = Path(args.odds)
+    if odds_path.exists():
+        logger.info("Loading bookmaker odds from %s …", odds_path)
+        odds_df = pd.read_csv(odds_path)
+        for _, row in odds_df.iterrows():
+            key = (row["home_team"], row["away_team"])
+            odds_map[key] = {
+                "implied_home": float(row["implied_home"]),
+                "implied_draw": float(row["implied_draw"]),
+                "implied_away": float(row["implied_away"]),
+            }
+        logger.info("Loaded odds for %d matches", len(odds_map))
+    else:
+        logger.warning("Odds file not found at %s — using uniform 1/3 fallback", odds_path)
+
     # Run simulation
     simulator = MonteCarloSimulator(random_state=args.seed, closest_only=args.closest_only)
     champion_df, match_df, all_results = simulator.simulate_tournament(
         fixture, models, initial_elo, base_features,
-        n_sims=args.n_sims, verbose=True,
+        n_sims=args.n_sims, verbose=True, odds_map=odds_map,
     )
 
     # Convergence check

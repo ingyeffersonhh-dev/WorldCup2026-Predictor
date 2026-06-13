@@ -152,7 +152,7 @@ class FeatureStore:
 
         # Step 6 — Odds integration (load + merge all available years)
         all_odds = []
-        for year in (2014, 2018, 2022):
+        for year in (2014, 2018, 2022, 2026):
             odds = self._load_odds_from_football_data(year)
             if odds is not None:
                 all_odds.append(odds)
@@ -509,6 +509,10 @@ class FeatureStore:
         previous merge, they are overwritten only when new odds match (so the
         first merge wins for each match).  This lets us load multiple odds
         files and keep the earliest successful merge.
+
+        Timezone tolerance: odds with a ±1 day date offset are also matched
+        to handle matches played in late timezones (Americas) where the
+        football-data.co.uk date differs from clean_matches by one day.
         """
         # Only merge odds for matches that don't already have odds
         if "implied_home" not in df.columns:
@@ -516,13 +520,29 @@ class FeatureStore:
             df["implied_draw"] = np.nan
             df["implied_away"] = np.nan
 
-        unmatched = df[df["implied_home"].isna()].copy()
+        unmatched = df[df["implied_home"].isna()]
         if unmatched.empty:
             return df
 
+        # Expand odds with ±1 day to handle timezone-related date shifts.
+        # Order: exact date first, then day before, then day after.
+        # drop_duplicates(keep='first') prefers the exact date match.
+        odds_expanded = pd.concat(
+            [
+                odds_df.assign(date_merge=odds_df["date"]),
+                odds_df.assign(date_merge=odds_df["date"] - pd.Timedelta(days=1)),
+                odds_df.assign(date_merge=odds_df["date"] + pd.Timedelta(days=1)),
+            ],
+            ignore_index=True,
+        )
+        odds_expanded = odds_expanded.drop_duplicates(
+            subset=["date_merge", "home_team", "away_team"], keep="first"
+        )
+
         merged = unmatched.merge(
-            odds_df,
-            on=["date", "home_team", "away_team"],
+            odds_expanded,
+            left_on=["date", "home_team", "away_team"],
+            right_on=["date_merge", "home_team", "away_team"],
             how="left",
             suffixes=("", "_odds"),
         )
@@ -546,7 +566,7 @@ class FeatureStore:
 
         matched_count = has_odds.sum()
         if matched_count:
-            logger.info("  → merged odds for %d matches", matched_count)
+            logger.info("  → merged odds for %d matches (exact + tz-tolerant)", matched_count)
 
         return df
 

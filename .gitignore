@@ -31,3 +31,8 @@ scratch/
 
 # Streamlit secrets (if any)
 .streamlit/secrets.toml
+
+# Environment variables (API keys)
+.env
+.env.local
+.env.*.local

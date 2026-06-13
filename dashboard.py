@@ -35,6 +35,7 @@ DATA_RAW = PROJECT_ROOT / "data" / "raw"
 MODELS_DIR = PROJECT_ROOT / "models"
 BACKTESTING_RESULTS = PROJECT_ROOT / "backtesting" / "results"
 FIXTURE_PATH = DATA_RAW / "fixture_2026.csv"
+ODDS_2026_PATH = DATA_RAW / "odds_2026.csv"
 FEATURE_STORE_PATH = DATA_PROCESSED / "feature_store.csv"
 CHAMPION_PROBS_PATH = DATA_PROCESSED / "champion_probs.csv"
 MATCH_PROBS_PATH = DATA_PROCESSED / "match_probs.csv"
@@ -242,6 +243,35 @@ def load_feature_store() -> pd.DataFrame:
     return pd.read_csv(FEATURE_STORE_PATH, parse_dates=["date"])
 
 
+@st.cache_data(show_spinner="Cargando cuotas de TheOddsAPI…")
+def load_odds_2026() -> pd.DataFrame:
+    """Load the 2026 World Cup odds from TheOddsAPI fetch."""
+    if not ODDS_2026_PATH.exists():
+        return pd.DataFrame()
+    return pd.read_csv(ODDS_2026_PATH)
+
+
+def _build_odds_map(odds_df: pd.DataFrame) -> Dict[Tuple[str, str], Dict[str, float]]:
+    """Build a lookup dict from odds DataFrame.
+
+    Returns
+    -------
+    dict
+        ``{(home_team, away_team): {"implied_home": ..., "implied_draw": ..., "implied_away": ...}}``
+    """
+    odds_map: Dict[Tuple[str, str], Dict[str, float]] = {}
+    if odds_df.empty:
+        return odds_map
+    for _, row in odds_df.iterrows():
+        key = (row["home_team"], row["away_team"])
+        odds_map[key] = {
+            "implied_home": float(row["implied_home"]),
+            "implied_draw": float(row["implied_draw"]),
+            "implied_away": float(row["implied_away"]),
+        }
+    return odds_map
+
+
 # ===================================================================
 # Prediction helpers
 # ===================================================================
@@ -252,11 +282,14 @@ def build_feature_vector(
     xgb_model: Any,
     feature_store: pd.DataFrame,
     elo_ratings: Optional[Dict[str, float]] = None,
+    odds_map: Optional[Dict[Tuple[str, str], Dict[str, float]]] = None,
 ) -> pd.DataFrame:
     """Build a feature vector for a single fixture match.
 
     Uses the last known feature values from the feature store for each team,
-    combined with current ELO ratings if available.
+    combined with current ELO ratings if available.  When real bookmaker odds
+    are available in *odds_map*, they are used for the implied_* features
+    instead of the uniform 1/3 fallback.
 
     Parameters
     ----------
@@ -268,6 +301,8 @@ def build_feature_vector(
         Historical feature data.
     elo_ratings : dict | None
         Current ELO ratings {team: rating}.
+    odds_map : dict | None
+        Real bookmaker odds lookup ``{(home, away): {implied_home, ...}}``.
 
     Returns
     -------
@@ -293,6 +328,15 @@ def build_feature_vector(
         "implied_draw": 1.0 / 3.0,
         "implied_away": 1.0 / 3.0,
     }
+
+    # Use real bookmaker odds when available
+    if odds_map is not None:
+        key = (home_team, away_team)
+        if key in odds_map:
+            real_odds = odds_map[key]
+            features["implied_home"] = real_odds["implied_home"]
+            features["implied_draw"] = real_odds["implied_draw"]
+            features["implied_away"] = real_odds["implied_away"]
 
     # Get last known form for home team
     home_matches = feature_store[
@@ -363,6 +407,7 @@ def compute_predictions(
     poisson: Any,
     feature_store: pd.DataFrame,
     elo_ratings: Optional[Dict[str, float]] = None,
+    odds_map: Optional[Dict[Tuple[str, str], Dict[str, float]]] = None,
 ) -> pd.DataFrame:
     """Compute 1X2 and Poisson predictions for all fixture matches.
 
@@ -378,6 +423,8 @@ def compute_predictions(
         Historical feature store.
     elo_ratings : dict | None
         Current ELO ratings.
+    odds_map : dict | None
+        Real bookmaker odds lookup ``{(home, away): {implied_home, ...}}``.
 
     Returns
     -------
@@ -392,12 +439,20 @@ def compute_predictions(
     p_draw_list: List[float] = []
     p_away_list: List[float] = []
     score_matrices: List[Optional[np.ndarray]] = []
+    implied_home_list: List[float] = []
+    implied_draw_list: List[float] = []
+    implied_away_list: List[float] = []
 
     for _, row in fixture_df.iterrows():
         features = build_feature_vector(
             row["home_team"], row["away_team"],
-            xgb_model, feature_store, elo_ratings,
+            xgb_model, feature_store, elo_ratings, odds_map,
         )
+
+        # Store the implied probs that were used as features
+        implied_home_list.append(float(features["implied_home"].iloc[0]))
+        implied_draw_list.append(float(features["implied_draw"].iloc[0]))
+        implied_away_list.append(float(features["implied_away"].iloc[0]))
 
         ph, pd_, pa = 1 / 3, 1 / 3, 1 / 3  # default uniform
         score_matrix = None
@@ -448,10 +503,38 @@ def compute_predictions(
     )
     results["score_matrix"] = score_matrices
 
-    # Edge vs bookies: if implied probs were uniform, edge is N/A
-    results["edge_home"] = results["p_home"] - (1.0 / 3.0)
-    results["edge_draw"] = results["p_draw"] - (1.0 / 3.0)
-    results["edge_away"] = results["p_away"] - (1.0 / 3.0)
+    # Real bookmaker implied probabilities
+    results["implied_home"] = implied_home_list
+    results["implied_draw"] = implied_draw_list
+    results["implied_away"] = implied_away_list
+
+    # Edge vs real bookmaker odds
+    results["edge_home"] = results["p_home"] - results["implied_home"]
+    results["edge_draw"] = results["p_draw"] - results["implied_draw"]
+    results["edge_away"] = results["p_away"] - results["implied_away"]
+
+    # Kelly criterion (quarter-Kelly for conservative sizing)
+    def _kelly(p: float, q: float) -> float:
+        if q <= 0 or q >= 1 or p <= q:
+            return 0.0
+        return (p - q) * q / (1 - q) * 0.25
+
+    results["kelly_home"] = results.apply(lambda r: _kelly(r["p_home"], r["implied_home"]), axis=1)
+    results["kelly_draw"] = results.apply(lambda r: _kelly(r["p_draw"], r["implied_draw"]), axis=1)
+    results["kelly_away"] = results.apply(lambda r: _kelly(r["p_away"], r["implied_away"]), axis=1)
+
+    def _best_bet(row: pd.Series) -> str:
+        bets = {
+            row["home_team"]: row["kelly_home"],
+            "Empate": row["kelly_draw"],
+            row["away_team"]: row["kelly_away"],
+        }
+        best = max(bets, key=bets.get)
+        stake = bets[best]
+        return best if stake > 0 else "Sin apuesta"
+
+    results["best_bet"] = results.apply(_best_bet, axis=1)
+    results["best_kelly"] = results[["kelly_home", "kelly_draw", "kelly_away"]].max(axis=1)
 
     return results
 
@@ -493,8 +576,10 @@ def upcoming_matches_view(
         return
 
     with st.spinner("Calculando predicciones …"):
+        odds_df = load_odds_2026()
+        odds_map = _build_odds_map(odds_df)
         preds = compute_predictions(
-            fixture_df, xgb_model, poisson, feature_store, elo_ratings
+            fixture_df, xgb_model, poisson, feature_store, elo_ratings, odds_map
         )
 
     # ── Group filter ────────────────────────────────────────────────
@@ -557,25 +642,94 @@ def upcoming_matches_view(
             hide_index=True,
         )
 
-        # ── Edge vs bookies ────────────────────────────────────────────
-        st.subheader("📈 Ventaja vs Línea Base Uniforme")
-        st.caption("Ventaja = probabilidad del modelo menos línea base uniforme (33.3%). Valores positivos indican mayor certeza que el azar.")
+        # ── Edge vs real bookmaker odds ──────────────────────────────
+        has_real_odds = "implied_home" in display_df.columns and display_df["implied_home"].notna().any()
+        bankroll = st.sidebar.number_input("Bankroll ($)", min_value=10, max_value=100000, value=100, step=10)
 
-        edge_df = display_df[["home_team", "away_team", "p_home", "p_draw", "p_away",
-                              "edge_home", "edge_draw", "edge_away"]].copy()
-        
-        edge_display = edge_df.rename(columns={
-            "home_team": "Local",
-            "away_team": "Visitante",
-            "p_home": "P(1)",
-            "p_draw": "P(X)",
-            "p_away": "P(2)",
-            "edge_home": "Ventaja(1)",
-            "edge_draw": "Ventaja(X)",
-            "edge_away": "Ventaja(2)",
-        })
-        
-        # Style positive edges green, negative red
+        if has_real_odds:
+            st.subheader("📈 Value Bets — Kelly Criterion")
+            st.caption(
+                "Kelly fraction = (p − q) × q / (1 − q) × 25%. "
+                "Valores positivos indican valor. El stake sugerido usa quarter-Kelly para sizing conservador."
+            )
+
+            # Build per-match table: for each match show the best single bet
+            kelly_rows = []
+            for _, r in display_df.iterrows():
+                home = r["home_team"]
+                away = r["away_team"]
+                best = r["best_bet"]
+                best_k = r["best_kelly"]
+                if best == home:
+                    p_model, p_casa = r["p_home"], r["implied_home"]
+                    edge = r["edge_home"]
+                elif best == "Empate":
+                    p_model, p_casa = r["p_draw"], r["implied_draw"]
+                    edge = r["edge_draw"]
+                elif best == away:
+                    p_model, p_casa = r["p_away"], r["implied_away"]
+                    edge = r["edge_away"]
+                else:
+                    p_model, p_casa, edge = 0.0, 0.0, 0.0
+
+                kelly_rows.append({
+                    "Local": home,
+                    "Visitante": away,
+                    "P(Modelo)": p_model,
+                    "P(Casa)": p_casa,
+                    "Edge": edge,
+                    "Kelly%": best_k,
+                    "$ Sugerido": best_k * bankroll,
+                    "Mejor Apuesta": best,
+                })
+
+            edge_display = pd.DataFrame(kelly_rows)
+
+        else:
+            st.subheader("📈 Ventaja vs Línea Base Uniforme")
+            st.caption("Sin cuotas reales disponibles. Edge = probabilidad del modelo − 33.3%.")
+
+            kelly_rows = []
+            for _, r in display_df.iterrows():
+                home = r["home_team"]
+                away = r["away_team"]
+                best = r["best_bet"]
+                best_k = r["best_kelly"]
+                if best == home:
+                    p_model = r["p_home"]
+                    edge = r["edge_home"]
+                elif best == "Empate":
+                    p_model = r["p_draw"]
+                    edge = r["edge_draw"]
+                elif best == away:
+                    p_model = r["p_away"]
+                    edge = r["edge_away"]
+                else:
+                    p_model, edge = 0.0, 0.0
+
+                kelly_rows.append({
+                    "Local": home,
+                    "Visitante": away,
+                    "P(Modelo)": p_model,
+                    "Edge": edge,
+                    "Kelly%": best_k,
+                    "$ Sugerido": best_k * bankroll,
+                    "Mejor Apuesta": best,
+                })
+
+            edge_display = pd.DataFrame(kelly_rows)
+
+        # Style: green for strong, yellow for small, gray for none
+        def highlight_kelly(val):
+            if isinstance(val, (int, float)):
+                if val > 0.02:
+                    return 'background-color: rgba(46, 204, 113, 0.25);'
+                elif val > 0.005:
+                    return 'background-color: rgba(241, 196, 15, 0.2);'
+                elif val > 0:
+                    return 'background-color: rgba(149, 165, 166, 0.15);'
+            return ''
+
         def highlight_edges(val):
             if isinstance(val, float):
                 if val > 0.05:
@@ -584,7 +738,24 @@ def upcoming_matches_view(
                     return 'color: #e74c3c;'
             return ''
 
-        st.dataframe(edge_display.style.map(highlight_edges, subset=['Ventaja(1)', 'Ventaja(X)', 'Ventaja(2)']).format(precision=3), width='stretch', hide_index=True)
+        # Format percentages and currency
+        fmt = {}
+        for c in edge_display.columns:
+            if c in ("P(Modelo)", "P(Casa)", "Edge", "Kelly%"):
+                fmt[c] = "{:.3f}".format
+            elif c == "$ Sugerido":
+                fmt[c] = "${:,.2f}".format
+
+        kelly_cols = [c for c in edge_display.columns if c == "Kelly%"]
+        edge_cols = [c for c in edge_display.columns if c == "Edge"]
+
+        styled = edge_display.style.format(fmt)
+        if kelly_cols:
+            styled = styled.map(highlight_kelly, subset=kelly_cols)
+        if edge_cols:
+            styled = styled.map(highlight_edges, subset=edge_cols)
+
+        st.dataframe(styled, width='stretch', hide_index=True)
 
     with tab2:
         # ── Poisson score matrix heatmap ───────────────────────────────
@@ -642,19 +813,27 @@ def upcoming_matches_view(
                 
                 edge_home = selected.get("edge_home", 0.0)
                 edge_away = selected.get("edge_away", 0.0)
+                edge_draw = selected.get("edge_draw", 0.0)
                 p_home = selected.get("p_home", 1/3)
                 p_draw = selected.get("p_draw", 1/3)
                 p_away = selected.get("p_away", 1/3)
+                imp_home = selected.get("implied_home", 1/3)
+                imp_draw = selected.get("implied_draw", 1/3)
+                imp_away = selected.get("implied_away", 1/3)
                 
                 local = selected['home_team']
                 visitante = selected['away_team']
                 
                 recommendations = []
-                # Value bet detection
-                if edge_home > 0.15:
-                    recommendations.append(f"🟢 **Value Bet Local:** Ventaja en **{local}** (+{edge_home:.1%})")
-                elif edge_away > 0.15:
-                    recommendations.append(f"🟢 **Value Bet Visitante:** Ventaja en **{visitante}** (+{edge_away:.1%})")
+                # Value bet detection — use real odds threshold if available
+                has_real = selected.get("implied_home", 0) != 1/3
+                edge_threshold = 0.05 if has_real else 0.15
+                if edge_home > edge_threshold:
+                    rec_label = "Value Bet Local" if has_real else "Ventaja Local"
+                    recommendations.append(f"🟢 **{rec_label}:** **{local}** (edge +{edge_home:.1%})")
+                elif edge_away > edge_threshold:
+                    rec_label = "Value Bet Visitante" if has_real else "Ventaja Visitante"
+                    recommendations.append(f"🟢 **{rec_label}:** **{visitante}** (edge +{edge_away:.1%})")
                 
                 # Close match detection
                 max_p = max(p_home, p_draw, p_away)
@@ -664,7 +843,7 @@ def upcoming_matches_view(
                     recommendations.append(f"🔵 **Empate Probable** ({p_draw:.1%})")
                     
                 if not recommendations:
-                    recommendations.append("⚪ **Partido Equilibrado:** Sin ventajas claras")
+                    recommendations.append("⚪ **Partido Equilibrado:** Sin ventajas claras vs casas de apuestas")
                     
                 st.info(" | ".join(recommendations))
             else:
