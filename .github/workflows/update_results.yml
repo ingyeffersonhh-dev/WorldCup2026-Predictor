@@ -1,0 +1,48 @@
+name: Update Results Daily
+
+# Cuándo se ejecuta:
+on:
+  schedule:
+    # Todos los días a las 6:00 UTC (3am ARG/ 11pm PT)
+    - cron: "0 6 * * *"
+  # También se puede ejecutar manualmente desde GitHub
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Descargar el código del repo
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # 2. Configurar Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 3. Instalar dependencias
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # 4. Buscar resultados en Wikipedia
+      - name: Fetch live results from Wikipedia
+        run: python scripts/fetch_wikipedia_results.py
+
+      # 5. Ejecutar simulación Monte Carlo
+      - name: Run Monte Carlo simulation
+        run: python monte_carlo.py --n-sims 1000 --closest-only --seed 42
+
+      # 6. Commitear los resultados actualizados al repo
+      - name: Commit and push updates
+        run: |
+          git config --local user.email "bot@mundial-predictor"
+          git config --local user.name "Mundial Predictor Bot"
+          git add data/processed/ data/raw/live_results.csv
+          git diff --quiet && git diff --staged --quiet || \
+            git commit -m "auto: update results $(date +%Y-%m-%d)"
+          git push

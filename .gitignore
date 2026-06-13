@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+.atl/
+
+# Testing
+.pytest_cache/
+.mypy_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific (large raw data, not needed for deployment)
+data/raw/kaggle_results.csv
+data/raw/fixture_2026_source.json
+scratch/
+
+# Streamlit secrets (if any)
+.streamlit/secrets.toml

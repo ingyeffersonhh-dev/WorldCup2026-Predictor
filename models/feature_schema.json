@@ -1,0 +1,38 @@
+{
+  "feature_names": [
+    "elo_diff",
+    "form_home_5f",
+    "form_home_5a",
+    "form_away_5f",
+    "form_away_5a",
+    "form_home_10f",
+    "form_home_10a",
+    "form_away_10f",
+    "form_away_10a",
+    "h2h_avg_diff",
+    "home_advantage",
+    "rest_days_home",
+    "rest_days_away",
+    "implied_home",
+    "implied_draw",
+    "implied_away"
+  ],
+  "n_features": 16,
+  "target_mapping": {
+    "1": "home_win",
+    "0": "draw",
+    "2": "away_win"
+  },
+  "params": {
+    "n_estimators": 1000,
+    "max_depth": 6,
+    "learning_rate": 0.01,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "random_state": 42,
+    "early_stopping_rounds": 20,
+    "eval_metric": "mlogloss",
+    "verbosity": 1
+  },
+  "fit_date": "2026-06-12 21:22:35"
+}
