@@ -1,0 +1,3834 @@
+date,home_team,away_team,odds_h,odds_d,odds_a
+2022-07-15,Kaiserslautern,Hannover,2.4,3.4,2.8
+2022-07-16,Regensburg,Darmstadt,3.6,3.8,1.95
+2022-07-16,Magdeburg,Fortuna Dusseldorf,2.7,3.6,2.45
+2022-07-16,St Pauli,Nurnberg,2.3,3.6,2.9
+2022-07-16,Sandhausen,Bielefeld,3.1,3.4,2.3
+2022-07-16,Greuther Furth,Holstein Kiel,2.2,3.6,3.2
+2022-07-17,Paderborn,Karlsruhe,1.9,3.8,3.75
+2022-07-17,Hansa Rostock,Heidenheim,2.37,3.4,3.0
+2022-07-17,Braunschweig,Hamburg,5.25,4.2,1.61
+2022-07-22,Fortuna Dusseldorf,Paderborn,2.4,3.6,2.75
+2022-07-22,Darmstadt,Sandhausen,1.8,4.0,4.0
+2022-07-22,Standard,Gent,4.2,3.6,1.85
+2022-07-23,Charleroi,Eupen,1.61,3.6,4.75
+2022-07-23,Nurnberg,Greuther Furth,2.37,3.5,2.9
+2022-07-23,Hannover,St Pauli,2.2,3.75,3.0
+2022-07-23,Kortrijk,Oud-Heverlee Leuven,2.37,3.2,2.87
+2022-07-23,Waregem,Seraing,2.15,3.5,2.9
+2022-07-23,Heidenheim,Braunschweig,2.0,3.5,3.8
+2022-07-23,Holstein Kiel,Kaiserslautern,2.2,3.4,3.3
+2022-07-23,St Truiden,St. Gilloise,4.33,3.2,1.85
+2022-07-24,Club Brugge,Genk,1.72,3.75,4.2
+2022-07-24,Mechelen,Antwerp,2.55,3.25,2.5
+2022-07-24,Karlsruhe,Magdeburg,2.9,3.5,2.37
+2022-07-24,Hamburg,Hansa Rostock,1.53,4.5,5.5
+2022-07-24,Bielefeld,Regensburg,1.75,3.8,4.5
+2022-07-24,Anderlecht,Oostende,1.25,5.5,9.0
+2022-07-24,Westerlo,Cercle Brugge,2.5,3.2,2.7
+2022-07-29,St. Gilloise,Charleroi,1.65,4.0,5.0
+2022-07-29,Huddersfield,Burnley,2.9,3.2,2.5
+2022-07-30,Wigan,Preston,2.4,3.3,3.0
+2022-07-30,Hearts,Ross County,1.55,4.0,6.0
+2022-07-30,Livingston,Rangers,8.0,5.0,1.36
+2022-07-30,Blackpool,Reading,1.95,3.5,4.0
+2022-07-30,Cardiff,Norwich,3.1,3.4,2.3
+2022-07-30,Hull,Bristol City,2.37,3.25,3.1
+2022-07-30,Luton,Birmingham,1.83,3.5,4.33
+2022-07-30,Millwall,Stoke,2.3,3.25,3.2
+2022-07-30,Rotherham,Swansea,2.62,3.5,2.55
+2022-07-30,Oostende,Mechelen,2.62,3.4,2.4
+2022-07-30,Middlesbrough,West Brom,2.25,3.4,3.25
+2022-07-30,Kilmarnock,Dundee United,2.4,3.3,3.0
+2022-07-30,St Johnstone,Hibernian,3.2,3.2,2.37
+2022-07-30,Cercle Brugge,Anderlecht,3.6,3.4,1.9
+2022-07-30,Blackburn,QPR,2.0,3.5,3.75
+2022-07-30,Gent,St Truiden,1.5,4.2,5.5
+2022-07-30,Oud-Heverlee Leuven,Westerlo,2.5,3.4,2.62
+2022-07-31,St Mirren,Motherwell,2.55,3.3,2.8
+2022-07-31,Celtic,Aberdeen,1.25,6.0,11.0
+2022-07-31,Antwerp,Waregem,1.36,4.5,7.0
+2022-07-31,Seraing,Kortrijk,2.87,3.4,2.25
+2022-07-31,Eupen,Club Brugge,5.25,4.75,1.5
+2022-07-31,Genk,Standard,1.5,4.2,5.25
+2022-07-31,Sunderland,Coventry,2.62,3.5,2.6
+2022-08-01,Watford,Sheffield United,2.3,3.25,3.25
+2022-08-05,Heerenveen,Sparta Rotterdam,1.95,3.5,3.8
+2022-08-05,Istanbulspor,Trabzonspor,4.7,3.75,1.61
+2022-08-05,Club Brugge,Waregem,1.22,6.0,9.0
+2022-08-05,Birmingham,Huddersfield,2.37,3.25,3.1
+2022-08-05,Ein Frankfurt,Bayern Munich,6.0,5.0,1.5
+2022-08-05,Crystal Palace,Arsenal,4.2,3.6,1.85
+2022-08-05,Greuther Furth,Karlsruhe,1.7,4.0,4.33
+2022-08-05,Sandhausen,Fortuna Dusseldorf,2.87,3.5,2.3
+2022-08-05,Lyon,Ajaccio,1.33,5.25,8.5
+2022-08-06,Bochum,Mainz,3.2,3.4,2.2
+2022-08-06,Hamburg,Heidenheim,1.7,4.0,4.75
+2022-08-06,Paderborn,Hannover,2.05,3.6,3.4
+2022-08-06,Regensburg,Nurnberg,2.7,3.3,2.6
+2022-08-06,Hansa Rostock,Bielefeld,2.45,3.3,2.9
+2022-08-06,Augsburg,Freiburg,3.3,3.5,2.15
+2022-08-06,Charleroi,Oostende,1.6,3.8,5.0
+2022-08-06,Kortrijk,St Truiden,3.0,3.2,2.3
+2022-08-06,Mechelen,St. Gilloise,3.0,3.5,2.1
+2022-08-06,Sivasspor,Gaziantep,1.95,3.5,3.3
+2022-08-06,Besiktas,Kayserispor,1.5,4.33,5.25
+2022-08-06,Swansea,Blackburn,2.4,3.25,3.1
+2022-08-06,Stoke,Blackpool,2.05,3.4,3.75
+2022-08-06,Reading,Cardiff,2.5,3.25,2.9
+2022-08-06,QPR,Middlesbrough,3.0,3.3,2.4
+2022-08-06,Preston,Hull,1.95,3.4,4.0
+2022-08-06,Burnley,Luton,1.75,3.75,4.6
+2022-08-06,Bristol City,Sunderland,2.45,3.25,2.9
+2022-08-06,Norwich,Wigan,1.66,3.6,5.25
+2022-08-06,Everton,Chelsea,5.5,4.0,1.61
+2022-08-06,Tottenham,Southampton,1.33,5.5,8.5
+2022-08-06,Newcastle,Nott'm Forest,1.66,3.8,5.25
+2022-08-06,Leeds,Wolves,2.25,3.4,3.2
+2022-08-06,Bournemouth,Aston Villa,3.75,3.5,2.0
+2022-08-06,Fulham,Liverpool,11.0,6.0,1.25
+2022-08-06,Sheffield United,Millwall,1.83,3.5,4.5
+2022-08-06,Strasbourg,Monaco,2.62,3.25,2.75
+2022-08-06,Genk,Eupen,1.36,5.0,6.5
+2022-08-06,For Sittard,Ajax,13.0,6.5,1.2
+2022-08-06,Cambuur,Excelsior,1.85,4.0,3.8
+2022-08-06,PSV Eindhoven,FC Emmen,1.22,7.5,12.0
+2022-08-06,Waalwijk,Utrecht,3.5,3.8,1.95
+2022-08-06,Wolfsburg,Werder Bremen,1.85,3.8,3.8
+2022-08-06,Clermont,Paris SG,9.5,6.5,1.25
+2022-08-06,Aberdeen,St Mirren,1.95,3.3,4.0
+2022-08-06,Motherwell,St Johnstone,2.2,3.1,3.6
+2022-08-06,Rangers,Kilmarnock,1.22,7.0,11.0
+2022-08-06,Ross County,Celtic,12.0,6.5,1.22
+2022-08-06,Union Berlin,Hertha,1.72,3.75,4.5
+2022-08-06,M'gladbach,Hoffenheim,2.05,4.2,3.0
+2022-08-06,Dortmund,Leverkusen,2.0,4.2,3.2
+2022-08-07,Toulouse,Nice,2.87,3.3,2.5
+2022-08-07,AZ Alkmaar,Go Ahead Eagles,1.4,5.0,7.5
+2022-08-07,Vitesse,Feyenoord,3.8,3.8,1.9
+2022-08-07,West Ham,Man City,8.0,5.0,1.36
+2022-08-07,Man United,Brighton,1.6,4.2,5.25
+2022-08-07,Leicester,Brentford,2.0,3.75,3.5
+2022-08-07,Nijmegen,Twente,3.1,3.6,2.2
+2022-08-07,Groningen,Volendam,1.72,4.0,4.33
+2022-08-07,Dundee United,Livingston,2.4,3.1,3.2
+2022-08-07,Antalyaspor,Galatasaray,2.37,3.6,2.6
+2022-08-07,Hibernian,Hearts,2.8,3.2,2.6
+2022-08-07,Giresunspor,Ad. Demirspor,2.87,3.4,2.2
+2022-08-07,Angers,Nantes,2.7,3.25,2.7
+2022-08-07,Lens,Brest,1.57,4.33,5.25
+2022-08-07,Lille,Auxerre,1.7,4.0,4.5
+2022-08-07,Montpellier,Troyes,2.2,3.5,3.3
+2022-08-07,Rennes,Lorient,1.36,5.25,8.5
+2022-08-07,Marseille,Reims,1.57,4.2,5.5
+2022-08-07,Braunschweig,Darmstadt,3.3,3.4,2.2
+2022-08-07,Kaiserslautern,St Pauli,2.4,3.6,2.7
+2022-08-07,Karagumruk,Alanyaspor,2.55,3.5,2.4
+2022-08-07,Stuttgart,RB Leipzig,4.5,3.8,1.75
+2022-08-07,FC Koln,Schalke 04,1.7,4.0,4.5
+2022-08-07,Gent,Westerlo,1.61,4.0,4.75
+2022-08-07,Anderlecht,Seraing,1.25,5.5,11.0
+2022-08-07,Magdeburg,Holstein Kiel,2.05,3.6,3.4
+2022-08-07,Antwerp,Oud-Heverlee Leuven,1.61,4.0,4.75
+2022-08-07,Standard,Cercle Brugge,2.55,3.2,2.55
+2022-08-08,Buyuksehyr,Kasimpasa,1.75,3.6,4.2
+2022-08-08,Fenerbahce,Umraniyespor,1.33,5.0,7.5
+2022-08-08,West Brom,Watford,2.37,3.1,3.2
+2022-08-08,Ankaragucu,Konyaspor,2.9,3.4,2.15
+2022-08-12,Nurnberg,Heidenheim,2.15,3.75,3.2
+2022-08-12,Watford,Burnley,2.3,3.3,3.1
+2022-08-12,Trabzonspor,Hatayspor,1.5,4.5,6.5
+2022-08-12,Kaiserslautern,Paderborn,2.87,3.5,2.4
+2022-08-12,Freiburg,Dortmund,3.0,3.75,2.2
+2022-08-12,Excelsior,Vitesse,3.75,3.75,1.9
+2022-08-12,Oostende,Gent,4.75,3.75,1.7
+2022-08-12,Nantes,Lille,3.0,3.4,2.4
+2022-08-12,Osasuna,Sevilla,3.2,3.1,2.4
+2022-08-13,Arsenal,Leicester,1.53,4.33,5.75
+2022-08-13,St Mirren,Ross County,2.4,3.2,3.1
+2022-08-13,Wolves,Fulham,2.3,3.3,3.2
+2022-08-13,Southampton,Leeds,2.25,3.5,3.1
+2022-08-13,Man City,Bournemouth,1.06,13.0,29.0
+2022-08-13,Brighton,Newcastle,2.45,3.2,3.0
+2022-08-13,Hull,Norwich,3.6,3.4,2.05
+2022-08-13,Rangers,St Johnstone,1.18,7.0,17.0
+2022-08-13,Aston Villa,Everton,1.8,3.5,4.75
+2022-08-13,Holstein Kiel,Braunschweig,2.15,3.5,3.25
+2022-08-13,Karlsruhe,Sandhausen,2.25,3.5,3.1
+2022-08-13,Darmstadt,Hansa Rostock,1.75,3.75,4.5
+2022-08-13,Schalke 04,M'gladbach,3.1,3.8,2.15
+2022-08-13,Werder Bremen,Stuttgart,2.25,3.6,3.0
+2022-08-13,RB Leipzig,FC Koln,1.44,4.75,7.0
+2022-08-13,Bielefeld,Hamburg,3.75,3.75,1.95
+2022-08-13,Leverkusen,Augsburg,1.3,5.75,9.5
+2022-08-13,Livingston,Hibernian,3.2,3.1,2.37
+2022-08-13,Westerlo,Standard,2.05,3.4,3.5
+2022-08-13,Luton,Preston,2.25,3.3,3.25
+2022-08-13,Millwall,Coventry,2.45,3.2,3.0
+2022-08-13,Rotherham,Reading,2.15,3.3,3.5
+2022-08-13,Sunderland,QPR,2.1,3.5,3.5
+2022-08-13,Wigan,Bristol City,2.2,3.3,3.4
+2022-08-13,Blackpool,Swansea,2.4,3.3,3.0
+2022-08-13,Aberdeen,Motherwell,1.8,3.5,4.75
+2022-08-13,Cardiff,Birmingham,2.25,3.3,3.3
+2022-08-13,Monaco,Rennes,2.15,3.5,3.25
+2022-08-13,Celta,Espanol,1.8,3.75,4.75
+2022-08-13,Brentford,Man United,3.75,3.5,2.0
+2022-08-13,St. Gilloise,Kortrijk,1.4,4.75,7.0
+2022-08-13,Seraing,Charleroi,4.33,3.5,1.8
+2022-08-13,Cercle Brugge,Mechelen,2.1,3.6,3.3
+2022-08-13,Paris SG,Montpellier,1.08,12.0,21.0
+2022-08-13,Hoffenheim,Bochum,1.57,4.5,5.25
+2022-08-13,Huddersfield,Stoke,2.7,3.2,2.75
+2022-08-13,Kayserispor,Istanbulspor,1.85,3.8,4.0
+2022-08-13,Monza,Torino,2.6,3.3,2.75
+2022-08-13,Lecce,Inter,10.0,5.75,1.28
+2022-08-13,Sampdoria,Atalanta,4.33,3.9,1.75
+2022-08-13,Milan,Udinese,1.44,4.75,7.0
+2022-08-13,Utrecht,Cambuur,1.5,5.0,5.75
+2022-08-13,FC Emmen,Waalwijk,1.9,3.75,3.8
+2022-08-13,Go Ahead Eagles,PSV Eindhoven,8.5,5.0,1.36
+2022-08-13,Feyenoord,Heerenveen,1.3,5.5,8.0
+2022-08-13,Hertha,Ein Frankfurt,3.0,3.5,2.3
+2022-08-13,Ad. Demirspor,Sivasspor,1.9,3.6,4.0
+2022-08-13,Galatasaray,Giresunspor,1.44,4.33,8.0
+2022-08-13,Valladolid,Villarreal,3.9,3.6,1.9
+2022-08-13,Barcelona,Vallecano,1.22,7.0,12.0
+2022-08-14,Salernitana,Roma,6.5,4.75,1.44
+2022-08-14,Nott'm Forest,West Ham,4.2,3.6,1.85
+2022-08-14,Chelsea,Tottenham,2.25,3.4,3.2
+2022-08-14,Spezia,Empoli,2.45,3.3,2.9
+2022-08-14,Middlesbrough,Sheffield United,2.45,3.3,2.9
+2022-08-14,Blackburn,West Brom,2.75,3.3,2.6
+2022-08-14,Reims,Clermont,2.15,3.2,3.6
+2022-08-14,Troyes,Toulouse,2.7,3.2,2.7
+2022-08-14,Nice,Strasbourg,2.15,3.3,3.5
+2022-08-14,Lazio,Bologna,1.57,4.33,5.75
+2022-08-14,Cadiz,Sociedad,3.6,3.2,2.2
+2022-08-14,Valencia,Girona,1.85,3.4,4.5
+2022-08-14,Almeria,Real Madrid,7.5,5.0,1.4
+2022-08-14,Brest,Marseille,4.2,3.8,1.83
+2022-08-14,Auxerre,Angers,2.2,3.25,3.5
+2022-08-14,Ajaccio,Lens,3.2,3.25,2.3
+2022-08-14,Waregem,Genk,4.33,3.8,1.72
+2022-08-14,Eupen,Antwerp,4.0,3.6,1.85
+2022-08-14,Umraniyespor,Antalyaspor,3.1,3.3,2.25
+2022-08-14,Fortuna Dusseldorf,Greuther Furth,2.1,3.5,3.5
+2022-08-14,Volendam,Nijmegen,2.6,3.5,2.62
+2022-08-14,Ajax,Groningen,1.16,8.5,13.0
+2022-08-14,Twente,For Sittard,1.5,4.5,6.5
+2022-08-14,Hearts,Dundee United,1.6,3.75,6.5
+2022-08-14,Kilmarnock,Celtic,17.0,6.5,1.2
+2022-08-14,Hannover,Regensburg,2.1,3.6,3.4
+2022-08-14,Bayern Munich,Wolfsburg,1.12,9.5,17.0
+2022-08-14,Sparta Rotterdam,AZ Alkmaar,4.33,3.5,1.9
+2022-08-14,Mainz,Union Berlin,2.2,3.25,3.4
+2022-08-14,St Pauli,Magdeburg,2.0,3.8,3.3
+2022-08-14,Gaziantep,Ankaragucu,1.95,3.6,3.6
+2022-08-14,Fiorentina,Cremonese,1.36,5.0,8.5
+2022-08-14,St Truiden,Anderlecht,3.6,3.5,2.0
+2022-08-14,Oud-Heverlee Leuven,Club Brugge,5.25,3.75,1.65
+2022-08-14,Alanyaspor,Besiktas,2.75,3.6,2.45
+2022-08-15,Ath Bilbao,Mallorca,1.6,3.75,6.5
+2022-08-15,Getafe,Ath Madrid,5.0,3.1,1.9
+2022-08-15,Konyaspor,Buyuksehyr,2.75,3.4,2.5
+2022-08-15,Verona,Napoli,3.5,3.5,2.05
+2022-08-15,Betis,Elche,1.44,4.5,7.0
+2022-08-15,Liverpool,Crystal Palace,1.18,6.75,16.0
+2022-08-15,Kasimpasa,Fenerbahce,3.2,3.8,2.1
+2022-08-15,Juventus,Sassuolo,1.44,4.75,7.0
+2022-08-16,Preston,Rotherham,1.95,3.3,4.0
+2022-08-16,Norwich,Huddersfield,1.57,3.8,6.0
+2022-08-16,Burnley,Hull,1.53,4.0,6.5
+2022-08-16,Bristol City,Luton,2.62,3.4,2.55
+2022-08-16,Birmingham,Watford,3.6,3.4,2.0
+2022-08-16,QPR,Blackpool,2.0,3.6,3.75
+2022-08-16,Swansea,Millwall,2.5,3.2,3.0
+2022-08-17,West Brom,Cardiff,1.6,4.0,5.5
+2022-08-17,Reading,Blackburn,3.2,3.2,2.3
+2022-08-17,Stoke,Middlesbrough,2.7,3.2,2.75
+2022-08-17,Sheffield United,Sunderland,1.75,3.6,4.75
+2022-08-19,M'gladbach,Hertha,1.5,4.5,6.0
+2022-08-19,Eupen,Seraing,1.7,3.8,4.75
+2022-08-19,Umraniyespor,Galatasaray,4.2,3.75,1.8
+2022-08-19,Hamburg,Darmstadt,2.15,3.8,3.1
+2022-08-19,Magdeburg,Hannover,2.62,3.75,2.45
+2022-08-19,Norwich,Millwall,1.95,3.4,4.2
+2022-08-19,Lyon,Troyes,1.28,5.75,9.0
+2022-08-19,Sevilla,Valladolid,1.5,4.2,6.5
+2022-08-19,Espanol,Vallecano,2.45,3.1,3.1
+2022-08-20,Stuttgart,Freiburg,2.62,3.6,2.55
+2022-08-20,Augsburg,Mainz,3.5,3.5,2.1
+2022-08-20,Vitesse,Heerenveen,1.95,3.6,3.8
+2022-08-20,Leverkusen,Hoffenheim,1.66,4.33,4.5
+2022-08-20,Dortmund,Werder Bremen,1.36,5.25,7.5
+2022-08-20,Sandhausen,Nurnberg,2.7,3.5,2.5
+2022-08-20,Regensburg,Karlsruhe,2.25,3.5,3.2
+2022-08-20,Braunschweig,Fortuna Dusseldorf,3.75,3.4,2.05
+2022-08-20,For Sittard,Cambuur,2.25,3.5,3.1
+2022-08-20,FC Emmen,Utrecht,3.2,3.5,2.2
+2022-08-20,Giresunspor,Kasimpasa,2.25,3.5,3.0
+2022-08-20,Hatayspor,Gaziantep,2.1,3.5,3.25
+2022-08-20,Antalyaspor,Trabzonspor,2.5,3.2,2.87
+2022-08-20,Paderborn,Holstein Kiel,1.72,4.2,4.33
+2022-08-20,Wolfsburg,Schalke 04,1.83,3.8,4.2
+2022-08-20,Ross County,Kilmarnock,2.37,3.2,3.1
+2022-08-20,St Johnstone,Aberdeen,3.6,3.1,2.2
+2022-08-20,Marseille,Nantes,1.6,4.2,5.5
+2022-08-20,Monaco,Lens,1.75,3.8,4.33
+2022-08-20,Birmingham,Wigan,2.55,3.25,2.8
+2022-08-20,Burnley,Blackpool,1.57,4.0,6.0
+2022-08-20,Preston,Watford,2.62,3.1,2.8
+2022-08-20,QPR,Rotherham,2.1,3.5,3.6
+2022-08-20,Sheffield United,Blackburn,1.75,3.6,4.75
+2022-08-20,Stoke,Sunderland,2.1,3.4,3.5
+2022-08-20,Bournemouth,Arsenal,8.0,4.75,1.4
+2022-08-20,Union Berlin,RB Leipzig,3.6,3.5,2.05
+2022-08-20,Leicester,Southampton,1.83,4.0,4.0
+2022-08-20,Everton,Nott'm Forest,1.9,3.6,4.0
+2022-08-20,Crystal Palace,Aston Villa,2.5,3.25,2.9
+2022-08-20,Tottenham,Wolves,1.4,4.75,7.5
+2022-08-20,Swansea,Luton,2.45,3.2,3.1
+2022-08-20,West Brom,Hull,1.55,4.2,6.0
+2022-08-20,Genk,Cercle Brugge,1.61,4.33,4.5
+2022-08-20,Hibernian,Rangers,5.5,4.0,1.6
+2022-08-20,Dundee United,St Mirren,2.45,3.0,3.2
+2022-08-20,Motherwell,Livingston,2.37,3.0,3.3
+2022-08-20,Fulham,Brentford,2.45,3.4,2.9
+2022-08-20,Reading,Middlesbrough,3.3,3.6,2.1
+2022-08-20,Oostende,St Truiden,3.2,3.25,2.25
+2022-08-20,Udinese,Salernitana,1.75,3.8,4.5
+2022-08-20,Inter,Spezia,1.16,8.0,15.0
+2022-08-20,Sassuolo,Lecce,1.75,4.0,4.2
+2022-08-20,Torino,Lazio,3.0,3.5,2.3
+2022-08-20,Osasuna,Cadiz,1.9,3.25,4.5
+2022-08-20,Mallorca,Betis,3.1,3.2,2.4
+2022-08-20,Celta,Real Madrid,4.5,4.2,1.66
+2022-08-21,Groningen,Go Ahead Eagles,1.85,3.5,4.33
+2022-08-21,Sparta Rotterdam,Ajax,12.0,6.0,1.25
+2022-08-21,Waalwijk,Feyenoord,8.0,5.5,1.33
+2022-08-21,Newcastle,Man City,7.5,5.0,1.36
+2022-08-21,Ath Madrid,Villarreal,1.85,3.5,4.33
+2022-08-21,Leeds,Chelsea,5.75,4.5,1.53
+2022-08-21,Sociedad,Barcelona,3.3,3.6,2.1
+2022-08-21,Ath Bilbao,Valencia,1.8,3.75,4.5
+2022-08-21,West Ham,Brighton,2.3,3.4,3.1
+2022-08-21,Club Brugge,Kortrijk,1.33,5.0,9.5
+2022-08-21,Angers,Brest,2.3,3.25,3.2
+2022-08-21,Buyuksehyr,Kayserispor,1.55,3.8,6.5
+2022-08-21,Clermont,Nice,3.75,3.4,2.05
+2022-08-21,Montpellier,Auxerre,2.1,3.4,3.5
+2022-08-21,Toulouse,Lorient,2.05,3.5,3.6
+2022-08-21,Rennes,Ajaccio,1.4,4.75,8.0
+2022-08-21,Lille,Paris SG,6.0,4.75,1.5
+2022-08-21,Standard,Oud-Heverlee Leuven,1.95,3.75,3.4
+2022-08-21,Mechelen,Westerlo,2.62,3.25,2.7
+2022-08-21,Ein Frankfurt,FC Koln,1.95,3.75,3.6
+2022-08-21,Bochum,Bayern Munich,13.0,8.0,1.18
+2022-08-21,Bristol City,Cardiff,2.2,3.3,3.4
+2022-08-21,Celtic,Hearts,1.2,7.0,13.0
+2022-08-21,Strasbourg,Reims,1.75,3.5,4.75
+2022-08-21,Besiktas,Karagumruk,1.57,4.2,5.0
+2022-08-21,Waregem,Charleroi,3.1,3.75,2.15
+2022-08-21,Hansa Rostock,St Pauli,2.75,3.6,2.45
+2022-08-21,Bologna,Verona,2.15,3.5,3.3
+2022-08-21,Empoli,Fiorentina,3.75,3.8,1.9
+2022-08-21,Napoli,Monza,1.33,5.5,8.0
+2022-08-21,Greuther Furth,Kaiserslautern,2.0,3.6,3.75
+2022-08-21,Atalanta,Milan,2.75,3.5,2.5
+2022-08-21,Heidenheim,Bielefeld,2.1,3.5,3.5
+2022-08-22,Sampdoria,Juventus,5.75,4.0,1.6
+2022-08-22,Man United,Liverpool,5.25,4.33,1.6
+2022-08-22,Roma,Cremonese,1.25,6.5,11.0
+2022-08-22,Elche,Almeria,2.5,3.2,3.0
+2022-08-22,Istanbulspor,Konyaspor,3.6,3.5,2.0
+2022-08-22,Girona,Getafe,2.8,2.9,2.9
+2022-08-22,Fenerbahce,Ad. Demirspor,1.7,4.0,4.5
+2022-08-22,Sivasspor,Alanyaspor,2.5,3.4,2.75
+2022-08-26,Girona,Celta,2.8,3.1,2.75
+2022-08-26,Fortuna Dusseldorf,Regensburg,1.61,4.0,5.5
+2022-08-26,Nijmegen,Groningen,2.1,3.5,3.6
+2022-08-26,Betis,Osasuna,1.8,3.6,4.75
+2022-08-26,Ajaccio,Lille,3.4,3.2,2.2
+2022-08-26,Charleroi,Club Brugge,3.6,3.8,1.95
+2022-08-26,Freiburg,Bochum,1.5,4.5,6.0
+2022-08-26,Bielefeld,Braunschweig,1.95,3.6,3.8
+2022-08-26,Luton,Sheffield United,3.25,3.2,2.3
+2022-08-26,Gaziantep,Antalyaspor,2.5,3.3,2.8
+2022-08-26,Monza,Udinese,3.1,3.4,2.3
+2022-08-26,Lazio,Inter,4.0,3.8,1.83
+2022-08-27,Wigan,Burnley,3.25,3.1,2.37
+2022-08-27,Karagumruk,Ankaragucu,1.9,3.6,4.0
+2022-08-27,Ad. Demirspor,Umraniyespor,1.55,4.33,5.75
+2022-08-27,Alanyaspor,Istanbulspor,1.5,4.75,6.0
+2022-08-27,Rangers,Ross County,1.14,8.5,17.0
+2022-08-27,Auxerre,Strasbourg,3.5,3.6,2.05
+2022-08-27,Lens,Rennes,2.55,3.5,2.7
+2022-08-27,Bayern Munich,M'gladbach,1.18,8.0,12.0
+2022-08-27,Schalke 04,Union Berlin,3.1,3.4,2.3
+2022-08-27,RB Leipzig,Wolfsburg,1.45,4.75,6.0
+2022-08-27,Spezia,Sassuolo,3.0,3.6,2.25
+2022-08-27,Mainz,Leverkusen,2.75,3.75,2.37
+2022-08-27,Elche,Sociedad,3.6,3.2,2.15
+2022-08-27,Vallecano,Mallorca,2.05,3.25,4.0
+2022-08-27,Hoffenheim,Augsburg,1.45,4.5,7.0
+2022-08-27,Hertha,Dortmund,4.5,4.33,1.66
+2022-08-27,Kilmarnock,Motherwell,2.62,3.25,2.75
+2022-08-27,Seraing,Genk,5.75,4.5,1.5
+2022-08-27,Cercle Brugge,Waregem,1.75,3.75,4.5
+2022-08-27,Oud-Heverlee Leuven,Oostende,1.95,3.5,3.6
+2022-08-27,St Truiden,Mechelen,2.1,3.3,3.4
+2022-08-27,Aberdeen,Livingston,1.72,3.6,5.0
+2022-08-27,Almeria,Sevilla,3.6,3.25,2.15
+2022-08-27,Nurnberg,Hamburg,3.1,3.5,2.25
+2022-08-27,Milan,Bologna,1.33,5.5,8.5
+2022-08-27,St Mirren,Hibernian,3.5,3.1,2.25
+2022-08-27,Karlsruhe,Hansa Rostock,2.2,3.5,3.2
+2022-08-27,Southampton,Man United,4.2,4.0,1.8
+2022-08-27,Brentford,Everton,2.0,3.5,3.75
+2022-08-27,Brighton,Leeds,1.9,3.8,3.8
+2022-08-27,Chelsea,Leicester,1.4,5.0,7.0
+2022-08-27,Liverpool,Bournemouth,1.1,10.0,26.0
+2022-08-27,Man City,Crystal Palace,1.18,7.5,13.0
+2022-08-27,Arsenal,Fulham,1.3,5.75,9.0
+2022-08-27,Watford,QPR,1.9,3.4,4.33
+2022-08-27,Rotherham,Birmingham,2.0,3.3,4.0
+2022-08-27,Millwall,Reading,1.85,3.4,4.75
+2022-08-27,Middlesbrough,Swansea,1.75,3.75,4.75
+2022-08-27,Hull,Coventry,3.0,3.4,2.37
+2022-08-27,Huddersfield,West Brom,4.2,3.5,1.95
+2022-08-27,Cardiff,Preston,2.75,3.0,2.87
+2022-08-27,St Pauli,Paderborn,2.7,4.0,2.3
+2022-08-27,Blackpool,Bristol City,2.25,3.3,3.3
+2022-08-27,Sunderland,Norwich,3.2,3.3,2.3
+2022-08-27,Heerenveen,For Sittard,1.65,4.0,5.25
+2022-08-27,Feyenoord,FC Emmen,1.25,6.0,11.0
+2022-08-27,Darmstadt,Heidenheim,1.8,3.8,4.33
+2022-08-27,Juventus,Roma,2.3,3.3,3.1
+2022-08-27,Vitesse,Waalwijk,1.7,3.75,5.25
+2022-08-27,Blackburn,Stoke,2.5,3.2,2.9
+2022-08-27,Cremonese,Torino,3.2,3.4,2.25
+2022-08-27,Go Ahead Eagles,Sparta Rotterdam,2.25,3.25,3.25
+2022-08-28,St. Gilloise,Anderlecht,2.25,3.3,3.2
+2022-08-28,Paris SG,Monaco,1.18,8.0,13.0
+2022-08-28,Hearts,St Johnstone,1.65,3.75,5.75
+2022-08-28,Werder Bremen,Ein Frankfurt,2.45,3.5,2.8
+2022-08-28,FC Koln,Stuttgart,2.05,3.75,3.4
+2022-08-28,Westerlo,Eupen,1.85,3.5,4.2
+2022-08-28,Dundee United,Celtic,15.0,8.0,1.16
+2022-08-28,Espanol,Real Madrid,6.5,4.75,1.45
+2022-08-28,Salernitana,Sampdoria,2.45,3.2,3.0
+2022-08-28,Wolves,Newcastle,2.7,3.3,2.7
+2022-08-28,Verona,Atalanta,4.2,4.0,1.75
+2022-08-28,Fiorentina,Napoli,3.25,3.6,2.15
+2022-08-28,Lecce,Empoli,2.3,3.5,3.0
+2022-08-28,Aston Villa,West Ham,2.3,3.4,3.1
+2022-08-28,Barcelona,Valladolid,1.14,8.5,15.0
+2022-08-28,Nott'm Forest,Tottenham,7.0,4.6,1.44
+2022-08-28,Cambuur,AZ Alkmaar,4.75,3.8,1.72
+2022-08-28,Volendam,Twente,4.75,4.0,1.7
+2022-08-28,Excelsior,PSV Eindhoven,9.0,6.5,1.28
+2022-08-28,Utrecht,Ajax,7.0,5.0,1.4
+2022-08-28,Hannover,Greuther Furth,2.2,3.5,3.25
+2022-08-28,Holstein Kiel,Sandhausen,2.1,3.8,3.2
+2022-08-28,Kaiserslautern,Magdeburg,1.9,4.0,3.6
+2022-08-28,Troyes,Angers,2.45,3.3,2.9
+2022-08-28,Kayserispor,Giresunspor,2.15,3.4,3.3
+2022-08-28,Trabzonspor,Galatasaray,2.37,3.5,2.9
+2022-08-28,Nantes,Toulouse,2.37,3.3,3.0
+2022-08-28,Brest,Montpellier,1.9,3.6,4.0
+2022-08-28,Lorient,Clermont,2.05,3.4,3.8
+2022-08-28,Nice,Marseille,2.7,3.5,2.55
+2022-08-28,Reims,Lyon,4.2,4.0,1.75
+2022-08-28,Getafe,Villarreal,4.33,3.4,1.85
+2022-08-28,Kortrijk,Standard,2.7,3.25,2.62
+2022-08-28,Kasimpasa,Hatayspor,1.95,3.5,3.75
+2022-08-28,Gent,Antwerp,1.9,3.6,3.75
+2022-08-29,Valencia,Ath Madrid,4.0,3.3,2.0
+2022-08-29,Cadiz,Ath Bilbao,3.6,3.2,2.15
+2022-08-29,Konyaspor,Fenerbahce,3.4,3.6,2.05
+2022-08-29,Besiktas,Sivasspor,1.5,4.2,5.5
+2022-08-30,Leeds,Everton,2.15,3.5,3.3
+2022-08-30,Southampton,Chelsea,5.25,4.0,1.61
+2022-08-30,Sassuolo,Milan,5.25,4.33,1.57
+2022-08-30,Inter,Cremonese,1.14,8.0,21.0
+2022-08-30,Roma,Monza,1.3,5.5,10.0
+2022-08-30,Watford,Middlesbrough,2.5,3.25,2.9
+2022-08-30,Fulham,Brighton,3.1,3.3,2.3
+2022-08-30,Sheffield United,Reading,1.57,4.0,6.0
+2022-08-30,Crystal Palace,Brentford,2.05,3.4,3.6
+2022-08-30,QPR,Hull,1.8,3.6,4.33
+2022-08-30,Cardiff,Luton,2.55,3.2,2.9
+2022-08-30,Burnley,Millwall,1.85,3.3,4.75
+2022-08-30,Wigan,West Brom,3.75,3.4,2.05
+2022-08-30,Birmingham,Norwich,4.5,3.5,1.83
+2022-08-31,PSV Eindhoven,Volendam,1.09,11.0,19.0
+2022-08-31,Angers,Reims,2.45,3.3,2.87
+2022-08-31,Lyon,Auxerre,1.28,6.0,8.5
+2022-08-31,Monaco,Troyes,1.36,5.25,8.0
+2022-08-31,Twente,Excelsior,1.3,5.5,10.0
+2022-08-31,Lens,Lorient,1.53,4.0,6.5
+2022-08-31,Marseille,Clermont,1.36,5.0,8.5
+2022-08-31,Rennes,Brest,1.45,4.75,6.5
+2022-08-31,Toulouse,Paris SG,13.0,7.0,1.2
+2022-08-31,Strasbourg,Nantes,1.85,3.6,4.2
+2022-08-31,Lille,Nice,2.0,3.5,3.75
+2022-08-31,Montpellier,Ajaccio,2.1,3.3,3.6
+2022-08-31,Bournemouth,Wolves,3.5,3.3,2.15
+2022-08-31,Empoli,Verona,2.62,3.3,2.7
+2022-08-31,Sampdoria,Lazio,4.2,3.6,1.85
+2022-08-31,Udinese,Fiorentina,2.7,3.5,2.5
+2022-08-31,Juventus,Spezia,1.28,5.75,12.0
+2022-08-31,Napoli,Lecce,1.25,6.25,11.0
+2022-08-31,Blackpool,Blackburn,2.4,3.3,3.0
+2022-08-31,Sunderland,Rotherham,2.1,3.4,3.6
+2022-08-31,Stoke,Swansea,2.1,3.5,3.6
+2022-08-31,Coventry,Preston,2.25,3.1,3.5
+2022-08-31,Man City,Nott'm Forest,1.06,13.0,29.0
+2022-08-31,Bristol City,Huddersfield,1.9,3.6,4.0
+2022-08-31,Antwerp,St. Gilloise,2.75,3.25,2.55
+2022-08-31,Arsenal,Aston Villa,1.45,4.5,6.0
+2022-08-31,Liverpool,Newcastle,1.33,5.25,9.0
+2022-08-31,West Ham,Tottenham,3.6,3.8,1.95
+2022-09-01,Anderlecht,Gent,2.2,3.4,3.3
+2022-09-01,Bologna,Salernitana,1.85,3.6,4.33
+2022-09-01,Atalanta,Torino,1.72,3.75,5.25
+2022-09-01,AZ Alkmaar,Nijmegen,1.45,4.5,6.5
+2022-09-01,Leicester,Man United,3.4,3.75,2.05
+2022-09-02,Club Brugge,Cercle Brugge,1.6,4.33,4.5
+2022-09-02,Heidenheim,Fortuna Dusseldorf,2.62,3.4,2.7
+2022-09-02,Celta,Cadiz,1.66,3.6,5.5
+2022-09-02,For Sittard,Utrecht,3.1,3.75,2.2
+2022-09-02,Braunschweig,Nurnberg,2.87,3.5,2.45
+2022-09-02,Dortmund,Hoffenheim,1.61,4.5,4.75
+2022-09-02,West Brom,Burnley,2.15,3.3,3.6
+2022-09-02,Umraniyespor,Trabzonspor,3.6,3.6,1.9
+2022-09-03,Norwich,Coventry,1.75,3.6,4.75
+2022-09-03,Bochum,Werder Bremen,2.9,3.6,2.3
+2022-09-03,Preston,Birmingham,1.66,3.6,5.75
+2022-09-03,Stuttgart,Schalke 04,1.75,4.0,4.33
+2022-09-03,Union Berlin,Bayern Munich,7.0,5.25,1.36
+2022-09-03,Wolfsburg,FC Koln,2.05,3.4,3.75
+2022-09-03,Ein Frankfurt,RB Leipzig,3.5,3.75,2.0
+2022-09-03,Lazio,Napoli,2.9,3.5,2.37
+2022-09-03,Buyuksehyr,Alanyaspor,1.9,3.5,3.8
+2022-09-03,Milan,Inter,2.8,3.25,2.6
+2022-09-03,Ross County,Aberdeen,4.0,3.3,2.0
+2022-09-03,Motherwell,Dundee United,1.95,3.3,4.2
+2022-09-03,Livingston,Hearts,3.4,3.25,2.2
+2022-09-03,Hibernian,Kilmarnock,1.7,3.6,5.25
+2022-09-03,Celtic,Rangers,1.85,3.75,4.0
+2022-09-03,Eupen,Kortrijk,2.25,3.4,3.1
+2022-09-03,Genk,St Truiden,1.65,4.0,5.0
+2022-09-03,St Johnstone,St Mirren,2.5,3.1,3.0
+2022-09-03,Mechelen,Seraing,1.57,4.33,5.25
+2022-09-03,Everton,Liverpool,7.0,4.75,1.4
+2022-09-03,Chelsea,West Ham,1.55,4.5,5.5
+2022-09-03,Sivasspor,Karagumruk,2.2,3.3,3.1
+2022-09-03,Fenerbahce,Kayserispor,1.4,4.75,5.75
+2022-09-03,Giresunspor,Konyaspor,2.6,3.2,2.62
+2022-09-03,Ajax,Cambuur,1.1,11.0,23.0
+2022-09-03,Twente,PSV Eindhoven,3.75,3.75,1.9
+2022-09-03,Sparta Rotterdam,Volendam,1.65,3.8,5.5
+2022-09-03,Mallorca,Girona,2.15,3.2,3.6
+2022-09-03,Brentford,Leeds,2.1,3.5,3.4
+2022-09-03,Real Madrid,Betis,1.4,5.25,6.5
+2022-09-03,Sevilla,Barcelona,4.5,3.6,1.8
+2022-09-03,Go Ahead Eagles,Feyenoord,8.0,4.75,1.4
+2022-09-03,Aston Villa,Man City,8.0,5.5,1.33
+2022-09-03,Wolves,Southampton,2.2,3.4,3.25
+2022-09-03,Tottenham,Fulham,1.5,4.5,6.5
+2022-09-03,Nott'm Forest,Bournemouth,1.95,3.5,3.8
+2022-09-03,Newcastle,Crystal Palace,2.0,3.5,3.75
+2022-09-03,Sociedad,Ath Madrid,2.9,3.2,2.55
+2022-09-03,Standard,Oostende,2.0,3.5,3.75
+2022-09-03,Leverkusen,Freiburg,1.9,3.75,3.8
+2022-09-03,Swansea,QPR,2.37,3.3,3.0
+2022-09-03,Millwall,Cardiff,2.05,3.2,4.0
+2022-09-03,Fiorentina,Juventus,3.0,3.25,2.4
+2022-09-03,Luton,Wigan,2.1,3.3,3.6
+2022-09-03,Blackburn,Bristol City,2.15,3.5,3.3
+2022-09-03,Greuther Furth,St Pauli,2.3,3.6,3.0
+2022-09-03,Paderborn,Magdeburg,1.44,5.0,6.0
+2022-09-03,Regensburg,Holstein Kiel,2.37,3.6,2.75
+2022-09-03,Hamburg,Karlsruhe,1.61,4.2,5.0
+2022-09-03,Rotherham,Watford,3.25,3.3,2.25
+2022-09-03,Auxerre,Marseille,4.75,4.0,1.66
+2022-09-03,Nantes,Paris SG,9.5,6.5,1.28
+2022-09-03,Lyon,Angers,1.28,5.75,10.0
+2022-09-04,Troyes,Rennes,4.33,4.0,1.75
+2022-09-04,Anderlecht,Oud-Heverlee Leuven,1.4,5.0,8.5
+2022-09-04,Osasuna,Vallecano,2.0,3.1,4.33
+2022-09-04,Reims,Lens,3.2,3.5,2.25
+2022-09-04,Ath Bilbao,Espanol,1.53,4.0,6.5
+2022-09-04,Villarreal,Elche,1.33,5.0,10.0
+2022-09-04,Valencia,Getafe,1.9,3.2,4.5
+2022-09-04,Antwerp,Westerlo,1.9,4.0,3.6
+2022-09-04,Nice,Monaco,2.7,3.6,2.37
+2022-09-04,Brighton,Leicester,1.83,3.5,4.5
+2022-09-04,Brest,Strasbourg,2.8,3.4,2.45
+2022-09-04,FC Emmen,AZ Alkmaar,4.0,3.75,1.9
+2022-09-04,Waalwijk,Excelsior,1.7,4.0,4.75
+2022-09-04,Clermont,Toulouse,2.8,3.5,2.4
+2022-09-04,Heerenveen,Nijmegen,1.9,3.6,4.0
+2022-09-04,Ajaccio,Lorient,2.45,3.2,2.9
+2022-09-04,Montpellier,Lille,3.25,3.75,2.1
+2022-09-04,Sandhausen,Kaiserslautern,2.62,3.4,2.7
+2022-09-04,Hansa Rostock,Hannover,2.55,3.4,2.75
+2022-09-04,Darmstadt,Bielefeld,1.61,4.2,5.0
+2022-09-04,Antalyaspor,Kasimpasa,1.7,3.6,4.5
+2022-09-04,Ankaragucu,Besiktas,4.0,3.5,1.8
+2022-09-04,Udinese,Roma,4.2,3.75,1.85
+2022-09-04,Hatayspor,Ad. Demirspor,2.9,3.3,2.25
+2022-09-04,Man United,Arsenal,2.5,3.5,2.7
+2022-09-04,Groningen,Vitesse,2.5,3.6,2.7
+2022-09-04,Verona,Sampdoria,2.05,3.6,3.6
+2022-09-04,M'gladbach,Mainz,2.2,3.8,3.0
+2022-09-04,Cremonese,Sassuolo,3.0,3.5,2.25
+2022-09-04,Reading,Stoke,2.9,3.2,2.5
+2022-09-04,Huddersfield,Blackpool,2.5,3.25,2.87
+2022-09-04,Hull,Sheffield United,4.2,3.5,1.9
+2022-09-04,Augsburg,Hertha,2.45,3.3,2.87
+2022-09-04,Spezia,Bologna,3.0,3.3,2.37
+2022-09-04,Charleroi,Gent,3.4,3.4,2.1
+2022-09-04,Waregem,St. Gilloise,5.25,3.75,1.65
+2022-09-05,Torino,Lecce,1.7,3.75,5.25
+2022-09-05,Middlesbrough,Sunderland,1.72,3.6,5.0
+2022-09-05,Monza,Atalanta,5.75,4.2,1.57
+2022-09-05,Valladolid,Almeria,2.3,3.3,3.1
+2022-09-05,Galatasaray,Gaziantep,1.57,3.75,5.25
+2022-09-05,Salernitana,Empoli,2.25,3.4,3.2
+2022-09-07,Lorient,Lyon,4.5,4.5,1.65
+2022-09-09,Lens,Troyes,1.5,4.5,6.0
+2022-09-09,St Truiden,Standard,2.15,3.3,3.3
+2022-09-09,Alanyaspor,Ankaragucu,1.72,3.8,4.5
+2022-09-09,Girona,Valladolid,2.25,3.25,3.4
+2022-09-09,Werder Bremen,Augsburg,1.53,4.5,5.5
+2022-09-09,Holstein Kiel,Hamburg,3.6,3.75,1.9
+2022-09-09,Nurnberg,Bielefeld,2.2,3.5,3.2
+2022-09-09,Volendam,Go Ahead Eagles,2.5,3.6,2.6
+2022-09-10,Hannover,Braunschweig,1.72,4.0,4.5
+2022-09-10,Excelsior,FC Emmen,3.3,3.4,2.2
+2022-09-10,Seraing,Club Brugge,7.5,4.75,1.4
+2022-09-10,Oostende,Eupen,2.1,3.6,3.3
+2022-09-10,Kortrijk,Mechelen,2.6,3.4,2.6
+2022-09-10,Sampdoria,Milan,6.0,4.5,1.5
+2022-09-10,Inter,Torino,1.45,4.75,7.0
+2022-09-10,Napoli,Spezia,1.25,6.0,11.0
+2022-09-10,Oud-Heverlee Leuven,Charleroi,2.75,3.5,2.37
+2022-09-10,Schalke 04,Bochum,2.0,3.8,3.5
+2022-09-10,Ein Frankfurt,Wolfsburg,2.0,3.6,3.6
+2022-09-10,Cadiz,Barcelona,13.0,6.5,1.22
+2022-09-10,Nijmegen,For Sittard,1.85,3.75,4.0
+2022-09-10,Espanol,Sevilla,2.87,3.25,2.5
+2022-09-10,Vallecano,Valencia,2.62,3.1,2.87
+2022-09-10,RB Leipzig,Dortmund,2.3,3.9,2.75
+2022-09-10,Konyaspor,Hatayspor,1.7,4.0,4.75
+2022-09-10,Karagumruk,Giresunspor,1.9,3.6,4.0
+2022-09-10,Ajax,Heerenveen,1.18,8.0,12.0
+2022-09-10,Marseille,Lille,1.95,3.75,3.75
+2022-09-10,Paris SG,Brest,1.07,13.0,23.0
+2022-09-10,Karlsruhe,Heidenheim,2.3,3.6,2.9
+2022-09-10,Paderborn,Regensburg,1.44,5.0,6.25
+2022-09-10,Bayern Munich,Stuttgart,1.14,8.0,17.0
+2022-09-10,Fortuna Dusseldorf,Hansa Rostock,1.8,3.8,4.33
+2022-09-10,Hertha,Leverkusen,3.6,4.0,1.9
+2022-09-10,Hoffenheim,Mainz,2.25,3.75,2.9
+2022-09-10,Ath Madrid,Celta,1.61,3.8,6.0
+2022-09-11,Utrecht,Vitesse,1.9,3.75,4.0
+2022-09-11,Feyenoord,Sparta Rotterdam,1.28,6.0,9.0
+2022-09-11,PSV Eindhoven,Waalwijk,1.16,9.0,12.0
+2022-09-11,Sivasspor,Istanbulspor,1.75,3.6,4.75
+2022-09-11,Kasimpasa,Galatasaray,3.75,3.8,1.85
+2022-09-11,Kayserispor,Antalyaspor,2.55,3.5,2.7
+2022-09-11,Gaziantep,Umraniyespor,1.75,3.8,4.5
+2022-09-11,Cambuur,Groningen,2.15,3.5,3.3
+2022-09-11,AZ Alkmaar,Twente,2.1,3.4,3.5
+2022-09-11,Getafe,Sociedad,3.75,3.0,2.15
+2022-09-11,Bologna,Fiorentina,2.9,3.4,2.45
+2022-09-11,Atalanta,Cremonese,1.3,5.5,9.5
+2022-09-11,Cercle Brugge,Antwerp,2.8,3.4,2.4
+2022-09-11,Westerlo,Anderlecht,2.8,3.3,2.45
+2022-09-11,Monaco,Lyon,2.5,3.5,2.7
+2022-09-11,Rennes,Auxerre,1.4,4.75,8.0
+2022-09-11,Toulouse,Reims,2.2,3.5,3.2
+2022-09-11,Freiburg,M'gladbach,2.0,3.6,3.5
+2022-09-11,Lorient,Nantes,2.1,3.25,3.75
+2022-09-11,FC Koln,Union Berlin,2.37,3.4,2.9
+2022-09-11,Angers,Montpellier,2.4,3.6,2.75
+2022-09-11,Ajaccio,Nice,3.3,3.0,2.4
+2022-09-11,St Pauli,Sandhausen,1.66,4.0,5.0
+2022-09-11,St. Gilloise,Genk,2.05,3.5,3.4
+2022-09-11,Kaiserslautern,Darmstadt,3.4,3.6,2.1
+2022-09-11,Magdeburg,Greuther Furth,3.0,3.8,2.2
+2022-09-11,Betis,Villarreal,2.8,3.4,2.5
+2022-09-11,Lecce,Monza,2.25,3.4,3.2
+2022-09-11,Sassuolo,Udinese,2.7,3.5,2.55
+2022-09-11,Lazio,Verona,1.57,4.2,5.5
+2022-09-11,Juventus,Salernitana,1.4,4.5,8.5
+2022-09-11,Gent,Waregem,1.33,5.0,8.0
+2022-09-11,Real Madrid,Mallorca,1.25,6.0,11.0
+2022-09-11,Elche,Ath Bilbao,4.0,3.6,1.9
+2022-09-11,Strasbourg,Clermont,1.66,3.75,5.5
+2022-09-12,Besiktas,Buyuksehyr,1.95,3.5,4.0
+2022-09-12,Almeria,Osasuna,2.6,3.25,2.75
+2022-09-12,Empoli,Roma,5.0,3.8,1.7
+2022-09-12,Ad. Demirspor,Trabzonspor,2.2,3.6,3.0
+2022-09-13,Swansea,Sheffield United,3.4,3.4,2.15
+2022-09-13,Middlesbrough,Cardiff,1.7,3.6,5.25
+2022-09-13,Blackburn,Watford,2.9,3.25,2.5
+2022-09-13,Preston,Burnley,3.0,3.25,2.4
+2022-09-13,Hull,Stoke,2.75,3.25,2.62
+2022-09-13,Huddersfield,Wigan,2.62,3.25,2.75
+2022-09-14,Millwall,QPR,2.25,3.25,3.3
+2022-09-14,Reading,Sunderland,2.6,3.25,2.75
+2022-09-14,West Brom,Birmingham,1.44,4.33,8.0
+2022-09-14,Rotherham,Blackpool,2.3,3.2,3.25
+2022-09-14,Luton,Coventry,2.1,3.4,3.5
+2022-09-14,Norwich,Bristol City,1.65,4.0,5.25
+2022-09-16,Hatayspor,Kayserispor,2.25,3.5,3.2
+2022-09-16,Galatasaray,Konyaspor,1.7,3.8,5.0
+2022-09-16,Valladolid,Cadiz,2.0,3.25,4.0
+2022-09-16,Mainz,Hertha,1.72,4.0,4.33
+2022-09-16,Utrecht,Nijmegen,1.7,3.75,5.0
+2022-09-16,Sandhausen,Hannover,2.9,3.4,2.37
+2022-09-16,Antwerp,Seraing,1.33,5.25,8.0
+2022-09-16,Auxerre,Lorient,2.7,3.3,2.6
+2022-09-16,Aston Villa,Southampton,2.1,3.5,3.5
+2022-09-16,Salernitana,Lecce,2.25,3.3,3.3
+2022-09-16,Nott'm Forest,Fulham,2.75,3.3,2.62
+2022-09-16,Braunschweig,Karlsruhe,3.0,3.6,2.2
+2022-09-17,St Johnstone,Ross County,2.37,3.2,3.2
+2022-09-17,Mechelen,Oud-Heverlee Leuven,1.85,3.8,3.8
+2022-09-17,Livingston,Kilmarnock,2.0,3.3,4.0
+2022-09-17,Hibernian,Aberdeen,2.25,3.25,3.4
+2022-09-17,Charleroi,Westerlo,2.1,3.5,3.4
+2022-09-17,Waregem,St Truiden,2.87,3.25,2.45
+2022-09-17,Rangers,Dundee United,1.11,9.0,21.0
+2022-09-17,Cercle Brugge,Oostende,1.8,3.5,4.5
+2022-09-17,Swansea,Hull,1.8,3.6,4.75
+2022-09-17,Antalyaspor,Ad. Demirspor,2.05,3.8,3.3
+2022-09-17,Hansa Rostock,Magdeburg,2.1,3.75,3.25
+2022-09-17,Darmstadt,Nurnberg,1.65,4.2,4.75
+2022-09-17,Tottenham,Leicester,1.45,4.5,7.0
+2022-09-17,Newcastle,Bournemouth,1.44,4.4,7.5
+2022-09-17,Bielefeld,Holstein Kiel,2.2,3.75,3.0
+2022-09-17,Huddersfield,Cardiff,2.7,3.1,2.8
+2022-09-17,Burnley,Bristol City,1.66,3.8,5.25
+2022-09-17,Hamburg,Fortuna Dusseldorf,1.95,3.8,3.6
+2022-09-17,Umraniyespor,Kasimpasa,2.25,3.6,2.9
+2022-09-17,Bologna,Empoli,2.1,3.5,3.4
+2022-09-17,Torino,Sassuolo,1.8,3.75,4.5
+2022-09-17,Wolves,Man City,9.5,5.0,1.33
+2022-09-17,Augsburg,Bayern Munich,17.0,8.0,1.16
+2022-09-17,Dortmund,Schalke 04,1.36,5.0,8.0
+2022-09-17,Leverkusen,Werder Bremen,1.61,4.33,5.0
+2022-09-17,Stuttgart,Ein Frankfurt,2.25,3.5,3.1
+2022-09-17,Birmingham,Coventry,2.87,3.25,2.55
+2022-09-17,M'gladbach,RB Leipzig,3.0,3.6,2.25
+2022-09-17,Luton,Blackburn,2.3,3.25,3.3
+2022-09-17,Sparta Rotterdam,Groningen,2.2,3.25,3.6
+2022-09-17,Istanbulspor,Besiktas,5.5,4.2,1.53
+2022-09-17,Lille,Toulouse,1.75,3.9,4.5
+2022-09-17,Montpellier,Strasbourg,2.45,3.6,2.7
+2022-09-17,Mallorca,Almeria,2.0,3.3,4.0
+2022-09-17,Barcelona,Elche,1.08,11.0,26.0
+2022-09-17,Valencia,Celta,2.3,3.2,3.3
+2022-09-17,Ath Bilbao,Vallecano,1.53,4.0,6.5
+2022-09-17,Millwall,Blackpool,2.0,3.4,4.0
+2022-09-17,Middlesbrough,Rotherham,1.61,4.0,5.75
+2022-09-17,Watford,Sunderland,2.0,3.5,3.75
+2022-09-17,QPR,Stoke,2.4,3.3,3.0
+2022-09-17,Preston,Sheffield United,3.2,3.3,2.3
+2022-09-17,Norwich,West Brom,2.15,3.5,3.3
+2022-09-17,For Sittard,Excelsior,1.8,4.0,4.2
+2022-09-17,Waalwijk,Cambuur,2.2,3.4,3.3
+2022-09-17,Vitesse,Volendam,1.45,5.0,6.0
+2022-09-17,Wigan,Reading,2.05,3.4,3.8
+2022-09-17,Spezia,Sampdoria,2.7,3.25,2.7
+2022-09-18,Anderlecht,Kortrijk,1.33,5.5,7.5
+2022-09-18,Monza,Juventus,4.5,3.6,1.8
+2022-09-18,Cremonese,Lazio,4.33,3.75,1.8
+2022-09-18,Fiorentina,Verona,1.75,3.8,4.5
+2022-09-18,Roma,Atalanta,2.05,3.5,3.5
+2022-09-18,Milan,Napoli,2.15,3.5,3.3
+2022-09-18,Greuther Furth,Paderborn,3.2,4.0,2.05
+2022-09-18,Heidenheim,Kaiserslautern,1.95,3.8,3.7
+2022-09-18,Regensburg,St Pauli,3.25,3.8,2.1
+2022-09-18,Ath Madrid,Real Madrid,3.1,3.4,2.3
+2022-09-18,Sociedad,Espanol,1.7,3.6,5.0
+2022-09-18,Betis,Girona,1.75,3.6,5.0
+2022-09-18,Villarreal,Sevilla,1.7,3.8,5.0
+2022-09-18,Osasuna,Getafe,1.8,3.4,5.0
+2022-09-18,Genk,Gent,2.2,3.4,3.1
+2022-09-18,Eupen,St. Gilloise,4.0,3.5,1.9
+2022-09-18,Udinese,Inter,3.8,3.6,1.95
+2022-09-18,Brest,Ajaccio,2.05,3.3,4.0
+2022-09-18,Reims,Monaco,3.1,3.5,2.25
+2022-09-18,Marseille,Rennes,2.05,3.6,3.6
+2022-09-18,Buyuksehyr,Karagumruk,1.55,4.2,6.0
+2022-09-18,Trabzonspor,Gaziantep,1.66,4.0,4.75
+2022-09-18,Ankaragucu,Sivasspor,2.37,3.6,2.87
+2022-09-18,Fenerbahce,Alanyaspor,1.45,4.5,6.5
+2022-09-18,AZ Alkmaar,Ajax,4.75,4.2,1.66
+2022-09-18,PSV Eindhoven,Feyenoord,1.85,3.75,4.2
+2022-09-18,Heerenveen,Twente,2.9,3.4,2.4
+2022-09-18,Go Ahead Eagles,FC Emmen,2.5,3.3,2.9
+2022-09-18,Everton,West Ham,2.9,3.25,2.5
+2022-09-18,Clermont,Troyes,2.25,3.4,3.2
+2022-09-18,Motherwell,Hearts,2.75,3.5,2.5
+2022-09-18,St Mirren,Celtic,17.0,7.5,1.16
+2022-09-18,Union Berlin,Wolfsburg,1.95,3.5,3.8
+2022-09-18,Bochum,FC Koln,3.1,3.6,2.2
+2022-09-18,Hoffenheim,Freiburg,2.15,3.6,3.2
+2022-09-18,Brentford,Arsenal,4.2,3.8,1.8
+2022-09-18,Standard,Club Brugge,3.8,3.6,1.9
+2022-09-18,Nice,Angers,1.61,4.0,5.5
+2022-09-18,Nantes,Lens,3.1,3.5,2.2
+2022-09-18,Lyon,Paris SG,4.5,4.75,1.61
+2022-09-30,Standard,Seraing,1.65,4.0,5.25
+2022-09-30,Hull,Luton,3.2,3.25,2.3
+2022-09-30,Ath Bilbao,Almeria,1.33,5.0,9.5
+2022-09-30,Paderborn,Darmstadt,2.25,3.75,2.9
+2022-09-30,Hannover,Hamburg,3.6,3.5,2.0
+2022-09-30,Angers,Marseille,4.5,3.8,1.72
+2022-09-30,Bayern Munich,Leverkusen,1.36,6.0,7.0
+2022-10-01,St Mirren,Livingston,2.3,3.2,3.3
+2022-10-01,FC Koln,Dortmund,3.1,4.0,2.05
+2022-10-01,Freiburg,Mainz,2.1,3.6,3.4
+2022-10-01,RB Leipzig,Bochum,1.22,6.5,12.0
+2022-10-01,Fulham,Newcastle,3.0,3.4,2.37
+2022-10-01,Liverpool,Brighton,1.33,5.25,8.5
+2022-10-01,Twente,Vitesse,1.7,3.75,5.0
+2022-10-01,Ajax,Go Ahead Eagles,1.08,12.0,21.0
+2022-10-01,Groningen,AZ Alkmaar,5.25,3.6,1.72
+2022-10-01,Cambuur,PSV Eindhoven,7.0,7.5,1.28
+2022-10-01,Southampton,Everton,2.15,3.4,3.4
+2022-10-01,Wolfsburg,Stuttgart,2.4,3.4,2.9
+2022-10-01,Werder Bremen,M'gladbach,2.5,3.9,2.5
+2022-10-01,Hearts,Rangers,5.0,4.0,1.7
+2022-10-01,Cadiz,Villarreal,6.0,4.0,1.57
+2022-10-01,Getafe,Valladolid,2.3,3.0,3.5
+2022-10-01,Sevilla,Ath Madrid,3.0,3.2,2.5
+2022-10-01,Mallorca,Barcelona,9.0,5.0,1.36
+2022-10-01,St Pauli,Heidenheim,2.2,3.5,3.2
+2022-10-01,Holstein Kiel,Hansa Rostock,2.05,3.6,3.5
+2022-10-01,Ein Frankfurt,Union Berlin,2.25,3.4,3.2
+2022-10-01,Fortuna Dusseldorf,Bielefeld,1.8,3.75,4.33
+2022-10-01,Aberdeen,Kilmarnock,1.66,3.6,5.75
+2022-10-01,Celtic,Motherwell,1.11,10.0,17.0
+2022-10-01,Dundee United,St Johnstone,2.4,3.2,3.1
+2022-10-01,Crystal Palace,Chelsea,4.2,3.6,1.85
+2022-10-01,Bournemouth,Brentford,3.3,3.4,2.2
+2022-10-01,Arsenal,Tottenham,2.05,3.75,3.3
+2022-10-01,Strasbourg,Rennes,3.0,3.5,2.3
+2022-10-01,Paris SG,Nice,1.16,8.5,13.0
+2022-10-01,Ross County,Hibernian,3.75,3.3,2.05
+2022-10-01,Greuther Furth,Sandhausen,1.9,3.5,4.2
+2022-10-01,West Ham,Wolves,1.95,3.5,4.2
+2022-10-01,Oostende,Genk,4.2,3.8,1.75
+2022-10-01,Kayserispor,Trabzonspor,3.25,3.4,2.0
+2022-10-01,Ad. Demirspor,Galatasaray,2.55,3.3,2.5
+2022-10-01,Inter,Roma,2.0,3.5,3.75
+2022-10-01,Oud-Heverlee Leuven,St. Gilloise,4.5,3.75,1.72
+2022-10-01,West Brom,Swansea,1.72,3.75,4.75
+2022-10-01,Sunderland,Preston,2.3,3.2,3.3
+2022-10-01,Sheffield United,Birmingham,1.44,4.75,7.0
+2022-10-01,Rotherham,Wigan,2.25,3.3,3.2
+2022-10-01,Reading,Huddersfield,2.15,3.25,3.6
+2022-10-01,Coventry,Middlesbrough,2.9,3.3,2.45
+2022-10-01,Cardiff,Burnley,3.0,3.25,2.45
+2022-10-01,Bristol City,QPR,2.3,3.4,3.25
+2022-10-01,Blackpool,Norwich,4.2,3.6,1.85
+2022-10-01,Blackburn,Millwall,2.3,3.25,3.3
+2022-10-01,Empoli,Milan,5.5,4.0,1.6
+2022-10-01,Ankaragucu,Buyuksehyr,3.75,3.4,1.9
+2022-10-01,Kasimpasa,Gaziantep,2.2,3.5,2.87
+2022-10-01,Napoli,Torino,1.6,4.0,5.75
+2022-10-01,Westerlo,Waregem,1.57,4.0,5.25
+2022-10-01,Club Brugge,Mechelen,1.45,4.5,5.75
+2022-10-02,Schalke 04,Augsburg,1.95,3.8,3.6
+2022-10-02,Man City,Man United,1.33,5.75,7.5
+2022-10-02,Leeds,Aston Villa,2.35,3.4,3.0
+2022-10-02,Alanyaspor,Giresunspor,1.85,3.5,3.6
+2022-10-02,Excelsior,Utrecht,5.0,4.2,1.65
+2022-10-02,Girona,Sociedad,3.25,3.2,2.3
+2022-10-02,Karlsruhe,Nurnberg,2.25,3.4,3.2
+2022-10-02,Magdeburg,Regensburg,2.0,3.5,3.75
+2022-10-02,Sassuolo,Salernitana,2.0,3.75,3.5
+2022-10-02,Sampdoria,Monza,2.25,3.4,3.2
+2022-10-02,Lecce,Cremonese,2.05,3.4,3.75
+2022-10-02,Celta,Betis,2.45,3.4,2.87
+2022-10-02,Espanol,Valencia,2.62,3.3,2.7
+2022-10-02,Lazio,Spezia,1.4,5.0,7.5
+2022-10-02,FC Emmen,Heerenveen,3.0,3.3,2.4
+2022-10-02,Waalwijk,Sparta Rotterdam,2.2,3.3,3.4
+2022-10-02,Nijmegen,Feyenoord,6.0,4.0,1.57
+2022-10-02,Sivasspor,Hatayspor,1.95,3.3,3.5
+2022-10-02,Hertha,Hoffenheim,2.75,3.75,2.37
+2022-10-02,Real Madrid,Osasuna,1.3,5.5,9.5
+2022-10-02,Atalanta,Fiorentina,1.95,3.5,4.0
+2022-10-02,Besiktas,Fenerbahce,2.25,3.5,2.75
+2022-10-02,Konyaspor,Umraniyespor,1.6,3.8,5.0
+2022-10-02,Kaiserslautern,Braunschweig,1.85,3.6,4.33
+2022-10-02,Anderlecht,Charleroi,1.6,4.0,5.0
+2022-10-02,Gent,Cercle Brugge,1.6,4.0,5.0
+2022-10-02,Kortrijk,Antwerp,4.5,3.75,1.72
+2022-10-02,St Truiden,Eupen,1.72,3.75,4.33
+2022-10-02,Lorient,Lille,2.87,3.6,2.37
+2022-10-02,Ajaccio,Clermont,2.2,3.1,3.6
+2022-10-02,Auxerre,Brest,2.7,3.5,2.55
+2022-10-02,Toulouse,Montpellier,1.85,3.8,3.75
+2022-10-02,Stoke,Watford,2.5,3.25,2.9
+2022-10-02,For Sittard,Volendam,1.75,4.0,4.2
+2022-10-02,Juventus,Bologna,1.5,4.33,6.5
+2022-10-02,Troyes,Reims,2.5,3.4,2.8
+2022-10-02,Monaco,Nantes,1.53,4.5,5.5
+2022-10-02,Lens,Lyon,2.5,3.8,2.55
+2022-10-03,Karagumruk,Istanbulspor,1.66,3.75,4.5
+2022-10-03,Verona,Udinese,3.25,3.4,2.2
+2022-10-03,Leicester,Nott'm Forest,1.75,4.0,4.33
+2022-10-03,Vallecano,Elche,1.72,3.6,5.25
+2022-10-04,Bristol City,Coventry,2.0,3.5,3.8
+2022-10-04,Cardiff,Blackburn,2.3,3.4,3.1
+2022-10-04,Sunderland,Blackpool,1.9,3.5,4.0
+2022-10-04,Sheffield United,QPR,1.7,3.6,5.25
+2022-10-04,Ross County,Motherwell,2.87,3.3,2.45
+2022-10-04,Luton,Huddersfield,1.75,3.4,5.25
+2022-10-04,Reading,Norwich,4.2,3.5,1.85
+2022-10-05,Burnley,Stoke,1.72,3.6,5.25
+2022-10-05,Watford,Swansea,1.9,3.4,4.2
+2022-10-05,Middlesbrough,Birmingham,1.65,3.75,5.75
+2022-10-05,Hull,Wigan,2.62,3.25,2.75
+2022-10-05,Preston,West Brom,3.1,3.3,2.4
+2022-10-05,Rotherham,Millwall,2.6,3.2,2.75
+2022-10-05,Kilmarnock,St Johnstone,2.3,3.2,3.3
+2022-10-07,QPR,Reading,1.95,3.4,3.8
+2022-10-07,Bielefeld,Karlsruhe,3.3,3.75,2.1
+2022-10-07,Regensburg,Greuther Furth,3.0,3.5,2.25
+2022-10-07,Gaziantep,Ad. Demirspor,2.8,3.5,2.25
+2022-10-07,Osasuna,Valencia,2.4,3.2,3.1
+2022-10-07,Lyon,Toulouse,1.45,5.0,6.0
+2022-10-07,Antwerp,St Truiden,1.9,3.6,3.8
+2022-10-07,Groningen,Waalwijk,2.3,3.5,3.1
+2022-10-07,Hoffenheim,Werder Bremen,1.95,3.8,3.5
+2022-10-08,Ath Madrid,Girona,1.45,4.33,7.5
+2022-10-08,Getafe,Real Madrid,6.5,4.5,1.5
+2022-10-08,Hibernian,Motherwell,1.75,3.6,4.75
+2022-10-08,Augsburg,Wolfsburg,2.9,3.4,2.4
+2022-10-08,Livingston,Ross County,1.9,3.4,4.2
+2022-10-08,Dortmund,Bayern Munich,4.33,4.75,1.65
+2022-10-08,Mainz,RB Leipzig,3.0,3.6,2.3
+2022-10-08,Leverkusen,Schalke 04,1.45,4.5,7.0
+2022-10-08,Bochum,Ein Frankfurt,3.75,3.8,1.9
+2022-10-08,Sevilla,Ath Bilbao,3.0,3.3,2.4
+2022-10-08,Giresunspor,Besiktas,4.0,3.6,1.8
+2022-10-08,Dundee United,Aberdeen,3.6,3.3,2.05
+2022-10-08,Almeria,Vallecano,2.9,3.3,2.55
+2022-10-08,Antalyaspor,Konyaspor,2.4,3.4,2.7
+2022-10-08,Reims,Paris SG,7.0,5.5,1.4
+2022-10-08,Marseille,Ajaccio,1.33,4.75,10.0
+2022-10-08,Club Brugge,Westerlo,1.53,4.33,5.25
+2022-10-08,Waregem,Oud-Heverlee Leuven,2.62,3.6,2.45
+2022-10-08,Seraing,Oostende,2.75,3.4,2.4
+2022-10-08,Genk,Kortrijk,1.3,5.5,8.5
+2022-10-08,Istanbulspor,Ankaragucu,2.5,3.4,2.62
+2022-10-08,Rangers,St Mirren,1.2,6.0,15.0
+2022-10-08,Bournemouth,Leicester,3.6,3.4,2.05
+2022-10-08,Chelsea,Wolves,1.4,4.5,8.0
+2022-10-08,Man City,Southampton,1.11,10.0,17.0
+2022-10-08,Volendam,Ajax,11.0,9.0,1.18
+2022-10-08,Hamburg,Kaiserslautern,1.57,4.33,5.0
+2022-10-08,Hansa Rostock,Paderborn,3.5,3.75,2.0
+2022-10-08,Darmstadt,Fortuna Dusseldorf,1.95,3.8,3.5
+2022-10-08,Braunschweig,St Pauli,3.1,3.75,2.15
+2022-10-08,Birmingham,Bristol City,2.7,3.25,2.6
+2022-10-08,Blackburn,Rotherham,1.9,3.4,4.2
+2022-10-08,Blackpool,Watford,3.2,3.4,2.25
+2022-10-08,Coventry,Burnley,3.1,3.3,2.37
+2022-10-08,Nijmegen,Excelsior,1.5,4.2,6.5
+2022-10-08,Millwall,Middlesbrough,2.7,3.2,2.7
+2022-10-08,Sparta Rotterdam,FC Emmen,2.05,3.5,3.5
+2022-10-08,Stoke,Sheffield United,2.9,3.4,2.4
+2022-10-08,Swansea,Sunderland,2.2,3.4,3.3
+2022-10-08,West Brom,Luton,1.95,3.6,3.8
+2022-10-08,Wigan,Cardiff,2.5,3.1,3.1
+2022-10-08,Newcastle,Brentford,1.83,3.8,4.2
+2022-10-08,St Johnstone,Celtic,13.0,7.0,1.2
+2022-10-08,Bologna,Sampdoria,2.05,3.5,3.6
+2022-10-08,Norwich,Preston,1.7,3.6,5.25
+2022-10-08,Brighton,Tottenham,2.8,3.4,2.5
+2022-10-08,Milan,Juventus,2.05,3.4,3.6
+2022-10-08,Sassuolo,Inter,4.33,4.2,1.7
+2022-10-09,Go Ahead Eagles,Cambuur,2.25,3.75,2.9
+2022-10-09,Heerenveen,PSV Eindhoven,5.25,4.33,1.57
+2022-10-09,Utrecht,AZ Alkmaar,3.0,3.6,2.25
+2022-10-09,Kilmarnock,Hearts,3.25,3.4,2.2
+2022-10-09,Vitesse,For Sittard,1.6,4.33,5.0
+2022-10-09,Feyenoord,Twente,1.66,3.8,5.0
+2022-10-09,Charleroi,Standard,2.1,3.5,3.2
+2022-10-09,Sociedad,Villarreal,2.5,3.4,2.75
+2022-10-09,Cadiz,Espanol,2.87,3.2,2.55
+2022-10-09,Umraniyespor,Kayserispor,2.55,3.5,2.6
+2022-10-09,Valladolid,Betis,2.8,3.4,2.4
+2022-10-09,Hatayspor,Alanyaspor,2.45,3.5,2.55
+2022-10-09,St. Gilloise,Cercle Brugge,1.53,4.2,5.25
+2022-10-09,Roma,Lecce,1.33,5.25,8.5
+2022-10-09,Torino,Empoli,1.72,3.6,5.0
+2022-10-09,Monza,Spezia,1.9,3.6,4.0
+2022-10-09,Salernitana,Verona,2.4,3.4,2.87
+2022-10-09,Udinese,Atalanta,2.5,3.4,2.75
+2022-10-09,Cremonese,Napoli,7.0,4.5,1.45
+2022-10-09,Barcelona,Celta,1.28,6.0,9.0
+2022-10-09,Fenerbahce,Karagumruk,1.36,5.0,6.5
+2022-10-09,Huddersfield,Hull,2.37,3.3,3.1
+2022-10-09,Stuttgart,Union Berlin,2.55,3.1,2.9
+2022-10-09,Clermont,Auxerre,2.1,3.5,3.5
+2022-10-09,Brest,Lorient,2.3,3.5,3.0
+2022-10-09,Angers,Strasbourg,2.62,3.4,2.6
+2022-10-09,Montpellier,Monaco,3.6,4.0,1.9
+2022-10-09,Rennes,Nantes,1.5,4.33,6.0
+2022-10-09,Crystal Palace,Leeds,2.05,3.5,3.6
+2022-10-09,Heidenheim,Hannover,2.1,3.6,3.2
+2022-10-09,West Ham,Fulham,1.72,3.8,4.75
+2022-10-09,Lille,Lens,2.45,3.6,2.7
+2022-10-09,Hertha,Freiburg,3.0,3.5,2.3
+2022-10-09,Mechelen,Anderlecht,3.75,3.75,1.85
+2022-10-09,Arsenal,Liverpool,2.5,3.6,2.62
+2022-10-09,Nice,Troyes,1.72,3.6,5.0
+2022-10-09,M'gladbach,FC Koln,1.95,3.75,3.6
+2022-10-09,Everton,Man United,3.6,3.5,2.05
+2022-10-09,Nurnberg,Holstein Kiel,2.2,3.75,3.0
+2022-10-09,Sandhausen,Magdeburg,2.4,3.6,2.7
+2022-10-09,Eupen,Gent,4.2,3.6,1.75
+2022-10-10,Buyuksehyr,Sivasspor,1.53,4.0,5.5
+2022-10-10,Fiorentina,Lazio,2.4,3.5,2.8
+2022-10-10,Nott'm Forest,Aston Villa,3.3,3.4,2.2
+2022-10-10,Elche,Mallorca,3.0,3.1,2.5
+2022-10-10,Trabzonspor,Kasimpasa,1.4,4.75,7.0
+2022-10-11,Wigan,Blackburn,2.87,3.1,2.6
+2022-10-11,Dundee United,Hibernian,4.0,3.6,1.9
+2022-10-12,Bristol City,Preston,2.45,3.2,3.2
+2022-10-14,St Pauli,Hamburg,3.1,3.5,2.25
+2022-10-14,Brentford,Brighton,3.1,3.4,2.3
+2022-10-14,Greuther Furth,Hansa Rostock,2.2,3.4,3.3
+2022-10-14,Strasbourg,Lille,3.1,3.3,2.37
+2022-10-14,Westerlo,Seraing,1.57,3.8,5.75
+2022-10-14,Schalke 04,Hoffenheim,3.6,3.8,1.95
+2022-10-14,Vallecano,Getafe,2.05,3.2,3.8
+2022-10-14,Alanyaspor,Antalyaspor,2.25,3.25,3.1
+2022-10-14,FC Emmen,Volendam,1.9,3.75,3.75
+2022-10-15,Preston,Stoke,2.37,3.2,3.1
+2022-10-15,Middlesbrough,Blackburn,2.0,3.4,3.75
+2022-10-15,Cardiff,Coventry,2.2,3.3,3.4
+2022-10-15,Burnley,Swansea,1.75,3.75,4.6
+2022-10-15,Bristol City,Millwall,2.4,3.2,3.0
+2022-10-15,Rotherham,Huddersfield,2.15,3.3,3.5
+2022-10-15,Luton,QPR,2.1,3.4,3.5
+2022-10-15,For Sittard,Waalwijk,2.25,3.75,2.9
+2022-10-15,Reading,West Brom,3.4,3.5,2.1
+2022-10-15,Lorient,Reims,2.25,3.4,3.25
+2022-10-15,Torino,Juventus,3.0,3.1,2.5
+2022-10-15,Kortrijk,Waregem,1.95,3.75,3.5
+2022-10-15,Atalanta,Sassuolo,1.65,4.0,5.0
+2022-10-15,Hannover,Bielefeld,1.9,3.75,4.0
+2022-10-15,Magdeburg,Braunschweig,2.2,3.6,3.0
+2022-10-15,Cercle Brugge,Eupen,1.8,3.6,4.2
+2022-10-15,Watford,Norwich,2.75,3.3,2.55
+2022-10-15,Sunderland,Wigan,2.15,3.3,3.5
+2022-10-15,Sheffield United,Blackpool,1.57,4.0,6.0
+2022-10-15,Go Ahead Eagles,Heerenveen,2.75,3.3,2.5
+2022-10-15,Karagumruk,Hatayspor,1.9,3.6,3.6
+2022-10-15,Lens,Montpellier,1.4,5.0,7.0
+2022-10-15,Ath Bilbao,Ath Madrid,2.45,3.2,3.0
+2022-10-15,Valencia,Elche,1.4,4.75,7.5
+2022-10-15,Ein Frankfurt,Leverkusen,2.75,3.6,2.45
+2022-10-15,Stuttgart,Bochum,1.65,4.0,5.25
+2022-10-15,Werder Bremen,Mainz,2.37,3.6,2.87
+2022-10-15,Wolfsburg,M'gladbach,2.62,3.5,2.6
+2022-10-15,RB Leipzig,Hertha,1.4,5.0,7.0
+2022-10-15,Karlsruhe,Darmstadt,2.8,3.4,2.5
+2022-10-15,Fortuna Dusseldorf,Nurnberg,1.9,3.8,3.75
+2022-10-15,Empoli,Monza,2.55,3.3,2.8
+2022-10-15,Mallorca,Sevilla,2.9,3.0,2.7
+2022-10-15,Cambuur,Vitesse,2.62,3.5,2.6
+2022-10-15,St Truiden,Charleroi,2.1,3.3,3.5
+2022-10-15,Leicester,Crystal Palace,2.3,3.4,3.1
+2022-10-15,Fulham,Bournemouth,1.85,3.75,4.0
+2022-10-15,Kasimpasa,Ad. Demirspor,3.0,3.5,2.2
+2022-10-15,Kayserispor,Galatasaray,4.2,3.6,1.83
+2022-10-15,Konyaspor,Gaziantep,1.8,3.75,4.2
+2022-10-15,Girona,Cadiz,1.9,3.3,4.5
+2022-10-15,Celtic,Hibernian,1.25,6.0,13.0
+2022-10-15,Wolves,Nott'm Forest,1.7,3.75,5.0
+2022-10-15,Ross County,Dundee United,2.37,3.25,3.1
+2022-10-15,Livingston,St Johnstone,2.0,3.25,4.2
+2022-10-15,Oud-Heverlee Leuven,Genk,4.33,4.2,1.66
+2022-10-15,St Mirren,Kilmarnock,2.05,3.25,3.8
+2022-10-15,Tottenham,Everton,1.5,4.5,6.5
+2022-10-16,Motherwell,Rangers,8.5,4.75,1.4
+2022-10-16,Aberdeen,Hearts,2.3,3.3,3.2
+2022-10-16,Southampton,West Ham,2.9,3.4,2.4
+2022-10-16,Hull,Birmingham,2.6,3.3,2.75
+2022-10-16,Man United,Newcastle,1.95,3.8,3.5
+2022-10-16,Liverpool,Man City,3.6,4.0,1.9
+2022-10-16,Monaco,Clermont,1.36,5.25,8.0
+2022-10-16,Leeds,Arsenal,6.0,4.2,1.55
+2022-10-16,Troyes,Ajaccio,2.15,3.2,3.6
+2022-10-16,Twente,Groningen,1.4,4.75,7.0
+2022-10-16,Rennes,Lyon,2.3,3.7,2.87
+2022-10-16,Buyuksehyr,Istanbulspor,1.44,4.75,6.5
+2022-10-16,Inter,Salernitana,1.3,5.75,9.0
+2022-10-16,Lazio,Udinese,2.2,3.5,3.25
+2022-10-16,Napoli,Bologna,1.25,6.0,11.0
+2022-10-16,Spezia,Cremonese,2.45,3.2,3.1
+2022-10-16,Besiktas,Trabzonspor,2.05,3.6,3.4
+2022-10-16,Bayern Munich,Freiburg,1.25,6.5,9.0
+2022-10-16,Union Berlin,Dortmund,2.9,3.5,2.37
+2022-10-16,FC Koln,Augsburg,1.66,4.0,5.0
+2022-10-16,Holstein Kiel,Heidenheim,2.45,3.5,2.87
+2022-10-16,Kaiserslautern,Regensburg,1.75,3.8,4.75
+2022-10-16,Paderborn,Sandhausen,1.5,4.33,6.5
+2022-10-16,Aston Villa,Chelsea,4.33,3.75,1.8
+2022-10-16,Nantes,Brest,2.2,3.3,3.4
+2022-10-16,Paris SG,Marseille,1.36,5.5,7.5
+2022-10-16,Celta,Sociedad,2.6,3.2,2.8
+2022-10-16,Betis,Almeria,1.57,4.1,5.75
+2022-10-16,Espanol,Valladolid,2.2,3.3,3.5
+2022-10-16,Real Madrid,Barcelona,2.2,3.6,3.1
+2022-10-16,Anderlecht,Club Brugge,2.5,3.5,2.7
+2022-10-16,Auxerre,Nice,3.6,3.5,2.05
+2022-10-16,Verona,Milan,6.0,4.0,1.57
+2022-10-16,Toulouse,Angers,1.83,3.8,4.0
+2022-10-16,AZ Alkmaar,Feyenoord,2.45,3.5,2.75
+2022-10-16,Gent,Mechelen,1.45,4.5,6.0
+2022-10-16,Standard,Antwerp,2.87,3.5,2.3
+2022-10-16,Ajax,Excelsior,1.05,13.0,29.0
+2022-10-16,Sparta Rotterdam,Nijmegen,2.37,3.4,3.0
+2022-10-16,PSV Eindhoven,Utrecht,1.36,5.0,7.5
+2022-10-16,Oostende,St. Gilloise,4.33,3.75,1.75
+2022-10-17,Sampdoria,Roma,4.75,3.75,1.72
+2022-10-17,Lecce,Fiorentina,3.75,3.4,2.05
+2022-10-17,Ankaragucu,Fenerbahce,4.75,4.0,1.65
+2022-10-17,Villarreal,Osasuna,1.57,4.2,6.0
+2022-10-17,Sivasspor,Giresunspor,2.05,3.3,3.5
+2022-10-18,Blackburn,Sunderland,2.25,3.2,3.4
+2022-10-18,Sevilla,Valencia,2.25,3.4,3.2
+2022-10-18,West Brom,Bristol City,1.7,3.8,5.0
+2022-10-18,Stoke,Rotherham,1.9,3.5,4.2
+2022-10-18,Huddersfield,Preston,2.7,3.1,2.75
+2022-10-18,Getafe,Ath Bilbao,4.75,3.3,1.83
+2022-10-18,Brighton,Nott'm Forest,1.4,4.75,7.0
+2022-10-18,Swansea,Reading,2.05,3.4,3.8
+2022-10-18,Seraing,Cercle Brugge,3.8,3.6,1.9
+2022-10-18,Genk,Westerlo,1.57,4.2,5.0
+2022-10-18,Eupen,Oud-Heverlee Leuven,2.62,3.5,2.45
+2022-10-18,Charleroi,Kortrijk,1.66,4.0,4.5
+2022-10-18,Norwich,Luton,1.9,3.5,4.0
+2022-10-18,Crystal Palace,Wolves,2.25,3.1,3.4
+2022-10-18,Ath Madrid,Vallecano,1.55,3.75,7.0
+2022-10-19,Club Brugge,St Truiden,1.5,4.5,5.75
+2022-10-19,St. Gilloise,Gent,2.05,3.4,3.4
+2022-10-19,Mechelen,Standard,2.55,3.4,2.62
+2022-10-19,Valladolid,Celta,2.9,3.3,2.45
+2022-10-19,Newcastle,Everton,1.6,3.8,5.75
+2022-10-19,Millwall,Watford,2.6,3.2,2.8
+2022-10-19,Wigan,Middlesbrough,2.8,3.25,2.6
+2022-10-19,QPR,Cardiff,2.15,3.4,3.4
+2022-10-19,Coventry,Sheffield United,2.9,3.1,2.6
+2022-10-19,Blackpool,Hull,2.05,3.4,3.75
+2022-10-19,Cadiz,Betis,4.0,3.3,2.0
+2022-10-19,Bournemouth,Southampton,2.62,3.3,2.62
+2022-10-19,Brentford,Chelsea,4.75,3.8,1.72
+2022-10-19,Liverpool,West Ham,1.4,5.0,7.0
+2022-10-19,Sociedad,Mallorca,1.55,4.0,6.5
+2022-10-19,Man United,Tottenham,2.45,3.5,2.75
+2022-10-19,Elche,Real Madrid,8.5,5.75,1.3
+2022-10-19,Birmingham,Burnley,3.6,3.3,2.1
+2022-10-20,Almeria,Girona,2.6,3.25,2.8
+2022-10-20,Osasuna,Espanol,2.05,3.6,3.5
+2022-10-20,Antwerp,Oostende,1.57,4.2,5.0
+2022-10-20,Leicester,Leeds,2.25,3.6,3.0
+2022-10-20,Fulham,Aston Villa,2.9,3.3,2.5
+2022-10-20,Waregem,Anderlecht,5.25,4.2,1.57
+2022-10-20,Barcelona,Villarreal,1.5,4.5,6.0
+2022-10-21,Darmstadt,Holstein Kiel,1.75,4.0,4.5
+2022-10-21,Hibernian,St Johnstone,1.65,3.8,5.75
+2022-10-21,Antalyaspor,Istanbulspor,1.72,3.6,4.5
+2022-10-21,Cercle Brugge,Charleroi,2.0,3.4,3.8
+2022-10-21,Ajaccio,Paris SG,9.0,5.5,1.3
+2022-10-21,Juventus,Empoli,1.4,5.0,7.0
+2022-10-21,Hansa Rostock,Kaiserslautern,2.87,3.4,2.45
+2022-10-21,Mainz,FC Koln,2.15,3.5,3.25
+2022-10-22,Millwall,West Brom,2.75,3.1,2.75
+2022-10-22,Middlesbrough,Huddersfield,1.66,3.75,5.5
+2022-10-22,Rotherham,Hull,2.25,3.3,3.3
+2022-10-22,Blackpool,Preston,2.62,3.2,2.8
+2022-10-22,Sheffield United,Norwich,2.3,3.3,3.25
+2022-10-22,Kortrijk,Westerlo,2.87,3.5,2.3
+2022-10-22,Mechelen,Eupen,1.85,3.8,3.75
+2022-10-22,St Truiden,Oud-Heverlee Leuven,2.0,3.4,3.6
+2022-10-22,St. Gilloise,Club Brugge,2.6,3.4,2.6
+2022-10-22,Reading,Bristol City,2.5,3.25,2.9
+2022-10-22,Blackburn,Birmingham,2.05,3.25,3.75
+2022-10-22,Marseille,Lens,2.15,3.5,3.3
+2022-10-22,Chelsea,Man United,2.05,3.5,3.5
+2022-10-22,Man City,Brighton,1.2,7.0,13.0
+2022-10-22,Everton,Crystal Palace,2.6,3.2,2.87
+2022-10-22,Nott'm Forest,Liverpool,11.0,6.0,1.25
+2022-10-22,Stoke,Coventry,2.15,3.3,3.5
+2022-10-22,Fenerbahce,Buyuksehyr,1.9,3.6,3.6
+2022-10-22,M'gladbach,Ein Frankfurt,2.3,3.75,2.87
+2022-10-22,Leverkusen,Wolfsburg,1.7,4.2,4.5
+2022-10-22,Hoffenheim,Bayern Munich,5.5,5.0,1.5
+2022-10-22,Freiburg,Werder Bremen,1.9,3.75,3.8
+2022-10-22,Dortmund,Stuttgart,1.53,4.75,5.5
+2022-10-22,Augsburg,RB Leipzig,5.5,4.33,1.57
+2022-10-22,Trabzonspor,Sivasspor,1.6,4.2,4.75
+2022-10-22,Umraniyespor,Karagumruk,2.45,3.4,2.7
+2022-10-22,Montpellier,Lyon,4.0,3.8,1.85
+2022-10-22,Sunderland,Burnley,3.2,3.25,2.3
+2022-10-22,QPR,Wigan,1.95,3.5,4.0
+2022-10-22,Nurnberg,Hannover,2.0,3.6,3.75
+2022-10-22,Bielefeld,St Pauli,3.0,3.5,2.3
+2022-10-22,Real Madrid,Sevilla,1.36,4.75,8.5
+2022-10-22,Regensburg,Sandhausen,2.2,3.4,3.3
+2022-10-22,Fiorentina,Inter,3.6,3.5,2.05
+2022-10-22,Milan,Monza,1.4,5.0,7.5
+2022-10-22,Salernitana,Spezia,2.0,3.5,3.8
+2022-10-22,Braunschweig,Paderborn,3.75,3.8,1.9
+2022-10-22,St Mirren,Dundee United,2.05,3.2,3.8
+2022-10-22,Rangers,Livingston,1.16,8.0,15.0
+2022-10-22,Vallecano,Cadiz,1.72,3.5,5.25
+2022-10-22,Valladolid,Sociedad,3.6,3.4,2.05
+2022-10-22,Valencia,Mallorca,1.75,3.5,5.0
+2022-10-22,Motherwell,Aberdeen,2.75,3.25,2.62
+2022-10-22,Kilmarnock,Ross County,2.0,3.25,4.2
+2022-10-22,Hearts,Celtic,9.5,5.5,1.3
+2022-10-22,Vitesse,FC Emmen,1.8,3.5,4.75
+2022-10-22,Waalwijk,Ajax,8.5,7.0,1.25
+2022-10-22,Feyenoord,For Sittard,1.2,8.0,10.0
+2022-10-23,Reims,Auxerre,1.83,3.6,4.2
+2022-10-23,Southampton,Arsenal,6.0,4.0,1.57
+2022-10-23,Villarreal,Almeria,1.36,4.75,9.0
+2022-10-23,Angers,Rennes,4.0,4.0,1.83
+2022-10-23,Clermont,Brest,2.37,3.4,3.0
+2022-10-23,Leeds,Fulham,2.05,3.5,3.6
+2022-10-23,Toulouse,Strasbourg,2.2,3.5,3.2
+2022-10-23,Lille,Monaco,2.45,3.7,2.7
+2022-10-23,Nice,Nantes,1.85,3.5,4.33
+2022-10-23,Hamburg,Magdeburg,1.5,4.75,6.0
+2022-10-23,Heidenheim,Greuther Furth,2.0,3.6,3.6
+2022-10-23,Karlsruhe,Fortuna Dusseldorf,2.37,3.5,3.0
+2022-10-23,Wolves,Leicester,2.25,3.25,3.25
+2022-10-23,Tottenham,Newcastle,2.05,3.5,3.5
+2022-10-23,Bochum,Union Berlin,4.33,3.4,1.9
+2022-10-23,Hertha,Schalke 04,1.75,3.75,4.75
+2022-10-23,Barcelona,Ath Bilbao,1.55,4.5,5.5
+2022-10-23,Kasimpasa,Kayserispor,2.15,3.4,3.1
+2022-10-23,Ad. Demirspor,Konyaspor,2.15,3.4,3.2
+2022-10-23,Galatasaray,Alanyaspor,1.53,4.2,5.25
+2022-10-23,Troyes,Lorient,2.3,3.5,3.0
+2022-10-23,Aston Villa,Brentford,2.1,3.5,3.5
+2022-10-23,Girona,Osasuna,2.55,3.2,2.9
+2022-10-23,Espanol,Elche,1.66,3.75,5.25
+2022-10-23,Excelsior,AZ Alkmaar,8.0,5.0,1.36
+2022-10-23,Cambuur,Twente,4.5,4.0,1.72
+2022-10-23,Groningen,PSV Eindhoven,9.5,5.0,1.36
+2022-10-23,Nijmegen,Go Ahead Eagles,1.95,3.6,4.0
+2022-10-23,Utrecht,Sparta Rotterdam,1.72,3.75,5.0
+2022-10-23,Watford,Luton,2.2,3.3,3.4
+2022-10-23,Swansea,Cardiff,2.1,3.3,3.5
+2022-10-23,Betis,Ath Madrid,3.2,3.3,2.3
+2022-10-23,Udinese,Torino,2.0,3.3,4.0
+2022-10-23,Bologna,Lecce,2.15,3.2,3.75
+2022-10-23,Atalanta,Lazio,1.95,3.5,4.0
+2022-10-23,Roma,Napoli,2.87,3.5,2.4
+2022-10-23,Antwerp,Genk,2.62,3.4,2.45
+2022-10-23,Volendam,Heerenveen,3.3,3.4,2.2
+2022-10-23,Standard,Anderlecht,3.0,3.5,2.2
+2022-10-23,Oostende,Waregem,2.05,3.5,3.4
+2022-10-23,Gent,Seraing,1.36,5.0,7.0
+2022-10-24,Cremonese,Sampdoria,2.4,3.3,3.0
+2022-10-24,Hatayspor,Besiktas,4.5,3.8,1.66
+2022-10-24,Giresunspor,Ankaragucu,2.2,3.25,3.1
+2022-10-24,Sassuolo,Verona,1.95,3.5,4.0
+2022-10-24,Celta,Getafe,1.75,3.5,5.0
+2022-10-24,West Ham,Bournemouth,1.55,4.0,6.0
+2022-10-25,Burnley,Norwich,2.1,3.4,3.5
+2022-10-25,Coventry,Rotherham,1.72,3.5,5.25
+2022-10-28,Werder Bremen,Hertha,2.0,3.8,3.4
+2022-10-28,Mallorca,Espanol,2.25,3.1,3.4
+2022-10-28,Lens,Toulouse,1.55,4.5,5.5
+2022-10-28,Karagumruk,Galatasaray,4.33,3.5,1.75
+2022-10-28,Greuther Furth,Bielefeld,2.05,3.6,3.5
+2022-10-28,Magdeburg,Heidenheim,2.8,3.6,2.3
+2022-10-28,Birmingham,QPR,2.25,3.3,3.2
+2022-10-28,Genk,Mechelen,1.36,5.25,7.0
+2022-10-29,Bournemouth,Tottenham,5.0,3.8,1.7
+2022-10-29,Brentford,Wolves,2.2,3.4,3.3
+2022-10-29,Brighton,Chelsea,3.0,3.3,2.4
+2022-10-29,St Johnstone,Kilmarnock,2.45,3.0,3.2
+2022-10-29,Hibernian,St Mirren,1.72,3.6,5.0
+2022-10-29,Rangers,Aberdeen,1.36,5.5,7.0
+2022-10-29,Paris SG,Troyes,1.09,11.0,23.0
+2022-10-29,Kortrijk,Cercle Brugge,3.6,3.6,1.95
+2022-10-29,Valencia,Barcelona,5.0,4.33,1.57
+2022-10-29,Sevilla,Vallecano,2.0,3.3,4.0
+2022-10-29,Almeria,Celta,3.3,3.3,2.25
+2022-10-29,Waregem,Standard,3.0,3.6,2.2
+2022-10-29,Dundee United,Motherwell,2.62,3.2,2.8
+2022-10-29,Strasbourg,Marseille,2.9,3.5,2.37
+2022-10-29,Club Brugge,Oostende,1.25,6.0,10.0
+2022-10-29,Westerlo,St Truiden,2.2,3.25,3.4
+2022-10-29,Leicester,Man City,10.0,6.5,1.25
+2022-10-29,Cadiz,Ath Madrid,7.0,3.6,1.6
+2022-10-29,Norwich,Stoke,2.0,3.3,4.0
+2022-10-29,Alanyaspor,Gaziantep,1.9,3.75,3.5
+2022-10-29,Liverpool,Leeds,1.3,6.0,9.0
+2022-10-29,Inter,Sampdoria,1.25,6.0,12.0
+2022-10-29,Lecce,Juventus,4.33,3.3,1.9
+2022-10-29,Napoli,Sassuolo,1.28,6.0,8.5
+2022-10-29,Crystal Palace,Southampton,1.9,3.6,4.0
+2022-10-29,Bayern Munich,Mainz,1.25,6.5,11.0
+2022-10-29,Stuttgart,Augsburg,1.8,3.8,4.33
+2022-10-29,Regensburg,Hansa Rostock,2.25,3.4,3.2
+2022-10-29,Holstein Kiel,Fortuna Dusseldorf,2.5,3.6,2.7
+2022-10-29,Newcastle,Aston Villa,1.8,3.75,4.5
+2022-10-29,Fulham,Everton,2.37,3.4,3.0
+2022-10-29,Go Ahead Eagles,Excelsior,1.72,4.0,4.5
+2022-10-29,Sparta Rotterdam,For Sittard,1.95,3.75,3.6
+2022-10-29,Heerenveen,Utrecht,2.25,3.5,3.1
+2022-10-29,Kaiserslautern,Nurnberg,2.25,3.5,3.1
+2022-10-29,Wolfsburg,Bochum,1.65,4.2,4.75
+2022-10-29,RB Leipzig,Leverkusen,1.8,4.0,4.1
+2022-10-29,Konyaspor,Kasimpasa,1.66,3.8,4.5
+2022-10-29,Luton,Sunderland,2.0,3.3,4.0
+2022-10-29,Hull,Blackburn,2.5,3.2,2.9
+2022-10-29,Huddersfield,Millwall,3.0,3.25,2.4
+2022-10-29,Coventry,Blackpool,1.95,3.4,4.0
+2022-10-29,Wigan,Watford,3.1,3.25,2.37
+2022-10-29,Bristol City,Swansea,2.3,3.4,3.1
+2022-10-29,Cardiff,Rotherham,1.9,3.25,4.33
+2022-10-29,St Pauli,Darmstadt,2.6,3.5,2.6
+2022-10-29,Ein Frankfurt,Dortmund,2.75,3.75,2.4
+2022-10-29,Preston,Middlesbrough,2.8,3.0,2.75
+2022-10-29,West Brom,Sheffield United,2.2,3.3,3.4
+2022-10-29,Burnley,Reading,1.61,4.0,5.5
+2022-10-30,Ath Bilbao,Villarreal,2.2,3.3,3.4
+2022-10-30,Sociedad,Betis,2.0,3.5,3.8
+2022-10-30,Lazio,Salernitana,1.5,4.5,6.5
+2022-10-30,Ross County,Hearts,4.0,3.5,1.95
+2022-10-30,Empoli,Atalanta,4.33,3.8,1.8
+2022-10-30,Cremonese,Udinese,4.0,3.8,1.85
+2022-10-30,Spezia,Fiorentina,4.0,3.6,1.9
+2022-10-30,Livingston,Celtic,11.0,6.0,1.25
+2022-10-30,Torino,Milan,3.75,3.3,2.1
+2022-10-30,Anderlecht,Eupen,1.44,4.75,6.0
+2022-10-30,Arsenal,Nott'm Forest,1.2,7.0,12.0
+2022-10-30,Paderborn,Hamburg,2.25,3.8,2.9
+2022-10-30,Charleroi,Antwerp,3.4,3.5,2.05
+2022-10-30,Sandhausen,Braunschweig,2.75,3.25,2.62
+2022-10-30,Istanbulspor,Fenerbahce,5.75,4.33,1.45
+2022-10-30,Kayserispor,Ad. Demirspor,2.7,3.6,2.3
+2022-10-30,Besiktas,Umraniyespor,1.33,5.0,7.5
+2022-10-30,Ankaragucu,Hatayspor,1.95,3.5,3.5
+2022-10-30,AZ Alkmaar,Volendam,1.2,7.0,13.0
+2022-10-30,Real Madrid,Girona,1.2,6.5,13.0
+2022-10-30,Man United,West Ham,1.66,4.0,4.8
+2022-10-30,FC Koln,Hoffenheim,2.9,3.5,2.37
+2022-10-30,Schalke 04,Freiburg,4.0,3.75,1.9
+2022-10-30,Union Berlin,M'gladbach,2.05,3.4,3.8
+2022-10-30,Osasuna,Valladolid,1.9,3.4,4.33
+2022-10-30,Lyon,Lille,2.0,3.75,3.5
+2022-10-30,Hannover,Karlsruhe,2.4,3.5,2.87
+2022-10-30,FC Emmen,Groningen,2.25,3.5,3.1
+2022-10-30,PSV Eindhoven,Nijmegen,1.22,7.0,11.0
+2022-10-30,Twente,Waalwijk,1.5,4.5,6.0
+2022-10-30,Auxerre,Ajaccio,2.6,3.1,2.9
+2022-10-30,Brest,Reims,2.62,3.3,2.7
+2022-10-30,Monaco,Angers,1.4,5.25,7.0
+2022-10-30,Seraing,St. Gilloise,6.0,4.2,1.53
+2022-10-30,Oud-Heverlee Leuven,Gent,3.75,3.6,1.95
+2022-10-30,Nantes,Clermont,2.0,3.75,3.6
+2022-10-30,Rennes,Montpellier,1.33,5.5,8.0
+2022-10-30,Lorient,Nice,2.45,3.4,2.87
+2022-10-31,Elche,Getafe,2.7,3.0,2.87
+2022-10-31,Monza,Bologna,2.2,3.3,3.4
+2022-10-31,Verona,Roma,4.33,3.6,1.83
+2022-10-31,Buyuksehyr,Giresunspor,1.5,4.0,6.5
+2022-10-31,Sivasspor,Antalyaspor,2.2,3.3,3.0
+2022-11-01,Luton,Reading,1.95,3.4,4.2
+2022-11-01,Bristol City,Sheffield United,3.3,3.4,2.2
+2022-11-01,Coventry,Blackburn,2.4,3.2,3.1
+2022-11-01,West Brom,Blackpool,1.66,4.0,5.0
+2022-11-01,Preston,Swansea,2.4,3.25,3.0
+2022-11-01,Hull,Middlesbrough,3.1,3.3,2.37
+2022-11-02,Wigan,Stoke,2.7,3.3,2.62
+2022-11-02,Huddersfield,Sunderland,2.62,3.3,2.7
+2022-11-02,Burnley,Rotherham,1.45,4.33,8.0
+2022-11-02,Birmingham,Millwall,2.5,3.2,2.9
+2022-11-02,Norwich,QPR,1.95,3.6,4.0
+2022-11-02,Cardiff,Watford,2.9,3.2,2.5
+2022-11-04,Darmstadt,Hannover,1.7,3.75,5.0
+2022-11-04,Reading,Preston,2.3,3.1,3.3
+2022-11-04,Girona,Ath Bilbao,3.75,3.5,2.0
+2022-11-04,Udinese,Lecce,1.61,3.9,5.5
+2022-11-04,Aberdeen,Hibernian,2.62,3.3,2.62
+2022-11-04,Kilmarnock,Livingston,2.7,2.9,3.0
+2022-11-04,M'gladbach,Stuttgart,2.15,3.75,3.1
+2022-11-04,Troyes,Auxerre,1.95,3.6,3.8
+2022-11-04,Genk,Charleroi,1.4,4.75,7.5
+2022-11-04,Cambuur,Nijmegen,2.62,3.4,2.62
+2022-11-04,Kasimpasa,Ankaragucu,2.25,3.5,3.0
+2022-11-04,Umraniyespor,Alanyaspor,2.55,3.4,2.62
+2022-11-04,Hansa Rostock,Sandhausen,1.9,3.5,4.0
+2022-11-05,Bielefeld,Kaiserslautern,2.8,3.4,2.55
+2022-11-05,Karlsruhe,Holstein Kiel,2.15,3.75,3.3
+2022-11-05,Empoli,Sassuolo,2.8,3.4,2.45
+2022-11-05,Salernitana,Cremonese,2.15,3.6,3.3
+2022-11-05,Heidenheim,Paderborn,2.8,3.4,2.5
+2022-11-05,Fortuna Dusseldorf,St Pauli,2.05,3.6,3.4
+2022-11-05,Ross County,St Mirren,3.1,3.2,2.45
+2022-11-05,Celtic,Dundee United,1.1,10.0,23.0
+2022-11-05,Ajaccio,Strasbourg,2.8,3.2,2.62
+2022-11-05,Celta,Osasuna,2.1,3.3,3.75
+2022-11-05,Valladolid,Elche,1.83,3.6,4.33
+2022-11-05,Getafe,Cadiz,2.2,3.1,3.75
+2022-11-05,Atalanta,Napoli,3.3,3.6,2.15
+2022-11-05,Milan,Spezia,1.22,6.0,13.0
+2022-11-05,Eupen,Standard,3.1,3.4,2.25
+2022-11-05,Seraing,St Truiden,3.6,3.2,2.1
+2022-11-05,Cercle Brugge,Oud-Heverlee Leuven,1.83,3.8,3.8
+2022-11-05,Mechelen,Waregem,1.72,3.75,4.5
+2022-11-05,Vitesse,Sparta Rotterdam,1.85,3.6,4.2
+2022-11-05,For Sittard,FC Emmen,2.2,3.5,3.2
+2022-11-05,Excelsior,Heerenveen,4.33,4.0,1.75
+2022-11-05,Giresunspor,Istanbulspor,1.85,3.4,4.2
+2022-11-05,Galatasaray,Besiktas,2.05,3.5,3.5
+2022-11-05,Barcelona,Almeria,1.08,10.0,26.0
+2022-11-05,Everton,Leicester,2.4,3.3,3.0
+2022-11-05,Sunderland,Cardiff,2.2,3.2,3.5
+2022-11-05,Augsburg,Ein Frankfurt,4.33,4.0,1.72
+2022-11-05,Hertha,Bayern Munich,10.0,6.5,1.25
+2022-11-05,Hoffenheim,RB Leipzig,2.9,3.75,2.25
+2022-11-05,Mainz,Wolfsburg,2.0,3.75,3.5
+2022-11-05,Werder Bremen,Schalke 04,1.65,4.33,4.5
+2022-11-05,Sheffield United,Burnley,2.4,3.3,3.0
+2022-11-05,Blackburn,Huddersfield,1.83,3.5,4.75
+2022-11-05,Blackpool,Luton,2.8,3.3,2.55
+2022-11-05,Middlesbrough,Bristol City,1.8,3.6,4.75
+2022-11-05,Millwall,Hull,1.83,3.6,4.5
+2022-11-05,QPR,West Brom,2.5,3.6,2.7
+2022-11-05,Rotherham,Norwich,4.2,3.5,1.95
+2022-11-05,Stoke,Birmingham,2.05,3.5,3.6
+2022-11-05,Dortmund,Bochum,1.22,7.0,11.0
+2022-11-05,Swansea,Wigan,1.9,3.5,4.33
+2022-11-05,Watford,Coventry,1.9,3.5,4.33
+2022-11-05,Wolves,Brighton,3.3,3.3,2.25
+2022-11-05,Leeds,Bournemouth,1.72,3.8,4.75
+2022-11-05,Angers,Lens,5.0,4.0,1.66
+2022-11-05,Man City,Fulham,1.11,9.5,19.0
+2022-11-05,Nott'm Forest,Brentford,2.75,3.3,2.6
+2022-11-06,Trabzonspor,Konyaspor,1.85,3.4,4.2
+2022-11-06,Antalyaspor,Karagumruk,1.9,3.5,4.0
+2022-11-06,Gaziantep,Kayserispor,2.2,3.4,3.2
+2022-11-06,Leverkusen,Union Berlin,2.15,3.4,3.4
+2022-11-06,Lorient,Paris SG,9.5,6.5,1.28
+2022-11-06,Clermont,Montpellier,2.37,3.5,2.9
+2022-11-06,Nice,Brest,1.8,3.75,4.33
+2022-11-06,Juventus,Inter,3.1,3.4,2.37
+2022-11-06,Roma,Lazio,2.0,3.5,3.8
+2022-11-06,Sampdoria,Fiorentina,4.2,3.4,1.9
+2022-11-06,Waalwijk,AZ Alkmaar,4.0,4.0,1.8
+2022-11-06,Oostende,Kortrijk,2.1,3.4,3.3
+2022-11-06,Ajax,PSV Eindhoven,1.75,4.0,4.33
+2022-11-06,Antwerp,Anderlecht,2.15,3.4,3.3
+2022-11-06,St. Gilloise,Westerlo,1.57,4.0,5.5
+2022-11-06,Gent,Club Brugge,2.7,3.5,2.5
+2022-11-06,Freiburg,FC Koln,1.7,4.0,4.75
+2022-11-06,Monza,Verona,2.2,3.4,3.3
+2022-11-06,Marseille,Lyon,2.2,3.5,3.2
+2022-11-06,Toulouse,Monaco,3.2,3.8,2.1
+2022-11-06,Reims,Nantes,2.05,3.5,3.4
+2022-11-06,Utrecht,Groningen,1.66,4.0,5.0
+2022-11-06,Twente,Go Ahead Eagles,1.36,5.0,8.5
+2022-11-06,Volendam,Feyenoord,7.5,5.5,1.36
+2022-11-06,Bologna,Torino,3.0,3.1,2.5
+2022-11-06,Lille,Rennes,2.45,3.6,2.75
+2022-11-06,Chelsea,Arsenal,2.55,3.4,2.7
+2022-11-06,Sociedad,Valencia,1.95,3.4,4.0
+2022-11-06,Aston Villa,Man United,3.3,3.8,2.1
+2022-11-06,Southampton,Newcastle,4.0,3.6,1.9
+2022-11-06,West Ham,Crystal Palace,1.9,3.4,4.2
+2022-11-06,Tottenham,Liverpool,3.3,3.6,2.1
+2022-11-06,Ath Madrid,Espanol,1.44,4.5,8.0
+2022-11-06,Hamburg,Regensburg,1.4,4.75,7.5
+2022-11-06,Nurnberg,Magdeburg,1.9,3.5,4.2
+2022-11-06,Braunschweig,Greuther Furth,2.62,3.3,2.62
+2022-11-06,Villarreal,Mallorca,1.57,4.0,5.75
+2022-11-06,Betis,Sevilla,2.2,3.2,3.6
+2022-11-06,St Johnstone,Rangers,10.0,5.5,1.3
+2022-11-06,Hearts,Motherwell,1.95,3.6,3.8
+2022-11-07,Hatayspor,Buyuksehyr,4.5,3.3,1.85
+2022-11-07,Fenerbahce,Sivasspor,1.36,5.0,8.0
+2022-11-07,Vallecano,Real Madrid,4.75,4.2,1.65
+2022-11-08,Hibernian,Ross County,1.53,4.2,6.0
+2022-11-08,QPR,Huddersfield,1.7,3.75,5.25
+2022-11-08,Napoli,Empoli,1.25,6.5,9.5
+2022-11-08,Spezia,Udinese,4.0,3.5,1.9
+2022-11-08,Cardiff,Hull,2.05,3.25,3.8
+2022-11-08,Coventry,Wigan,1.9,3.5,4.0
+2022-11-08,Blackpool,Middlesbrough,3.2,3.4,2.25
+2022-11-08,Elche,Girona,3.25,3.3,2.2
+2022-11-08,Cremonese,Milan,6.0,4.2,1.55
+2022-11-08,Stoke,Luton,1.95,3.4,4.0
+2022-11-08,Sheffield United,Rotherham,1.33,5.5,8.0
+2022-11-08,Birmingham,Swansea,2.7,3.25,2.7
+2022-11-08,Livingston,Aberdeen,2.75,3.25,2.62
+2022-11-08,Wolfsburg,Dortmund,3.1,3.6,2.2
+2022-11-08,Watford,Reading,1.8,3.5,4.5
+2022-11-08,Bochum,M'gladbach,3.2,3.5,2.25
+2022-11-08,Stuttgart,Hertha,1.95,3.8,3.75
+2022-11-08,Bayern Munich,Werder Bremen,1.14,9.5,15.0
+2022-11-08,Paderborn,Bielefeld,1.5,4.75,5.75
+2022-11-08,Kaiserslautern,Karlsruhe,2.25,3.5,3.1
+2022-11-08,Hannover,Fortuna Dusseldorf,2.62,3.5,2.6
+2022-11-08,Osasuna,Barcelona,5.75,4.2,1.53
+2022-11-08,Ath Bilbao,Valladolid,1.4,4.5,7.5
+2022-11-08,St Pauli,Holstein Kiel,2.15,3.5,3.3
+2022-11-09,Greuther Furth,Hamburg,3.4,3.6,2.1
+2022-11-09,Regensburg,Braunschweig,2.4,3.4,2.9
+2022-11-09,Sandhausen,Heidenheim,3.6,3.4,2.1
+2022-11-09,Lecce,Atalanta,4.75,3.5,1.8
+2022-11-09,Sassuolo,Roma,3.4,3.6,2.1
+2022-11-09,Fiorentina,Salernitana,1.53,4.2,6.25
+2022-11-09,Inter,Bologna,1.28,5.75,10.0
+2022-11-09,Torino,Sampdoria,1.61,3.8,5.75
+2022-11-09,Hansa Rostock,Nurnberg,2.4,3.4,2.9
+2022-11-09,FC Koln,Leverkusen,3.0,3.75,2.2
+2022-11-09,Espanol,Villarreal,3.2,3.2,2.37
+2022-11-09,Mallorca,Ath Madrid,3.8,3.1,2.1
+2022-11-09,Sevilla,Sociedad,2.6,3.2,2.8
+2022-11-09,Almeria,Getafe,2.15,3.3,3.5
+2022-11-09,Dundee United,Kilmarnock,2.45,3.25,3.0
+2022-11-09,Motherwell,Celtic,11.0,5.75,1.28
+2022-11-09,Ajax,Vitesse,1.12,10.0,15.0
+2022-11-09,St Mirren,St Johnstone,2.0,3.3,4.0
+2022-11-09,Ein Frankfurt,Hoffenheim,1.9,3.8,3.75
+2022-11-09,Union Berlin,Augsburg,1.55,4.2,6.0
+2022-11-09,Schalke 04,Mainz,3.4,3.75,2.05
+2022-11-09,RB Leipzig,Freiburg,1.72,4.0,4.5
+2022-11-09,Rangers,Hearts,1.25,6.5,9.5
+2022-11-10,Real Madrid,Cadiz,1.14,8.5,15.0
+2022-11-10,Valencia,Betis,2.1,3.4,3.6
+2022-11-10,Vallecano,Celta,2.2,3.2,3.5
+2022-11-10,Feyenoord,Cambuur,1.2,7.0,12.0
+2022-11-10,Magdeburg,Darmstadt,3.3,3.6,2.1
+2022-11-10,Lazio,Monza,1.61,4.2,5.0
+2022-11-10,Verona,Juventus,5.0,3.8,1.66
+2022-11-11,Holstein Kiel,Hannover,1.9,3.8,3.75
+2022-11-11,Sparta Rotterdam,Twente,2.9,3.5,2.37
+2022-11-11,Empoli,Cremonese,2.5,3.4,2.8
+2022-11-11,Fortuna Dusseldorf,Kaiserslautern,1.9,3.5,4.2
+2022-11-11,Oud-Heverlee Leuven,Seraing,1.55,4.0,5.75
+2022-11-11,M'gladbach,Dortmund,3.2,4.0,2.15
+2022-11-11,Alanyaspor,Ad. Demirspor,3.0,3.6,2.2
+2022-11-11,Ankaragucu,Trabzonspor,2.9,3.4,2.3
+2022-11-11,Lyon,Nice,1.75,3.8,4.5
+2022-11-11,Birmingham,Sunderland,2.2,3.3,3.4
+2022-11-12,Westerlo,Oostende,1.75,4.0,4.2
+2022-11-12,Charleroi,Mechelen,2.2,3.5,3.0
+2022-11-12,Waregem,Eupen,2.3,3.75,2.8
+2022-11-12,St Johnstone,Motherwell,2.55,3.2,2.9
+2022-11-12,Bristol City,Watford,3.0,3.4,2.37
+2022-11-12,Cardiff,Sheffield United,3.2,3.3,2.3
+2022-11-12,Coventry,QPR,2.37,3.25,3.1
+2022-11-12,St Truiden,Cercle Brugge,2.4,3.4,2.8
+2022-11-12,Rennes,Toulouse,1.5,4.5,6.0
+2022-11-12,Hull,Reading,2.45,3.2,3.0
+2022-11-12,Luton,Rotherham,1.7,3.75,5.25
+2022-11-12,Norwich,Middlesbrough,2.2,3.3,3.4
+2022-11-12,Preston,Millwall,2.55,3.0,3.1
+2022-11-12,West Brom,Stoke,1.95,3.5,4.0
+2022-11-12,Wigan,Blackpool,2.25,3.4,3.2
+2022-11-12,Hamburg,Sandhausen,1.4,5.25,7.0
+2022-11-12,Heidenheim,Regensburg,1.7,4.0,4.75
+2022-11-12,Karlsruhe,St Pauli,2.45,3.5,2.8
+2022-11-12,Braunschweig,Hansa Rostock,2.45,3.4,2.8
+2022-11-12,St Mirren,Rangers,7.5,4.75,1.4
+2022-11-12,Celtic,Ross County,1.1,12.0,19.0
+2022-11-12,Hearts,Livingston,1.95,3.4,4.0
+2022-11-12,Kilmarnock,Hibernian,3.25,3.3,2.3
+2022-11-12,Huddersfield,Swansea,3.1,3.3,2.37
+2022-11-12,Augsburg,Bochum,2.2,3.5,3.2
+2022-11-12,Aberdeen,Dundee United,1.72,3.6,5.0
+2022-11-12,Hoffenheim,Wolfsburg,2.25,3.75,3.1
+2022-11-12,Tottenham,Leeds,1.65,4.2,4.75
+2022-11-12,Wolves,Arsenal,6.0,4.2,1.55
+2022-11-12,Napoli,Udinese,1.5,4.75,5.75
+2022-11-12,Volendam,Utrecht,3.8,4.0,1.85
+2022-11-12,FC Emmen,Ajax,9.5,5.5,1.3
+2022-11-12,Nott'm Forest,Crystal Palace,3.1,3.1,2.45
+2022-11-12,Liverpool,Southampton,1.25,6.5,11.0
+2022-11-12,Bournemouth,Everton,2.8,3.25,2.6
+2022-11-12,Man City,Brentford,1.14,8.0,17.0
+2022-11-12,Lens,Clermont,1.44,4.75,7.5
+2022-11-12,PSV Eindhoven,AZ Alkmaar,1.5,4.5,6.5
+2022-11-12,Sivasspor,Umraniyespor,1.9,3.5,3.75
+2022-11-12,Sampdoria,Lecce,2.62,3.0,3.0
+2022-11-12,Bologna,Sassuolo,2.3,3.5,3.0
+2022-11-12,Fenerbahce,Giresunspor,1.3,5.25,8.0
+2022-11-12,Buyuksehyr,Galatasaray,2.7,3.3,2.45
+2022-11-12,Hertha,FC Koln,2.2,3.6,3.1
+2022-11-12,Schalke 04,Bayern Munich,15.0,7.5,1.16
+2022-11-12,Werder Bremen,RB Leipzig,3.6,4.0,1.9
+2022-11-12,Leverkusen,Stuttgart,1.72,4.2,4.33
+2022-11-12,West Ham,Leicester,2.05,3.4,3.75
+2022-11-12,Newcastle,Chelsea,2.35,3.4,3.0
+2022-11-13,Feyenoord,Excelsior,1.12,9.5,15.0
+2022-11-13,Heerenveen,Cambuur,1.8,3.8,4.33
+2022-11-13,Groningen,For Sittard,2.05,3.6,3.5
+2022-11-13,Darmstadt,Greuther Furth,1.83,4.0,4.0
+2022-11-13,Bielefeld,Magdeburg,2.25,3.5,3.1
+2022-11-13,Nijmegen,Waalwijk,2.05,3.6,3.5
+2022-11-13,Nurnberg,Paderborn,3.0,3.5,2.3
+2022-11-13,Kayserispor,Konyaspor,2.6,3.25,2.6
+2022-11-13,Atalanta,Inter,3.1,3.75,2.2
+2022-11-13,Monza,Salernitana,2.15,3.25,3.6
+2022-11-13,Roma,Torino,1.9,3.4,4.33
+2022-11-13,Verona,Spezia,2.1,3.4,3.6
+2022-11-13,Milan,Fiorentina,1.7,3.8,5.0
+2022-11-13,Juventus,Lazio,1.95,3.5,4.0
+2022-11-13,Go Ahead Eagles,Vitesse,2.45,3.5,2.8
+2022-11-13,Istanbulspor,Hatayspor,2.3,3.25,3.0
+2022-11-13,Karagumruk,Gaziantep,2.0,3.4,3.4
+2022-11-13,Club Brugge,Antwerp,1.83,3.75,4.0
+2022-11-13,Mainz,Ein Frankfurt,2.75,3.5,2.45
+2022-11-13,Freiburg,Union Berlin,2.0,3.3,4.0
+2022-11-13,Paris SG,Auxerre,1.11,10.0,17.0
+2022-11-13,Brest,Troyes,2.0,3.6,3.5
+2022-11-13,Lille,Angers,1.33,5.5,8.5
+2022-11-13,Montpellier,Reims,2.5,3.4,2.8
+2022-11-13,Nantes,Ajaccio,2.0,3.3,4.0
+2022-11-13,Strasbourg,Lorient,2.15,3.5,3.3
+2022-11-13,Monaco,Marseille,2.3,3.6,2.9
+2022-11-13,Brighton,Aston Villa,1.83,3.75,4.2
+2022-11-13,Standard,St. Gilloise,3.4,3.5,2.0
+2022-11-13,Fulham,Man United,3.8,3.8,1.9
+2022-11-13,Kortrijk,Gent,5.0,3.8,1.66
+2022-11-13,Burnley,Blackburn,1.72,3.6,5.25
+2022-11-13,Anderlecht,Genk,2.62,3.5,2.5
+2022-12-03,Sunderland,Millwall,2.5,3.25,2.87
+2022-12-10,Blackpool,Birmingham,2.75,3.3,2.63
+2022-12-10,Blackburn,Preston,2.25,3.2,3.4
+2022-12-10,Rotherham,Bristol City,3.0,3.25,2.4
+2022-12-10,Reading,Coventry,2.5,3.2,3.0
+2022-12-10,Swansea,Norwich,2.45,3.4,2.88
+2022-12-10,Stoke,Cardiff,2.05,3.3,3.8
+2022-12-10,Sheffield United,Huddersfield,1.45,4.33,7.0
+2022-12-10,Millwall,Wigan,1.91,3.4,4.33
+2022-12-10,Middlesbrough,Luton,1.83,3.6,4.33
+2022-12-11,QPR,Burnley,3.1,3.4,2.3
+2022-12-11,Watford,Hull,1.7,3.6,5.5
+2022-12-12,Sunderland,West Brom,2.9,3.25,2.5
+2022-12-15,Rangers,Hibernian,1.3,5.25,9.0
+2022-12-16,Birmingham,Reading,2.05,3.2,4.0
+2022-12-17,West Brom,Rotherham,1.44,4.5,7.5
+2022-12-17,Preston,QPR,2.3,3.25,3.2
+2022-12-17,Hull,Sunderland,2.6,3.2,2.8
+2022-12-17,Aberdeen,Celtic,7.0,5.0,1.4
+2022-12-17,Coventry,Swansea,2.4,3.25,3.0
+2022-12-17,Cardiff,Blackpool,1.83,3.5,4.5
+2022-12-17,Huddersfield,Watford,3.75,3.3,2.1
+2022-12-17,Bristol City,Stoke,2.6,3.25,2.8
+2022-12-17,Hearts,Kilmarnock,1.8,3.6,4.75
+2022-12-17,Ross County,St Johnstone,2.7,3.2,2.7
+2022-12-17,Norwich,Blackburn,1.8,3.7,4.5
+2022-12-17,Burnley,Middlesbrough,2.05,3.4,3.75
+2022-12-19,Wigan,Sheffield United,3.8,3.3,2.05
+2022-12-20,Aberdeen,Rangers,6.0,4.2,1.53
+2022-12-21,Celtic,Livingston,1.11,10.0,21.0
+2022-12-21,Coventry,West Brom,3.0,3.2,2.45
+2022-12-23,Mechelen,Cercle Brugge,2.55,3.4,2.55
+2022-12-23,Gent,Standard,1.53,4.0,5.25
+2022-12-23,Seraing,Eupen,2.7,3.25,2.45
+2022-12-23,Umraniyespor,Buyuksehyr,3.3,3.3,2.15
+2022-12-23,Ross County,Rangers,10.0,6.5,1.25
+2022-12-23,Motherwell,Kilmarnock,1.95,3.5,3.8
+2022-12-23,Antalyaspor,Ankaragucu,2.1,3.5,3.4
+2022-12-24,Kasimpasa,Sivasspor,2.2,3.5,3.1
+2022-12-24,Hibernian,Livingston,1.8,3.6,4.5
+2022-12-24,Dundee United,Hearts,3.0,3.5,2.3
+2022-12-24,St Mirren,Aberdeen,2.75,3.25,2.63
+2022-12-24,Celtic,St Johnstone,1.13,9.0,21.0
+2022-12-24,Trabzonspor,Fenerbahce,2.75,3.5,2.45
+2022-12-24,Hatayspor,Giresunspor,2.15,3.6,3.1
+2022-12-25,Galatasaray,Istanbulspor,1.25,6.0,9.0
+2022-12-25,Konyaspor,Alanyaspor,1.8,3.8,4.0
+2022-12-25,Gaziantep,Besiktas,3.75,4.0,1.83
+2022-12-25,Ad. Demirspor,Karagumruk,1.67,3.8,4.75
+2022-12-26,Middlesbrough,Wigan,1.67,3.75,5.5
+2022-12-26,Kortrijk,Genk,6.5,4.33,1.4
+2022-12-26,St. Gilloise,Oostende,1.33,5.0,7.0
+2022-12-26,Charleroi,Anderlecht,2.9,3.4,2.15
+2022-12-26,Hull,Blackpool,2.1,3.4,3.75
+2022-12-26,Bristol City,West Brom,3.1,3.3,2.38
+2022-12-26,Sunderland,Blackburn,2.3,3.3,3.2
+2022-12-26,Preston,Huddersfield,1.83,3.5,4.5
+2022-12-26,Club Brugge,Oud-Heverlee Leuven,1.44,4.75,5.75
+2022-12-26,Sheffield United,Coventry,1.67,3.8,5.25
+2022-12-26,Rotherham,Stoke,3.2,3.3,2.3
+2022-12-26,Aston Villa,Liverpool,4.75,4.0,1.7
+2022-12-26,Luton,Norwich,2.6,3.3,2.75
+2022-12-26,Brentford,Tottenham,4.0,3.6,1.91
+2022-12-26,Crystal Palace,Fulham,2.05,3.6,3.5
+2022-12-26,Everton,Wolves,2.3,3.25,3.2
+2022-12-26,Watford,Millwall,2.1,3.3,3.75
+2022-12-26,Leicester,Newcastle,3.25,3.5,2.2
+2022-12-26,Southampton,Brighton,3.3,3.5,2.15
+2022-12-26,Cardiff,QPR,2.4,3.3,3.0
+2022-12-26,Arsenal,West Ham,1.5,4.33,6.5
+2022-12-27,Ankaragucu,Umraniyespor,1.91,3.6,3.8
+2022-12-27,Chelsea,Bournemouth,1.3,5.5,10.0
+2022-12-27,Man United,Nott'm Forest,1.29,5.5,11.0
+2022-12-27,Burnley,Birmingham,1.6,3.8,6.0
+2022-12-27,Reading,Swansea,2.8,3.3,2.55
+2022-12-27,St Truiden,Waregem,1.67,3.6,4.5
+2022-12-27,Westerlo,Antwerp,3.1,3.5,2.05
+2022-12-27,Buyuksehyr,Antalyaspor,1.85,3.5,4.0
+2022-12-27,Fenerbahce,Hatayspor,1.29,5.5,8.0
+2022-12-28,Alanyaspor,Kayserispor,2.05,3.6,3.1
+2022-12-28,Istanbulspor,Kasimpasa,2.63,3.6,2.38
+2022-12-28,Leeds,Man City,9.5,6.0,1.29
+2022-12-28,Karagumruk,Trabzonspor,3.4,3.6,1.91
+2022-12-28,Kilmarnock,Aberdeen,3.0,3.5,2.3
+2022-12-28,Brest,Lyon,3.75,3.6,1.95
+2022-12-28,Paris SG,Strasbourg,1.22,6.5,13.0
+2022-12-28,Livingston,St Mirren,2.38,3.4,3.0
+2022-12-28,Clermont,Lille,4.2,3.75,1.83
+2022-12-28,Auxerre,Monaco,4.5,4.0,1.73
+2022-12-28,Troyes,Nantes,2.38,3.6,2.88
+2022-12-28,Ajaccio,Angers,2.0,3.4,4.0
+2022-12-28,Hibernian,Celtic,7.0,5.0,1.4
+2022-12-28,St Johnstone,Hearts,3.0,3.4,2.3
+2022-12-28,Rangers,Motherwell,1.22,6.5,13.0
+2022-12-28,Dundee United,Ross County,1.95,3.5,4.0
+2022-12-29,Wigan,Sunderland,2.63,3.25,2.7
+2022-12-29,Coventry,Cardiff,2.15,3.3,3.4
+2022-12-29,Blackpool,Sheffield United,4.75,3.75,1.73
+2022-12-29,Millwall,Bristol City,1.91,3.4,4.2
+2022-12-29,Huddersfield,Rotherham,2.1,3.25,3.8
+2022-12-29,West Brom,Preston,1.75,3.5,5.0
+2022-12-29,Blackburn,Middlesbrough,3.2,3.2,2.38
+2022-12-29,Ath Madrid,Elche,1.29,5.5,10.0
+2022-12-29,Nice,Lens,3.2,3.0,2.45
+2022-12-29,Marseille,Toulouse,1.5,4.5,6.0
+2022-12-29,Lorient,Montpellier,1.95,3.75,3.75
+2022-12-29,Giresunspor,Gaziantep,2.2,3.4,3.1
+2022-12-29,Sivasspor,Galatasaray,4.75,3.75,1.7
+2022-12-29,Besiktas,Ad. Demirspor,1.73,3.8,4.0
+2022-12-29,Girona,Vallecano,2.3,3.2,3.3
+2022-12-29,Betis,Ath Bilbao,2.88,3.3,2.5
+2022-12-29,QPR,Luton,2.25,3.25,3.3
+2022-12-29,Reims,Rennes,3.3,3.4,2.2
+2022-12-30,Getafe,Mallorca,2.75,2.75,3.1
+2022-12-30,Valladolid,Real Madrid,6.5,4.75,1.45
+2022-12-30,Celta,Sevilla,2.2,3.3,3.4
+2022-12-30,Cadiz,Almeria,2.38,3.1,3.25
+2022-12-30,Stoke,Burnley,3.2,3.25,2.3
+2022-12-30,Liverpool,Leicester,1.29,6.0,9.5
+2022-12-30,Birmingham,Hull,1.95,3.3,4.0
+2022-12-30,Norwich,Reading,1.73,3.5,5.25
+2022-12-30,Swansea,Watford,2.25,3.3,3.25
+2022-12-30,West Ham,Brentford,2.0,3.6,3.6
+2022-12-31,Wolves,Man United,4.0,3.6,1.91
+2022-12-31,Villarreal,Valencia,1.95,3.4,4.2
+2022-12-31,Sociedad,Osasuna,1.85,3.3,4.75
+2022-12-31,Barcelona,Espanol,1.25,6.5,10.0
+2022-12-31,Bournemouth,Crystal Palace,2.8,3.3,2.5
+2022-12-31,Fulham,Southampton,1.95,3.6,3.75
+2022-12-31,Man City,Everton,1.13,9.0,19.0
+2022-12-31,Newcastle,Leeds,1.45,4.5,7.0
+2022-12-31,Brighton,Arsenal,3.4,3.5,2.1
+2023-01-01,Blackpool,Sunderland,3.0,3.25,2.45
+2023-01-01,Tottenham,Aston Villa,1.67,4.0,5.0
+2023-01-01,Lens,Paris SG,3.25,3.6,2.2
+2023-01-01,Blackburn,Cardiff,2.3,3.3,3.2
+2023-01-01,Lyon,Clermont,1.5,4.5,6.0
+2023-01-01,Toulouse,Ajaccio,2.0,3.4,3.8
+2023-01-01,Huddersfield,Luton,2.88,3.4,2.45
+2023-01-01,Monaco,Brest,1.5,4.75,5.5
+2023-01-01,Angers,Lorient,2.75,3.4,2.5
+2023-01-01,Coventry,Bristol City,1.95,3.5,4.0
+2023-01-01,Nott'm Forest,Chelsea,5.0,3.8,1.7
+2023-01-01,Nantes,Auxerre,1.85,3.4,4.33
+2023-01-01,Millwall,Rotherham,1.57,3.8,6.5
+2023-01-02,Hearts,Hibernian,2.15,3.5,3.3
+2023-01-02,Lille,Reims,1.65,4.0,5.25
+2023-01-02,Birmingham,Middlesbrough,3.1,3.4,2.3
+2023-01-02,Kilmarnock,St Mirren,2.63,3.4,2.63
+2023-01-02,Montpellier,Marseille,4.5,4.0,1.73
+2023-01-02,West Brom,Reading,1.67,4.0,5.0
+2023-01-02,Wigan,Hull,2.45,3.3,2.88
+2023-01-02,QPR,Sheffield United,3.1,3.4,2.3
+2023-01-02,Brentford,Liverpool,5.5,4.33,1.55
+2023-01-02,Strasbourg,Troyes,1.8,3.8,4.33
+2023-01-02,Rennes,Nice,1.8,4.0,4.0
+2023-01-02,Rangers,Celtic,3.2,3.6,2.15
+2023-01-02,Aberdeen,Ross County,1.65,3.75,5.5
+2023-01-02,Swansea,Burnley,3.0,3.4,2.38
+2023-01-02,Stoke,Preston,2.1,3.4,3.6
+2023-01-02,Norwich,Watford,1.91,3.6,3.8
+2023-01-02,St Johnstone,Dundee United,2.25,3.3,3.25
+2023-01-02,Livingston,Motherwell,2.63,3.4,2.63
+2023-01-03,Antalyaspor,Fenerbahce,4.2,3.75,1.75
+2023-01-03,Arsenal,Newcastle,1.8,3.8,4.33
+2023-01-03,Umraniyespor,Hatayspor,2.2,3.3,3.1
+2023-01-03,Leicester,Fulham,2.2,3.6,3.1
+2023-01-03,Man United,Bournemouth,1.29,5.5,11.0
+2023-01-03,Everton,Brighton,3.5,3.5,2.1
+2023-01-04,Sassuolo,Sampdoria,1.73,3.75,4.75
+2023-01-04,Spezia,Atalanta,4.75,3.8,1.67
+2023-01-04,Crystal Palace,Tottenham,3.4,3.5,2.15
+2023-01-04,Inter,Napoli,2.25,3.4,3.1
+2023-01-04,Fiorentina,Monza,1.7,3.8,4.75
+2023-01-04,Cremonese,Juventus,4.75,3.8,1.67
+2023-01-04,Roma,Bologna,1.6,3.8,5.5
+2023-01-04,Salernitana,Milan,7.0,4.33,1.45
+2023-01-04,Udinese,Empoli,1.6,4.2,5.75
+2023-01-04,Lecce,Lazio,3.6,3.3,2.05
+2023-01-04,Kasimpasa,Alanyaspor,2.25,3.3,2.9
+2023-01-04,Kayserispor,Karagumruk,1.91,3.5,3.6
+2023-01-04,Galatasaray,Ankaragucu,1.44,4.2,6.5
+2023-01-04,Konyaspor,Sivasspor,1.85,3.4,4.0
+2023-01-04,Southampton,Nott'm Forest,2.0,3.5,3.8
+2023-01-04,Leeds,West Ham,2.6,3.5,2.6
+2023-01-04,Aston Villa,Wolves,1.95,3.6,4.0
+2023-01-04,Torino,Verona,1.83,3.4,4.5
+2023-01-05,Ad. Demirspor,Istanbulspor,1.4,4.33,6.5
+2023-01-05,Gaziantep,Buyuksehyr,3.25,3.3,2.1
+2023-01-05,Trabzonspor,Giresunspor,1.45,4.2,6.5
+2023-01-05,Chelsea,Man City,5.0,4.0,1.67
+2023-01-06,Twente,FC Emmen,1.4,4.33,7.5
+2023-01-06,Elche,Celta,4.0,3.25,1.95
+2023-01-06,Valencia,Cadiz,1.57,4.0,5.75
+2023-01-06,Standard,St Truiden,2.2,3.25,3.0
+2023-01-07,Eupen,Charleroi,2.55,3.4,2.45
+2023-01-07,Juventus,Udinese,1.75,3.8,4.5
+2023-01-07,Fiorentina,Sassuolo,1.7,3.8,5.0
+2023-01-07,Waalwijk,Heerenveen,2.5,3.5,2.7
+2023-01-07,AZ Alkmaar,Vitesse,1.53,4.5,5.5
+2023-01-07,For Sittard,Go Ahead Eagles,2.55,3.4,2.7
+2023-01-07,St Mirren,Hearts,2.88,3.3,2.5
+2023-01-07,PSV Eindhoven,Sparta Rotterdam,1.22,7.0,11.0
+2023-01-07,Villarreal,Real Madrid,3.25,3.8,2.05
+2023-01-07,Mallorca,Valladolid,1.95,3.3,4.2
+2023-01-07,Espanol,Girona,2.25,3.4,3.2
+2023-01-07,Ross County,Livingston,2.7,3.2,2.7
+2023-01-07,Aberdeen,St Johnstone,1.67,3.6,5.25
+2023-01-07,Hatayspor,Antalyaspor,2.7,3.4,2.5
+2023-01-07,Besiktas,Kasimpasa,1.57,4.2,5.25
+2023-01-07,Antwerp,Gent,2.45,3.25,2.63
+2023-01-07,Oostende,Seraing,1.75,3.75,4.2
+2023-01-07,Cercle Brugge,Westerlo,2.05,3.5,3.1
+2023-01-07,Celtic,Kilmarnock,1.08,12.0,23.0
+2023-01-07,Monza,Inter,5.75,4.33,1.55
+2023-01-08,Almeria,Sociedad,4.2,3.3,1.95
+2023-01-08,Vallecano,Betis,2.3,3.3,3.2
+2023-01-08,Karagumruk,Konyaspor,2.7,3.4,2.5
+2023-01-08,Sevilla,Getafe,1.75,3.4,5.25
+2023-01-08,Ath Madrid,Barcelona,3.1,3.4,2.3
+2023-01-08,Fenerbahce,Galatasaray,2.05,3.5,3.4
+2023-01-08,Giresunspor,Umraniyespor,2.1,3.5,3.3
+2023-01-08,Ankaragucu,Kayserispor,2.25,3.5,3.0
+2023-01-08,Motherwell,Hibernian,2.88,3.3,2.5
+2023-01-08,Waregem,Mechelen,2.75,3.5,2.2
+2023-01-08,Utrecht,Feyenoord,4.0,3.8,1.83
+2023-01-08,Cambuur,Volendam,1.91,3.5,4.0
+2023-01-08,Nijmegen,Ajax,6.5,6.0,1.36
+2023-01-08,Excelsior,Groningen,2.7,3.4,2.6
+2023-01-08,Oud-Heverlee Leuven,Kortrijk,1.65,4.0,4.2
+2023-01-08,Anderlecht,St. Gilloise,2.6,3.3,2.45
+2023-01-08,Genk,Club Brugge,2.1,3.5,3.0
+2023-01-08,Lazio,Empoli,1.53,4.2,6.0
+2023-01-08,Spezia,Lecce,2.6,3.1,2.9
+2023-01-08,Sampdoria,Napoli,8.0,4.75,1.4
+2023-01-08,Milan,Roma,1.83,3.6,4.33
+2023-01-08,Salernitana,Torino,3.7,3.2,2.15
+2023-01-08,Dundee United,Rangers,9.5,5.0,1.33
+2023-01-09,Alanyaspor,Trabzonspor,3.0,3.5,2.2
+2023-01-09,Bologna,Atalanta,3.4,3.4,2.15
+2023-01-09,Verona,Cremonese,2.05,3.3,3.8
+2023-01-09,Istanbulspor,Gaziantep,2.63,3.5,2.5
+2023-01-09,Ath Bilbao,Osasuna,1.67,3.6,5.75
+2023-01-09,Buyuksehyr,Ad. Demirspor,2.0,3.5,3.6
+2023-01-11,Troyes,Marseille,5.0,4.0,1.67
+2023-01-11,Strasbourg,Lens,3.8,3.5,1.95
+2023-01-11,Paris SG,Angers,1.11,10.0,19.0
+2023-01-11,Nice,Montpellier,1.8,3.6,4.5
+2023-01-11,Nantes,Lyon,3.3,3.4,2.2
+2023-01-11,Ajaccio,Reims,3.1,3.1,2.5
+2023-01-11,Auxerre,Toulouse,2.75,3.3,2.6
+2023-01-11,Brest,Lille,4.0,3.6,1.91
+2023-01-11,Clermont,Rennes,4.2,3.5,1.91
+2023-01-11,Lorient,Monaco,3.8,3.75,1.91
+2023-01-12,Fulham,Chelsea,3.3,3.5,2.15
+2023-01-13,Aston Villa,Leeds,1.91,3.6,4.0
+2023-01-13,Westerlo,Oud-Heverlee Leuven,1.95,3.75,3.5
+2023-01-13,Kayserispor,Sivasspor,2.25,3.4,3.1
+2023-01-13,Hearts,St Mirren,1.83,3.5,4.5
+2023-01-13,Galatasaray,Hatayspor,1.3,5.75,8.5
+2023-01-13,Celta,Villarreal,2.88,3.3,2.5
+2023-01-13,Napoli,Juventus,1.91,3.5,4.0
+2023-01-14,Cardiff,Wigan,1.95,3.4,4.0
+2023-01-14,Hull,Huddersfield,1.95,3.4,4.2
+2023-01-14,Luton,West Brom,3.0,3.2,2.45
+2023-01-14,Burnley,Coventry,1.7,3.8,5.0
+2023-01-14,Bristol City,Birmingham,2.25,3.3,3.3
+2023-01-14,Rotherham,Blackburn,3.4,3.4,2.15
+2023-01-14,Motherwell,Ross County,1.75,3.6,4.5
+2023-01-14,Hibernian,Dundee United,1.7,3.75,5.0
+2023-01-14,Sociedad,Ath Bilbao,2.4,3.2,3.1
+2023-01-14,Heerenveen,AZ Alkmaar,3.3,3.4,2.2
+2023-01-14,Middlesbrough,Millwall,1.95,3.5,4.0
+2023-01-14,Ajax,Twente,1.36,5.25,7.5
+2023-01-14,Sparta Rotterdam,Excelsior,1.53,4.2,6.0
+2023-01-14,Brentford,Bournemouth,1.65,4.0,5.25
+2023-01-14,Wolves,West Ham,2.63,3.3,2.7
+2023-01-14,Nott'm Forest,Leicester,2.7,3.3,2.63
+2023-01-14,Everton,Southampton,2.25,3.25,3.3
+2023-01-14,Brighton,Liverpool,3.4,3.6,2.1
+2023-01-14,Man United,Man City,4.2,3.6,1.85
+2023-01-14,Valladolid,Vallecano,2.75,3.25,2.63
+2023-01-14,Girona,Sevilla,2.38,3.4,3.0
+2023-01-14,Osasuna,Mallorca,2.0,3.1,4.33
+2023-01-14,Volendam,Waalwijk,2.6,3.4,2.7
+2023-01-14,St Johnstone,Livingston,2.4,3.1,3.2
+2023-01-14,Preston,Norwich,2.88,3.3,2.5
+2023-01-14,Sheffield United,Stoke,1.73,3.75,5.0
+2023-01-14,Trabzonspor,Buyuksehyr,2.1,3.4,3.4
+2023-01-14,Antalyaspor,Giresunspor,1.91,3.5,4.0
+2023-01-14,Marseille,Lorient,1.4,5.0,7.5
+2023-01-14,Lyon,Strasbourg,1.6,4.2,5.25
+2023-01-14,Genk,Waregem,1.25,6.5,8.0
+2023-01-14,Mechelen,Oostende,1.73,3.8,4.33
+2023-01-14,Konyaspor,Besiktas,2.8,3.4,2.45
+2023-01-14,Eupen,St Truiden,2.9,3.4,2.3
+2023-01-14,Reading,QPR,2.7,3.2,2.75
+2023-01-14,Lens,Auxerre,1.36,4.75,9.0
+2023-01-14,Inter,Verona,1.3,5.5,9.5
+2023-01-14,Lecce,Milan,5.75,3.8,1.62
+2023-01-14,Cremonese,Monza,2.8,3.3,2.55
+2023-01-14,Watford,Blackpool,1.8,3.75,4.33
+2023-01-14,Sunderland,Swansea,2.6,3.3,2.75
+2023-01-14,Seraing,Standard,3.8,3.6,1.91
+2023-01-14,Ad. Demirspor,Ankaragucu,1.8,3.8,4.2
+2023-01-15,Chelsea,Crystal Palace,1.62,4.0,5.25
+2023-01-15,Newcastle,Fulham,1.5,4.33,6.5
+2023-01-15,Charleroi,Cercle Brugge,2.63,3.3,2.63
+2023-01-15,St. Gilloise,Antwerp,2.15,3.4,3.25
+2023-01-15,Gent,Kortrijk,1.36,5.0,8.5
+2023-01-15,Angers,Clermont,2.45,3.4,2.88
+2023-01-15,Lille,Troyes,1.4,4.75,8.0
+2023-01-15,Tottenham,Arsenal,3.1,3.6,2.2
+2023-01-15,Montpellier,Nantes,2.55,3.4,2.75
+2023-01-15,Gaziantep,Fenerbahce,5.0,4.0,1.65
+2023-01-15,Rennes,Paris SG,5.0,4.75,1.57
+2023-01-15,Monaco,Ajaccio,1.4,4.75,8.0
+2023-01-15,Club Brugge,Anderlecht,1.91,3.75,3.6
+2023-01-15,Reims,Nice,2.4,3.25,3.0
+2023-01-15,Toulouse,Brest,1.95,3.6,3.75
+2023-01-15,For Sittard,PSV Eindhoven,8.5,5.0,1.36
+2023-01-15,Getafe,Espanol,2.5,3.0,3.1
+2023-01-15,Sassuolo,Lazio,3.2,3.5,2.2
+2023-01-15,Torino,Spezia,1.62,3.8,5.5
+2023-01-15,Vitesse,Nijmegen,2.2,3.4,3.3
+2023-01-15,Udinese,Bologna,1.91,3.4,4.2
+2023-01-15,Atalanta,Salernitana,1.4,5.0,7.0
+2023-01-15,Roma,Fiorentina,1.95,3.5,4.0
+2023-01-15,Umraniyespor,Istanbulspor,1.91,3.6,3.8
+2023-01-15,Kasimpasa,Karagumruk,2.2,3.5,3.1
+2023-01-15,Almeria,Ath Madrid,5.0,3.75,1.7
+2023-01-15,Groningen,Feyenoord,6.0,4.5,1.5
+2023-01-15,FC Emmen,Cambuur,2.1,3.5,3.3
+2023-01-15,Go Ahead Eagles,Utrecht,2.88,3.5,2.4
+2023-01-16,Empoli,Sampdoria,2.2,3.2,3.5
+2023-01-16,Cadiz,Elche,1.91,3.4,4.33
+2023-01-17,Oud-Heverlee Leuven,Eupen,1.62,4.0,4.75
+2023-01-17,Standard,Mechelen,1.85,3.6,3.8
+2023-01-17,Westerlo,Genk,3.3,3.75,2.0
+2023-01-18,Kilmarnock,Rangers,8.0,5.5,1.33
+2023-01-18,Hearts,Aberdeen,2.15,3.4,3.4
+2023-01-18,Celtic,St Mirren,1.11,9.0,21.0
+2023-01-18,Crystal Palace,Man United,4.5,3.6,1.8
+2023-01-18,Cercle Brugge,St. Gilloise,3.3,3.5,2.05
+2023-01-18,Oostende,Antwerp,4.2,3.8,1.75
+2023-01-18,Anderlecht,Waregem,1.5,4.5,5.25
+2023-01-18,Kortrijk,Seraing,1.85,3.75,3.8
+2023-01-19,Gent,Charleroi,1.55,4.2,5.25
+2023-01-19,St Truiden,Club Brugge,3.5,3.5,2.0
+2023-01-19,Man City,Tottenham,1.36,5.0,8.5
+2023-01-20,RB Leipzig,Bayern Munich,3.6,4.33,1.85
+2023-01-20,Excelsior,Volendam,2.38,3.8,2.7
+2023-01-20,Ad. Demirspor,Giresunspor,1.75,4.0,4.0
+2023-01-20,Sheffield United,Hull,1.7,3.75,5.25
+2023-01-20,Mallorca,Celta,2.8,2.75,3.0
+2023-01-20,Burnley,West Brom,2.25,3.1,3.5
+2023-01-21,Birmingham,Preston,2.4,3.1,3.2
+2023-01-21,Coventry,Norwich,2.8,3.4,2.5
+2023-01-21,Bournemouth,Nott'm Forest,2.75,3.1,2.75
+2023-01-21,Leicester,Brighton,3.6,3.5,2.05
+2023-01-21,Southampton,Aston Villa,2.88,3.25,2.55
+2023-01-21,West Ham,Everton,1.8,3.75,4.75
+2023-01-21,Crystal Palace,Newcastle,4.4,3.5,1.85
+2023-01-21,Sevilla,Cadiz,1.7,3.75,5.0
+2023-01-21,Ath Madrid,Valladolid,1.4,4.75,8.5
+2023-01-21,Vallecano,Sociedad,3.1,3.2,2.38
+2023-01-21,Liverpool,Chelsea,1.85,3.75,4.0
+2023-01-21,Verona,Lecce,2.38,3.1,3.2
+2023-01-21,Salernitana,Napoli,9.5,5.75,1.29
+2023-01-21,Fiorentina,Torino,2.1,3.3,3.6
+2023-01-21,Nijmegen,FC Emmen,2.0,3.4,4.0
+2023-01-21,Cambuur,Sparta Rotterdam,3.0,3.4,2.38
+2023-01-21,Espanol,Betis,2.7,3.2,2.7
+2023-01-21,PSV Eindhoven,Vitesse,1.25,5.75,11.0
+2023-01-21,Wigan,Luton,2.9,3.2,2.55
+2023-01-21,Mechelen,Kortrijk,1.75,3.5,4.2
+2023-01-21,Kasimpasa,Buyuksehyr,3.1,3.2,2.3
+2023-01-21,Galatasaray,Antalyaspor,1.33,4.75,7.5
+2023-01-21,Stoke,Reading,1.85,3.5,4.33
+2023-01-21,Waregem,Westerlo,2.88,3.4,2.2
+2023-01-21,Bristol City,Blackburn,2.2,3.4,3.3
+2023-01-21,Bochum,Hertha,2.38,3.5,2.9
+2023-01-21,Cardiff,Millwall,3.1,3.1,2.45
+2023-01-21,Ein Frankfurt,Schalke 04,1.36,5.0,8.5
+2023-01-21,Union Berlin,Hoffenheim,2.25,3.4,3.2
+2023-01-21,Wolfsburg,Freiburg,2.55,3.4,2.75
+2023-01-21,FC Koln,Werder Bremen,2.25,3.8,2.9
+2023-01-21,Watford,Rotherham,1.55,4.2,6.0
+2023-01-21,St. Gilloise,Oud-Heverlee Leuven,1.5,4.5,5.25
+2023-01-21,Oostende,Cercle Brugge,3.0,3.4,2.1
+2023-01-21,Stuttgart,Mainz,2.4,3.5,2.88
+2023-01-21,QPR,Swansea,2.7,3.3,2.7
+2023-01-22,Man City,Wolves,1.2,8.0,11.0
+2023-01-22,Seraing,Anderlecht,5.25,4.0,1.55
+2023-01-22,St Truiden,Gent,3.4,3.2,2.1
+2023-01-22,Club Brugge,Charleroi,1.4,4.5,6.5
+2023-01-22,Antwerp,Standard,1.67,3.6,4.75
+2023-01-22,Leeds,Brentford,2.38,3.6,2.88
+2023-01-22,Heerenveen,Groningen,1.73,3.75,5.0
+2023-01-22,Monza,Sassuolo,2.2,3.4,3.3
+2023-01-22,Twente,Utrecht,1.7,4.0,4.75
+2023-01-22,Gaziantep,Sivasspor,2.63,3.4,2.55
+2023-01-22,Alanyaspor,Karagumruk,1.91,4.0,3.5
+2023-01-22,Kayserispor,Besiktas,3.3,3.5,2.05
+2023-01-22,Dortmund,Augsburg,1.3,6.0,8.0
+2023-01-22,M'gladbach,Leverkusen,2.63,3.8,2.45
+2023-01-22,Trabzonspor,Istanbulspor,1.33,4.75,9.0
+2023-01-22,Ath Bilbao,Real Madrid,2.9,3.4,2.38
+2023-01-22,Feyenoord,Ajax,2.7,3.5,2.6
+2023-01-22,Elche,Osasuna,3.5,3.25,2.15
+2023-01-22,Villarreal,Girona,1.73,3.8,4.5
+2023-01-22,Barcelona,Getafe,1.18,8.0,15.0
+2023-01-22,Sunderland,Middlesbrough,2.88,3.4,2.5
+2023-01-22,Spezia,Roma,4.75,3.5,1.83
+2023-01-22,Juventus,Atalanta,2.1,3.4,3.5
+2023-01-22,AZ Alkmaar,For Sittard,1.3,5.75,9.0
+2023-01-22,Sampdoria,Udinese,3.6,3.25,2.15
+2023-01-22,Arsenal,Man United,1.8,3.8,4.2
+2023-01-23,Valencia,Almeria,1.6,4.2,5.25
+2023-01-23,Umraniyespor,Fenerbahce,6.0,4.5,1.5
+2023-01-23,Konyaspor,Ankaragucu,1.91,3.5,4.0
+2023-01-23,Bologna,Cremonese,1.91,3.4,4.33
+2023-01-23,Fulham,Tottenham,3.3,3.6,2.1
+2023-01-23,Inter,Empoli,1.29,6.0,9.5
+2023-01-24,Bayern Munich,FC Koln,1.2,7.5,12.0
+2023-01-24,Hertha,Wolfsburg,3.0,3.4,2.3
+2023-01-24,Hoffenheim,Stuttgart,2.1,3.5,3.4
+2023-01-24,Lazio,Milan,3.2,3.4,2.25
+2023-01-24,Schalke 04,RB Leipzig,5.75,4.33,1.53
+2023-01-24,Sparta Rotterdam,Waalwijk,1.8,3.5,4.75
+2023-01-24,FC Emmen,PSV Eindhoven,6.5,4.75,1.44
+2023-01-25,Werder Bremen,Union Berlin,2.8,3.2,2.63
+2023-01-25,Leverkusen,Bochum,1.4,5.25,6.5
+2023-01-25,Freiburg,Ein Frankfurt,2.5,3.5,2.7
+2023-01-25,Mainz,Dortmund,2.9,3.6,2.3
+2023-01-25,Augsburg,M'gladbach,3.0,3.6,2.25
+2023-01-25,Go Ahead Eagles,AZ Alkmaar,4.2,3.6,1.85
+2023-01-25,Vitesse,Twente,3.6,3.5,2.05
+2023-01-25,For Sittard,Heerenveen,2.9,3.5,2.38
+2023-01-25,Feyenoord,Nijmegen,1.3,5.5,10.0
+2023-01-25,Utrecht,Excelsior,1.4,4.75,7.5
+2023-01-26,Groningen,Cambuur,2.25,3.5,3.1
+2023-01-26,Ajax,Volendam,1.13,9.5,17.0
+2023-01-27,Besiktas,Alanyaspor,1.62,4.2,4.75
+2023-01-27,Lorient,Rennes,4.0,3.5,1.95
+2023-01-27,Bologna,Spezia,1.85,3.4,4.5
+2023-01-27,Karlsruhe,Paderborn,2.55,3.75,2.55
+2023-01-27,Fortuna Dusseldorf,Magdeburg,1.75,4.2,4.33
+2023-01-27,Almeria,Espanol,2.38,3.1,3.2
+2023-01-27,RB Leipzig,Stuttgart,1.33,5.0,9.0
+2023-01-27,Lecce,Salernitana,1.8,3.4,4.75
+2023-01-27,Standard,Eupen,1.65,3.75,4.5
+2023-01-28,Hoffenheim,M'gladbach,2.0,3.9,3.4
+2023-01-28,Middlesbrough,Watford,1.91,3.4,4.33
+2023-01-28,Hull,QPR,2.5,3.4,2.8
+2023-01-28,Coventry,Huddersfield,1.8,3.6,4.5
+2023-01-28,PSV Eindhoven,Go Ahead Eagles,1.29,6.5,9.5
+2023-01-28,Hannover,Kaiserslautern,2.25,3.4,3.2
+2023-01-28,Holstein Kiel,Greuther Furth,2.38,3.4,2.9
+2023-01-28,Heidenheim,Hansa Rostock,1.91,3.6,4.0
+2023-01-28,Darmstadt,Regensburg,1.62,4.0,5.5
+2023-01-28,Bayern Munich,Ein Frankfurt,1.33,6.0,7.5
+2023-01-28,Werder Bremen,Wolfsburg,3.2,3.6,2.15
+2023-01-28,Mainz,Bochum,1.7,4.0,4.75
+2023-01-28,Atalanta,Sampdoria,1.33,5.25,9.0
+2023-01-28,Cremonese,Inter,6.5,4.33,1.5
+2023-01-28,Empoli,Torino,3.25,3.1,2.4
+2023-01-28,Freiburg,Augsburg,1.5,4.5,6.25
+2023-01-28,Sivasspor,Ad. Demirspor,2.63,3.3,2.6
+2023-01-28,Antalyaspor,Umraniyespor,1.83,3.6,4.2
+2023-01-28,Hatayspor,Trabzonspor,4.5,3.5,1.8
+2023-01-28,Getafe,Betis,3.2,2.88,2.63
+2023-01-28,Sevilla,Elche,1.53,4.0,7.0
+2023-01-28,Girona,Barcelona,5.0,4.33,1.57
+2023-01-28,Cadiz,Mallorca,2.88,2.8,2.9
+2023-01-28,St Mirren,Motherwell,2.4,3.2,3.1
+2023-01-28,AZ Alkmaar,Utrecht,1.67,3.8,5.25
+2023-01-28,Ross County,Kilmarnock,2.8,3.1,2.7
+2023-01-28,Charleroi,St. Gilloise,3.3,3.4,2.0
+2023-01-28,Oud-Heverlee Leuven,St Truiden,2.25,3.3,2.9
+2023-01-28,Kortrijk,Oostende,2.0,3.4,3.3
+2023-01-28,Westerlo,Mechelen,1.85,3.6,3.6
+2023-01-28,Rangers,St Johnstone,1.17,7.0,19.0
+2023-01-28,Hibernian,Aberdeen,2.25,3.6,3.0
+2023-01-28,Nijmegen,Sparta Rotterdam,2.3,3.3,3.2
+2023-01-28,Heerenveen,Vitesse,2.15,3.5,3.3
+2023-01-28,Waalwijk,FC Emmen,2.2,3.4,3.3
+2023-01-28,Marseille,Monaco,2.1,3.6,3.4
+2023-01-28,Troyes,Lens,5.0,3.8,1.7
+2023-01-28,Giresunspor,Galatasaray,6.0,4.0,1.53
+2023-01-28,Ankaragucu,Gaziantep,1.8,3.6,4.2
+2023-01-28,Hertha,Union Berlin,3.5,3.25,2.2
+2023-01-29,Nurnberg,St Pauli,2.75,3.4,2.55
+2023-01-29,Bielefeld,Sandhausen,2.0,3.8,3.5
+2023-01-29,Leverkusen,Dortmund,2.45,3.8,2.63
+2023-01-29,Schalke 04,FC Koln,3.8,3.6,1.95
+2023-01-29,Genk,Seraing,1.22,5.75,10.0
+2023-01-29,Waregem,Club Brugge,4.5,3.75,1.65
+2023-01-29,Cercle Brugge,Gent,3.1,3.25,2.15
+2023-01-29,Anderlecht,Antwerp,2.63,3.25,2.45
+2023-01-29,Paris SG,Reims,1.22,7.0,11.0
+2023-01-29,Ajaccio,Lyon,4.5,3.6,1.83
+2023-01-29,Strasbourg,Toulouse,2.3,3.5,3.1
+2023-01-29,Clermont,Nantes,2.4,3.25,3.1
+2023-01-29,Brest,Angers,2.15,3.4,3.4
+2023-01-29,Auxerre,Montpellier,2.45,3.3,3.0
+2023-01-29,Nice,Lille,2.9,3.25,2.5
+2023-01-29,Valladolid,Valencia,3.25,3.1,2.4
+2023-01-29,Hamburg,Braunschweig,1.53,4.5,5.5
+2023-01-29,Twente,Feyenoord,2.88,3.2,2.55
+2023-01-29,Osasuna,Ath Madrid,3.6,3.1,2.2
+2023-01-29,Excelsior,Ajax,11.0,6.0,1.25
+2023-01-29,Dundee United,Celtic,13.0,6.0,1.22
+2023-01-29,Milan,Sassuolo,1.5,4.5,6.5
+2023-01-29,Juventus,Monza,1.55,4.0,6.5
+2023-01-29,Real Madrid,Sociedad,1.67,3.8,5.0
+2023-01-29,Lazio,Fiorentina,2.1,3.4,3.6
+2023-01-29,Napoli,Roma,1.73,3.6,5.25
+2023-01-29,Celta,Ath Bilbao,2.88,3.0,2.7
+2023-01-29,Livingston,Hearts,3.4,3.5,2.1
+2023-01-29,Cambuur,For Sittard,2.3,3.4,3.1
+2023-01-29,Volendam,Groningen,2.3,3.5,3.0
+2023-01-29,Istanbulspor,Kayserispor,3.1,3.3,2.3
+2023-01-29,Buyuksehyr,Konyaspor,1.85,3.4,4.0
+2023-01-29,Fenerbahce,Kasimpasa,1.33,5.75,7.5
+2023-01-30,Udinese,Verona,1.8,3.75,4.33
+2023-01-30,Villarreal,Vallecano,1.67,3.8,5.25
+2023-01-31,Alanyaspor,Sivasspor,2.05,3.5,3.2
+2023-01-31,Karagumruk,Besiktas,3.8,3.8,1.83
+2023-01-31,Luton,Cardiff,2.0,3.4,4.2
+2023-01-31,Ross County,Hibernian,3.5,3.6,2.1
+2023-02-01,Lens,Nice,1.73,3.4,5.5
+2023-02-01,Lyon,Brest,1.5,4.33,6.5
+2023-02-01,Toulouse,Troyes,1.73,4.0,4.33
+2023-02-01,Motherwell,St Johnstone,2.1,3.2,3.8
+2023-02-01,Nantes,Marseille,4.5,3.8,1.75
+2023-02-01,Eupen,Genk,5.5,3.8,1.53
+2023-02-01,Kasimpasa,Giresunspor,1.95,3.6,3.6
+2023-02-01,Kilmarnock,Dundee United,2.4,3.2,3.1
+2023-02-01,Lille,Clermont,1.5,4.2,7.0
+2023-02-01,Angers,Ajaccio,2.25,3.2,3.4
+2023-02-01,Trabzonspor,Antalyaspor,1.6,3.8,5.0
+2023-02-01,Gaziantep,Hatayspor,2.0,3.5,3.6
+2023-02-01,Reims,Lorient,1.8,3.6,4.5
+2023-02-01,Monaco,Auxerre,1.33,5.5,9.0
+2023-02-01,Galatasaray,Umraniyespor,1.2,7.5,11.0
+2023-02-01,Rennes,Strasbourg,1.55,4.0,6.5
+2023-02-01,Hearts,Rangers,5.75,4.33,1.55
+2023-02-01,Celtic,Livingston,1.11,10.0,21.0
+2023-02-01,Aberdeen,St Mirren,2.0,3.4,3.8
+2023-02-01,Waalwijk,Go Ahead Eagles,2.25,3.6,3.0
+2023-02-01,Montpellier,Paris SG,8.5,6.0,1.3
+2023-02-01,Betis,Barcelona,5.0,3.8,1.67
+2023-02-02,Kayserispor,Buyuksehyr,2.9,3.25,2.38
+2023-02-02,Konyaspor,Istanbulspor,1.45,4.2,6.5
+2023-02-02,Ad. Demirspor,Fenerbahce,3.4,3.6,2.0
+2023-02-02,Real Madrid,Valencia,1.44,4.75,6.5
+2023-02-03,Chelsea,Fulham,1.62,4.0,5.25
+2023-02-03,West Brom,Coventry,1.85,3.5,4.5
+2023-02-03,For Sittard,Sparta Rotterdam,2.45,3.2,2.9
+2023-02-03,Paderborn,Fortuna Dusseldorf,2.45,3.4,2.8
+2023-02-03,Augsburg,Leverkusen,4.0,3.8,1.85
+2023-02-03,Sandhausen,Darmstadt,3.75,3.4,2.05
+2023-02-03,Ath Bilbao,Cadiz,1.36,4.5,9.5
+2023-02-03,Oostende,Anderlecht,3.4,3.6,1.91
+2023-02-04,M'gladbach,Schalke 04,1.53,4.5,5.75
+2023-02-04,Union Berlin,Mainz,1.95,3.5,4.0
+2023-02-04,FC Koln,RB Leipzig,4.2,3.6,1.91
+2023-02-04,Ein Frankfurt,Hertha,1.45,4.5,6.5
+2023-02-04,Dortmund,Freiburg,1.67,4.0,5.0
+2023-02-04,Paris SG,Toulouse,1.36,5.25,7.5
+2023-02-04,Troyes,Lyon,4.5,4.2,1.7
+2023-02-04,Volendam,AZ Alkmaar,5.25,4.5,1.57
+2023-02-04,Bochum,Hoffenheim,2.75,3.5,2.5
+2023-02-04,St Truiden,Kortrijk,1.73,3.6,4.33
+2023-02-04,Ankaragucu,Karagumruk,2.15,3.4,3.2
+2023-02-04,Sivasspor,Besiktas,3.4,3.4,2.05
+2023-02-04,Antalyaspor,Gaziantep,1.91,3.5,3.8
+2023-02-04,Seraing,Oud-Heverlee Leuven,4.0,3.6,1.85
+2023-02-04,Eupen,Westerlo,2.9,3.5,2.15
+2023-02-04,Cercle Brugge,Standard,2.05,3.5,3.1
+2023-02-04,Rennes,Lille,2.25,3.5,3.1
+2023-02-04,FC Emmen,Vitesse,2.7,3.3,2.63
+2023-02-04,Middlesbrough,Blackpool,1.53,4.0,6.5
+2023-02-04,Swansea,Birmingham,1.83,3.5,4.5
+2023-02-04,Kaiserslautern,Holstein Kiel,2.3,3.5,3.0
+2023-02-04,Utrecht,Heerenveen,1.8,3.6,4.5
+2023-02-04,Sassuolo,Atalanta,3.75,3.6,1.91
+2023-02-04,Roma,Empoli,1.5,4.2,6.5
+2023-02-04,Cremonese,Lecce,2.63,3.1,2.8
+2023-02-04,Betis,Celta,2.2,3.2,3.5
+2023-02-04,Ath Madrid,Getafe,1.4,4.33,9.0
+2023-02-04,Elche,Villarreal,5.0,3.8,1.67
+2023-02-04,Espanol,Osasuna,2.55,3.0,3.0
+2023-02-04,Everton,Arsenal,8.5,4.5,1.4
+2023-02-04,St Mirren,Hibernian,2.7,3.2,2.6
+2023-02-04,Rangers,Ross County,1.13,10.0,12.0
+2023-02-04,Livingston,Kilmarnock,2.2,3.3,3.3
+2023-02-04,Hearts,Dundee United,1.7,3.75,5.25
+2023-02-04,Aberdeen,Motherwell,2.0,3.3,3.6
+2023-02-04,Regensburg,Bielefeld,2.38,3.4,3.0
+2023-02-04,Greuther Furth,Nurnberg,2.1,3.4,3.6
+2023-02-04,Braunschweig,Heidenheim,3.1,3.3,2.3
+2023-02-04,Brentford,Southampton,1.85,3.6,4.2
+2023-02-04,Brighton,Bournemouth,1.33,5.25,8.5
+2023-02-04,Man United,Crystal Palace,1.4,4.75,8.0
+2023-02-04,Reading,Watford,2.8,3.3,2.55
+2023-02-04,Preston,Bristol City,2.45,3.2,3.0
+2023-02-04,Millwall,Sunderland,2.05,3.4,3.75
+2023-02-04,Wolves,Liverpool,4.0,3.8,1.85
+2023-02-04,Newcastle,West Ham,1.6,3.8,6.0
+2023-02-04,Luton,Stoke,2.25,3.3,3.3
+2023-02-04,Hull,Cardiff,2.15,3.3,3.5
+2023-02-04,Huddersfield,QPR,3.1,3.25,2.38
+2023-02-04,Rotherham,Sheffield United,5.0,4.0,1.67
+2023-02-04,Aston Villa,Leicester,1.95,3.6,3.8
+2023-02-04,Norwich,Burnley,2.6,3.3,2.75
+2023-02-04,Excelsior,Waalwijk,2.63,3.6,2.55
+2023-02-05,Lorient,Angers,1.85,3.6,4.2
+2023-02-05,Auxerre,Reims,3.5,3.5,2.1
+2023-02-05,Ajaccio,Nantes,2.75,3.1,2.7
+2023-02-05,Clermont,Monaco,3.8,3.8,1.85
+2023-02-05,Inter,Milan,1.95,3.5,4.0
+2023-02-05,Spezia,Napoli,8.0,5.25,1.36
+2023-02-05,Torino,Udinese,2.25,3.25,3.3
+2023-02-05,Fiorentina,Bologna,1.83,3.5,4.5
+2023-02-05,Stuttgart,Werder Bremen,2.0,3.6,3.6
+2023-02-05,Wolfsburg,Bayern Munich,5.25,4.5,1.57
+2023-02-05,St Johnstone,Celtic,15.0,7.0,1.2
+2023-02-05,Sociedad,Valladolid,1.44,4.33,7.5
+2023-02-05,Galatasaray,Trabzonspor,1.62,3.75,4.75
+2023-02-05,Strasbourg,Montpellier,2.05,3.3,3.8
+2023-02-05,Cambuur,Ajax,9.0,5.75,1.22
+2023-02-05,Feyenoord,PSV Eindhoven,2.1,3.6,3.1
+2023-02-05,Go Ahead Eagles,Nijmegen,2.4,3.4,2.7
+2023-02-05,Groningen,Twente,5.0,3.75,1.6
+2023-02-05,Barcelona,Sevilla,1.33,5.25,8.5
+2023-02-05,Marseille,Nice,1.7,4.0,4.75
+2023-02-05,Girona,Valencia,2.2,3.2,3.5
+2023-02-05,Mallorca,Real Madrid,5.0,3.5,1.73
+2023-02-05,Hansa Rostock,Hamburg,3.75,3.75,1.91
+2023-02-05,Magdeburg,Karlsruhe,2.63,3.5,2.55
+2023-02-05,St Pauli,Hannover,2.0,3.6,3.5
+2023-02-05,Nott'm Forest,Leeds,2.63,3.3,2.7
+2023-02-05,Tottenham,Man City,4.33,4.2,1.73
+2023-02-05,Antwerp,Club Brugge,2.5,3.3,2.63
+2023-02-05,Mechelen,Charleroi,2.15,3.4,3.1
+2023-02-05,Gent,Genk,2.25,3.4,2.8
+2023-02-05,St. Gilloise,Waregem,1.36,4.75,7.0
+2023-02-05,Hatayspor,Kasimpasa,2.3,3.5,2.7
+2023-02-05,Istanbulspor,Alanyaspor,3.2,3.5,2.1
+2023-02-05,Brest,Lens,4.5,3.6,1.75
+2023-02-06,Monza,Sampdoria,1.8,3.5,4.75
+2023-02-06,Vallecano,Almeria,1.73,3.6,5.0
+2023-02-06,Blackburn,Wigan,1.95,3.3,4.0
+2023-02-06,Verona,Lazio,3.6,3.6,2.0
+2023-02-07,Blackpool,Huddersfield,2.25,3.25,3.25
+2023-02-07,Salernitana,Juventus,7.0,4.2,1.5
+2023-02-08,Man United,Leeds,1.45,5.0,6.0
+2023-02-10,Schalke 04,Wolfsburg,3.6,3.8,1.95
+2023-02-10,Nice,Ajaccio,1.57,3.8,6.5
+2023-02-10,Cadiz,Girona,3.0,3.2,2.45
+2023-02-10,Birmingham,West Brom,3.8,3.4,2.0
+2023-02-10,Bielefeld,Hansa Rostock,2.25,3.2,3.4
+2023-02-10,AZ Alkmaar,Excelsior,1.29,6.5,8.0
+2023-02-10,Karlsruhe,Greuther Furth,2.6,3.4,2.63
+2023-02-10,Eupen,Mechelen,2.55,3.4,2.5
+2023-02-10,Club Brugge,St. Gilloise,2.3,3.3,2.9
+2023-02-10,Oud-Heverlee Leuven,Cercle Brugge,2.25,3.25,2.8
+2023-02-10,Milan,Torino,1.8,3.5,4.75
+2023-02-11,Sheffield United,Swansea,1.83,3.6,4.33
+2023-02-11,West Ham,Chelsea,3.3,3.3,2.25
+2023-02-11,Westerlo,Gent,2.8,3.3,2.38
+2023-02-11,Arsenal,Brentford,1.44,4.75,7.0
+2023-02-11,Charleroi,Seraing,1.5,4.0,5.75
+2023-02-11,Freiburg,Stuttgart,1.8,3.8,4.33
+2023-02-11,Empoli,Spezia,2.0,3.5,3.75
+2023-02-11,Nurnberg,Regensburg,2.0,3.4,3.8
+2023-02-11,Sunderland,Reading,1.85,3.5,4.5
+2023-02-11,Watford,Blackburn,1.91,3.4,4.33
+2023-02-11,Holstein Kiel,Magdeburg,1.85,3.8,4.0
+2023-02-11,Hoffenheim,Leverkusen,2.88,3.6,2.38
+2023-02-11,Crystal Palace,Brighton,3.8,3.5,2.0
+2023-02-11,Leicester,Tottenham,3.4,3.6,2.1
+2023-02-11,Stoke,Hull,2.05,3.3,3.8
+2023-02-11,Southampton,Wolves,2.9,3.2,2.55
+2023-02-11,Bournemouth,Newcastle,6.5,4.0,1.53
+2023-02-11,RB Leipzig,Union Berlin,1.7,3.75,5.0
+2023-02-11,Werder Bremen,Dortmund,4.0,4.0,1.8
+2023-02-11,Blackpool,Rotherham,2.15,3.3,3.4
+2023-02-11,Bristol City,Norwich,2.9,3.4,2.4
+2023-02-11,Burnley,Preston,1.55,4.0,6.0
+2023-02-11,Cardiff,Middlesbrough,3.6,3.4,2.1
+2023-02-11,Coventry,Luton,2.25,3.4,3.2
+2023-02-11,Mainz,Augsburg,1.8,4.0,4.2
+2023-02-11,QPR,Millwall,2.7,3.1,2.8
+2023-02-11,Fulham,Nott'm Forest,1.91,3.5,4.33
+2023-02-11,Lecce,Roma,4.33,3.25,1.95
+2023-02-11,Heidenheim,Hamburg,2.9,3.5,2.38
+2023-02-11,Bayern Munich,Bochum,1.11,10.0,17.0
+2023-02-11,Lazio,Atalanta,2.38,3.4,3.0
+2023-02-11,Wigan,Huddersfield,2.25,3.2,3.4
+2023-02-11,Nijmegen,Cambuur,1.7,3.8,5.0
+2023-02-11,Hannover,Paderborn,3.0,3.4,2.38
+2023-02-11,FC Emmen,For Sittard,2.15,3.4,3.3
+2023-02-11,Valencia,Ath Bilbao,3.0,3.2,2.45
+2023-02-11,Sevilla,Mallorca,1.91,3.2,4.5
+2023-02-11,Almeria,Betis,2.8,3.4,2.5
+2023-02-11,PSV Eindhoven,Groningen,1.14,7.5,15.0
+2023-02-11,Clermont,Marseille,5.5,3.5,1.7
+2023-02-11,Monaco,Paris SG,2.63,3.4,2.6
+2023-02-12,Toulouse,Rennes,3.2,3.3,2.3
+2023-02-12,Angers,Auxerre,2.2,3.5,3.2
+2023-02-12,Nantes,Lorient,2.0,3.5,3.75
+2023-02-12,Lyon,Lens,2.3,3.5,2.9
+2023-02-12,Hertha,M'gladbach,2.88,3.5,2.4
+2023-02-12,Napoli,Cremonese,1.18,7.5,13.0
+2023-02-12,Juventus,Fiorentina,1.83,3.5,4.5
+2023-02-12,Bologna,Monza,2.2,3.2,3.5
+2023-02-12,Genk,Antwerp,1.91,3.5,3.75
+2023-02-12,Anderlecht,St Truiden,1.83,3.4,4.0
+2023-02-12,Standard,Kortrijk,1.62,4.0,4.75
+2023-02-12,Waregem,Oostende,1.95,3.6,3.5
+2023-02-12,Udinese,Sassuolo,2.0,3.6,3.6
+2023-02-12,Twente,Volendam,1.25,6.0,10.0
+2023-02-12,Reims,Troyes,1.55,4.33,5.75
+2023-02-12,Montpellier,Brest,2.38,3.3,3.0
+2023-02-12,FC Koln,Ein Frankfurt,2.7,3.5,2.5
+2023-02-12,Darmstadt,Braunschweig,1.53,4.2,6.0
+2023-02-12,Fortuna Dusseldorf,Sandhausen,1.6,3.8,6.0
+2023-02-12,Getafe,Vallecano,2.8,2.9,2.88
+2023-02-12,Celta,Ath Madrid,3.6,3.1,2.2
+2023-02-12,Valladolid,Osasuna,2.75,3.1,2.7
+2023-02-12,Villarreal,Barcelona,3.75,4.0,1.85
+2023-02-12,St Pauli,Kaiserslautern,2.0,3.6,3.6
+2023-02-12,Sparta Rotterdam,Go Ahead Eagles,1.95,3.3,3.8
+2023-02-12,Heerenveen,Feyenoord,4.75,3.8,1.67
+2023-02-12,Vitesse,Utrecht,2.45,3.5,2.63
+2023-02-12,Leeds,Man United,3.75,3.8,1.91
+2023-02-12,Lille,Strasbourg,1.45,4.5,6.5
+2023-02-12,Ajax,Waalwijk,1.14,8.0,17.0
+2023-02-12,Man City,Aston Villa,1.25,6.5,11.0
+2023-02-13,Verona,Salernitana,1.85,3.4,4.5
+2023-02-13,Espanol,Sociedad,3.5,3.0,2.3
+2023-02-13,Sampdoria,Inter,7.0,4.5,1.44
+2023-02-13,Liverpool,Everton,1.5,4.33,6.5
+2023-02-14,Coventry,Millwall,2.55,3.2,2.9
+2023-02-14,Norwich,Hull,1.8,3.75,4.33
+2023-02-14,QPR,Sunderland,2.4,3.3,3.0
+2023-02-14,Burnley,Watford,1.67,3.8,5.25
+2023-02-14,Reading,Rotherham,1.95,3.3,4.2
+2023-02-14,Birmingham,Cardiff,2.25,3.2,3.4
+2023-02-15,West Brom,Blackburn,1.67,3.8,5.5
+2023-02-15,Arsenal,Man City,2.9,3.5,2.35
+2023-02-15,Sheffield United,Middlesbrough,2.05,3.4,3.75
+2023-02-15,Swansea,Blackpool,1.67,4.0,5.0
+2023-02-15,Stoke,Huddersfield,1.83,3.4,4.75
+2023-02-15,Preston,Luton,2.88,3.0,2.7
+2023-02-15,Bristol City,Wigan,1.95,3.4,4.0
+2023-02-15,Motherwell,St Mirren,2.55,3.2,3.0
+2023-02-15,Real Madrid,Elche,1.18,7.5,15.0
+2023-02-17,Girona,Almeria,1.8,3.75,4.33
+2023-02-17,Auxerre,Lyon,4.0,3.6,1.95
+2023-02-17,Braunschweig,Holstein Kiel,3.0,3.5,2.3
+2023-02-17,Paderborn,Kaiserslautern,1.95,3.6,3.8
+2023-02-17,Mechelen,Genk,4.2,3.6,1.8
+2023-02-17,Cardiff,Reading,1.95,3.25,4.2
+2023-02-17,Sassuolo,Napoli,5.0,4.0,1.6
+2023-02-17,Waalwijk,For Sittard,2.25,3.4,3.2
+2023-02-17,Augsburg,Hoffenheim,2.7,3.5,2.6
+2023-02-18,Luton,Burnley,3.3,3.3,2.2
+2023-02-18,Wigan,Norwich,3.5,3.6,2.05
+2023-02-18,Sunderland,Bristol City,2.0,3.4,3.75
+2023-02-18,Rotherham,Coventry,3.4,3.4,2.15
+2023-02-18,Middlesbrough,QPR,1.55,4.2,5.75
+2023-02-18,Bochum,Freiburg,3.1,3.5,2.25
+2023-02-18,Huddersfield,Birmingham,2.6,3.3,2.7
+2023-02-18,Blackpool,Stoke,3.0,3.3,2.38
+2023-02-18,Blackburn,Swansea,2.7,3.4,2.63
+2023-02-18,Millwall,Sheffield United,2.7,3.4,2.55
+2023-02-18,Sampdoria,Bologna,3.25,3.1,2.38
+2023-02-18,Antwerp,Eupen,1.36,5.0,8.0
+2023-02-18,Oostende,Charleroi,3.1,3.5,2.25
+2023-02-18,Hull,Preston,2.1,3.4,3.5
+2023-02-18,Monza,Milan,3.75,3.3,2.1
+2023-02-18,St Mirren,Ross County,1.95,3.3,4.2
+2023-02-18,Everton,Leeds,2.4,3.3,3.0
+2023-02-18,Mallorca,Villarreal,3.2,3.0,2.45
+2023-02-18,Betis,Valladolid,1.6,3.75,6.5
+2023-02-18,Sociedad,Celta,1.8,3.3,5.25
+2023-02-18,Volendam,Vitesse,3.6,3.6,2.0
+2023-02-18,Groningen,FC Emmen,2.3,3.3,3.2
+2023-02-18,Feyenoord,AZ Alkmaar,1.7,3.8,5.0
+2023-02-18,Greuther Furth,Fortuna Dusseldorf,2.3,3.3,3.2
+2023-02-18,Magdeburg,St Pauli,3.2,3.6,2.15
+2023-02-18,Regensburg,Hannover,2.88,3.3,2.5
+2023-02-18,Hansa Rostock,Darmstadt,3.5,3.4,2.1
+2023-02-18,Inter,Udinese,1.53,4.2,6.0
+2023-02-18,Nott'm Forest,Man City,8.5,5.5,1.3
+2023-02-18,Aston Villa,Arsenal,4.5,3.6,1.5
+2023-02-18,Brentford,Crystal Palace,1.83,3.5,4.5
+2023-02-18,Newcastle,Liverpool,2.5,3.5,2.7
+2023-02-18,Celtic,Aberdeen,1.17,7.5,17.0
+2023-02-18,Dundee United,St Johnstone,2.25,3.3,3.3
+2023-02-18,Hibernian,Kilmarnock,1.73,4.0,4.5
+2023-02-18,Livingston,Rangers,8.0,5.0,1.36
+2023-02-18,Seraing,Waregem,3.1,3.4,2.2
+2023-02-18,Brighton,Fulham,1.65,3.8,5.5
+2023-02-18,Chelsea,Southampton,1.4,4.75,8.5
+2023-02-18,Wolves,Bournemouth,1.67,3.6,6.0
+2023-02-18,St. Gilloise,Standard,1.53,4.2,6.0
+2023-02-18,Osasuna,Real Madrid,4.33,3.6,1.8
+2023-02-18,Nice,Reims,2.1,3.4,3.5
+2023-02-18,Strasbourg,Angers,1.83,3.5,4.5
+2023-02-18,Ein Frankfurt,Werder Bremen,1.62,4.2,5.25
+2023-02-18,Wolfsburg,RB Leipzig,3.3,3.6,2.15
+2023-02-18,Stuttgart,FC Koln,2.45,3.4,2.88
+2023-02-18,M'gladbach,Bayern Munich,7.0,5.75,1.36
+2023-02-19,Paris SG,Lille,1.62,4.0,5.5
+2023-02-19,Fiorentina,Empoli,1.6,4.0,5.75
+2023-02-19,Brest,Monaco,4.5,3.6,1.8
+2023-02-19,Lorient,Ajaccio,2.0,3.4,3.8
+2023-02-19,Rennes,Clermont,1.57,3.8,6.5
+2023-02-19,Troyes,Montpellier,2.75,3.25,2.6
+2023-02-19,Hamburg,Bielefeld,1.5,4.33,6.5
+2023-02-19,Lens,Nantes,1.5,4.0,7.0
+2023-02-19,Toulouse,Marseille,3.8,3.75,1.91
+2023-02-19,Heidenheim,Nurnberg,1.85,3.5,4.33
+2023-02-19,Sandhausen,Karlsruhe,3.25,3.3,2.25
+2023-02-19,Motherwell,Hearts,3.1,3.4,2.3
+2023-02-19,Man United,Leicester,1.62,4.33,5.25
+2023-02-19,Tottenham,West Ham,1.75,3.6,4.75
+2023-02-19,Elche,Espanol,2.9,3.1,2.63
+2023-02-19,Roma,Verona,1.65,3.6,5.75
+2023-02-19,Spezia,Juventus,6.0,3.75,1.62
+2023-02-19,Salernitana,Lazio,5.5,3.75,1.7
+2023-02-19,Excelsior,Nijmegen,3.3,3.4,2.2
+2023-02-19,Ajax,Sparta Rotterdam,1.22,7.0,12.0
+2023-02-19,Atalanta,Lecce,1.5,4.0,7.0
+2023-02-19,Go Ahead Eagles,Twente,4.2,3.5,1.91
+2023-02-19,Cambuur,Heerenveen,3.2,3.3,2.3
+2023-02-19,Vallecano,Sevilla,2.5,3.1,3.0
+2023-02-19,Ath Madrid,Ath Bilbao,2.0,3.3,4.0
+2023-02-19,Barcelona,Cadiz,1.18,7.0,13.0
+2023-02-19,St Truiden,Westerlo,2.63,3.3,2.63
+2023-02-19,Kortrijk,Anderlecht,4.0,3.6,1.85
+2023-02-19,Gent,Oud-Heverlee Leuven,1.57,4.0,5.25
+2023-02-19,Utrecht,PSV Eindhoven,3.8,4.0,1.85
+2023-02-19,Cercle Brugge,Club Brugge,3.5,3.4,2.05
+2023-02-19,Union Berlin,Schalke 04,1.6,3.8,6.0
+2023-02-19,Dortmund,Hertha,1.33,5.5,8.5
+2023-02-19,Leverkusen,Mainz,1.8,3.8,4.2
+2023-02-20,Getafe,Valencia,2.75,3.0,2.8
+2023-02-20,Torino,Cremonese,1.65,3.8,5.25
+2023-02-20,Watford,West Brom,2.63,3.4,2.55
+2023-02-21,Millwall,Burnley,3.3,3.2,2.38
+2023-02-21,Blackburn,Blackpool,2.0,3.5,3.8
+2023-02-21,Swansea,Stoke,2.2,3.25,3.5
+2023-02-21,Norwich,Birmingham,1.65,4.0,5.25
+2023-02-21,Rotherham,Sunderland,3.8,3.25,2.1
+2023-02-24,Fortuna Dusseldorf,Braunschweig,1.62,4.0,5.5
+2023-02-24,Sparta Rotterdam,Utrecht,2.63,3.4,2.6
+2023-02-24,Waregem,Kortrijk,2.2,3.5,3.1
+2023-02-24,Mainz,M'gladbach,2.15,3.6,3.2
+2023-02-24,Elche,Betis,3.5,3.3,2.1
+2023-02-24,Lille,Brest,1.36,5.0,8.5
+2023-02-24,Karlsruhe,Regensburg,1.8,3.75,4.33
+2023-02-24,Fulham,Wolves,2.5,3.2,3.0
+2023-02-25,St Johnstone,St Mirren,2.8,3.1,2.63
+2023-02-25,Westerlo,St. Gilloise,3.5,3.6,1.95
+2023-02-25,FC Koln,Wolfsburg,2.3,3.5,3.0
+2023-02-25,Leeds,Southampton,1.95,3.5,4.0
+2023-02-25,Leicester,Arsenal,4.75,4.0,1.7
+2023-02-25,West Ham,Nott'm Forest,1.75,3.6,5.0
+2023-02-25,Bournemouth,Man City,10.0,5.75,1.29
+2023-02-25,Crystal Palace,Liverpool,4.75,3.8,1.73
+2023-02-25,Groningen,Excelsior,1.85,3.8,4.0
+2023-02-25,Everton,Aston Villa,2.5,3.2,3.0
+2023-02-25,Ross County,Dundee United,2.55,3.2,2.88
+2023-02-25,Lecce,Sassuolo,2.45,3.25,2.9
+2023-02-25,Aberdeen,Livingston,1.85,3.6,4.2
+2023-02-25,Nijmegen,Volendam,1.57,4.0,5.75
+2023-02-25,AZ Alkmaar,Cambuur,1.25,5.5,12.0
+2023-02-25,Valencia,Sociedad,3.1,3.1,2.5
+2023-02-25,Real Madrid,Ath Madrid,1.8,3.5,5.0
+2023-02-25,Cadiz,Vallecano,2.9,3.0,2.7
+2023-02-25,Espanol,Mallorca,2.5,2.9,3.2
+2023-02-25,Giresunspor,Kayserispor,2.55,3.3,2.8
+2023-02-25,Fenerbahce,Konyaspor,1.5,4.5,6.0
+2023-02-25,Heerenveen,Waalwijk,1.91,3.5,4.0
+2023-02-25,Kaiserslautern,Greuther Furth,2.5,3.2,2.88
+2023-02-25,Nurnberg,Sandhausen,1.95,3.5,4.0
+2023-02-25,Darmstadt,Hamburg,2.55,3.75,2.5
+2023-02-25,Angers,Lyon,5.0,4.0,1.67
+2023-02-25,Montpellier,Lens,4.33,3.75,1.8
+2023-02-25,Empoli,Napoli,7.0,4.75,1.44
+2023-02-25,Kilmarnock,Motherwell,2.4,3.3,2.9
+2023-02-25,Holstein Kiel,Paderborn,2.8,3.8,2.3
+2023-02-25,Genk,Oostende,1.33,5.5,7.0
+2023-02-25,Sheffield United,Watford,1.85,3.6,3.8
+2023-02-25,QPR,Blackburn,2.15,3.2,3.6
+2023-02-25,Stoke,Millwall,2.4,3.2,3.0
+2023-02-25,Hoffenheim,Dortmund,4.0,4.2,1.75
+2023-02-25,RB Leipzig,Ein Frankfurt,1.7,4.0,4.6
+2023-02-25,Werder Bremen,Bochum,2.0,3.8,3.6
+2023-02-25,Schalke 04,Stuttgart,3.0,3.4,2.45
+2023-02-25,Birmingham,Luton,2.9,3.2,2.55
+2023-02-25,Norwich,Cardiff,1.7,3.75,5.0
+2023-02-25,Preston,Wigan,2.25,3.2,3.3
+2023-02-25,Bristol City,Hull,2.38,3.2,3.1
+2023-02-25,Reading,Blackpool,2.1,3.5,3.5
+2023-02-25,West Brom,Middlesbrough,2.3,3.3,3.0
+2023-02-25,Seraing,Mechelen,3.75,3.6,1.95
+2023-02-25,Eupen,Cercle Brugge,3.4,3.5,2.05
+2023-02-25,Hertha,Augsburg,2.1,3.6,3.25
+2023-02-25,Burnley,Huddersfield,1.36,4.5,10.0
+2023-02-25,Coventry,Sunderland,2.2,3.3,3.25
+2023-02-26,Vitesse,Ajax,5.5,4.75,1.5
+2023-02-26,Nantes,Rennes,3.5,3.3,2.15
+2023-02-26,PSV Eindhoven,Twente,1.65,4.0,5.25
+2023-02-26,Milan,Atalanta,2.15,3.4,3.4
+2023-02-26,Udinese,Spezia,1.62,3.8,5.75
+2023-02-26,Salernitana,Monza,3.6,3.3,2.05
+2023-02-26,FC Emmen,Go Ahead Eagles,2.38,3.2,3.2
+2023-02-26,Bayern Munich,Union Berlin,1.33,5.25,9.0
+2023-02-26,Lorient,Auxerre,2.05,3.4,3.6
+2023-02-26,Ajaccio,Troyes,2.2,3.1,3.5
+2023-02-26,Umraniyespor,Ad. Demirspor,3.6,3.5,2.0
+2023-02-26,Freiburg,Leverkusen,2.15,3.5,3.25
+2023-02-26,Marseille,Paris SG,2.75,3.6,2.4
+2023-02-26,Monaco,Nice,2.0,3.6,3.6
+2023-02-26,Reims,Toulouse,2.1,3.5,3.5
+2023-02-26,Bologna,Inter,5.5,3.75,1.7
+2023-02-26,Besiktas,Antalyaspor,1.65,3.8,5.0
+2023-02-26,Clermont,Strasbourg,2.55,3.2,2.88
+2023-02-26,Tottenham,Chelsea,2.55,3.25,2.9
+2023-02-26,Sevilla,Osasuna,1.85,3.25,4.5
+2023-02-26,Club Brugge,Gent,2.15,3.75,3.1
+2023-02-26,Oud-Heverlee Leuven,Antwerp,3.5,3.5,2.0
+2023-02-26,Anderlecht,Standard,1.83,3.75,4.0
+2023-02-26,Charleroi,St Truiden,2.05,3.5,3.6
+2023-02-26,Hannover,Magdeburg,2.0,4.0,3.4
+2023-02-26,Bielefeld,Heidenheim,2.88,3.5,2.4
+2023-02-26,Almeria,Barcelona,7.0,4.75,1.44
+2023-02-26,For Sittard,Feyenoord,6.5,4.75,1.44
+2023-02-26,St Pauli,Hansa Rostock,1.8,3.6,4.75
+2023-02-26,Celta,Valladolid,1.7,3.75,5.25
+2023-02-26,Ath Bilbao,Girona,1.67,3.8,5.25
+2023-02-27,Swansea,Rotherham,1.55,3.8,6.5
+2023-02-27,Villarreal,Getafe,1.67,3.6,5.75
+2023-02-27,Verona,Fiorentina,3.25,3.25,2.25
+2023-02-27,Lazio,Sampdoria,1.44,4.33,8.0
+2023-02-28,Cremonese,Roma,5.25,3.4,1.75
+2023-02-28,Juventus,Torino,1.73,3.4,5.5
+2023-02-28,Luton,Millwall,2.2,3.1,3.6
+2023-02-28,Preston,Coventry,2.7,3.3,2.63
+2023-03-01,Arsenal,Everton,1.36,4.75,10.0
+2023-03-01,Liverpool,Wolves,1.5,4.75,6.0
+2023-03-03,Oostende,Club Brugge,4.5,4.0,1.67
+2023-03-03,Nice,Auxerre,1.65,3.75,5.75
+2023-03-03,Magdeburg,Kaiserslautern,2.8,3.5,2.4
+2023-03-03,Alanyaspor,Buyuksehyr,2.6,3.2,2.6
+2023-03-03,Paderborn,St Pauli,2.45,3.3,2.9
+2023-03-03,Dortmund,RB Leipzig,2.2,3.5,3.2
+2023-03-03,Napoli,Lazio,1.65,3.8,5.25
+2023-03-03,Vitesse,AZ Alkmaar,3.2,3.4,2.25
+2023-03-03,Utrecht,For Sittard,1.57,4.2,5.75
+2023-03-03,Hull,West Brom,3.5,3.2,2.2
+2023-03-03,Sociedad,Cadiz,1.5,3.9,7.5
+2023-03-04,Bochum,Schalke 04,2.3,3.4,3.1
+2023-03-04,M'gladbach,Freiburg,2.4,3.6,2.8
+2023-03-04,Augsburg,Werder Bremen,2.3,3.5,3.0
+2023-03-04,Mainz,Hoffenheim,1.91,3.6,4.0
+2023-03-04,Aston Villa,Crystal Palace,2.05,3.3,3.8
+2023-03-04,Trabzonspor,Umraniyespor,1.4,4.33,6.5
+2023-03-04,Kortrijk,Charleroi,3.1,3.4,2.25
+2023-03-04,Getafe,Girona,2.75,3.0,2.8
+2023-03-04,Almeria,Villarreal,3.5,3.6,2.05
+2023-03-04,Mallorca,Elche,1.7,3.4,5.75
+2023-03-04,Ath Madrid,Sevilla,1.67,3.6,5.25
+2023-03-04,Cercle Brugge,Seraing,1.4,4.75,8.0
+2023-03-04,Oud-Heverlee Leuven,Waregem,1.83,3.6,4.2
+2023-03-04,Standard,Westerlo,2.55,3.3,2.7
+2023-03-04,Volendam,FC Emmen,2.6,3.5,2.63
+2023-03-04,Feyenoord,Groningen,1.2,7.0,13.0
+2023-03-04,Twente,Heerenveen,1.55,4.0,6.5
+2023-03-04,Southampton,Leicester,2.75,3.3,2.6
+2023-03-04,Wolves,Tottenham,3.3,3.4,2.2
+2023-03-04,Chelsea,Leeds,1.62,4.0,5.5
+2023-03-04,Brighton,West Ham,1.8,3.6,4.5
+2023-03-04,Union Berlin,FC Koln,1.91,3.4,4.33
+2023-03-04,Arsenal,Bournemouth,1.22,7.0,12.0
+2023-03-04,Man City,Newcastle,1.45,4.5,7.0
+2023-03-04,Kayserispor,Fenerbahce,4.2,3.5,1.75
+2023-03-04,Karagumruk,Sivasspor,2.15,3.3,3.1
+2023-03-04,Rotherham,QPR,3.0,3.2,2.5
+2023-03-04,Sunderland,Stoke,2.25,3.25,3.25
+2023-03-04,Stuttgart,Bayern Munich,7.0,5.25,1.4
+2023-03-04,Blackpool,Burnley,6.5,3.8,1.6
+2023-03-04,Cardiff,Bristol City,2.2,3.3,3.3
+2023-03-04,Blackburn,Sheffield United,3.7,3.5,2.0
+2023-03-04,Huddersfield,Coventry,3.3,3.2,2.25
+2023-03-04,Luton,Swansea,2.0,3.3,4.0
+2023-03-04,Middlesbrough,Reading,1.45,4.5,6.5
+2023-03-04,Heidenheim,Darmstadt,2.4,3.4,2.8
+2023-03-04,Sandhausen,Holstein Kiel,3.3,3.6,2.1
+2023-03-04,Hamburg,Nurnberg,1.57,4.0,5.5
+2023-03-04,Paris SG,Nantes,1.3,5.5,10.0
+2023-03-04,Millwall,Norwich,2.6,3.1,2.88
+2023-03-04,Lens,Lille,2.38,3.3,3.0
+2023-03-04,Dundee United,Aberdeen,3.2,3.5,2.2
+2023-03-04,Ross County,Motherwell,2.55,3.3,2.8
+2023-03-04,Regensburg,Fortuna Dusseldorf,3.3,3.5,2.15
+2023-03-04,Livingston,Hibernian,3.0,3.2,2.45
+2023-03-04,Watford,Preston,1.83,3.5,4.5
+2023-03-04,Hearts,St Johnstone,1.7,3.75,5.0
+2023-03-04,Fiorentina,Milan,2.8,3.3,2.55
+2023-03-04,Atalanta,Udinese,1.62,4.0,5.5
+2023-03-04,Wigan,Birmingham,2.25,3.2,3.3
+2023-03-04,Rangers,Kilmarnock,1.17,7.0,17.0
+2023-03-04,Monza,Empoli,2.1,3.25,3.8
+2023-03-05,Ajax,Nijmegen,1.22,6.5,11.0
+2023-03-05,Waalwijk,PSV Eindhoven,6.0,4.75,1.44
+2023-03-05,Excelsior,Sparta Rotterdam,3.4,3.5,2.1
+2023-03-05,Betis,Real Madrid,4.75,3.75,1.73
+2023-03-05,St Truiden,Genk,4.0,3.4,1.91
+2023-03-05,Sampdoria,Salernitana,2.3,3.25,3.2
+2023-03-05,Antwerp,Mechelen,1.53,4.2,5.75
+2023-03-05,Gent,Anderlecht,2.05,3.4,3.5
+2023-03-05,Inter,Lecce,1.36,4.75,9.5
+2023-03-05,St. Gilloise,Eupen,1.25,5.5,12.0
+2023-03-05,Roma,Juventus,2.7,3.0,2.88
+2023-03-05,Toulouse,Clermont,1.75,3.75,4.75
+2023-03-05,Spezia,Verona,2.7,3.1,2.8
+2023-03-05,Cambuur,Go Ahead Eagles,2.88,3.25,2.5
+2023-03-05,Valladolid,Espanol,2.5,3.2,2.88
+2023-03-05,Barcelona,Valencia,1.53,4.5,5.75
+2023-03-05,St Mirren,Celtic,13.0,6.0,1.22
+2023-03-05,Strasbourg,Brest,2.0,3.25,4.2
+2023-03-05,Reims,Ajaccio,1.62,3.8,6.0
+2023-03-05,Montpellier,Angers,1.75,3.6,4.75
+2023-03-05,Konyaspor,Giresunspor,1.8,3.75,3.6
+2023-03-05,Besiktas,Ankaragucu,1.5,4.2,5.5
+2023-03-05,Troyes,Monaco,5.75,4.5,1.5
+2023-03-05,Vallecano,Ath Bilbao,2.9,3.1,2.6
+2023-03-05,Wolfsburg,Ein Frankfurt,2.45,3.5,2.8
+2023-03-05,Lyon,Lorient,1.53,4.33,6.0
+2023-03-05,Braunschweig,Bielefeld,2.45,3.5,2.8
+2023-03-05,Greuther Furth,Hannover,1.91,3.75,3.8
+2023-03-05,Hansa Rostock,Karlsruhe,2.75,3.3,2.55
+2023-03-05,Nott'm Forest,Everton,2.7,3.0,2.88
+2023-03-05,Liverpool,Man United,2.38,3.6,2.88
+2023-03-05,Leverkusen,Hertha,1.53,4.2,6.0
+2023-03-05,Rennes,Marseille,2.75,3.5,2.5
+2023-03-06,Osasuna,Celta,2.8,3.0,2.8
+2023-03-06,Torino,Bologna,2.4,2.9,3.4
+2023-03-06,Kasimpasa,Antalyaspor,2.25,3.4,2.8
+2023-03-06,Sassuolo,Cremonese,1.8,3.6,4.5
+2023-03-06,Brentford,Fulham,1.95,3.6,3.75
+2023-03-07,Huddersfield,Bristol City,3.0,3.2,2.4
+2023-03-07,Reading,Sheffield United,4.75,3.6,1.75
+2023-03-07,West Brom,Wigan,1.57,4.0,6.0
+2023-03-08,Livingston,Dundee United,2.2,3.3,3.4
+2023-03-08,Hibernian,Rangers,6.0,4.33,1.53
+2023-03-08,Celtic,Hearts,1.18,8.0,13.0
+2023-03-10,Kaiserslautern,Sandhausen,1.7,3.8,4.75
+2023-03-10,Nurnberg,Braunschweig,2.4,3.3,3.0
+2023-03-10,Cadiz,Getafe,2.5,2.88,3.3
+2023-03-10,Spezia,Inter,8.0,4.6,1.4
+2023-03-10,Lille,Lyon,1.85,3.75,4.0
+2023-03-10,Charleroi,Oud-Heverlee Leuven,1.85,3.6,3.6
+2023-03-10,FC Koln,Bochum,1.73,3.75,4.75
+2023-03-10,Stoke,Blackburn,2.0,3.4,3.8
+2023-03-10,Giresunspor,Karagumruk,2.3,3.4,2.7
+2023-03-11,Birmingham,Rotherham,1.91,3.5,4.2
+2023-03-11,Coventry,Hull,1.95,3.3,4.1
+2023-03-11,Burnley,Wigan,1.33,5.25,8.5
+2023-03-11,Bristol City,Blackpool,1.95,3.6,4.0
+2023-03-11,Preston,Cardiff,2.4,3.3,3.0
+2023-03-11,QPR,Watford,3.2,3.25,2.3
+2023-03-11,Seraing,Antwerp,7.5,4.33,1.4
+2023-03-11,Sheffield United,Luton,1.95,3.5,4.0
+2023-03-11,AZ Alkmaar,Groningen,1.33,5.0,9.5
+2023-03-11,For Sittard,Twente,3.75,3.8,1.91
+2023-03-11,FC Emmen,Excelsior,1.7,3.8,5.0
+2023-03-11,Bielefeld,Darmstadt,3.25,3.4,2.25
+2023-03-11,Magdeburg,Paderborn,2.75,3.6,2.45
+2023-03-11,St Pauli,Greuther Furth,2.0,3.5,3.8
+2023-03-11,West Brom,Huddersfield,1.4,4.75,7.5
+2023-03-11,Swansea,Middlesbrough,3.25,3.6,2.15
+2023-03-11,Mechelen,St Truiden,2.15,3.25,3.1
+2023-03-11,Eupen,Oostende,2.5,3.4,2.6
+2023-03-11,Westerlo,Kortrijk,1.67,4.0,4.33
+2023-03-11,Reading,Millwall,3.5,3.5,2.1
+2023-03-11,Fortuna Dusseldorf,Heidenheim,2.15,3.4,3.4
+2023-03-11,Sparta Rotterdam,Vitesse,2.4,3.5,2.88
+2023-03-11,Elche,Valladolid,2.7,3.3,2.7
+2023-03-11,Real Madrid,Espanol,1.25,6.5,9.5
+2023-03-11,Hertha,Mainz,2.9,3.4,2.45
+2023-03-11,Crystal Palace,Man City,9.0,4.75,1.36
+2023-03-11,Tottenham,Nott'm Forest,1.44,4.75,7.0
+2023-03-11,Empoli,Udinese,3.0,3.25,2.4
+2023-03-11,Napoli,Atalanta,1.67,4.0,5.0
+2023-03-11,Brest,Paris SG,7.0,4.75,1.44
+2023-03-11,Auxerre,Rennes,4.0,3.4,1.95
+2023-03-11,RB Leipzig,M'gladbach,1.4,5.0,7.0
+2023-03-11,Bologna,Lazio,3.1,3.1,2.38
+2023-03-11,Leeds,Brighton,3.75,3.6,1.95
+2023-03-11,Everton,Brentford,2.7,3.25,2.7
+2023-03-11,Bournemouth,Liverpool,7.5,5.0,1.4
+2023-03-11,Bayern Munich,Augsburg,1.13,9.0,19.0
+2023-03-11,Antalyaspor,Kayserispor,2.15,3.3,3.0
+2023-03-11,Galatasaray,Kasimpasa,1.25,5.25,9.0
+2023-03-11,Ein Frankfurt,Stuttgart,1.8,4.0,4.2
+2023-03-11,Valencia,Osasuna,2.1,3.2,3.8
+2023-03-11,Celta,Vallecano,2.1,3.2,4.0
+2023-03-11,Leicester,Chelsea,3.75,3.5,1.95
+2023-03-11,Schalke 04,Dortmund,4.5,4.0,1.73
+2023-03-12,Feyenoord,Volendam,1.13,8.0,21.0
+2023-03-12,Karlsruhe,Hamburg,3.1,3.5,2.25
+2023-03-12,Werder Bremen,Leverkusen,3.3,3.75,2.1
+2023-03-12,Wolfsburg,Union Berlin,2.25,3.25,3.3
+2023-03-12,Norwich,Sunderland,1.83,3.75,4.2
+2023-03-12,Holstein Kiel,Regensburg,1.7,4.0,4.75
+2023-03-12,Hannover,Hansa Rostock,2.1,3.5,3.5
+2023-03-12,Lecce,Torino,3.0,3.0,2.63
+2023-03-12,Cremonese,Fiorentina,4.33,3.6,1.85
+2023-03-12,Verona,Monza,2.5,3.2,2.9
+2023-03-12,Roma,Sassuolo,1.67,3.6,5.5
+2023-03-12,Juventus,Sampdoria,1.33,4.75,10.0
+2023-03-12,Ankaragucu,Alanyaspor,2.2,3.4,2.88
+2023-03-12,Freiburg,Hoffenheim,1.91,3.6,4.0
+2023-03-12,PSV Eindhoven,Cambuur,1.14,7.5,19.0
+2023-03-12,Heerenveen,Ajax,6.5,5.0,1.44
+2023-03-12,Nijmegen,Utrecht,2.4,3.5,2.88
+2023-03-12,Mallorca,Sociedad,3.5,2.9,2.38
+2023-03-12,Anderlecht,Cercle Brugge,2.05,3.5,3.3
+2023-03-12,Sevilla,Almeria,1.73,3.6,5.25
+2023-03-12,Villarreal,Betis,1.95,3.6,3.8
+2023-03-12,Ath Bilbao,Barcelona,3.5,3.3,2.15
+2023-03-12,Genk,St. Gilloise,2.2,3.4,3.0
+2023-03-12,Waregem,Gent,3.2,3.6,1.95
+2023-03-12,Club Brugge,Standard,1.7,3.8,4.33
+2023-03-12,Clermont,Lens,4.75,3.4,1.83
+2023-03-12,Ajaccio,Montpellier,3.0,3.2,2.5
+2023-03-12,Angers,Toulouse,3.8,3.6,1.95
+2023-03-12,Lorient,Troyes,1.73,3.75,4.75
+2023-03-12,Nantes,Nice,3.0,3.2,2.5
+2023-03-12,Buyuksehyr,Besiktas,2.7,3.3,2.45
+2023-03-12,Trabzonspor,Ad. Demirspor,1.67,3.6,4.5
+2023-03-12,Marseille,Strasbourg,1.4,4.75,8.0
+2023-03-12,Fulham,Arsenal,6.0,4.0,1.57
+2023-03-12,Man United,Southampton,1.36,5.0,9.0
+2023-03-12,Monaco,Reims,1.8,3.75,4.33
+2023-03-12,West Ham,Aston Villa,2.2,3.3,3.4
+2023-03-12,Newcastle,Wolves,1.65,3.75,5.5
+2023-03-13,Istanbulspor,Sivasspor,3.0,3.3,2.15
+2023-03-13,Girona,Ath Madrid,3.75,3.4,2.05
+2023-03-13,Milan,Salernitana,1.25,6.0,11.0
+2023-03-14,Middlesbrough,Stoke,1.7,3.8,5.0
+2023-03-14,Wigan,Coventry,3.5,3.3,2.15
+2023-03-14,Watford,Birmingham,1.83,3.6,4.33
+2023-03-14,Rotherham,Preston,2.7,3.2,2.75
+2023-03-14,Millwall,Swansea,1.95,3.5,3.8
+2023-03-14,Blackpool,QPR,2.5,3.1,3.1
+2023-03-15,Huddersfield,Norwich,4.33,3.6,1.85
+2023-03-15,Southampton,Brentford,2.88,3.25,2.5
+2023-03-15,Sunderland,Sheffield United,3.3,3.25,2.25
+2023-03-15,Blackburn,Reading,1.75,3.6,4.75
+2023-03-15,Hull,Burnley,4.5,3.5,1.83
+2023-03-15,Brighton,Crystal Palace,1.44,4.2,8.0
+2023-03-15,Luton,Bristol City,1.85,3.5,4.5
+2023-03-15,Cardiff,West Brom,3.1,3.25,2.38
+2023-03-17,M'gladbach,Werder Bremen,1.8,4.0,4.2
+2023-03-17,Lyon,Nantes,1.6,4.0,5.75
+2023-03-17,Bielefeld,Nurnberg,2.15,3.2,3.6
+2023-03-17,Heidenheim,Karlsruhe,2.2,3.5,3.1
+2023-03-17,Sassuolo,Spezia,1.7,3.75,4.5
+2023-03-17,Atalanta,Empoli,1.4,4.5,7.5
+2023-03-17,Volendam,For Sittard,2.4,3.6,2.8
+2023-03-17,Konyaspor,Galatasaray,4.33,3.6,1.8
+2023-03-17,Valladolid,Ath Bilbao,4.2,3.6,1.83
+2023-03-17,Cercle Brugge,Genk,2.7,3.4,2.38
+2023-03-17,Nott'm Forest,Newcastle,5.5,3.8,1.62
+2023-03-18,Hoffenheim,Hertha,2.05,3.5,3.5
+2023-03-18,Dundee United,St Mirren,2.63,3.3,2.7
+2023-03-18,Kilmarnock,St Johnstone,2.15,3.3,3.5
+2023-03-18,Blackpool,Coventry,3.3,3.3,2.25
+2023-03-18,Livingston,Ross County,2.1,3.2,3.75
+2023-03-18,Middlesbrough,Preston,1.55,3.8,6.5
+2023-03-18,Millwall,Huddersfield,1.53,3.75,8.0
+2023-03-18,Greuther Furth,Magdeburg,1.8,4.0,3.8
+2023-03-18,Regensburg,Paderborn,3.1,3.5,2.25
+2023-03-18,QPR,Birmingham,2.38,3.3,3.1
+2023-03-18,Reading,Hull,2.75,3.4,2.5
+2023-03-18,Darmstadt,Kaiserslautern,1.83,3.75,4.2
+2023-03-18,Besiktas,Istanbulspor,1.25,5.75,10.0
+2023-03-18,Ad. Demirspor,Antalyaspor,1.75,3.8,4.33
+2023-03-18,Kasimpasa,Umraniyespor,1.73,3.75,4.5
+2023-03-18,Chelsea,Everton,1.5,4.2,7.5
+2023-03-18,Wolves,Leeds,2.25,3.2,3.3
+2023-03-18,Southampton,Tottenham,4.75,3.6,1.75
+2023-03-18,Brentford,Leicester,1.91,3.6,3.75
+2023-03-18,Aston Villa,Bournemouth,1.7,3.8,5.0
+2023-03-18,Celtic,Hibernian,1.18,6.5,15.0
+2023-03-18,Stoke,Norwich,2.45,3.3,2.9
+2023-03-18,Sunderland,Luton,2.6,3.3,2.7
+2023-03-18,Utrecht,Go Ahead Eagles,1.7,4.0,4.5
+2023-03-18,FC Emmen,Sparta Rotterdam,2.5,3.2,2.8
+2023-03-18,Watford,Wigan,1.7,3.6,5.25
+2023-03-18,Waalwijk,Nijmegen,2.4,3.5,2.7
+2023-03-18,Dortmund,FC Koln,1.45,4.75,6.5
+2023-03-18,Augsburg,Schalke 04,2.3,3.4,3.1
+2023-03-18,Bochum,RB Leipzig,5.5,4.33,1.55
+2023-03-18,Stuttgart,Wolfsburg,2.38,3.4,2.9
+2023-03-18,Aberdeen,Hearts,2.55,3.3,2.8
+2023-03-18,Hamburg,Holstein Kiel,1.73,4.2,4.2
+2023-03-18,Oostende,Westerlo,2.88,3.3,2.25
+2023-03-18,Lens,Angers,1.25,6.0,11.0
+2023-03-18,Toulouse,Lille,3.3,3.5,2.2
+2023-03-18,Udinese,Milan,3.5,3.4,2.15
+2023-03-18,Salernitana,Bologna,3.4,3.25,2.2
+2023-03-18,St Truiden,Seraing,1.53,3.75,5.75
+2023-03-18,Standard,Waregem,1.67,3.75,4.5
+2023-03-18,Almeria,Cadiz,2.0,3.5,3.6
+2023-03-18,Motherwell,Rangers,8.0,4.75,1.4
+2023-03-18,Kortrijk,Club Brugge,4.2,3.8,1.65
+2023-03-18,Ath Madrid,Valencia,1.55,4.2,5.75
+2023-03-18,Espanol,Celta,2.75,3.25,2.55
+2023-03-18,Monza,Cremonese,1.8,3.5,4.5
+2023-03-18,Vallecano,Girona,2.0,3.4,3.8
+2023-03-19,Betis,Mallorca,1.8,3.2,5.25
+2023-03-19,Getafe,Sevilla,2.9,3.1,2.5
+2023-03-19,Inter,Juventus,1.91,3.4,4.0
+2023-03-19,Sampdoria,Verona,2.88,3.1,2.45
+2023-03-19,Sociedad,Elche,1.4,4.75,8.5
+2023-03-19,Fiorentina,Lecce,1.6,3.75,5.75
+2023-03-19,Ajaccio,Monaco,5.25,3.5,1.7
+2023-03-19,Antwerp,Charleroi,1.67,3.75,4.5
+2023-03-19,Union Berlin,Ein Frankfurt,2.38,3.2,3.2
+2023-03-19,Leverkusen,Bayern Munich,5.25,4.5,1.55
+2023-03-19,Mainz,Freiburg,2.1,3.5,3.3
+2023-03-19,Ajax,Feyenoord,1.73,4.33,4.0
+2023-03-19,Excelsior,Cambuur,2.63,3.6,2.55
+2023-03-19,Vitesse,PSV Eindhoven,4.5,4.2,1.67
+2023-03-19,Swansea,Bristol City,2.15,3.3,3.4
+2023-03-19,Oud-Heverlee Leuven,Anderlecht,3.0,3.4,2.15
+2023-03-19,St. Gilloise,Mechelen,1.36,4.75,7.0
+2023-03-19,Gent,Eupen,1.36,4.75,8.0
+2023-03-19,Twente,AZ Alkmaar,2.15,3.5,3.25
+2023-03-19,Groningen,Heerenveen,2.7,3.4,2.55
+2023-03-19,Karagumruk,Buyuksehyr,2.8,3.25,2.5
+2023-03-19,Osasuna,Villarreal,3.0,3.1,2.45
+2023-03-19,Alanyaspor,Fenerbahce,4.75,3.75,1.73
+2023-03-19,Montpellier,Clermont,1.83,3.5,4.33
+2023-03-19,Lazio,Roma,2.75,3.0,2.75
+2023-03-19,Braunschweig,Hannover,2.4,3.5,2.7
+2023-03-19,Nice,Lorient,1.62,3.8,5.25
+2023-03-19,Strasbourg,Auxerre,1.91,3.4,4.0
+2023-03-19,Troyes,Brest,2.8,3.3,2.45
+2023-03-19,Hansa Rostock,Fortuna Dusseldorf,3.1,3.4,2.25
+2023-03-19,Sandhausen,St Pauli,3.8,3.6,1.91
+2023-03-19,Paris SG,Rennes,1.45,4.75,6.5
+2023-03-19,Sivasspor,Ankaragucu,2.15,3.25,3.4
+2023-03-19,Arsenal,Crystal Palace,1.25,5.5,15.0
+2023-03-19,Reims,Marseille,3.0,3.3,2.4
+2023-03-19,Torino,Napoli,4.33,3.6,1.75
+2023-03-19,Barcelona,Real Madrid,2.15,3.5,3.25
+2023-03-31,Burnley,Sunderland,1.45,4.33,7.5
+2023-03-31,Ein Frankfurt,Bochum,1.5,4.33,6.5
+2023-03-31,Marseille,Montpellier,1.45,4.33,6.5
+2023-03-31,Waregem,Antwerp,4.2,4.0,1.65
+2023-03-31,Fortuna Dusseldorf,Hamburg,2.5,3.6,2.7
+2023-03-31,Nurnberg,Darmstadt,3.5,3.3,2.2
+2023-03-31,Mallorca,Osasuna,2.2,2.9,3.9
+2023-04-01,Bayern Munich,Dortmund,1.45,5.0,6.0
+2023-04-01,Cercle Brugge,Kortrijk,1.57,4.0,4.75
+2023-04-01,Seraing,Gent,8.0,4.33,1.33
+2023-04-01,Westerlo,Charleroi,2.1,3.5,3.1
+2023-04-01,Oostende,Standard,3.1,3.4,2.1
+2023-04-01,Girona,Espanol,1.91,3.3,4.33
+2023-04-01,AZ Alkmaar,Heerenveen,1.5,4.2,6.5
+2023-04-01,Excelsior,Twente,5.5,4.33,1.53
+2023-04-01,Wolfsburg,Augsburg,1.62,4.0,5.5
+2023-04-01,Rennes,Lens,2.55,3.4,2.75
+2023-04-01,Schalke 04,Leverkusen,3.8,3.75,1.91
+2023-04-01,Buyuksehyr,Ankaragucu,1.7,3.6,4.5
+2023-04-01,Trabzonspor,Kayserispor,1.5,4.33,5.75
+2023-04-01,Galatasaray,Ad. Demirspor,1.4,4.5,6.5
+2023-04-01,Man City,Liverpool,1.62,4.2,5.0
+2023-04-01,Ath Bilbao,Getafe,1.57,3.8,6.5
+2023-04-01,Cadiz,Sevilla,3.4,3.1,2.3
+2023-04-01,Elche,Barcelona,9.5,5.0,1.33
+2023-04-01,Union Berlin,Stuttgart,2.05,3.2,3.9
+2023-04-01,Cambuur,FC Emmen,2.4,3.25,3.0
+2023-04-01,Bournemouth,Fulham,2.55,3.3,2.8
+2023-04-01,Brighton,Brentford,1.67,4.0,5.0
+2023-04-01,Crystal Palace,Leicester,2.5,3.25,2.9
+2023-04-01,Nott'm Forest,Wolves,3.0,3.1,2.55
+2023-04-01,Chelsea,Aston Villa,1.67,3.8,5.25
+2023-04-01,Freiburg,Hertha,1.62,4.0,5.5
+2023-04-01,RB Leipzig,Mainz,1.53,4.5,5.5
+2023-04-01,Arsenal,Leeds,1.29,6.0,9.0
+2023-04-01,Nijmegen,PSV Eindhoven,4.5,4.2,1.67
+2023-04-01,Auxerre,Troyes,1.85,3.6,4.2
+2023-04-01,Hull,Rotherham,1.91,3.5,4.2
+2023-04-01,Hannover,Sandhausen,1.91,3.6,4.0
+2023-04-01,Karlsruhe,Braunschweig,1.7,3.9,4.75
+2023-04-01,Wigan,QPR,2.4,3.3,3.0
+2023-04-01,West Brom,Millwall,1.85,3.5,4.5
+2023-04-01,Norwich,Sheffield United,2.55,3.3,2.8
+2023-04-01,Waalwijk,Vitesse,2.5,3.3,2.8
+2023-04-01,Huddersfield,Middlesbrough,5.0,3.75,1.7
+2023-04-01,Coventry,Stoke,2.38,3.3,3.1
+2023-04-01,Cardiff,Swansea,2.45,3.2,3.0
+2023-04-01,Bristol City,Reading,1.75,3.5,5.0
+2023-04-01,St Mirren,Livingston,2.05,3.3,3.75
+2023-04-01,St Johnstone,Aberdeen,2.9,3.2,2.45
+2023-04-01,Kilmarnock,Hearts,2.9,3.5,2.38
+2023-04-01,Rangers,Dundee United,1.13,8.0,19.0
+2023-04-01,Cremonese,Atalanta,5.5,3.8,1.67
+2023-04-01,Inter,Fiorentina,1.75,3.8,4.5
+2023-04-01,Juventus,Verona,1.4,4.2,9.0
+2023-04-01,St Pauli,Regensburg,1.57,4.0,6.0
+2023-04-01,Kaiserslautern,Heidenheim,2.5,3.4,2.8
+2023-04-01,Hibernian,Motherwell,1.8,3.6,4.5
+2023-04-01,Birmingham,Blackburn,2.6,3.2,2.88
+2023-04-01,Preston,Blackpool,2.1,3.2,3.8
+2023-04-01,Luton,Watford,2.15,3.25,3.6
+2023-04-02,West Ham,Southampton,1.73,3.6,5.0
+2023-04-02,Celta,Almeria,1.55,4.0,6.0
+2023-04-02,Paderborn,Greuther Furth,2.15,3.5,3.3
+2023-04-02,Magdeburg,Hansa Rostock,2.3,3.3,3.2
+2023-04-02,Holstein Kiel,Bielefeld,2.1,3.5,3.5
+2023-04-02,Fenerbahce,Besiktas,1.83,3.5,4.0
+2023-04-02,Giresunspor,Alanyaspor,2.45,3.4,2.7
+2023-04-02,Newcastle,Man United,2.4,3.4,2.9
+2023-04-02,Umraniyespor,Konyaspor,2.9,3.3,2.25
+2023-04-02,Paris SG,Lyon,1.4,5.0,7.0
+2023-04-02,Go Ahead Eagles,Ajax,7.5,5.0,1.33
+2023-04-02,Nantes,Reims,3.1,3.3,2.38
+2023-04-02,Clermont,Ajaccio,2.1,3.2,3.8
+2023-04-02,Brest,Toulouse,2.9,3.4,2.4
+2023-04-02,Angers,Nice,6.5,3.9,1.55
+2023-04-02,Real Madrid,Valladolid,1.2,7.5,11.0
+2023-04-02,Lille,Lorient,1.36,5.0,8.0
+2023-04-02,Ross County,Celtic,17.0,7.0,1.14
+2023-04-02,Bologna,Udinese,2.2,3.3,3.4
+2023-04-02,Monza,Lazio,3.8,3.3,2.05
+2023-04-02,Napoli,Milan,1.73,3.6,5.0
+2023-04-02,Genk,Oud-Heverlee Leuven,1.5,4.0,6.0
+2023-04-02,Eupen,Anderlecht,3.8,3.6,1.8
+2023-04-02,Mechelen,Club Brugge,3.5,3.5,1.91
+2023-04-02,St. Gilloise,St Truiden,1.44,4.5,6.5
+2023-04-02,Monaco,Strasbourg,1.53,4.33,6.0
+2023-04-02,Villarreal,Sociedad,2.4,3.1,3.2
+2023-04-02,Roma,Sampdoria,1.44,4.2,9.0
+2023-04-02,FC Koln,M'gladbach,2.25,3.6,3.0
+2023-04-02,Spezia,Salernitana,2.3,3.3,3.2
+2023-04-02,Ath Madrid,Betis,1.53,4.0,6.5
+2023-04-02,Werder Bremen,Hoffenheim,2.3,3.5,3.0
+2023-04-02,Sparta Rotterdam,Feyenoord,5.25,3.8,1.57
+2023-04-02,Utrecht,Volendam,1.4,5.0,6.5
+2023-04-02,For Sittard,Groningen,2.1,3.4,3.3
+2023-04-03,Everton,Tottenham,3.4,3.3,2.2
+2023-04-03,Istanbulspor,Karagumruk,3.25,3.3,2.15
+2023-04-03,Sassuolo,Torino,2.4,3.3,3.0
+2023-04-03,Valencia,Vallecano,2.05,3.2,3.8
+2023-04-03,Empoli,Lecce,2.45,3.1,3.1
+2023-04-04,Leicester,Aston Villa,2.55,3.3,2.75
+2023-04-04,Chelsea,Liverpool,2.2,3.4,3.25
+2023-04-04,Leeds,Nott'm Forest,1.7,3.75,5.0
+2023-04-04,Bournemouth,Brighton,6.0,4.2,1.53
+2023-04-05,Man United,Brentford,1.65,4.0,5.0
+2023-04-05,West Ham,Newcastle,3.6,3.25,2.15
+2023-04-07,Sevilla,Celta,2.1,3.4,3.5
+2023-04-07,Rotherham,West Brom,5.0,3.5,1.75
+2023-04-07,Blackburn,Norwich,2.88,3.2,2.6
+2023-04-07,Blackpool,Cardiff,2.8,3.2,2.6
+2023-04-07,QPR,Preston,2.45,3.2,3.0
+2023-04-07,Sunderland,Hull,2.0,3.3,4.0
+2023-04-07,Reading,Birmingham,2.9,3.0,2.63
+2023-04-07,Sheffield United,Wigan,1.45,4.2,7.0
+2023-04-07,Lens,Strasbourg,1.5,4.33,6.5
+2023-04-07,Millwall,Luton,2.6,3.0,3.0
+2023-04-07,Swansea,Coventry,2.3,3.25,3.25
+2023-04-07,Stoke,Bristol City,1.8,3.6,4.5
+2023-04-07,Groningen,Utrecht,3.1,3.5,2.25
+2023-04-07,Konyaspor,Antalyaspor,2.25,3.3,3.25
+2023-04-07,Watford,Huddersfield,1.67,3.6,5.5
+2023-04-07,Club Brugge,Seraing,1.11,9.5,21.0
+2023-04-07,Middlesbrough,Burnley,2.7,3.4,2.55
+2023-04-07,Salernitana,Inter,7.5,4.5,1.45
+2023-04-07,Lecce,Napoli,5.75,3.6,1.65
+2023-04-07,Milan,Empoli,1.36,4.75,9.0
+2023-04-08,Gent,St. Gilloise,2.55,3.3,2.7
+2023-04-08,Udinese,Monza,2.0,3.5,3.8
+2023-04-08,Fiorentina,Spezia,1.4,4.5,8.5
+2023-04-08,Atalanta,Bologna,1.65,3.8,5.5
+2023-04-08,Man United,Everton,1.5,4.33,6.5
+2023-04-08,Aston Villa,Nott'm Forest,1.6,4.2,5.25
+2023-04-08,Sampdoria,Cremonese,2.38,3.25,3.2
+2023-04-08,Torino,Roma,3.4,3.0,2.38
+2023-04-08,Verona,Sassuolo,2.63,3.3,2.7
+2023-04-08,Brentford,Newcastle,3.6,3.4,2.05
+2023-04-08,Fulham,West Ham,2.8,3.25,2.63
+2023-04-08,Leicester,Bournemouth,1.83,3.75,4.2
+2023-04-08,Celtic,Rangers,1.7,4.0,4.75
+2023-04-08,Charleroi,Waregem,1.73,3.8,4.75
+2023-04-08,Kortrijk,Eupen,2.0,3.5,3.6
+2023-04-08,Augsburg,FC Koln,2.8,3.4,2.55
+2023-04-08,Dortmund,Union Berlin,1.6,4.0,5.75
+2023-04-08,Freiburg,Bayern Munich,6.5,5.0,1.45
+2023-04-08,Leverkusen,Ein Frankfurt,1.8,4.0,4.0
+2023-04-08,Mainz,Werder Bremen,1.7,4.0,4.75
+2023-04-08,Aberdeen,Kilmarnock,1.8,3.5,4.75
+2023-04-08,Oud-Heverlee Leuven,Mechelen,2.1,3.5,3.3
+2023-04-08,Heerenveen,Volendam,1.55,4.5,5.5
+2023-04-08,Hertha,RB Leipzig,5.5,4.0,1.62
+2023-04-08,Angers,Lille,8.0,5.0,1.4
+2023-04-08,Nice,Paris SG,3.8,3.8,1.85
+2023-04-08,Southampton,Man City,11.0,6.0,1.25
+2023-04-08,Wolves,Chelsea,4.2,3.5,1.91
+2023-04-08,PSV Eindhoven,Excelsior,1.08,13.0,19.0
+2023-04-08,Lazio,Juventus,2.75,2.9,2.9
+2023-04-08,Tottenham,Brighton,2.55,3.5,2.7
+2023-04-08,Motherwell,Livingston,2.1,3.3,3.6
+2023-04-08,Ankaragucu,Istanbulspor,1.67,3.8,4.75
+2023-04-08,Real Madrid,Villarreal,1.53,4.33,5.75
+2023-04-08,Sociedad,Getafe,1.7,3.3,6.0
+2023-04-08,Espanol,Ath Bilbao,3.5,3.2,2.2
+2023-04-08,Osasuna,Elche,1.73,3.6,5.0
+2023-04-08,Heidenheim,St Pauli,2.4,3.3,3.0
+2023-04-08,Hearts,St Mirren,2.1,3.5,3.5
+2023-04-08,Hamburg,Hannover,1.5,4.75,5.5
+2023-04-08,Nurnberg,Karlsruhe,2.8,3.3,2.5
+2023-04-08,Vitesse,Go Ahead Eagles,2.0,3.3,4.0
+2023-04-08,AZ Alkmaar,Sparta Rotterdam,1.5,4.5,6.0
+2023-04-08,St Johnstone,Ross County,2.3,3.2,3.3
+2023-04-08,Braunschweig,Kaiserslautern,2.63,3.4,2.63
+2023-04-08,Kasimpasa,Trabzonspor,3.1,3.6,2.15
+2023-04-09,FC Emmen,Nijmegen,2.9,3.3,2.45
+2023-04-09,Twente,Cambuur,1.29,5.5,12.0
+2023-04-09,Darmstadt,Paderborn,2.0,3.5,3.6
+2023-04-09,Hansa Rostock,Holstein Kiel,2.63,3.25,2.7
+2023-04-09,Ajax,For Sittard,1.13,10.0,15.0
+2023-04-09,Feyenoord,Waalwijk,1.18,7.5,13.0
+2023-04-09,Vallecano,Ath Madrid,4.33,3.5,1.85
+2023-04-09,M'gladbach,Wolfsburg,2.38,3.6,2.88
+2023-04-09,Regensburg,Magdeburg,2.5,3.4,2.8
+2023-04-09,Almeria,Valencia,3.0,3.3,2.4
+2023-04-09,Bochum,Stuttgart,3.1,3.5,2.25
+2023-04-09,Hoffenheim,Schalke 04,1.91,3.8,3.8
+2023-04-09,Dundee United,Hibernian,3.4,3.4,2.15
+2023-04-09,Ajaccio,Auxerre,2.8,2.9,2.8
+2023-04-09,Montpellier,Toulouse,2.05,3.6,3.5
+2023-04-09,Reims,Brest,1.62,3.8,5.75
+2023-04-09,Troyes,Clermont,2.75,3.25,2.63
+2023-04-09,Bielefeld,Fortuna Dusseldorf,2.8,3.4,2.5
+2023-04-09,Sandhausen,Greuther Furth,4.0,3.4,1.95
+2023-04-09,Lorient,Marseille,5.0,4.2,1.65
+2023-04-09,Nantes,Monaco,4.0,3.6,1.91
+2023-04-09,St Truiden,Oostende,2.25,3.25,3.25
+2023-04-09,Standard,Genk,2.63,3.4,2.55
+2023-04-09,Antwerp,Cercle Brugge,1.7,3.6,4.75
+2023-04-09,Valladolid,Mallorca,2.5,2.9,3.2
+2023-04-09,Betis,Cadiz,1.62,3.75,5.75
+2023-04-09,Sivasspor,Buyuksehyr,2.88,3.0,2.55
+2023-04-09,Besiktas,Giresunspor,1.4,4.75,6.5
+2023-04-09,Lyon,Rennes,2.15,3.4,3.4
+2023-04-09,Leeds,Crystal Palace,2.1,3.4,3.6
+2023-04-09,Liverpool,Arsenal,2.88,3.6,2.38
+2023-04-09,Anderlecht,Westerlo,1.67,3.75,5.0
+2023-04-10,Luton,Blackpool,1.53,4.0,7.0
+2023-04-10,Karagumruk,Fenerbahce,4.5,4.0,1.62
+2023-04-10,Kayserispor,Umraniyespor,1.85,3.6,3.8
+2023-04-10,West Brom,QPR,1.6,3.75,6.5
+2023-04-10,Birmingham,Stoke,3.2,3.25,2.3
+2023-04-10,Norwich,Rotherham,1.55,4.0,6.5
+2023-04-10,Cardiff,Sunderland,2.45,3.25,2.9
+2023-04-10,Coventry,Watford,2.4,3.25,3.0
+2023-04-10,Barcelona,Girona,1.3,5.5,10.0
+2023-04-10,Preston,Reading,1.95,3.25,4.0
+2023-04-10,Hull,Millwall,3.0,3.25,2.45
+2023-04-10,Burnley,Sheffield United,2.1,3.5,3.5
+2023-04-10,Bristol City,Middlesbrough,3.6,3.5,2.05
+2023-04-10,Huddersfield,Blackburn,2.8,3.25,2.55
+2023-04-10,Wigan,Swansea,3.0,3.25,2.4
+2023-04-14,Ross County,Aberdeen,3.3,3.4,2.2
+2023-04-14,Standard,Charleroi,2.05,3.5,3.5
+2023-04-14,Excelsior,Go Ahead Eagles,3.2,3.5,2.2
+2023-04-14,Cremonese,Empoli,2.45,3.3,2.88
+2023-04-14,Antalyaspor,Alanyaspor,1.85,3.5,4.2
+2023-04-14,Toulouse,Lyon,3.4,3.8,2.0
+2023-04-14,Middlesbrough,Norwich,1.91,3.75,3.8
+2023-04-14,Hannover,Heidenheim,3.25,3.5,2.2
+2023-04-14,Galatasaray,Kayserispor,1.3,5.0,8.5
+2023-04-14,Vallecano,Osasuna,2.2,3.1,3.6
+2023-04-14,Schalke 04,Hertha,2.25,3.3,3.2
+2023-04-14,Spezia,Lazio,5.25,3.6,1.7
+2023-04-14,Greuther Furth,Regensburg,1.8,3.6,4.5
+2023-04-15,Tottenham,Bournemouth,1.45,4.5,7.0
+2023-04-15,Southampton,Crystal Palace,2.8,3.1,2.7
+2023-04-15,Chelsea,Brighton,2.63,3.4,2.63
+2023-04-15,Aston Villa,Newcastle,3.6,3.4,2.05
+2023-04-15,Ad. Demirspor,Kasimpasa,1.7,3.8,4.5
+2023-04-15,Istanbulspor,Buyuksehyr,4.33,3.5,1.73
+2023-04-15,Fenerbahce,Ankaragucu,1.33,5.0,8.0
+2023-04-15,Wolves,Brentford,2.45,3.1,3.0
+2023-04-15,Man City,Leicester,1.14,8.5,15.0
+2023-04-15,Everton,Fulham,2.05,3.4,3.7
+2023-04-15,Waalwijk,Groningen,1.91,3.5,4.2
+2023-04-15,Ein Frankfurt,M'gladbach,1.73,4.2,4.33
+2023-04-15,Blackburn,Hull,1.85,3.5,4.33
+2023-04-15,Magdeburg,Sandhausen,1.73,3.8,4.75
+2023-04-15,Holstein Kiel,Nurnberg,2.1,3.6,3.3
+2023-04-15,Inter,Monza,1.44,4.5,7.5
+2023-04-15,Napoli,Verona,1.53,4.0,6.5
+2023-04-15,Sparta Rotterdam,Heerenveen,2.3,3.25,3.2
+2023-04-15,Villarreal,Valladolid,1.44,4.75,6.5
+2023-04-15,Ath Bilbao,Sociedad,2.25,3.1,3.5
+2023-04-15,Betis,Espanol,1.83,3.5,4.5
+2023-04-15,Watford,Bristol City,1.95,3.5,4.0
+2023-04-15,Cadiz,Real Madrid,5.75,4.2,1.55
+2023-04-15,RB Leipzig,Augsburg,1.25,6.5,10.0
+2023-04-15,FC Koln,Mainz,2.55,3.4,2.7
+2023-04-15,Bayern Munich,Hoffenheim,1.22,7.5,11.0
+2023-04-15,Rennes,Reims,2.2,3.4,3.25
+2023-04-15,Paris SG,Lens,1.67,4.2,4.75
+2023-04-15,Rangers,St Mirren,1.18,6.5,17.0
+2023-04-15,Motherwell,Dundee United,1.95,3.3,4.2
+2023-04-15,Livingston,St Johnstone,2.2,3.3,3.4
+2023-04-15,Hibernian,Hearts,2.3,3.3,3.25
+2023-04-15,Stuttgart,Dortmund,3.5,3.8,1.95
+2023-04-15,Swansea,Huddersfield,1.7,3.8,5.0
+2023-04-15,Bologna,Milan,3.1,3.1,2.45
+2023-04-15,Stoke,West Brom,2.3,3.2,3.3
+2023-04-15,Kaiserslautern,Hamburg,3.8,3.75,1.91
+2023-04-15,Paderborn,Hansa Rostock,1.65,4.2,4.75
+2023-04-15,Westerlo,Club Brugge,3.3,3.4,2.15
+2023-04-15,Oostende,Oud-Heverlee Leuven,2.4,3.5,2.75
+2023-04-15,Cercle Brugge,St Truiden,1.67,3.75,5.0
+2023-04-15,Sunderland,Birmingham,1.91,3.5,4.33
+2023-04-15,Eupen,Waregem,2.38,3.4,2.9
+2023-04-15,Blackpool,Wigan,2.3,3.2,3.3
+2023-04-15,Millwall,Preston,1.85,3.3,4.5
+2023-04-15,QPR,Coventry,2.9,3.1,2.6
+2023-04-15,Reading,Burnley,7.0,4.0,1.53
+2023-04-15,Rotherham,Luton,4.33,3.3,1.95
+2023-04-15,Sheffield United,Cardiff,1.55,4.0,6.25
+2023-04-16,Brest,Nice,3.1,3.25,2.3
+2023-04-16,Clermont,Angers,1.8,3.75,4.33
+2023-04-16,Strasbourg,Ajaccio,1.75,3.3,5.25
+2023-04-16,Monaco,Lorient,1.4,5.0,7.0
+2023-04-16,West Ham,Arsenal,6.0,4.2,1.55
+2023-04-16,Kilmarnock,Celtic,15.0,7.0,1.2
+2023-04-16,Torino,Salernitana,1.73,3.5,5.25
+2023-04-16,Sassuolo,Juventus,3.8,3.5,2.0
+2023-04-16,Roma,Udinese,1.85,3.4,4.5
+2023-04-16,Auxerre,Nantes,2.45,3.1,3.2
+2023-04-16,Nott'm Forest,Man United,5.5,4.0,1.62
+2023-04-16,Marseille,Troyes,1.2,7.0,13.0
+2023-04-16,Lille,Montpellier,1.5,4.5,6.0
+2023-04-16,Genk,Anderlecht,1.85,3.6,4.0
+2023-04-16,Giresunspor,Sivasspor,2.5,3.3,2.75
+2023-04-16,St Pauli,Braunschweig,1.57,4.2,5.75
+2023-04-16,Karlsruhe,Bielefeld,2.0,3.75,3.5
+2023-04-16,Fortuna Dusseldorf,Darmstadt,2.38,3.4,2.9
+2023-04-16,Werder Bremen,Freiburg,2.7,3.5,2.55
+2023-04-16,Union Berlin,Bochum,1.6,3.8,6.0
+2023-04-16,Wolfsburg,Leverkusen,2.75,3.6,2.4
+2023-04-16,Valencia,Sevilla,2.2,3.2,3.6
+2023-04-16,Ath Madrid,Almeria,1.22,7.0,11.0
+2023-04-16,Getafe,Barcelona,6.0,3.8,1.6
+2023-04-16,Girona,Elche,1.53,4.33,6.0
+2023-04-16,Lecce,Sampdoria,1.95,3.2,4.33
+2023-04-16,Trabzonspor,Besiktas,2.9,3.3,2.4
+2023-04-16,Nijmegen,Vitesse,2.2,3.4,3.3
+2023-04-16,Mechelen,Gent,4.75,3.8,1.67
+2023-04-16,Volendam,PSV Eindhoven,8.5,6.5,1.29
+2023-04-16,Antwerp,Kortrijk,1.29,5.75,9.0
+2023-04-16,St. Gilloise,Seraing,1.08,10.0,23.0
+2023-04-16,Utrecht,Twente,2.9,3.6,2.3
+2023-04-16,For Sittard,AZ Alkmaar,4.5,3.8,1.75
+2023-04-16,Ajax,FC Emmen,1.13,8.5,21.0
+2023-04-16,Cambuur,Feyenoord,11.0,5.75,1.29
+2023-04-17,Fiorentina,Atalanta,2.4,3.4,2.9
+2023-04-17,Celta,Mallorca,1.8,3.3,5.25
+2023-04-17,Leeds,Liverpool,4.2,4.2,1.73
+2023-04-18,Karagumruk,Umraniyespor,1.8,4.0,3.8
+2023-04-18,Millwall,Birmingham,1.7,3.6,5.25
+2023-04-18,Sunderland,Huddersfield,1.67,3.75,5.5
+2023-04-18,Stoke,Wigan,1.55,3.8,6.5
+2023-04-18,Alanyaspor,Galatasaray,5.75,4.5,1.5
+2023-04-18,Rotherham,Burnley,5.5,3.8,1.65
+2023-04-18,Blackpool,West Brom,3.8,3.6,1.91
+2023-04-18,Sheffield United,Bristol City,1.5,4.2,6.5
+2023-04-19,Reading,Luton,4.75,3.4,1.8
+2023-04-19,Blackburn,Coventry,2.45,3.3,2.88
+2023-04-19,Go Ahead Eagles,Waalwijk,2.0,3.6,3.6
+2023-04-19,Buyuksehyr,Fenerbahce,4.0,3.6,1.8
+2023-04-19,Kayserispor,Kasimpasa,2.25,3.3,2.9
+2023-04-19,Istanbulspor,Antalyaspor,3.0,3.4,2.2
+2023-04-19,Middlesbrough,Hull,1.45,4.5,6.5
+2023-04-19,Konyaspor,Ad. Demirspor,2.38,3.4,2.7
+2023-04-19,Watford,Cardiff,1.95,3.4,4.2
+2023-04-19,QPR,Norwich,3.4,3.4,2.15
+2023-04-19,Swansea,Preston,2.1,3.4,3.5
+2023-04-20,Ankaragucu,Giresunspor,1.91,3.6,3.5
+2023-04-20,Sivasspor,Trabzonspor,2.63,3.2,2.55
+2023-04-21,Augsburg,Stuttgart,3.2,3.6,2.15
+2023-04-21,Espanol,Cadiz,2.05,3.25,3.8
+2023-04-21,Darmstadt,Karlsruhe,1.67,4.0,5.0
+2023-04-21,Volendam,Cambuur,1.7,4.0,4.5
+2023-04-21,Verona,Bologna,2.75,3.0,2.8
+2023-04-21,Hamburg,St Pauli,2.15,3.6,3.2
+2023-04-21,Angers,Paris SG,13.0,7.5,1.2
+2023-04-21,Arsenal,Southampton,1.2,7.0,13.0
+2023-04-22,Wigan,Millwall,3.8,3.4,2.0
+2023-04-22,Braunschweig,Magdeburg,2.3,3.5,3.0
+2023-04-22,Umraniyespor,Besiktas,4.33,3.8,1.67
+2023-04-22,Crystal Palace,Everton,2.05,3.2,3.75
+2023-04-22,Mainz,Bayern Munich,5.25,4.5,1.57
+2023-04-22,Hoffenheim,FC Koln,2.2,3.5,3.2
+2023-04-22,Hertha,Werder Bremen,2.25,3.5,3.1
+2023-04-22,Liverpool,Nott'm Forest,1.17,7.5,17.0
+2023-04-22,Leicester,Wolves,2.38,3.3,3.0
+2023-04-22,Nurnberg,Fortuna Dusseldorf,3.3,3.4,2.2
+2023-04-22,Brentford,Aston Villa,2.5,3.25,2.88
+2023-04-22,Fulham,Leeds,2.3,3.4,3.1
+2023-04-22,Bochum,Wolfsburg,3.0,3.5,2.3
+2023-04-22,Preston,Blackburn,2.6,3.1,2.9
+2023-04-22,Norwich,Swansea,2.0,3.4,3.75
+2023-04-22,Hull,Watford,2.5,3.25,2.88
+2023-04-22,Coventry,Reading,1.53,4.0,7.0
+2023-04-22,Dortmund,Ein Frankfurt,1.62,4.5,4.75
+2023-04-22,Hansa Rostock,Greuther Furth,3.1,3.2,2.4
+2023-04-22,Burnley,QPR,1.36,4.75,9.5
+2023-04-22,Bielefeld,Hannover,1.8,3.75,4.5
+2023-04-22,Almeria,Ath Bilbao,3.8,3.75,1.85
+2023-04-22,Sociedad,Vallecano,1.67,3.5,6.0
+2023-04-22,Seraing,Westerlo,5.5,4.0,1.55
+2023-04-22,Birmingham,Blackpool,2.15,3.25,3.6
+2023-04-22,Salernitana,Sassuolo,3.1,3.5,2.25
+2023-04-22,Valladolid,Girona,2.5,3.4,2.8
+2023-04-22,Real Madrid,Celta,1.36,5.0,9.0
+2023-04-22,Lens,Monaco,2.1,3.6,3.4
+2023-04-22,Auxerre,Lille,4.5,4.0,1.7
+2023-04-22,Osasuna,Betis,2.55,3.2,2.88
+2023-04-22,Vitesse,Excelsior,1.45,4.75,6.5
+2023-04-22,Sampdoria,Spezia,2.55,3.2,2.88
+2023-04-22,St Mirren,Kilmarnock,2.0,3.5,3.75
+2023-04-22,Cardiff,Stoke,2.4,3.25,3.0
+2023-04-22,St Johnstone,Hibernian,3.4,3.3,2.2
+2023-04-22,Dundee United,Livingston,2.4,3.3,3.1
+2023-04-22,Celtic,Motherwell,1.09,10.0,26.0
+2023-04-22,Hearts,Ross County,1.7,3.8,5.0
+2023-04-22,Heerenveen,FC Emmen,1.7,3.6,5.5
+2023-04-22,Lazio,Torino,1.83,3.4,4.75
+2023-04-22,Bristol City,Rotherham,2.0,3.5,3.75
+2023-04-23,Waregem,Cercle Brugge,3.0,3.6,2.15
+2023-04-23,Freiburg,Schalke 04,1.8,3.75,4.5
+2023-04-23,Leverkusen,RB Leipzig,2.5,3.6,2.63
+2023-04-23,M'gladbach,Union Berlin,2.38,3.3,3.1
+2023-04-23,Elche,Valencia,4.33,3.5,1.85
+2023-04-23,Barcelona,Ath Madrid,1.95,3.3,4.2
+2023-04-23,Mallorca,Getafe,2.3,2.88,3.75
+2023-04-23,Anderlecht,Mechelen,1.36,5.0,7.0
+2023-04-23,Charleroi,Genk,3.6,3.6,1.91
+2023-04-23,Sandhausen,Paderborn,4.2,3.75,1.85
+2023-04-23,Regensburg,Kaiserslautern,2.55,3.4,2.75
+2023-04-23,Heidenheim,Holstein Kiel,1.83,3.75,4.33
+2023-04-23,Club Brugge,Eupen,1.3,5.0,9.5
+2023-04-23,Gent,Oostende,1.2,6.0,12.0
+2023-04-23,Sevilla,Villarreal,2.75,3.4,2.55
+2023-04-23,Kortrijk,St. Gilloise,5.25,4.2,1.53
+2023-04-23,West Brom,Sunderland,1.91,3.5,4.2
+2023-04-23,Monza,Fiorentina,3.7,3.4,2.05
+2023-04-23,Empoli,Inter,6.5,4.2,1.53
+2023-04-23,Feyenoord,Utrecht,1.36,5.0,9.0
+2023-04-23,Lyon,Marseille,2.5,3.5,2.7
+2023-04-23,Montpellier,Rennes,3.3,3.25,2.3
+2023-04-23,Nice,Clermont,1.8,3.4,5.0
+2023-04-23,Nantes,Troyes,1.62,4.0,5.25
+2023-04-23,Lorient,Toulouse,2.38,3.75,2.88
+2023-04-23,Ajaccio,Brest,3.1,3.1,2.38
+2023-04-23,St Truiden,Antwerp,4.33,3.5,1.8
+2023-04-23,AZ Alkmaar,Waalwijk,1.33,5.25,9.0
+2023-04-23,Reims,Strasbourg,1.91,3.6,3.8
+2023-04-23,Oud-Heverlee Leuven,Standard,2.5,3.6,2.5
+2023-04-23,Twente,Sparta Rotterdam,1.53,4.2,6.0
+2023-04-23,Go Ahead Eagles,For Sittard,1.91,3.5,4.2
+2023-04-23,Udinese,Cremonese,1.7,3.8,5.0
+2023-04-23,Aberdeen,Rangers,6.5,4.0,1.53
+2023-04-23,PSV Eindhoven,Ajax,2.38,3.5,2.9
+2023-04-23,Galatasaray,Karagumruk,1.25,5.75,8.5
+2023-04-23,Ad. Demirspor,Kayserispor,1.6,4.33,4.75
+2023-04-23,Kasimpasa,Konyaspor,2.38,3.6,2.75
+2023-04-23,Milan,Lecce,1.5,4.2,7.0
+2023-04-23,Juventus,Napoli,2.88,3.1,2.6
+2023-04-23,Newcastle,Tottenham,1.83,3.75,4.2
+2023-04-23,Bournemouth,West Ham,2.88,3.2,2.55
+2023-04-24,Fenerbahce,Istanbulspor,1.22,5.75,11.0
+2023-04-24,Giresunspor,Buyuksehyr,2.9,3.3,2.3
+2023-04-24,Atalanta,Roma,2.3,3.25,3.2
+2023-04-24,Antalyaspor,Sivasspor,2.15,3.2,3.3
+2023-04-24,Luton,Middlesbrough,2.25,3.5,3.1
+2023-04-25,Cadiz,Osasuna,2.3,3.1,3.4
+2023-04-25,Girona,Real Madrid,5.25,4.33,1.57
+2023-04-25,Wolves,Crystal Palace,2.45,3.2,3.0
+2023-04-25,Betis,Sociedad,2.75,3.25,2.63
+2023-04-25,Aston Villa,Fulham,1.75,4.0,4.2
+2023-04-25,Blackburn,Burnley,3.4,3.4,2.15
+2023-04-25,Groningen,Nijmegen,2.88,3.3,2.55
+2023-04-25,Leeds,Leicester,2.3,3.5,3.0
+2023-04-26,Nott'm Forest,Brighton,6.0,4.2,1.53
+2023-04-26,Chelsea,Brentford,1.7,4.0,4.75
+2023-04-26,Vallecano,Barcelona,4.75,3.75,1.73
+2023-04-26,Celta,Elche,1.3,5.25,10.0
+2023-04-26,Getafe,Almeria,1.91,3.3,4.5
+2023-04-26,Ath Madrid,Mallorca,1.4,4.33,8.5
+2023-04-26,Sheffield United,West Brom,2.05,3.3,3.8
+2023-04-26,West Ham,Liverpool,3.9,3.9,1.85
+2023-04-26,Man City,Arsenal,1.55,4.5,5.25
+2023-04-27,Rotherham,Cardiff,2.8,3.0,2.7
+2023-04-27,Ath Bilbao,Sevilla,1.75,3.6,4.5
+2023-04-27,Villarreal,Espanol,1.57,4.0,6.0
+2023-04-27,Valencia,Valladolid,1.75,3.75,4.75
+2023-04-27,Everton,Newcastle,4.75,3.6,1.73
+2023-04-27,Southampton,Bournemouth,2.25,3.4,3.2
+2023-04-27,Tottenham,Man United,2.8,3.6,2.4
+2023-04-28,Osasuna,Sociedad,3.75,3.0,2.2
+2023-04-28,Bochum,Dortmund,6.0,5.25,1.44
+2023-04-28,Spezia,Monza,2.8,3.3,2.55
+2023-04-28,Alanyaspor,Umraniyespor,1.91,3.8,3.3
+2023-04-28,Greuther Furth,Heidenheim,3.0,3.4,2.38
+2023-04-28,Strasbourg,Lyon,2.63,3.5,2.6
+2023-04-28,Blackpool,Millwall,3.3,3.4,2.2
+2023-04-28,Paderborn,Braunschweig,1.75,4.0,4.5
+2023-04-28,Lecce,Udinese,2.45,3.0,3.2
+2023-04-29,Torino,Atalanta,2.88,3.3,2.45
+2023-04-29,Roma,Milan,2.75,3.0,2.75
+2023-04-29,Magdeburg,Hamburg,3.4,4.0,1.95
+2023-04-29,St Pauli,Bielefeld,1.8,3.8,4.33
+2023-04-29,Kaiserslautern,Hansa Rostock,2.05,3.4,3.5
+2023-04-29,Karagumruk,Antalyaspor,2.38,3.6,2.55
+2023-04-29,Konyaspor,Trabzonspor,2.45,3.25,2.7
+2023-04-29,Ankaragucu,Kasimpasa,1.85,3.4,3.6
+2023-04-29,Sivasspor,Fenerbahce,4.33,3.75,1.7
+2023-04-29,Hannover,Nurnberg,2.3,3.4,3.1
+2023-04-29,Sunderland,Watford,1.8,3.6,4.5
+2023-04-29,Real Madrid,Almeria,1.14,8.5,15.0
+2023-04-29,Elche,Vallecano,4.75,3.5,1.8
+2023-04-29,Bristol City,Burnley,3.75,3.5,2.0
+2023-04-29,Schalke 04,Werder Bremen,2.25,3.5,3.1
+2023-04-29,Union Berlin,Leverkusen,2.8,3.4,2.45
+2023-04-29,Hull,Swansea,3.8,3.6,1.95
+2023-04-29,Reading,Wigan,2.6,3.25,2.8
+2023-04-29,Sheffield United,Preston,1.8,3.8,4.2
+2023-04-29,Stuttgart,M'gladbach,1.8,4.0,4.2
+2023-04-29,RB Leipzig,Hoffenheim,1.44,5.0,6.5
+2023-04-29,FC Koln,Freiburg,2.4,3.25,3.0
+2023-04-29,Ein Frankfurt,Augsburg,1.53,4.5,5.5
+2023-04-29,Crystal Palace,West Ham,2.63,3.25,2.75
+2023-04-29,Coventry,Birmingham,1.5,4.33,6.5
+2023-04-29,Brentford,Nott'm Forest,1.65,3.8,5.5
+2023-04-29,Brighton,Wolves,1.5,4.33,6.5
+2023-04-29,West Brom,Norwich,2.1,3.5,3.5
+2023-04-29,Barcelona,Betis,1.33,5.0,9.0
+2023-04-29,Stoke,QPR,1.91,3.6,4.0
+2023-04-29,Lille,Ajaccio,1.22,6.0,15.0
+2023-04-30,Besiktas,Galatasaray,2.6,3.4,2.38
+2023-04-30,Troyes,Nice,4.75,3.75,1.73
+2023-04-30,Clermont,Reims,3.0,3.5,2.3
+2023-04-30,Rennes,Angers,1.29,5.5,11.0
+2023-04-30,Liverpool,Tottenham,1.53,4.5,5.75
+2023-04-30,Paris SG,Lorient,1.18,8.0,12.0
+2023-04-30,Marseille,Auxerre,1.33,5.25,9.5
+2023-04-30,Cardiff,Huddersfield,2.3,3.2,3.3
+2023-04-30,Inter,Lazio,1.8,3.6,4.5
+2023-04-30,Cremonese,Verona,3.0,3.3,2.45
+2023-04-30,Napoli,Salernitana,1.22,6.5,12.0
+2023-04-30,Sassuolo,Empoli,1.75,3.8,4.5
+2023-04-30,Fiorentina,Sampdoria,1.33,5.25,9.0
+2023-04-30,Bologna,Juventus,3.4,3.3,2.2
+2023-04-30,Monaco,Montpellier,1.5,4.5,6.0
+2023-04-30,Newcastle,Southampton,1.3,5.25,10.0
+2023-04-30,Valladolid,Ath Madrid,5.5,3.8,1.65
+2023-04-30,Fulham,Man City,12.0,6.0,1.25
+2023-04-30,Fortuna Dusseldorf,Karlsruhe,1.95,3.75,3.6
+2023-04-30,Holstein Kiel,Darmstadt,3.1,3.6,2.2
+2023-04-30,Sandhausen,Regensburg,3.1,3.4,2.3
+2023-04-30,Espanol,Getafe,2.38,3.0,3.3
+2023-04-30,Villarreal,Celta,1.8,3.6,4.5
+2023-04-30,Man United,Aston Villa,1.73,3.9,4.6
+2023-04-30,Wolfsburg,Mainz,2.2,3.5,3.1
+2023-04-30,Cadiz,Valencia,3.1,3.1,2.45
+2023-04-30,Bayern Munich,Hertha,1.11,10.0,19.0
+2023-04-30,Bournemouth,Leeds,2.55,3.5,2.7
+2023-05-01,Blackburn,Luton,2.3,3.4,3.1
+2023-05-01,Sevilla,Girona,1.95,3.5,3.8
+2023-05-01,Leicester,Everton,2.0,3.5,3.75
+2023-05-01,Rotherham,Middlesbrough,3.75,3.3,2.05
+2023-05-01,Istanbulspor,Giresunspor,2.4,3.3,2.7
+2023-05-01,Mallorca,Ath Bilbao,3.6,3.0,2.25
+2023-05-02,Almeria,Elche,1.62,4.33,5.0
+2023-05-02,Barcelona,Osasuna,1.14,7.5,19.0
+2023-05-02,Sociedad,Real Madrid,2.55,3.4,2.8
+2023-05-02,Arsenal,Chelsea,1.6,4.0,5.5
+2023-05-02,Toulouse,Lens,5.0,4.33,1.6
+2023-05-03,Ath Madrid,Cadiz,1.29,5.5,12.0
+2023-05-03,Liverpool,Fulham,1.25,5.75,11.0
+2023-05-03,Verona,Inter,5.5,3.75,1.67
+2023-05-03,Monza,Roma,3.75,3.1,2.15
+2023-05-03,Milan,Cremonese,1.33,5.0,9.5
+2023-05-03,Lazio,Sassuolo,1.67,4.0,5.0
+2023-05-03,Sampdoria,Torino,4.2,3.4,1.91
+2023-05-03,Salernitana,Fiorentina,4.75,3.75,1.73
+2023-05-03,Valencia,Villarreal,2.75,3.3,2.55
+2023-05-03,Juventus,Lecce,1.6,3.8,6.0
+2023-05-03,Man City,West Ham,1.2,7.0,13.0
+2023-05-03,Brest,Nantes,2.2,3.3,3.4
+2023-05-03,Getafe,Celta,2.55,3.0,3.1
+2023-05-03,Atalanta,Spezia,1.36,5.0,8.0
+2023-05-04,Brighton,Man United,1.95,3.5,3.75
+2023-05-04,Vallecano,Valladolid,1.73,3.8,4.75
+2023-05-04,Ath Bilbao,Betis,1.7,4.0,4.75
+2023-05-04,Sevilla,Espanol,1.83,3.6,4.2
+2023-05-04,Girona,Mallorca,2.1,3.2,3.75
+2023-05-04,Empoli,Bologna,2.9,3.2,2.55
+2023-05-04,Udinese,Napoli,4.75,3.6,1.75
+2023-05-04,Huddersfield,Sheffield United,3.2,3.0,2.45
+2023-05-05,Hamburg,Paderborn,2.1,4.0,3.0
+2023-05-05,Mainz,Schalke 04,1.62,4.0,5.25
+2023-05-05,Waalwijk,Volendam,1.8,4.0,4.0
+2023-05-05,Bielefeld,Greuther Furth,2.4,3.5,2.75
+2023-05-05,Leverkusen,FC Koln,1.67,4.0,5.0
+2023-05-06,Bournemouth,Chelsea,3.3,3.5,2.15
+2023-05-06,Man City,Leeds,1.17,8.5,15.0
+2023-05-06,Tottenham,Crystal Palace,1.8,3.8,4.2
+2023-05-06,Wolves,Aston Villa,2.88,3.3,2.5
+2023-05-06,Liverpool,Brentford,1.44,5.0,6.0
+2023-05-06,Werder Bremen,Bayern Munich,8.5,6.0,1.3
+2023-05-06,M'gladbach,Bochum,1.85,3.8,4.0
+2023-05-06,Hoffenheim,Ein Frankfurt,2.3,3.6,2.9
+2023-05-06,Hertha,Stuttgart,3.1,3.5,2.25
+2023-05-06,Freiburg,RB Leipzig,4.0,3.75,1.85
+2023-05-06,Reims,Lille,3.4,3.75,2.05
+2023-05-06,Antalyaspor,Besiktas,3.6,3.4,2.0
+2023-05-06,Nice,Rennes,2.6,3.2,2.8
+2023-05-06,Lens,Marseille,2.3,3.5,3.0
+2023-05-06,St Johnstone,Dundee United,2.4,3.2,3.0
+2023-05-06,Ross County,Livingston,2.5,3.25,2.88
+2023-05-06,Motherwell,Kilmarnock,2.2,3.4,3.25
+2023-05-06,Hibernian,St Mirren,2.0,3.4,3.8
+2023-05-06,Sparta Rotterdam,PSV Eindhoven,6.0,4.33,1.53
+2023-05-06,Cambuur,Utrecht,4.2,4.0,1.8
+2023-05-06,Nijmegen,Heerenveen,2.1,3.4,3.5
+2023-05-06,Augsburg,Union Berlin,3.4,3.25,2.2
+2023-05-06,Ad. Demirspor,Alanyaspor,1.53,4.5,5.0
+2023-05-06,Ajax,AZ Alkmaar,1.57,4.5,5.25
+2023-05-06,Darmstadt,St Pauli,2.0,3.6,3.6
+2023-05-06,Karlsruhe,Hannover,1.7,4.0,4.5
+2023-05-06,Hansa Rostock,Regensburg,2.3,3.3,3.25
+2023-05-06,Fortuna Dusseldorf,Holstein Kiel,1.73,4.0,4.5
+2023-05-06,Milan,Lazio,1.95,3.4,4.0
+2023-05-06,Roma,Inter,3.1,3.1,2.45
+2023-05-06,Cremonese,Spezia,2.35,3.4,3.0
+2023-05-07,FC Emmen,Twente,4.5,4.0,1.73
+2023-05-07,Atalanta,Juventus,2.3,3.4,3.1
+2023-05-07,Torino,Monza,2.0,3.3,4.0
+2023-05-07,Angers,Monaco,6.5,4.75,1.44
+2023-05-07,Auxerre,Clermont,2.3,3.4,3.1
+2023-05-07,Lorient,Brest,2.4,3.4,2.9
+2023-05-07,Nantes,Strasbourg,2.75,3.4,2.55
+2023-05-07,Lyon,Montpellier,1.62,4.33,5.0
+2023-05-07,Troyes,Paris SG,8.5,5.5,1.33
+2023-05-07,Rangers,Aberdeen,1.25,5.75,12.0
+2023-05-07,Hearts,Celtic,8.5,5.5,1.33
+2023-05-07,Napoli,Fiorentina,1.8,3.8,4.33
+2023-05-07,Lecce,Verona,2.2,3.0,3.75
+2023-05-07,Braunschweig,Sandhausen,1.95,3.5,4.0
+2023-05-07,Dortmund,Wolfsburg,1.44,5.25,5.75
+2023-05-07,Ajaccio,Toulouse,3.4,3.5,2.1
+2023-05-07,Heidenheim,Magdeburg,1.67,4.0,5.0
+2023-05-07,Excelsior,Feyenoord,9.5,8.0,1.22
+2023-05-07,Konyaspor,Kayserispor,1.67,4.0,4.5
+2023-05-07,Umraniyespor,Sivasspor,2.88,3.4,2.3
+2023-05-07,Go Ahead Eagles,Groningen,1.7,3.8,5.0
+2023-05-07,For Sittard,Vitesse,3.4,3.5,2.1
+2023-05-07,West Ham,Man United,3.4,3.75,2.05
+2023-05-07,Newcastle,Arsenal,2.45,3.75,2.63
+2023-05-07,Giresunspor,Fenerbahce,5.75,4.5,1.5
+2023-05-07,Nurnberg,Kaiserslautern,2.0,3.4,3.8
+2023-05-08,Millwall,Blackburn,1.91,3.75,3.8
+2023-05-08,Middlesbrough,Coventry,2.55,3.6,2.63
+2023-05-08,Luton,Hull,1.62,3.8,5.5
+2023-05-08,QPR,Bristol City,2.25,3.5,3.0
+2023-05-08,Swansea,West Brom,3.2,3.4,2.2
+2023-05-08,Huddersfield,Reading,2.1,3.4,3.5
+2023-05-08,Watford,Stoke,2.38,3.2,3.0
+2023-05-08,Norwich,Blackpool,1.53,4.0,6.5
+2023-05-08,Fulham,Leicester,2.63,3.5,2.6
+2023-05-08,Brighton,Everton,1.33,5.25,9.0
+2023-05-08,Nott'm Forest,Southampton,2.1,3.6,3.4
+2023-05-08,Wigan,Rotherham,2.05,3.8,3.25
+2023-05-08,Burnley,Cardiff,1.33,4.75,10.0
+2023-05-08,Birmingham,Sheffield United,4.0,3.5,1.91
+2023-05-08,Sassuolo,Bologna,2.3,3.5,3.0
+2023-05-08,Trabzonspor,Ankaragucu,1.75,3.6,4.2
+2023-05-08,Empoli,Salernitana,2.2,3.1,3.6
+2023-05-08,Udinese,Sampdoria,1.5,4.33,6.5
+2023-05-08,Galatasaray,Buyuksehyr,1.44,4.33,6.5
+2023-05-08,Preston,Sunderland,4.0,3.5,1.91
+2023-05-12,FC Koln,Hertha,1.85,3.75,4.0
+2023-05-12,Lazio,Lecce,1.7,3.5,5.5
+2023-05-12,Sandhausen,Hansa Rostock,2.75,3.4,2.5
+2023-05-12,Magdeburg,Nurnberg,2.1,3.8,3.25
+2023-05-12,Mallorca,Cadiz,2.15,2.9,4.0
+2023-05-12,Lens,Reims,1.53,4.5,5.5
+2023-05-12,Twente,Nijmegen,1.44,4.75,6.5
+2023-05-13,Inter,Sassuolo,1.4,5.0,7.0
+2023-05-13,Spezia,Milan,4.2,3.5,1.91
+2023-05-13,Salernitana,Atalanta,4.75,4.2,1.65
+2023-05-13,Dortmund,M'gladbach,1.25,6.5,10.0
+2023-05-13,Aberdeen,Hibernian,2.05,3.5,3.4
+2023-05-13,Wolfsburg,Hoffenheim,1.91,3.75,3.8
+2023-05-13,Kaiserslautern,Bielefeld,2.5,3.6,2.6
+2023-05-13,Holstein Kiel,Karlsruhe,2.55,3.8,2.45
+2023-05-13,Greuther Furth,Braunschweig,1.75,3.8,4.33
+2023-05-13,Union Berlin,Freiburg,2.2,3.2,3.5
+2023-05-13,Ein Frankfurt,Mainz,2.1,3.6,3.3
+2023-05-13,Bochum,Augsburg,2.1,3.6,3.3
+2023-05-13,Bayern Munich,Schalke 04,1.13,10.0,17.0
+2023-05-13,Osasuna,Almeria,2.05,3.5,3.6
+2023-05-13,Villarreal,Ath Bilbao,2.1,3.5,3.4
+2023-05-13,Real Madrid,Getafe,1.55,4.0,6.5
+2023-05-13,St Pauli,Fortuna Dusseldorf,2.0,3.6,3.5
+2023-05-13,Paris SG,Ajaccio,1.1,11.0,19.0
+2023-05-13,St Mirren,Hearts,2.63,3.25,2.7
+2023-05-13,St Johnstone,Motherwell,2.7,3.1,2.7
+2023-05-13,Kilmarnock,Livingston,2.0,3.5,3.6
+2023-05-13,Dundee United,Ross County,2.3,3.2,3.1
+2023-05-13,Rangers,Celtic,2.8,3.6,2.3
+2023-05-13,Sociedad,Girona,1.62,4.0,5.5
+2023-05-13,Strasbourg,Nice,2.38,3.3,3.0
+2023-05-13,Heerenveen,Excelsior,1.5,5.0,5.0
+2023-05-13,Southampton,Fulham,2.75,3.3,2.5
+2023-05-13,Man United,Wolves,1.36,5.0,7.5
+2023-05-13,Crystal Palace,Bournemouth,1.83,3.6,4.2
+2023-05-13,Chelsea,Nott'm Forest,1.5,4.5,6.0
+2023-05-13,Aston Villa,Tottenham,2.25,3.6,2.9
+2023-05-13,Leeds,Newcastle,4.33,4.2,1.7
+2023-05-13,Volendam,Sparta Rotterdam,3.0,3.6,2.25
+2023-05-13,Utrecht,Waalwijk,1.57,4.5,5.0
+2023-05-14,Clermont,Lyon,4.33,3.75,1.8
+2023-05-14,Regensburg,Hamburg,3.8,4.0,1.85
+2023-05-14,Marseille,Angers,1.18,7.5,14.0
+2023-05-14,Monaco,Lille,2.8,3.6,2.4
+2023-05-14,Rennes,Troyes,1.25,6.0,11.0
+2023-05-14,Montpellier,Lorient,1.83,3.75,4.2
+2023-05-14,Brest,Auxerre,2.1,3.2,3.75
+2023-05-14,RB Leipzig,Werder Bremen,1.25,6.5,10.0
+2023-05-14,Stuttgart,Leverkusen,2.5,3.4,2.75
+2023-05-14,Groningen,Ajax,13.0,6.5,1.22
+2023-05-14,PSV Eindhoven,For Sittard,1.11,10.0,17.0
+2023-05-14,AZ Alkmaar,FC Emmen,1.33,5.5,9.0
+2023-05-14,Feyenoord,Go Ahead Eagles,1.18,8.0,12.0
+2023-05-14,Vitesse,Cambuur,1.36,5.25,8.5
+2023-05-14,Brentford,West Ham,2.0,3.5,3.6
+2023-05-14,Everton,Man City,9.0,4.75,1.36
+2023-05-14,Arsenal,Brighton,1.73,4.2,4.2
+2023-05-14,Celta,Valencia,2.2,3.3,3.4
+2023-05-14,Elche,Ath Madrid,8.0,5.0,1.36
+2023-05-14,Valladolid,Sevilla,2.25,3.5,3.1
+2023-05-14,Espanol,Barcelona,5.25,4.0,1.65
+2023-05-14,Paderborn,Heidenheim,2.25,3.5,3.1
+2023-05-14,Hannover,Darmstadt,4.2,4.0,1.8
+2023-05-14,Toulouse,Nantes,2.1,3.5,3.4
+2023-05-14,Verona,Torino,2.4,3.1,3.2
+2023-05-14,Juventus,Cremonese,1.36,4.75,9.0
+2023-05-14,Bologna,Roma,3.1,3.1,2.45
+2023-05-14,Monza,Napoli,4.75,3.75,1.73
+2023-05-14,Fiorentina,Udinese,1.95,3.6,3.8
+2023-05-15,Betis,Vallecano,1.91,3.5,4.0
+2023-05-15,Leicester,Liverpool,5.25,4.33,1.57
+2023-05-15,Sampdoria,Empoli,3.2,3.3,2.3
+2023-05-16,Istanbulspor,Galatasaray,9.0,6.0,1.29
+2023-05-16,Sivasspor,Kasimpasa,1.95,3.5,3.8
+2023-05-16,Alanyaspor,Konyaspor,2.4,3.6,2.7
+2023-05-17,Karagumruk,Ad. Demirspor,3.0,3.75,2.05
+2023-05-17,Ankaragucu,Antalyaspor,2.3,3.3,2.88
+2023-05-17,Buyuksehyr,Umraniyespor,1.65,3.8,4.75
+2023-05-18,Newcastle,Brighton,2.0,3.8,3.5
+2023-05-18,Fenerbahce,Trabzonspor,1.55,3.8,5.25
+2023-05-19,Darmstadt,Magdeburg,1.44,5.0,6.5
+2023-05-19,Holstein Kiel,St Pauli,3.1,3.8,2.15
+2023-05-19,Freiburg,Wolfsburg,2.0,3.8,3.4
+2023-05-19,Lyon,Monaco,2.38,4.0,2.6
+2023-05-19,Sassuolo,Monza,2.15,3.6,3.2
+2023-05-19,Cadiz,Valladolid,2.2,3.4,3.3
+2023-05-20,Schalke 04,Ein Frankfurt,3.0,3.6,2.25
+2023-05-20,Werder Bremen,FC Koln,2.6,3.6,2.55
+2023-05-20,Milan,Sampdoria,1.17,7.5,17.0
+2023-05-20,Hoffenheim,Union Berlin,2.5,3.4,2.8
+2023-05-20,Hertha,Bochum,2.2,3.6,3.1
+2023-05-20,Hearts,Aberdeen,2.25,3.4,3.2
+2023-05-20,Bayern Munich,RB Leipzig,1.5,5.0,5.5
+2023-05-20,Celtic,St Mirren,1.13,9.0,21.0
+2023-05-20,Kilmarnock,St Johnstone,2.0,3.3,4.0
+2023-05-20,Livingston,Dundee United,2.3,3.2,3.25
+2023-05-20,Motherwell,Ross County,2.1,3.4,3.6
+2023-05-20,Cremonese,Bologna,2.88,3.4,2.4
+2023-05-20,Kasimpasa,Istanbulspor,1.8,3.6,3.6
+2023-05-20,Tottenham,Brentford,1.83,3.9,4.0
+2023-05-20,Galatasaray,Sivasspor,1.25,5.5,7.5
+2023-05-20,Bournemouth,Man United,6.0,4.75,1.5
+2023-05-20,Barcelona,Sociedad,1.8,3.75,4.33
+2023-05-20,Getafe,Elche,1.5,4.0,7.0
+2023-05-20,Almeria,Mallorca,2.25,3.25,3.3
+2023-05-20,Ath Bilbao,Celta,1.62,3.8,5.5
+2023-05-20,Girona,Villarreal,2.8,3.75,2.3
+2023-05-20,Lille,Marseille,2.4,3.6,2.75
+2023-05-20,Nantes,Montpellier,2.1,3.5,3.4
+2023-05-20,Wolves,Everton,2.75,3.3,2.6
+2023-05-20,Hamburg,Greuther Furth,1.5,4.5,6.0
+2023-05-20,Heidenheim,Sandhausen,1.3,5.5,10.0
+2023-05-20,Braunschweig,Regensburg,1.95,3.6,4.0
+2023-05-20,Bielefeld,Paderborn,2.55,3.6,2.63
+2023-05-20,Nott'm Forest,Arsenal,5.25,4.33,1.57
+2023-05-20,Liverpool,Aston Villa,1.45,5.0,6.25
+2023-05-20,Fulham,Crystal Palace,2.45,3.4,2.9
+2023-05-20,Kayserispor,Alanyaspor,2.1,3.4,3.1
+2023-05-20,Atalanta,Verona,1.53,4.2,6.0
+2023-05-21,Vallecano,Espanol,2.15,3.4,3.4
+2023-05-21,PSV Eindhoven,Heerenveen,1.2,6.5,15.0
+2023-05-21,Nijmegen,AZ Alkmaar,4.33,3.8,1.8
+2023-05-21,Go Ahead Eagles,Volendam,1.75,4.0,4.33
+2023-05-21,FC Emmen,Feyenoord,6.5,4.75,1.45
+2023-05-21,Valencia,Real Madrid,3.2,3.5,2.2
+2023-05-21,Ath Madrid,Osasuna,1.36,4.75,8.0
+2023-05-21,West Ham,Leeds,2.4,3.5,2.88
+2023-05-21,Man City,Chelsea,1.25,6.0,11.0
+2023-05-21,Sparta Rotterdam,Cambuur,1.4,4.75,8.0
+2023-05-21,Fortuna Dusseldorf,Hannover,1.65,4.2,4.75
+2023-05-21,Auxerre,Paris SG,8.0,5.25,1.36
+2023-05-21,Lorient,Lens,5.5,4.33,1.57
+2023-05-21,Troyes,Strasbourg,5.5,4.33,1.57
+2023-05-21,Reims,Angers,1.36,5.5,7.0
+2023-05-21,Nice,Toulouse,1.85,3.75,3.8
+2023-05-21,Brest,Clermont,2.05,3.5,3.6
+2023-05-21,Ajaccio,Rennes,7.0,4.2,1.5
+2023-05-21,Sevilla,Betis,2.3,3.3,3.1
+2023-05-21,Ajax,Utrecht,1.29,6.0,10.0
+2023-05-21,Brighton,Southampton,1.22,7.0,11.0
+2023-05-21,Karlsruhe,Kaiserslautern,1.95,3.8,3.6
+2023-05-21,Leverkusen,M'gladbach,1.45,5.25,5.75
+2023-05-21,Augsburg,Dortmund,7.0,5.5,1.36
+2023-05-21,Mainz,Stuttgart,2.5,3.5,2.7
+2023-05-21,Hibernian,Rangers,6.0,4.2,1.53
+2023-05-21,Lecce,Spezia,2.2,3.1,3.6
+2023-05-21,Torino,Fiorentina,1.95,3.4,4.2
+2023-05-21,Napoli,Inter,2.9,3.3,2.45
+2023-05-21,Udinese,Lazio,3.8,3.4,2.0
+2023-05-21,Waalwijk,Twente,3.8,4.2,1.8
+2023-05-21,Vitesse,Groningen,1.44,4.5,7.5
+2023-05-21,Nurnberg,Hansa Rostock,2.0,3.5,3.75
+2023-05-21,Excelsior,For Sittard,1.95,3.6,3.8
+2023-05-22,Empoli,Juventus,5.5,3.75,1.65
+2023-05-22,Newcastle,Leicester,1.36,5.5,7.0
+2023-05-22,Roma,Salernitana,1.45,4.2,7.5
+2023-05-23,Celta,Girona,2.0,3.5,3.75
+2023-05-23,Valladolid,Barcelona,3.6,3.8,1.91
+2023-05-23,Sociedad,Almeria,1.36,5.0,8.0
+2023-05-24,Livingston,Motherwell,3.1,3.1,2.45
+2023-05-24,Hibernian,Celtic,6.5,5.0,1.44
+2023-05-24,Dundee United,Kilmarnock,2.5,3.3,2.88
+2023-05-24,Aberdeen,St Mirren,1.91,3.5,4.2
+2023-05-24,Brighton,Man City,4.0,4.33,1.75
+2023-05-24,Ross County,St Johnstone,2.15,3.4,3.4
+2023-05-24,Elche,Sevilla,4.0,3.75,1.91
+2023-05-24,Real Madrid,Vallecano,1.62,4.0,5.25
+2023-05-24,Villarreal,Cadiz,1.44,4.5,7.0
+2023-05-24,Betis,Getafe,2.0,3.2,4.2
+2023-05-24,Espanol,Ath Madrid,2.88,3.5,2.38
+2023-05-24,Rangers,Hearts,1.33,5.25,8.5
+2023-05-25,Man United,Chelsea,1.6,4.33,5.0
+2023-05-25,Mallorca,Valencia,3.3,3.0,2.4
+2023-05-25,Osasuna,Ath Bilbao,3.0,3.25,2.45
+2023-05-26,Sampdoria,Sassuolo,3.8,4.1,1.83
+2023-05-27,Inter,Atalanta,1.83,3.8,4.0
+2023-05-27,Clermont,Lorient,2.15,3.4,3.4
+2023-05-27,Lens,Ajaccio,1.13,9.0,17.0
+2023-05-27,Lille,Nantes,1.44,4.75,7.0
+2023-05-27,Dortmund,Mainz,1.14,8.5,15.0
+2023-05-27,Ein Frankfurt,Freiburg,2.4,3.75,2.7
+2023-05-27,Fiorentina,Roma,2.05,3.5,3.6
+2023-05-27,Lyon,Reims,1.57,4.75,5.0
+2023-05-27,FC Koln,Bayern Munich,7.5,6.0,1.3
+2023-05-27,M'gladbach,Augsburg,2.2,3.8,3.0
+2023-05-27,RB Leipzig,Schalke 04,1.6,4.5,4.75
+2023-05-27,Stuttgart,Hoffenheim,1.57,4.75,5.0
+2023-05-27,Salernitana,Udinese,2.7,3.5,2.55
+2023-05-27,Angers,Troyes,1.95,3.75,3.6
+2023-05-27,Spezia,Torino,2.38,3.25,3.1
+2023-05-27,Hearts,Hibernian,2.1,3.5,3.4
+2023-05-27,Union Berlin,Werder Bremen,1.44,4.75,7.0
+2023-05-27,St Mirren,Rangers,7.0,4.5,1.44
+2023-05-27,Marseille,Brest,1.36,5.25,7.0
+2023-05-27,Montpellier,Nice,2.45,3.5,2.8
+2023-05-27,Rennes,Monaco,2.05,3.75,3.3
+2023-05-27,Strasbourg,Paris SG,5.0,4.2,1.62
+2023-05-27,Toulouse,Auxerre,2.2,3.6,3.1
+2023-05-27,Wolfsburg,Hertha,1.36,5.25,8.0
+2023-05-27,Sevilla,Real Madrid,2.88,3.5,2.4
+2023-05-27,Celtic,Aberdeen,1.2,6.5,13.0
+2023-05-27,Bochum,Leverkusen,3.25,4.0,2.0
+2023-05-28,Greuther Furth,Darmstadt,2.7,3.2,2.6
+2023-05-28,Hannover,Holstein Kiel,2.15,3.8,2.9
+2023-05-28,For Sittard,Nijmegen,2.6,3.6,2.6
+2023-05-28,Leeds,Tottenham,2.75,3.8,2.3
+2023-05-28,Cambuur,Waalwijk,3.4,3.8,1.95
+2023-05-28,Feyenoord,Vitesse,1.29,6.0,9.0
+2023-05-28,Groningen,Sparta Rotterdam,3.2,3.6,2.2
+2023-05-28,Heerenveen,Go Ahead Eagles,2.0,4.0,3.3
+2023-05-28,Twente,Ajax,4.0,4.2,1.75
+2023-05-28,Utrecht,FC Emmen,1.53,4.5,5.75
+2023-05-28,Hansa Rostock,Braunschweig,2.63,3.5,2.55
+2023-05-28,Leicester,West Ham,1.91,3.8,3.6
+2023-05-28,Man United,Fulham,1.5,4.33,6.0
+2023-05-28,Southampton,Liverpool,6.5,4.75,1.44
+2023-05-28,Volendam,Excelsior,1.7,4.33,4.0
+2023-05-28,AZ Alkmaar,PSV Eindhoven,2.63,3.75,2.45
+2023-05-28,Kaiserslautern,Fortuna Dusseldorf,2.45,3.6,2.6
+2023-05-28,Almeria,Valladolid,2.25,3.4,3.1
+2023-05-28,Paderborn,Nurnberg,1.91,4.0,3.6
+2023-05-28,Ath Bilbao,Elche,1.3,5.0,11.0
+2023-05-28,Ath Madrid,Sociedad,2.0,3.5,3.6
+2023-05-28,Barcelona,Mallorca,1.33,5.0,9.5
+2023-05-28,Cadiz,Celta,2.6,3.1,2.75
+2023-05-28,Getafe,Osasuna,2.2,3.1,3.5
+2023-05-28,Girona,Betis,1.95,3.6,3.6
+2023-05-28,Valencia,Espanol,2.0,3.75,3.4
+2023-05-28,Vallecano,Villarreal,3.0,3.6,2.2
+2023-05-28,Verona,Empoli,1.7,3.8,5.0
+2023-05-28,Bologna,Napoli,3.4,3.3,2.2
+2023-05-28,Monza,Lecce,2.45,3.3,2.9
+2023-05-28,Lazio,Cremonese,1.22,6.5,12.0
+2023-05-28,Magdeburg,Bielefeld,3.0,4.2,2.05
+2023-05-28,Sandhausen,Hamburg,7.0,5.25,1.36
+2023-05-28,Regensburg,Heidenheim,6.5,4.2,1.53
+2023-05-28,St Pauli,Karlsruhe,1.85,4.0,3.75
+2023-05-28,Everton,Bournemouth,1.5,4.5,6.5
+2023-05-28,Crystal Palace,Nott'm Forest,1.67,4.0,5.0
+2023-05-28,Chelsea,Newcastle,2.9,3.5,2.38
+2023-05-28,Brentford,Man City,3.8,4.0,1.83
+2023-05-28,Aston Villa,Brighton,2.0,3.6,3.5
+2023-05-28,St Johnstone,Livingston,2.2,3.25,3.4
+2023-05-28,Motherwell,Dundee United,1.91,3.75,3.8
+2023-05-28,Kilmarnock,Ross County,2.05,3.5,3.5
+2023-05-28,Juventus,Milan,2.3,3.4,3.1
+2023-05-28,Arsenal,Wolves,1.36,5.25,8.0
+2023-05-30,Karagumruk,Kayserispor,1.95,4.0,3.2
+2023-05-30,Sivasspor,Konyaspor,1.91,3.6,3.75
+2023-05-30,Giresunspor,Trabzonspor,2.4,3.5,2.75
+2023-05-30,Istanbulspor,Ad. Demirspor,2.0,4.5,2.88
+2023-05-30,Fenerbahce,Antalyaspor,1.29,5.75,9.5
+2023-05-30,Ankaragucu,Galatasaray,5.25,4.75,1.45
+2023-05-30,Alanyaspor,Kasimpasa,2.1,3.75,3.0
+2023-06-02,Sassuolo,Fiorentina,2.6,3.75,2.5
+2023-06-03,Torino,Inter,2.3,3.5,3.0
+2023-06-03,Troyes,Lille,12.0,6.5,1.22
+2023-06-03,Reims,Montpellier,2.0,3.8,3.4
+2023-06-03,Ajaccio,Marseille,9.0,5.25,1.33
+2023-06-03,Konyaspor,Karagumruk,1.85,4.33,3.4
+2023-06-03,Auxerre,Lens,2.8,3.6,2.38
+2023-06-03,Brest,Rennes,5.75,4.2,1.55
+2023-06-03,Lorient,Strasbourg,3.0,3.5,2.3
+2023-06-03,Monaco,Toulouse,1.45,5.25,5.5
+2023-06-03,Nantes,Angers,1.36,5.25,8.0
+2023-06-03,Nice,Lyon,2.38,4.0,2.7
+2023-06-03,Paris SG,Clermont,1.22,6.5,10.0
+2023-06-03,Cremonese,Salernitana,2.6,3.6,2.5
+2023-06-03,Kasimpasa,Besiktas,4.0,4.2,1.65
+2023-06-03,Kayserispor,Ankaragucu,2.25,3.5,2.9
+2023-06-03,Trabzonspor,Alanyaspor,1.5,4.5,5.5
+2023-06-03,Umraniyespor,Giresunspor,2.45,3.75,2.55
+2023-06-03,Empoli,Lazio,3.25,3.75,2.1
+2023-06-03,Ad. Demirspor,Buyuksehyr,1.73,3.8,4.0
+2023-06-04,Napoli,Sampdoria,1.18,7.0,13.0
+2023-06-04,Milan,Verona,1.73,4.0,4.5
+2023-06-04,Lecce,Bologna,2.75,3.5,2.45
+2023-06-04,Atalanta,Monza,1.57,4.5,5.0
+2023-06-04,Udinese,Juventus,3.8,3.5,1.95
+2023-06-04,Mallorca,Vallecano,3.0,3.3,2.38
+2023-06-04,Galatasaray,Fenerbahce,2.0,3.6,3.3
+2023-06-04,Roma,Spezia,1.95,3.6,3.8
+2023-06-04,Espanol,Almeria,2.75,3.8,2.38
+2023-06-04,Elche,Cadiz,2.63,3.4,2.63
+2023-06-04,Celta,Barcelona,2.6,3.8,2.5
+2023-06-04,Valladolid,Getafe,2.2,3.3,3.4
+2023-06-04,Villarreal,Ath Madrid,2.7,3.5,2.5
+2023-06-04,Sociedad,Sevilla,1.73,3.9,4.6
+2023-06-04,Real Madrid,Ath Bilbao,1.91,3.75,3.75
+2023-06-04,Osasuna,Girona,2.05,3.6,3.4
+2023-06-04,Betis,Valencia,2.63,3.6,2.5
+2023-06-06,Karagumruk,Kasimpasa,2.1,4.0,2.8
+2023-06-06,Sivasspor,Kayserispor,1.65,4.0,4.2
+2023-06-06,Buyuksehyr,Trabzonspor,2.38,3.6,2.6
+2023-06-07,Istanbulspor,Umraniyespor,1.45,4.5,5.25
+2023-06-07,Ankaragucu,Ad. Demirspor,2.15,4.0,2.7
+2023-06-07,Besiktas,Konyaspor,1.36,5.5,6.5
+2023-06-07,Giresunspor,Antalyaspor,1.8,3.75,3.6

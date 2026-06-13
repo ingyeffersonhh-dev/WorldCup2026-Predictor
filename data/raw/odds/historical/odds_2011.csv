@@ -1,0 +1,3999 @@
+date,home_team,away_team,odds_h,odds_d,odds_a
+2011-07-15,Greuther Furth,Ein Frankfurt,2.63,3.3,2.63
+2011-07-15,Frankfurt FSV,Union Berlin,2.6,3.25,2.7
+2011-07-15,Cottbus,Dresden,1.73,3.6,4.75
+2011-07-16,St Pauli,Ingolstadt,1.83,3.5,4.33
+2011-07-16,Erzgebirge Aue,Aachen,2.3,3.25,3.1
+2011-07-17,Hansa Rostock,Paderborn,2.0,3.3,3.75
+2011-07-17,Braunschweig,Munich 1860,2.8,3.25,2.5
+2011-07-17,Karlsruhe,Duisburg,2.75,3.3,2.5
+2011-07-18,Fortuna Dusseldorf,Bochum,2.5,3.2,2.88
+2011-07-22,Bochum,Frankfurt FSV,1.53,3.8,6.75
+2011-07-22,Duisburg,Cottbus,1.85,3.6,4.0
+2011-07-22,Ingolstadt,Erzgebirge Aue,2.0,3.3,3.8
+2011-07-23,Aberdeen,St Johnstone,2.1,3.3,3.5
+2011-07-23,Rangers,Hearts,1.36,4.6,9.0
+2011-07-23,Motherwell,Inverness C,2.1,3.3,3.5
+2011-07-23,Union Berlin,Greuther Furth,2.5,3.3,2.8
+2011-07-23,Munich 1860,Karlsruhe,1.75,3.75,4.5
+2011-07-24,Aachen,Braunschweig,2.1,3.4,3.4
+2011-07-24,Dresden,Hansa Rostock,2.2,3.3,3.3
+2011-07-24,Paderborn,Fortuna Dusseldorf,2.6,3.3,2.63
+2011-07-24,Hibernian,Celtic,8.5,4.33,1.4
+2011-07-24,Dundee United,Kilmarnock,1.83,3.5,4.33
+2011-07-25,Ein Frankfurt,St Pauli,1.75,3.5,4.75
+2011-07-25,Dunfermline,St Mirren,2.3,3.2,3.2
+2011-07-29,Oud-Heverlee Leuven,Anderlecht,7.0,4.0,1.5
+2011-07-30,Genk,Germinal,1.44,4.33,7.0
+2011-07-30,Gent,Cercle Brugge,1.57,3.8,6.0
+2011-07-30,Kortrijk,Lierse,1.75,3.6,4.6
+2011-07-30,Lokeren,Waregem,2.2,3.3,3.3
+2011-07-30,Bergen,Standard,5.0,3.5,1.73
+2011-07-30,Inverness C,Hibernian,2.3,3.25,3.1
+2011-07-30,Kilmarnock,Motherwell,2.3,3.2,3.1
+2011-07-30,St Johnstone,Rangers,6.0,4.0,1.53
+2011-07-30,St Mirren,Aberdeen,2.63,3.2,2.7
+2011-07-30,Mechelen,St Truiden,1.67,3.8,5.0
+2011-07-31,Hearts,Dundee United,2.0,3.3,3.8
+2011-07-31,Club Brugge,Westerlo,1.44,4.33,7.0
+2011-08-05,Hull,Blackpool,2.25,3.4,3.1
+2011-08-05,Anderlecht,Mechelen,1.4,4.5,8.0
+2011-08-05,Excelsior,Feyenoord,3.4,3.4,2.1
+2011-08-05,Dortmund,Hamburg,1.57,3.8,6.0
+2011-08-05,Fortuna Dusseldorf,Ingolstadt,1.57,3.75,6.0
+2011-08-05,St Pauli,Aachen,1.57,4.0,5.75
+2011-08-05,Union Berlin,Paderborn,2.1,3.4,3.4
+2011-08-06,Roda,Groningen,2.2,3.5,3.1
+2011-08-06,Augsburg,Freiburg,2.25,3.4,3.1
+2011-08-06,Southampton,Leeds,2.2,3.4,3.2
+2011-08-06,Brighton,Doncaster,1.83,3.5,4.33
+2011-08-06,Bristol City,Ipswich,2.38,3.4,2.88
+2011-08-06,Burnley,Watford,1.91,3.4,4.0
+2011-08-06,Coventry,Leicester,3.75,3.4,2.0
+2011-08-06,FC Koln,Wolfsburg,2.5,3.4,2.7
+2011-08-06,Derby,Birmingham,2.63,3.3,2.63
+2011-08-06,Nott'm Forest,Barnsley,1.67,3.6,5.5
+2011-08-06,Reading,Millwall,1.83,3.5,4.2
+2011-08-06,Peterboro,Crystal Palace,2.2,3.4,3.2
+2011-08-06,Paris SG,Lorient,1.53,3.8,6.75
+2011-08-06,Nice,Lyon,4.0,3.2,2.0
+2011-08-06,Nancy,Lille,3.5,3.1,2.2
+2011-08-06,Montpellier,Auxerre,2.1,3.1,3.8
+2011-08-06,Marseille,Sochaux,1.53,3.8,6.75
+2011-08-06,Caen,Valenciennes,2.3,3.0,3.4
+2011-08-06,Middlesbrough,Portsmouth,2.0,3.4,3.75
+2011-08-06,VVV Venlo,Utrecht,2.88,3.4,2.38
+2011-08-06,Hannover,Hoffenheim,2.1,3.4,3.4
+2011-08-06,Stuttgart,Schalke 04,2.2,3.4,3.2
+2011-08-06,Heerenveen,Nijmegen,1.73,3.75,4.5
+2011-08-06,Waalwijk,Heracles,3.2,3.4,2.2
+2011-08-06,Greuther Furth,Dresden,1.57,3.8,6.0
+2011-08-06,Cottbus,Munich 1860,2.2,3.4,3.2
+2011-08-06,Cercle Brugge,Bergen,1.95,3.5,3.8
+2011-08-06,Germinal,Gent,3.3,3.4,2.15
+2011-08-06,Lierse,Genk,4.33,3.5,1.83
+2011-08-06,Waregem,Oud-Heverlee Leuven,1.73,3.5,5.0
+2011-08-06,Hertha,Nurnberg,2.1,3.4,3.4
+2011-08-06,Ajaccio,Toulouse,2.63,3.0,2.88
+2011-08-06,Dunfermline,Inverness C,2.63,3.25,2.63
+2011-08-06,Dundee United,St Mirren,1.73,3.5,5.0
+2011-08-06,Brest,Evian Thonon Gaillard,2.3,3.0,3.4
+2011-08-06,Werder Bremen,Kaiserslautern,1.8,3.6,4.33
+2011-08-07,Westerlo,Kortrijk,2.0,3.4,3.75
+2011-08-07,NAC Breda,Twente,5.0,3.8,1.67
+2011-08-07,Den Haag,Vitesse,2.0,3.6,3.5
+2011-08-07,West Ham,Cardiff,1.8,3.5,4.5
+2011-08-07,AZ Alkmaar,PSV Eindhoven,2.75,3.3,2.5
+2011-08-07,Graafschap,Ajax,10.0,5.5,1.29
+2011-08-07,Standard,Lokeren,1.57,3.8,6.0
+2011-08-07,St Truiden,Club Brugge,5.75,4.0,1.57
+2011-08-07,Bordeaux,St Etienne,1.91,3.25,4.33
+2011-08-07,Dijon,Rennes,2.88,3.0,2.63
+2011-08-07,Aberdeen,Celtic,9.0,5.0,1.33
+2011-08-07,Motherwell,Hearts,2.6,3.2,2.75
+2011-08-07,Erzgebirge Aue,Karlsruhe,2.0,3.4,3.75
+2011-08-07,Braunschweig,Ein Frankfurt,2.5,3.3,2.8
+2011-08-07,Bayern Munich,M'gladbach,1.2,6.5,13.0
+2011-08-07,Mainz,Leverkusen,3.8,3.5,1.95
+2011-08-07,Frankfurt FSV,Duisburg,3.1,3.4,2.25
+2011-08-08,Hansa Rostock,Bochum,2.75,3.2,2.6
+2011-08-12,Bochum,St Pauli,2.25,3.4,3.1
+2011-08-12,Dresden,Union Berlin,2.5,3.3,2.75
+2011-08-12,Karlsruhe,Braunschweig,2.15,3.4,3.25
+2011-08-12,Gil Vicente,Benfica,9.0,4.2,1.4
+2011-08-13,Hamburg,Hertha,1.95,3.6,3.6
+2011-08-13,Hoffenheim,Dortmund,4.5,3.75,1.73
+2011-08-13,M'gladbach,Stuttgart,2.5,3.4,2.7
+2011-08-13,Nurnberg,Hannover,2.3,3.4,3.0
+2011-08-13,Aachen,Cottbus,2.25,3.4,3.1
+2011-08-13,Paderborn,Greuther Furth,3.25,3.3,2.2
+2011-08-13,St Mirren,Motherwell,2.6,3.25,2.7
+2011-08-13,St Johnstone,Dunfermline,1.91,3.25,4.33
+2011-08-13,Freiburg,Mainz,2.3,3.4,3.0
+2011-08-13,Inverness C,Rangers,7.5,4.5,1.4
+2011-08-13,Celtic,Dundee United,1.25,5.5,12.0
+2011-08-13,Wolfsburg,Bayern Munich,4.0,3.75,1.83
+2011-08-13,Rio Ave,Sp Braga,3.25,3.1,2.3
+2011-08-13,Barnsley,Southampton,3.0,3.25,2.38
+2011-08-13,Birmingham,Coventry,1.8,3.5,4.5
+2011-08-13,Crystal Palace,Burnley,2.63,3.3,2.63
+2011-08-13,Doncaster,West Ham,4.0,3.4,1.91
+2011-08-13,Ipswich,Hull,2.0,3.4,3.75
+2011-08-13,Leeds,Middlesbrough,2.1,3.4,3.4
+2011-08-13,Leicester,Reading,1.8,3.6,4.33
+2011-08-13,Hearts,Aberdeen,1.7,3.6,5.0
+2011-08-13,Millwall,Nott'm Forest,2.4,3.3,2.9
+2011-08-13,Watford,Derby,2.1,3.25,3.6
+2011-08-13,Sp Lisbon,Olhanense,1.4,4.33,8.5
+2011-08-13,Kortrijk,Cercle Brugge,2.2,3.3,3.25
+2011-08-13,Germinal,Westerlo,2.0,3.5,3.6
+2011-08-13,Gent,Standard,2.1,3.5,3.3
+2011-08-13,Genk,Waregem,1.5,4.2,6.5
+2011-08-13,Club Brugge,Oud-Heverlee Leuven,1.22,6.0,12.0
+2011-08-13,Bergen,St Truiden,1.91,3.4,4.0
+2011-08-13,Portsmouth,Brighton,2.4,3.3,2.88
+2011-08-13,Schalke 04,FC Koln,1.62,3.8,5.5
+2011-08-13,Blackburn,Wolves,2.2,3.2,3.5
+2011-08-13,Toulouse,Dijon,1.6,3.5,6.5
+2011-08-13,Twente,AZ Alkmaar,1.75,3.6,4.75
+2011-08-13,St Etienne,Nancy,2.0,3.2,4.0
+2011-08-13,Vitesse,VVV Venlo,1.53,4.0,6.0
+2011-08-13,Valenciennes,Brest,1.91,3.3,4.2
+2011-08-13,Sochaux,Caen,2.0,3.2,4.0
+2011-08-13,Wigan,Norwich,2.2,3.2,3.5
+2011-08-13,Feyenoord,Roda,1.75,3.75,4.33
+2011-08-13,Newcastle,Arsenal,3.75,3.25,2.1
+2011-08-13,QPR,Bolton,2.4,3.25,3.0
+2011-08-13,Fulham,Aston Villa,2.2,3.2,3.5
+2011-08-13,Rennes,Paris SG,2.7,3.1,2.7
+2011-08-13,Lyon,Ajaccio,1.3,5.0,11.0
+2011-08-13,Lorient,Bordeaux,2.4,3.2,3.0
+2011-08-13,Liverpool,Sunderland,1.57,3.6,7.0
+2011-08-13,PSV Eindhoven,Waalwijk,1.17,7.0,15.0
+2011-08-14,Groningen,Den Haag,1.67,3.75,5.0
+2011-08-14,Ajax,Heerenveen,1.22,6.0,13.0
+2011-08-14,Blackpool,Peterboro,1.8,3.6,4.33
+2011-08-14,Cardiff,Bristol City,1.67,3.75,5.0
+2011-08-14,Munich 1860,Erzgebirge Aue,1.73,3.6,4.75
+2011-08-14,Utrecht,Graafschap,1.5,4.2,6.5
+2011-08-14,Heracles,NAC Breda,1.67,4.0,4.75
+2011-08-14,Auxerre,Marseille,3.6,3.2,2.1
+2011-08-14,Evian Thonon Gaillard,Nice,2.2,3.2,3.4
+2011-08-14,Lille,Montpellier,1.62,3.6,6.0
+2011-08-14,Feirense ,Nacional,2.8,3.1,2.6
+2011-08-14,Guimaraes,Porto,7.0,4.0,1.5
+2011-08-14,Maritimo,Beira Mar,1.91,3.2,4.33
+2011-08-14,Setubal,Pacos Ferreira,2.5,3.1,2.9
+2011-08-14,Lokeren,Anderlecht,4.5,3.75,1.75
+2011-08-14,Mechelen,Lierse,1.8,3.5,4.5
+2011-08-14,Kilmarnock,Hibernian,2.3,3.3,3.0
+2011-08-14,Duisburg,Hansa Rostock,1.75,3.75,4.5
+2011-08-14,Ingolstadt,Frankfurt FSV,1.83,3.5,4.33
+2011-08-14,Kaiserslautern,Augsburg,1.83,3.5,4.2
+2011-08-14,Stoke,Chelsea,5.5,3.5,1.7
+2011-08-14,West Brom,Man United,6.5,4.0,1.53
+2011-08-14,Leverkusen,Werder Bremen,1.83,3.6,4.2
+2011-08-15,Leiria,Academica,2.5,3.2,2.8
+2011-08-15,Ein Frankfurt,Fortuna Dusseldorf,1.91,3.4,4.0
+2011-08-15,Man City,Swansea,1.29,5.0,13.0
+2011-08-15,Nijmegen,Excelsior,1.44,4.33,7.0
+2011-08-16,Barnsley,Middlesbrough,3.1,3.3,2.3
+2011-08-16,Crystal Palace,Coventry,2.0,3.4,3.75
+2011-08-16,Portsmouth,Reading,2.9,3.3,2.4
+2011-08-16,Doncaster,Nott'm Forest,3.3,3.3,2.2
+2011-08-16,Ipswich,Southampton,2.6,3.4,2.6
+2011-08-16,Leeds,Hull,2.4,3.3,2.9
+2011-08-16,Watford,West Ham,3.2,3.4,2.2
+2011-08-17,Cardiff,Brighton,2.0,3.4,3.75
+2011-08-17,Leicester,Bristol City,1.5,4.0,7.0
+2011-08-17,Blackpool,Derby,1.83,3.5,4.33
+2011-08-17,Millwall,Peterboro,1.91,3.5,4.0
+2011-08-19,Roda,Waalwijk,1.5,4.0,7.0
+2011-08-19,Greuther Furth,Ingolstadt,1.62,3.8,5.5
+2011-08-19,Porto,Gil Vicente,1.17,7.0,16.0
+2011-08-19,Fortuna Dusseldorf,Munich 1860,2.0,3.5,3.6
+2011-08-19,M'gladbach,Wolfsburg,2.7,3.3,2.6
+2011-08-19,Lierse,Germinal,2.2,3.3,3.3
+2011-08-19,Hansa Rostock,Aachen,1.95,3.5,3.8
+2011-08-20,Benfica,Feirense,1.2,6.5,13.0
+2011-08-20,Southampton,Millwall,1.73,3.5,5.0
+2011-08-20,Reading,Barnsley,1.57,4.0,5.5
+2011-08-20,Derby,Doncaster,1.73,3.75,4.6
+2011-08-20,Nott'm Forest,Leicester,2.4,3.3,2.9
+2011-08-20,Ajaccio,Evian Thonon Gaillard,2.38,3.1,3.1
+2011-08-20,Hull,Crystal Palace,1.83,3.4,4.5
+2011-08-20,Coventry,Watford,2.5,3.4,2.75
+2011-08-20,Burnley,Cardiff,2.5,3.5,2.63
+2011-08-20,Bristol City,Portsmouth,2.4,3.3,2.9
+2011-08-20,Brighton,Blackpool,2.1,3.5,3.3
+2011-08-20,Peterboro,Ipswich,2.25,3.5,3.0
+2011-08-20,Westerlo,Gent,3.4,3.4,2.1
+2011-08-20,Bordeaux,Auxerre,1.83,3.25,4.75
+2011-08-20,Nice,Toulouse,2.6,3.0,2.88
+2011-08-20,FC Koln,Kaiserslautern,2.3,3.3,3.1
+2011-08-20,Dortmund,Nurnberg,1.29,5.0,11.0
+2011-08-20,Bayern Munich,Hamburg,1.33,5.0,9.0
+2011-08-20,St Truiden,Lokeren,2.8,3.3,2.5
+2011-08-20,Augsburg,Hoffenheim,2.8,3.3,2.5
+2011-08-20,Hibernian,St Mirren,2.2,3.2,3.4
+2011-08-20,Dundee United,Dunfermline,1.7,3.5,5.25
+2011-08-20,Aberdeen,Inverness C,2.38,3.25,3.0
+2011-08-20,Swansea,Wigan,2.1,3.3,3.6
+2011-08-20,Sunderland,Newcastle,2.2,3.25,3.4
+2011-08-20,Everton,QPR,1.53,3.8,7.0
+2011-08-20,Chelsea,West Brom,1.3,5.5,10.0
+2011-08-20,Stuttgart,Leverkusen,2.3,3.4,3.0
+2011-08-20,Werder Bremen,Freiburg,1.55,4.0,6.0
+2011-08-20,Caen,Lille,3.6,3.25,2.1
+2011-08-20,Brest,Lyon,3.75,3.25,2.05
+2011-08-20,Aston Villa,Blackburn,1.73,3.4,5.5
+2011-08-20,Braunschweig,Erzgebirge Aue,1.73,3.5,5.0
+2011-08-20,Union Berlin,Bochum,2.63,3.3,2.63
+2011-08-20,Arsenal,Liverpool,2.5,3.25,2.9
+2011-08-20,Vitesse,Utrecht,1.8,3.6,4.33
+2011-08-20,Cercle Brugge,Genk,3.3,3.3,2.2
+2011-08-20,NAC Breda,Groningen,3.0,3.5,2.25
+2011-08-20,Heerenveen,Twente,3.2,3.4,2.2
+2011-08-20,Excelsior,Graafschap,2.3,3.4,3.0
+2011-08-20,Oud-Heverlee Leuven,Mechelen,3.1,3.3,2.3
+2011-08-20,Dijon,Lorient,2.8,3.1,2.63
+2011-08-21,Frankfurt FSV,Ein Frankfurt,6.0,3.8,1.57
+2011-08-21,Kilmarnock,Hearts,2.63,3.3,2.6
+2011-08-21,Mainz,Schalke 04,2.5,3.3,2.75
+2011-08-21,Pacos Ferreira,Leiria,2.0,3.2,4.0
+2011-08-21,Beira Mar,Sp Lisbon,4.75,3.25,1.83
+2011-08-21,Academica,Rio Ave,2.4,3.1,3.1
+2011-08-21,Dresden,Paderborn,2.0,3.4,3.75
+2011-08-21,Cottbus,Karlsruhe,1.91,3.5,4.0
+2011-08-21,Middlesbrough,Birmingham,2.0,3.5,3.6
+2011-08-21,Marseille,St Etienne,1.53,3.75,7.0
+2011-08-21,Montpellier,Rennes,2.6,3.0,2.9
+2011-08-21,Nancy,Sochaux,2.25,3.1,3.4
+2011-08-21,Paris SG,Valenciennes,1.5,4.0,7.0
+2011-08-21,Celtic,St Johnstone,1.2,6.0,16.0
+2011-08-21,Motherwell,Rangers,5.5,3.6,1.67
+2011-08-21,Wolves,Fulham,2.38,3.25,3.1
+2011-08-21,Norwich,Stoke,2.6,3.3,2.75
+2011-08-21,Bolton,Man City,4.75,3.5,1.8
+2011-08-21,Hannover,Hertha,2.2,3.3,3.3
+2011-08-21,West Ham,Leeds,1.73,3.6,4.8
+2011-08-21,Sp Braga,Maritimo,1.62,3.6,6.0
+2011-08-21,AZ Alkmaar,Nijmegen,1.44,4.33,7.0
+2011-08-21,Den Haag,PSV Eindhoven,4.75,4.0,1.67
+2011-08-21,Heracles,Feyenoord,2.0,3.6,3.5
+2011-08-21,VVV Venlo,Ajax,12.0,5.5,1.25
+2011-08-21,Waregem,Club Brugge,2.63,3.5,2.5
+2011-08-21,Standard,Kortrijk,1.53,3.8,6.75
+2011-08-21,Anderlecht,Bergen,1.33,5.0,9.0
+2011-08-22,Man United,Tottenham,1.67,3.75,5.5
+2011-08-22,St Pauli,Duisburg,1.85,3.5,4.2
+2011-08-22,Olhanense,Setubal,2.2,3.2,3.4
+2011-08-26,Duisburg,Dresden,1.8,3.6,4.33
+2011-08-26,Ajax,Vitesse,1.2,6.5,13.0
+2011-08-26,Bochum,Greuther Furth,2.6,3.3,2.63
+2011-08-26,Ingolstadt,Hansa Rostock,2.2,3.4,3.2
+2011-08-26,Hertha,Stuttgart,2.5,3.4,2.7
+2011-08-27,Millwall,Barnsley,1.62,3.75,5.5
+2011-08-27,Auxerre,Ajaccio,1.8,3.3,4.75
+2011-08-27,Portsmouth,Cardiff,2.5,3.3,2.75
+2011-08-27,Sp Gijon,Sociedad,2.05,3.25,3.75
+2011-08-27,Valencia,Santander,1.4,4.33,8.0
+2011-08-27,Gil Vicente,Academica,2.5,3.0,3.0
+2011-08-27,Karlsruhe,Frankfurt FSV,1.73,3.75,4.5
+2011-08-27,Lorient,Nancy,1.91,3.2,4.33
+2011-08-27,Bergen,Waregem,2.1,3.5,3.3
+2011-08-27,Genk,Mechelen,1.73,3.6,4.75
+2011-08-27,Gent,Lierse,1.36,4.75,8.0
+2011-08-27,Kortrijk,St Truiden,1.57,4.0,5.5
+2011-08-27,Aachen,Fortuna Dusseldorf,3.1,3.4,2.25
+2011-08-27,Lyon,Montpellier,1.5,4.0,7.0
+2011-08-27,Dunfermline,Motherwell,2.8,3.25,2.5
+2011-08-27,Valenciennes,Bordeaux,2.6,3.0,2.9
+2011-08-27,Nijmegen,Heracles,2.1,3.5,3.3
+2011-08-27,Twente,VVV Venlo,1.17,6.5,17.0
+2011-08-27,Utrecht,Roda,1.83,3.75,4.0
+2011-08-27,Waalwijk,NAC Breda,2.0,3.6,3.5
+2011-08-27,Freiburg,Wolfsburg,2.8,3.25,2.5
+2011-08-27,Hamburg,FC Koln,1.85,3.6,4.0
+2011-08-27,Hoffenheim,Werder Bremen,2.3,3.4,3.0
+2011-08-27,Kaiserslautern,Bayern Munich,6.5,4.2,1.5
+2011-08-27,Leverkusen,Dortmund,2.6,3.4,2.6
+2011-08-27,Nice,Brest,2.2,3.1,3.6
+2011-08-27,Nurnberg,Augsburg,1.73,3.6,4.75
+2011-08-27,Blackburn,Everton,3.3,3.25,2.25
+2011-08-27,Chelsea,Norwich,1.2,6.5,15.0
+2011-08-27,Liverpool,Bolton,1.4,4.5,8.5
+2011-08-27,Swansea,Sunderland,2.38,3.3,3.0
+2011-08-27,Wigan,QPR,2.25,3.3,3.25
+2011-08-27,St Johnstone,Dundee United,2.5,3.25,2.8
+2011-08-27,Inverness C,Kilmarnock,2.25,3.4,3.1
+2011-08-27,Lokeren,Oud-Heverlee Leuven,1.62,3.75,5.5
+2011-08-27,Granada,Betis,2.3,3.4,3.0
+2011-08-27,Aston Villa,Wolves,2.1,3.25,3.75
+2011-08-27,Westerlo,Cercle Brugge,2.2,3.4,3.2
+2011-08-27,Evian Thonon Gaillard,Dijon,1.91,3.25,4.33
+2011-08-27,Middlesbrough,Coventry,1.67,3.75,5.0
+2011-08-27,Brighton,Peterboro,1.91,3.6,3.75
+2011-08-27,Crystal Palace,Blackpool,2.63,3.25,2.63
+2011-08-27,Doncaster,Bristol City,2.5,3.25,2.8
+2011-08-27,Derby,Burnley,2.38,3.4,2.88
+2011-08-27,Ipswich,Leeds,2.38,3.5,2.8
+2011-08-27,Leicester,Southampton,2.38,3.25,3.0
+2011-08-27,Hull,Reading,2.63,3.25,2.63
+2011-08-28,Schalke 04,M'gladbach,1.8,3.6,4.33
+2011-08-28,Rangers,Aberdeen,1.25,6.0,10.0
+2011-08-28,Munich 1860,Union Berlin,1.7,3.75,4.75
+2011-08-28,West Brom,Stoke,2.1,3.25,3.75
+2011-08-28,Ein Frankfurt,Paderborn,1.36,4.75,8.5
+2011-08-28,Braunschweig,St Pauli,2.4,3.4,2.8
+2011-08-28,Man United,Arsenal,1.5,4.33,6.5
+2011-08-28,Newcastle,Fulham,2.1,3.25,3.75
+2011-08-28,Tottenham,Man City,2.88,3.3,2.5
+2011-08-28,Zaragoza,Real Madrid,8.5,5.0,1.33
+2011-08-28,Ath Madrid,Osasuna,1.53,3.8,6.5
+2011-08-28,Mallorca,Espanol,2.0,3.4,3.75
+2011-08-28,Getafe,Levante,1.8,3.5,4.5
+2011-08-28,Hannover,Mainz,2.3,3.4,3.0
+2011-08-28,Ath Bilbao,Vallecano,1.57,3.75,6.0
+2011-08-28,Lille,Marseille,2.25,3.2,3.25
+2011-08-28,Rennes,Caen,1.73,3.4,5.25
+2011-08-28,Sochaux,St Etienne,2.2,3.2,3.4
+2011-08-28,Toulouse,Paris SG,3.0,3.0,2.5
+2011-08-28,St Mirren,Celtic,8.5,4.75,1.36
+2011-08-28,Sevilla,Malaga,2.1,3.4,3.4
+2011-08-28,Watford,Birmingham,2.3,3.4,3.0
+2011-08-28,Hearts,Hibernian,1.8,3.4,4.75
+2011-08-28,Rio Ave,Olhanense,2.1,3.1,3.75
+2011-08-28,Sp Lisbon,Maritimo,1.44,4.0,8.0
+2011-08-28,Guimaraes,Beira Mar,1.91,3.2,4.33
+2011-08-28,Feirense,Pacos Ferreira,2.7,3.0,2.75
+2011-08-28,Groningen,AZ Alkmaar,2.38,3.5,2.8
+2011-08-28,Graafschap,Den Haag,2.1,3.5,3.3
+2011-08-28,PSV Eindhoven,Excelsior,1.14,7.0,19.0
+2011-08-28,Nott'm Forest,West Ham,2.75,3.3,2.5
+2011-08-28,Club Brugge,Anderlecht,2.3,3.4,3.0
+2011-08-28,Germinal,Standard,3.0,3.5,2.25
+2011-08-28,Feyenoord,Heerenveen,1.6,4.2,5.0
+2011-08-29,Barcelona,Villarreal,1.25,5.75,11.0
+2011-08-29,Nacional,Benfica,6.5,3.8,1.53
+2011-08-29,Setubal,Sp Braga,3.6,3.2,2.1
+2011-08-29,Erzgebirge Aue,Cottbus,2.75,3.3,2.5
+2011-09-04,Nacional,Guimaraes,2.2,3.2,3.4
+2011-09-06,Leiria,Porto,12.0,5.0,1.29
+2011-09-09,Milan,Lazio,1.62,3.75,5.5
+2011-09-09,St Truiden,Genk,3.8,3.6,1.91
+2011-09-09,Hansa Rostock,Braunschweig,2.3,3.4,3.0
+2011-09-09,Porto,Setubal,1.14,7.0,21.0
+2011-09-09,Augsburg,Leverkusen,5.0,3.75,1.67
+2011-09-09,Greuther Furth,Duisburg,1.67,3.6,5.25
+2011-09-09,Paderborn,Aachen,2.2,3.4,3.2
+2011-09-10,Celtic,Motherwell,1.25,5.5,12.0
+2011-09-10,Stoke,Liverpool,3.25,3.3,2.25
+2011-09-10,Sunderland,Chelsea,5.0,3.75,1.7
+2011-09-10,Wolves,Tottenham,3.0,3.25,2.4
+2011-09-10,St Etienne,Lille,3.1,3.1,2.4
+2011-09-10,Sochaux,Lorient,2.25,3.2,3.2
+2011-09-10,Heracles,Ajax,6.0,3.8,1.57
+2011-09-10,Coventry,Derby,2.4,3.3,2.88
+2011-09-10,Blackpool,Ipswich,1.83,3.6,4.2
+2011-09-10,Cardiff,Doncaster,1.62,3.75,5.5
+2011-09-10,Man City,Wigan,1.17,7.0,17.0
+2011-09-10,Dijon,Lyon,4.75,3.4,1.8
+2011-09-10,Bristol City,Brighton,3.0,3.4,2.3
+2011-09-10,Caen,Toulouse,2.6,3.0,2.9
+2011-09-10,Bordeaux,Evian Thonon Gaillard,1.85,3.3,4.5
+2011-09-10,Kilmarnock,Dunfermline,1.83,3.4,4.5
+2011-09-10,Inverness C,Hearts,3.1,3.25,2.3
+2011-09-10,Dundee United,Rangers,6.5,3.8,1.53
+2011-09-10,Burnley,Middlesbrough,2.6,3.25,2.7
+2011-09-10,Marseille,Rennes,1.73,3.5,5.0
+2011-09-10,Bolton,Man United,9.0,4.5,1.4
+2011-09-10,Graafschap,Nijmegen,2.6,3.4,2.6
+2011-09-10,Samsunspor,Genclerbirligi,2.5,3.25,2.8
+2011-09-10,Manisaspor,Trabzonspor,3.75,3.4,2.0
+2011-09-10,Eskisehirspor,Besiktas,4.0,3.4,1.91
+2011-09-10,Ankaragucu,Mersin Idman Yurdu,2.75,3.2,2.6
+2011-09-10,Leeds,Crystal Palace,1.8,3.6,4.33
+2011-09-10,Peterboro,Hull,2.2,3.4,3.2
+2011-09-10,Reading,Watford,1.73,3.6,4.8
+2011-09-10,Southampton,Nott'm Forest,1.83,3.5,4.33
+2011-09-10,West Ham,Portsmouth,1.62,3.75,5.5
+2011-09-10,Werder Bremen,Hamburg,1.6,4.2,5.0
+2011-09-10,Stuttgart,Hannover,1.85,3.6,4.0
+2011-09-10,Roda,Twente,5.5,4.0,1.57
+2011-09-10,M'gladbach,Kaiserslautern,1.91,3.6,3.75
+2011-09-10,Arsenal,Swansea,1.36,4.75,9.0
+2011-09-10,Mainz,Hoffenheim,2.2,3.3,3.25
+2011-09-10,Dortmund,Hertha,1.4,4.5,8.0
+2011-09-10,Den Haag,Waalwijk,1.73,3.8,4.5
+2011-09-10,AZ Alkmaar,Vitesse,1.44,4.2,7.5
+2011-09-10,Bayern Munich,Freiburg,1.17,7.0,15.0
+2011-09-10,Everton,Aston Villa,2.0,3.4,3.8
+2011-09-10,Barnsley,Leicester,3.6,3.5,2.0
+2011-09-10,St Mirren,St Johnstone,2.3,3.2,3.1
+2011-09-10,Valencia,Ath Madrid,1.91,3.6,3.75
+2011-09-10,Real Madrid,Getafe,1.08,10.0,26.0
+2011-09-10,Pacos Ferreira,Sp Lisbon,4.75,3.25,1.83
+2011-09-10,Benfica,Guimaraes,1.33,5.0,9.0
+2011-09-10,Cercle Brugge,Germinal,1.83,3.5,4.33
+2011-09-10,Lierse,Lokeren,2.5,3.3,2.8
+2011-09-10,Sociedad,Barcelona,15.0,7.0,1.17
+2011-09-10,Oud-Heverlee Leuven,Bergen,2.4,3.4,2.8
+2011-09-10,Cesena,Napoli,3.25,3.3,2.2
+2011-09-10,Standard,Westerlo,1.36,4.75,8.5
+2011-09-10,Ajaccio,Valenciennes,2.5,3.0,3.0
+2011-09-10,Cottbus,Ein Frankfurt,2.75,3.5,2.4
+2011-09-10,Fortuna Dusseldorf,Karlsruhe,1.44,4.33,7.0
+2011-09-10,Villarreal,Sevilla,2.1,3.4,3.4
+2011-09-11,Bursaspor,Kayserispor,1.83,3.4,4.5
+2011-09-11,Olhanense,Feirense,1.91,3.25,4.33
+2011-09-11,Betis,Mallorca,1.91,3.4,4.0
+2011-09-11,Paris SG,Brest,1.4,4.33,8.5
+2011-09-11,Birmingham,Millwall,2.25,3.4,3.1
+2011-09-11,Frankfurt FSV,Erzgebirge Aue,2.38,3.25,3.0
+2011-09-11,St Pauli,Munich 1860,1.91,3.4,4.0
+2011-09-11,Espanol,Ath Bilbao,2.4,3.3,2.9
+2011-09-11,Excelsior,Utrecht,3.75,3.6,1.91
+2011-09-11,Sp Braga,Gil Vicente,1.44,4.33,7.0
+2011-09-11,NAC Breda,Feyenoord,2.88,3.4,2.38
+2011-09-11,VVV Venlo,PSV Eindhoven,12.0,6.0,1.22
+2011-09-11,Maritimo,Rio Ave,2.1,3.1,3.8
+2011-09-11,Union Berlin,Ingolstadt,2.1,3.5,3.3
+2011-09-11,Karabukspor,Sivasspor,2.3,3.25,3.1
+2011-09-11,Buyuksehyr,Galatasaray,4.75,3.6,1.73
+2011-09-11,Antalyaspor,Gaziantepspor,2.4,3.25,2.9
+2011-09-11,Heerenveen,Groningen,2.1,3.8,3.1
+2011-09-11,Anderlecht,Kortrijk,1.33,5.0,9.0
+2011-09-11,Vallecano,Zaragoza,2.2,3.2,3.4
+2011-09-11,Osasuna,Sp Gijon,1.91,3.4,4.0
+2011-09-11,Genoa,Atalanta,1.73,3.5,5.0
+2011-09-11,Fiorentina,Bologna,1.62,3.4,6.5
+2011-09-11,Chievo,Novara,1.91,3.25,4.33
+2011-09-11,Mechelen,Club Brugge,2.75,3.3,2.5
+2011-09-11,Hibernian,Aberdeen,2.3,3.2,3.1
+2011-09-11,Juventus,Parma,1.4,4.5,8.0
+2011-09-11,FC Koln,Nurnberg,2.6,3.25,2.7
+2011-09-11,Palermo,Inter,3.75,3.4,2.0
+2011-09-11,Roma,Cagliari,1.5,4.0,7.0
+2011-09-11,Lecce,Udinese,3.0,3.2,2.4
+2011-09-11,Montpellier,Nice,1.73,3.5,5.0
+2011-09-11,Santander,Levante,2.1,3.3,3.5
+2011-09-11,Beira Mar,Leiria,2.2,3.2,3.4
+2011-09-11,Waregem,Gent,2.63,3.4,2.6
+2011-09-11,Catania,Siena,2.0,3.2,4.0
+2011-09-11,Fulham,Blackburn,1.67,3.6,5.5
+2011-09-11,Wolfsburg,Schalke 04,2.5,3.3,2.75
+2011-09-11,Nancy,Auxerre,2.3,3.1,3.25
+2011-09-11,Norwich,West Brom,2.5,3.25,2.88
+2011-09-12,Fenerbahce,Orduspor,1.33,5.0,9.0
+2011-09-12,QPR,Newcastle,2.4,3.25,3.0
+2011-09-12,Dresden,Bochum,2.6,3.3,2.63
+2011-09-12,Malaga,Granada,1.4,4.33,8.5
+2011-09-12,Academica,Nacional,2.5,3.1,2.9
+2011-09-16,Gil Vicente,Olhanense,2.15,3.2,3.5
+2011-09-16,Erzgebirge Aue,Fortuna Dusseldorf,3.1,3.4,2.25
+2011-09-16,Ein Frankfurt,Hansa Rostock,1.44,4.2,7.5
+2011-09-16,Nijmegen,NAC Breda,1.57,4.0,5.5
+2011-09-16,Ingolstadt,Dresden,2.2,3.3,3.25
+2011-09-16,Kayserispor,Antalyaspor,2.2,3.2,3.4
+2011-09-16,Freiburg,Stuttgart,3.3,3.5,2.1
+2011-09-16,Gaziantepspor,Fenerbahce,3.6,3.25,2.1
+2011-09-17,Barcelona,Osasuna,1.08,10.0,26.0
+2011-09-17,Westerlo,St Truiden,1.73,3.6,4.8
+2011-09-17,Reading,Doncaster,1.62,3.75,5.5
+2011-09-17,Peterboro,Burnley,2.1,3.5,3.25
+2011-09-17,Toulouse,Bordeaux,2.5,3.0,3.0
+2011-09-17,Nice,Ajaccio,2.0,3.1,4.2
+2011-09-17,Lorient,St Etienne,2.0,3.2,4.0
+2011-09-17,Lille,Sochaux,1.44,4.0,8.0
+2011-09-17,Granada,Villarreal,3.3,3.3,2.2
+2011-09-17,Hamburg,M'gladbach,2.4,3.5,2.8
+2011-09-17,Germinal,Waregem,2.2,3.4,3.2
+2011-09-17,Cercle Brugge,Lierse,1.75,3.75,4.5
+2011-09-17,Bergen,Mechelen,2.2,3.5,3.1
+2011-09-17,Nott'm Forest,Derby,1.8,3.5,4.5
+2011-09-17,Millwall,West Ham,2.8,3.5,2.38
+2011-09-17,Leicester,Brighton,2.1,3.4,3.4
+2011-09-17,Leeds,Bristol City,1.73,3.75,4.5
+2011-09-17,Cagliari,Novara,1.62,3.6,6.0
+2011-09-17,Hull,Portsmouth,2.2,3.2,3.4
+2011-09-17,Kortrijk,Oud-Heverlee Leuven,1.7,3.75,4.75
+2011-09-17,Brest,Montpellier,2.63,3.0,2.88
+2011-09-17,Mallorca,Malaga,3.1,3.4,2.25
+2011-09-17,VVV Venlo,Heerenveen,3.5,3.6,2.0
+2011-09-17,Hertha,Augsburg,1.57,3.8,6.0
+2011-09-17,Hoffenheim,Wolfsburg,1.95,3.6,3.6
+2011-09-17,Kaiserslautern,Mainz,2.5,3.4,2.7
+2011-09-17,Leverkusen,FC Koln,1.4,4.6,7.5
+2011-09-17,Nurnberg,Werder Bremen,2.63,3.5,2.5
+2011-09-17,Trabzonspor,Buyuksehyr,1.44,4.2,7.5
+2011-09-17,Orduspor,Manisaspor,2.3,3.3,3.1
+2011-09-17,Genclerbirligi,Karabukspor,2.2,3.3,3.3
+2011-09-17,Inter,Roma,1.85,3.5,4.2
+2011-09-17,Blackpool,Cardiff,2.1,3.4,3.4
+2011-09-17,Duisburg,Union Berlin,1.91,3.5,4.0
+2011-09-17,Nacional,Pacos Ferreira,2.2,3.2,3.4
+2011-09-17,Valenciennes,Dijon,1.85,3.3,4.5
+2011-09-17,Sp Gijon,Valencia,3.3,3.3,2.2
+2011-09-17,Sevilla,Sociedad,1.53,4.0,6.0
+2011-09-17,Vitesse,Roda,1.91,3.6,3.75
+2011-09-17,Groningen,Excelsior,1.25,5.5,12.0
+2011-09-17,Feyenoord,Graafschap,1.3,5.0,10.0
+2011-09-17,Braunschweig,Cottbus,2.1,3.5,3.3
+2011-09-17,Crystal Palace,Middlesbrough,3.1,3.4,2.25
+2011-09-17,Barnsley,Watford,2.5,3.25,2.8
+2011-09-17,Auxerre,Caen,2.0,3.2,4.0
+2011-09-17,Aberdeen,Kilmarnock,2.4,3.3,2.88
+2011-09-17,Dundee United,Inverness C,1.73,3.5,5.0
+2011-09-17,Dunfermline,Hibernian,2.4,3.3,2.88
+2011-09-17,Motherwell,St Johnstone,1.91,3.4,4.0
+2011-09-17,Wolves,QPR,1.91,3.4,4.2
+2011-09-17,Hearts,St Mirren,1.73,3.5,5.0
+2011-09-17,Aston Villa,Newcastle,1.91,3.4,4.2
+2011-09-17,Blackburn,Arsenal,4.2,3.4,1.91
+2011-09-17,Bolton,Norwich,1.8,3.6,4.6
+2011-09-17,Everton,Wigan,1.5,4.0,7.0
+2011-09-17,Swansea,West Brom,2.63,3.2,2.75
+2011-09-18,Napoli,Milan,2.63,3.1,2.75
+2011-09-18,Lazio,Genoa,1.73,3.5,5.0
+2011-09-18,Catania,Cesena,2.1,3.1,3.8
+2011-09-18,Bologna,Lecce,1.85,3.4,4.33
+2011-09-18,Atalanta,Palermo,2.4,3.2,3.0
+2011-09-18,Tottenham,Liverpool,2.63,3.4,2.63
+2011-09-18,Gent,Anderlecht,2.5,3.3,2.8
+2011-09-18,Lokeren,Club Brugge,3.75,3.4,2.0
+2011-09-18,Aachen,Greuther Furth,3.6,3.5,2.0
+2011-09-18,Bochum,Paderborn,1.75,3.5,4.75
+2011-09-18,Munich 1860,Frankfurt FSV,1.5,4.0,7.0
+2011-09-18,Evian Thonon Gaillard,Paris SG,3.8,3.1,2.1
+2011-09-18,Genk,Standard,2.25,3.5,3.0
+2011-09-18,Parma,Chievo,2.05,3.25,3.75
+2011-09-18,Zaragoza,Espanol,2.1,3.2,3.6
+2011-09-18,Levante,Real Madrid,13.0,6.5,1.2
+2011-09-18,Lyon,Marseille,2.2,3.2,3.4
+2011-09-18,Rangers,Celtic,2.4,3.3,2.88
+2011-09-18,Hannover,Dortmund,4.2,3.5,1.85
+2011-09-18,Schalke 04,Bayern Munich,5.0,3.8,1.67
+2011-09-18,Galatasaray,Samsunspor,1.36,4.75,8.5
+2011-09-18,Mersin Idman Yurdu,Bursaspor,2.8,3.3,2.5
+2011-09-18,Sivasspor,Eskisehirspor,2.63,3.3,2.63
+2011-09-18,Waalwijk,AZ Alkmaar,4.5,3.8,1.73
+2011-09-18,Utrecht,Heracles,1.91,3.6,3.75
+2011-09-18,Twente,Den Haag,1.29,5.5,10.0
+2011-09-18,PSV Eindhoven,Ajax,2.2,3.5,3.1
+2011-09-18,Ath Bilbao,Betis,2.0,3.4,3.75
+2011-09-18,Ath Madrid,Santander,1.44,4.2,7.5
+2011-09-18,Siena,Juventus,5.0,3.5,1.73
+2011-09-18,Rennes,Nancy,1.67,3.4,6.0
+2011-09-18,Udinese,Fiorentina,2.1,3.3,3.5
+2011-09-18,Getafe,Vallecano,1.95,3.5,3.8
+2011-09-18,Feirense,Porto,15.0,6.0,1.2
+2011-09-18,Leiria,Maritimo,2.8,3.1,2.6
+2011-09-18,Setubal,Beira Mar,2.38,3.1,3.1
+2011-09-18,Southampton,Birmingham,1.73,3.5,5.0
+2011-09-18,Sunderland,Stoke,2.4,3.2,3.1
+2011-09-18,Man United,Chelsea,1.83,3.5,4.5
+2011-09-18,Benfica,Academica,1.2,6.0,16.0
+2011-09-18,Fulham,Man City,6.5,3.8,1.57
+2011-09-19,Guimaraes,Sp Braga,3.1,3.1,2.4
+2011-09-19,Rio Ave,Sp Lisbon,4.6,3.3,1.85
+2011-09-19,Ipswich,Coventry,2.0,3.4,3.75
+2011-09-19,Karlsruhe,St Pauli,3.25,3.5,2.1
+2011-09-19,Besiktas,Ankaragucu,1.4,4.5,8.0
+2011-09-20,Gaziantepspor,Kayserispor,1.91,3.4,4.0
+2011-09-20,Fenerbahce,Manisaspor,1.29,5.0,11.0
+2011-09-20,Bordeaux,Lille,2.75,3.1,2.63
+2011-09-20,Sociedad,Granada,2.0,3.4,3.75
+2011-09-20,Novara,Inter,6.0,3.6,1.62
+2011-09-20,Buyuksehyr,Orduspor,1.91,3.4,4.0
+2011-09-20,Osasuna,Sevilla,2.63,3.3,2.63
+2011-09-20,Villarreal,Mallorca,1.62,3.75,5.5
+2011-09-21,Juventus,Bologna,1.4,4.33,8.5
+2011-09-21,Genoa,Catania,1.8,3.3,4.75
+2011-09-21,Lecce,Atalanta,2.5,3.1,2.9
+2011-09-21,Fiorentina,Parma,1.8,3.3,4.75
+2011-09-21,Chievo,Napoli,4.0,3.2,2.0
+2011-09-21,Cesena,Lazio,3.4,3.2,2.2
+2011-09-21,Antalyaspor,Mersin Idman Yurdu,2.1,3.25,3.5
+2011-09-21,Eskisehirspor,Genclerbirligi,1.83,3.4,4.5
+2011-09-21,Marseille,Evian Thonon Gaillard,1.44,4.2,7.5
+2011-09-21,St Etienne,Toulouse,2.4,3.1,3.1
+2011-09-21,Milan,Udinese,1.67,3.5,5.5
+2011-09-21,Lorient,Auxerre,2.2,3.2,3.4
+2011-09-21,Samsunspor,Trabzonspor,3.75,3.3,2.0
+2011-09-21,Ath Madrid,Sp Gijon,1.4,4.5,7.5
+2011-09-21,Malaga,Ath Bilbao,1.62,3.75,5.5
+2011-09-21,Santander,Real Madrid,13.0,6.5,1.2
+2011-09-21,Valencia,Barcelona,7.5,4.5,1.4
+2011-09-21,Vallecano,Levante,2.1,3.25,3.5
+2011-09-21,Sochaux,Rennes,2.38,3.2,3.0
+2011-09-21,Paris SG,Nice,1.36,4.5,9.0
+2011-09-21,Nancy,Valenciennes,2.4,3.1,3.1
+2011-09-21,Ajaccio,Montpellier,3.5,3.1,2.2
+2011-09-21,Caen,Lyon,4.33,3.25,1.91
+2011-09-21,Dijon,Brest,2.4,3.1,3.1
+2011-09-21,Palermo,Cagliari,1.91,3.4,4.0
+2011-09-21,Karabukspor,Galatasaray,3.75,3.3,2.0
+2011-09-22,Roma,Siena,1.57,3.75,6.0
+2011-09-22,Ankaragucu,Sivasspor,2.5,3.3,2.75
+2011-09-22,Espanol,Getafe,2.1,3.25,3.5
+2011-09-22,Betis,Zaragoza,1.67,3.6,5.25
+2011-09-22,Bursaspor,Besiktas,2.2,3.25,3.25
+2011-09-23,Brighton,Leeds,2.1,3.4,3.4
+2011-09-23,St Pauli,Erzgebirge Aue,1.36,4.75,8.5
+2011-09-23,Paderborn,Ingolstadt,1.91,3.4,4.0
+2011-09-23,Stuttgart,Hamburg,1.57,4.0,5.5
+2011-09-23,Frankfurt FSV,Braunschweig,2.88,3.4,2.38
+2011-09-23,Porto,Benfica,1.83,3.75,4.0
+2011-09-23,Kayserispor,Fenerbahce,4.5,3.5,1.8
+2011-09-24,PSV Eindhoven,Roda,1.17,7.0,15.0
+2011-09-24,Wigan,Tottenham,4.0,3.5,1.91
+2011-09-24,Birmingham,Barnsley,1.73,3.5,5.0
+2011-09-24,Ajax,Twente,1.7,3.75,4.75
+2011-09-24,Den Haag,VVV Venlo,1.5,4.2,6.5
+2011-09-24,West Brom,Fulham,2.3,3.25,3.25
+2011-09-24,Stoke,Man United,6.5,4.0,1.53
+2011-09-24,Doncaster,Crystal Palace,2.5,3.25,2.8
+2011-09-24,Derby,Millwall,2.5,3.25,2.8
+2011-09-24,Newcastle,Blackburn,1.83,3.5,4.5
+2011-09-24,Augsburg,Hannover,2.88,3.4,2.38
+2011-09-24,Arsenal,Bolton,1.44,4.5,7.0
+2011-09-24,Bayern Munich,Leverkusen,1.33,5.0,9.0
+2011-09-24,M'gladbach,Nurnberg,2.1,3.4,3.4
+2011-09-24,Schalke 04,Freiburg,1.36,4.75,8.5
+2011-09-24,Wolfsburg,Kaiserslautern,1.83,3.75,4.0
+2011-09-24,Man City,Everton,1.44,4.33,7.5
+2011-09-24,Burnley,Southampton,3.2,3.4,2.2
+2011-09-24,Bristol City,Hull,2.7,3.25,2.6
+2011-09-24,Liverpool,Wolves,1.36,4.5,10.0
+2011-09-24,Chelsea,Swansea,1.2,6.5,15.0
+2011-09-24,Heerenveen,Heracles,1.73,3.75,4.5
+2011-09-24,NAC Breda,Utrecht,2.5,3.2,2.88
+2011-09-24,Mainz,Dortmund,3.75,3.6,1.91
+2011-09-24,Coventry,Reading,3.0,3.2,2.38
+2011-09-24,Hibernian,Dundee United,2.9,3.25,2.4
+2011-09-24,Barcelona,Ath Madrid,1.2,6.5,13.0
+2011-09-24,Toulouse,Nancy,1.73,3.4,5.25
+2011-09-24,Nice,Dijon,1.95,3.3,4.0
+2011-09-24,Ath Bilbao,Villarreal,2.2,3.25,3.3
+2011-09-24,Lyon,Bordeaux,1.7,3.5,5.25
+2011-09-24,Lille,Lorient,1.57,3.6,6.5
+2011-09-24,Manisaspor,Buyuksehyr,2.2,3.25,3.25
+2011-09-24,Mersin Idman Yurdu,Gaziantepspor,2.38,3.25,3.0
+2011-09-24,Trabzonspor,Karabukspor,1.4,4.5,7.5
+2011-09-24,Club Brugge,Bergen,1.36,4.75,8.0
+2011-09-24,Lierse,Westerlo,2.05,3.4,3.5
+2011-09-24,Mechelen,Lokeren,2.2,3.25,3.3
+2011-09-24,Oud-Heverlee Leuven,Genk,3.6,3.5,2.0
+2011-09-24,St Truiden,Gent,5.0,3.75,1.67
+2011-09-24,Waregem,Kortrijk,2.1,3.3,3.5
+2011-09-24,Fortuna Dusseldorf,Cottbus,1.67,3.75,5.0
+2011-09-24,Union Berlin,Aachen,2.0,3.3,3.75
+2011-09-24,Sp Braga,Nacional,1.53,3.8,6.5
+2011-09-24,Sp Lisbon,Setubal,1.33,4.5,11.0
+2011-09-24,Evian Thonon Gaillard,Caen,2.1,3.2,3.6
+2011-09-24,Valenciennes,Marseille,3.25,3.1,2.3
+2011-09-24,Bologna,Inter,4.0,3.4,1.91
+2011-09-24,Montpellier,Paris SG,2.6,3.2,2.7
+2011-09-24,Napoli,Fiorentina,1.73,3.5,5.0
+2011-09-24,Milan,Cesena,1.33,5.0,8.5
+2011-09-24,St Mirren,Kilmarnock,2.5,3.3,2.75
+2011-09-24,Motherwell,Aberdeen,2.2,3.25,3.3
+2011-09-24,Dunfermline,Rangers,9.0,5.0,1.33
+2011-09-24,Celtic,Inverness C,1.17,6.5,17.0
+2011-09-24,Portsmouth,Blackpool,2.38,3.25,3.0
+2011-09-24,Middlesbrough,Ipswich,1.67,3.75,5.0
+2011-09-24,Watford,Nott'm Forest,2.5,3.3,2.8
+2011-09-24,West Ham,Peterboro,1.57,4.0,5.5
+2011-09-24,Sevilla,Valencia,2.3,3.25,3.1
+2011-09-24,Real Madrid,Vallecano,1.1,9.0,21.0
+2011-09-25,Standard,Cercle Brugge,1.53,4.0,6.0
+2011-09-25,Chievo,Genoa,2.5,3.2,2.8
+2011-09-25,Hansa Rostock,Karlsruhe,1.91,3.4,4.0
+2011-09-25,Beira Mar,Rio Ave,2.5,3.1,2.9
+2011-09-25,Greuther Furth,Munich 1860,1.8,3.75,4.0
+2011-09-25,Bochum,Duisburg,2.25,3.4,3.1
+2011-09-25,Pacos Ferreira,Gil Vicente,2.38,3.1,3.1
+2011-09-25,Lazio,Palermo,1.83,3.4,4.5
+2011-09-25,Parma,Roma,3.0,3.2,2.38
+2011-09-25,Anderlecht,Germinal,1.33,5.0,8.5
+2011-09-25,Graafschap,Groningen,3.2,3.4,2.2
+2011-09-25,Atalanta,Novara,1.8,3.3,4.75
+2011-09-25,AZ Alkmaar,Feyenoord,1.67,3.8,5.0
+2011-09-25,Excelsior,Vitesse,4.75,3.5,1.75
+2011-09-25,Waalwijk,Nijmegen,1.95,3.5,3.75
+2011-09-25,St Johnstone,Hearts,2.88,3.3,2.4
+2011-09-25,Maritimo,Guimaraes,2.38,3.0,3.2
+2011-09-25,QPR,Aston Villa,2.3,3.25,3.2
+2011-09-25,Siena,Lecce,1.91,3.25,4.33
+2011-09-25,Cardiff,Leicester,2.38,3.3,2.9
+2011-09-25,Rennes,St Etienne,1.8,3.4,4.75
+2011-09-25,Auxerre,Sochaux,2.05,3.25,3.75
+2011-09-25,Brest,Ajaccio,1.91,3.25,4.2
+2011-09-25,Cagliari,Udinese,2.5,3.2,2.8
+2011-09-25,Olhanense,Leiria,2.3,3.1,3.2
+2011-09-25,Catania,Juventus,4.0,3.2,2.0
+2011-09-25,Granada,Osasuna,2.25,3.25,3.2
+2011-09-25,Genclerbirligi,Ankaragucu,2.1,3.4,3.4
+2011-09-25,Orduspor,Samsunspor,2.2,3.4,3.2
+2011-09-25,Sivasspor,Bursaspor,4.0,3.4,1.91
+2011-09-25,Zaragoza,Malaga,3.2,3.4,2.2
+2011-09-25,Sp Gijon,Santander,2.05,3.3,3.6
+2011-09-25,Mallorca,Sociedad,2.1,3.3,3.5
+2011-09-25,Levante,Espanol,2.2,3.25,3.3
+2011-09-25,FC Koln,Hoffenheim,3.0,3.4,2.3
+2011-09-25,Besiktas,Antalyaspor,1.5,4.0,7.0
+2011-09-25,Werder Bremen,Hertha,1.83,3.5,4.33
+2011-09-26,Getafe,Betis,2.5,3.25,2.8
+2011-09-26,Dresden,Ein Frankfurt,4.0,3.5,1.91
+2011-09-26,Galatasaray,Eskisehirspor,1.44,4.2,7.5
+2011-09-26,Academica,Feirense,2.05,3.2,3.75
+2011-09-26,Norwich,Sunderland,2.5,3.4,2.8
+2011-09-27,Brighton,Crystal Palace,1.67,3.5,5.5
+2011-09-27,Coventry,Blackpool,2.88,3.3,2.4
+2011-09-27,Bristol City,Reading,2.88,3.3,2.4
+2011-09-27,Burnley,Nott'm Forest,2.3,3.3,3.1
+2011-09-27,Rangers,Kilmarnock,1.2,6.0,14.0
+2011-09-27,Derby,Barnsley,2.0,3.4,3.75
+2011-09-27,Doncaster,Hull,2.75,3.3,2.5
+2011-09-27,Portsmouth,Peterboro,2.0,3.5,3.6
+2011-09-27,Watford,Millwall,2.4,3.3,2.9
+2011-09-27,West Ham,Ipswich,1.53,4.0,6.0
+2011-09-28,Middlesbrough,Leicester,2.2,3.3,3.25
+2011-09-28,Cardiff,Southampton,2.8,3.25,2.5
+2011-09-28,Hibernian,St Johnstone,2.3,3.2,3.2
+2011-09-30,Erzgebirge Aue,Hansa Rostock,2.3,3.25,3.1
+2011-09-30,Aberdeen,Dunfermline,1.8,3.5,4.5
+2011-09-30,Kaiserslautern,Stuttgart,2.88,3.4,2.38
+2011-09-30,Heracles,Graafschap,1.4,4.5,8.0
+2011-09-30,Aachen,Frankfurt FSV,1.75,3.6,4.5
+2011-09-30,Ein Frankfurt,Union Berlin,1.44,4.2,7.5
+2011-09-30,Bursaspor,Genclerbirligi,1.53,3.8,6.5
+2011-09-30,Setubal,Rio Ave,2.4,3.2,3.0
+2011-10-01,Inter,Napoli,2.0,3.3,3.75
+2011-10-01,Karabukspor,Orduspor,2.3,3.2,3.2
+2011-10-01,Fenerbahce,Buyuksehyr,1.44,4.33,7.0
+2011-10-01,Inverness C,St Mirren,2.5,3.3,2.75
+2011-10-01,Kilmarnock,St Johnstone,2.2,3.25,3.3
+2011-10-01,Vitesse,Heerenveen,2.0,3.6,3.5
+2011-10-01,Sunderland,West Brom,2.25,3.4,3.2
+2011-10-01,Man United,Norwich,1.17,7.0,17.0
+2011-10-01,Everton,Liverpool,3.1,3.2,2.4
+2011-10-01,Blackburn,Man City,6.5,3.75,1.57
+2011-10-01,Aston Villa,Wigan,1.62,3.75,6.0
+2011-10-01,Wolves,Newcastle,2.5,3.25,2.88
+2011-10-01,Villarreal,Zaragoza,1.62,3.8,5.5
+2011-10-01,Malaga,Getafe,1.57,4.0,5.5
+2011-10-01,Santander,Vallecano,2.2,3.3,3.25
+2011-10-01,Osasuna,Mallorca,1.83,3.5,4.33
+2011-10-01,Antalyaspor,Sivasspor,2.0,3.4,3.75
+2011-10-01,Roma,Atalanta,1.7,3.6,5.0
+2011-10-01,Benfica,Pacos Ferreira,1.17,7.0,15.0
+2011-10-01,Nurnberg,Mainz,2.1,3.25,3.5
+2011-10-01,Leverkusen,Wolfsburg,1.67,3.75,5.0
+2011-10-01,Hoffenheim,Bayern Munich,6.5,4.5,1.44
+2011-10-01,Hertha,FC Koln,1.91,3.5,4.0
+2011-10-01,Freiburg,M'gladbach,3.1,3.3,2.3
+2011-10-01,Dortmund,Augsburg,1.25,5.5,12.0
+2011-10-01,Dundee United,Motherwell,2.2,3.3,3.25
+2011-10-01,Valencia,Granada,1.33,4.5,11.0
+2011-10-01,Utrecht,Waalwijk,2.0,3.5,3.6
+2011-10-01,Rangers,Hibernian,1.2,6.5,13.0
+2011-10-01,Barnsley,Coventry,2.25,3.2,3.2
+2011-10-01,Bergen,Lokeren,2.05,3.6,3.4
+2011-10-01,Cercle Brugge,St Truiden,1.4,4.6,7.5
+2011-10-01,Gent,Oud-Heverlee Leuven,1.33,5.25,8.0
+2011-10-01,Kortrijk,Mechelen,2.0,3.5,3.5
+2011-10-01,Roda,NAC Breda,1.91,3.6,3.8
+2011-10-01,Cottbus,St Pauli,2.75,3.3,2.5
+2011-10-01,Ingolstadt,Bochum,2.4,3.4,2.8
+2011-10-01,Westerlo,Waregem,2.1,3.4,3.4
+2011-10-01,Southampton,Watford,1.57,4.0,5.5
+2011-10-01,Reading,Middlesbrough,2.38,3.25,3.0
+2011-10-01,Peterboro,Doncaster,1.73,3.75,4.5
+2011-10-01,Millwall,Burnley,2.1,3.4,3.4
+2011-10-01,Bordeaux,Montpellier,2.1,3.25,3.5
+2011-10-01,Caen,Nice,2.1,3.2,3.6
+2011-10-01,Blackpool,Bristol City,1.8,3.5,4.5
+2011-10-01,Crystal Palace,West Ham,3.4,3.4,2.1
+2011-10-01,Hull,Cardiff,2.5,3.2,2.88
+2011-10-01,Ipswich,Brighton,2.38,3.4,2.88
+2011-10-01,Leeds,Portsmouth,1.85,3.5,4.2
+2011-10-01,Leicester,Derby,1.67,3.75,5.0
+2011-10-01,Sochaux,Toulouse,2.4,3.1,3.1
+2011-10-01,Nancy,Evian Thonon Gaillard,2.2,3.1,3.5
+2011-10-01,St Etienne,Auxerre,2.4,3.1,3.1
+2011-10-01,Lorient,Valenciennes,2.0,3.2,4.0
+2011-10-01,Dijon,Ajaccio,1.91,3.25,4.2
+2011-10-02,Germinal,Club Brugge,4.5,3.75,1.75
+2011-10-02,Juventus,Milan,2.38,3.2,3.0
+2011-10-02,Fiorentina,Lazio,2.0,3.4,3.75
+2011-10-02,Hearts,Celtic,5.0,3.8,1.67
+2011-10-02,Standard,Lierse,1.36,5.0,7.5
+2011-10-02,Udinese,Bologna,1.57,3.8,6.0
+2011-10-02,Parma,Genoa,2.45,3.1,3.0
+2011-10-02,Nott'm Forest,Birmingham,2.1,3.25,3.5
+2011-10-02,Palermo,Siena,1.91,3.4,4.0
+2011-10-02,Genk,Anderlecht,2.7,3.4,2.5
+2011-10-02,Cesena,Chievo,2.4,3.1,3.1
+2011-10-02,Lecce,Cagliari,2.63,3.1,2.75
+2011-10-02,Hamburg,Schalke 04,2.75,3.3,2.5
+2011-10-02,Sociedad,Ath Bilbao,2.4,3.2,3.0
+2011-10-02,Groningen,Ajax,4.5,3.75,1.75
+2011-10-02,Eskisehirspor,Trabzonspor,3.4,3.2,2.2
+2011-10-02,Ankaragucu,Galatasaray,4.33,3.6,1.8
+2011-10-02,Marseille,Brest,1.44,4.0,8.0
+2011-10-02,Lille,Rennes,1.75,3.4,5.0
+2011-10-02,Leiria,Sp Braga,5.0,3.5,1.73
+2011-10-02,Kayserispor,Mersin Idman Yurdu,2.3,3.2,3.2
+2011-10-02,Nacional,Olhanense,2.1,3.1,3.8
+2011-10-02,Paris SG,Lyon,2.2,3.25,3.25
+2011-10-02,Munich 1860,Dresden,1.53,4.2,5.75
+2011-10-02,Karlsruhe,Greuther Furth,4.2,3.5,1.85
+2011-10-02,Duisburg,Paderborn,2.1,3.4,3.4
+2011-10-02,VVV Venlo,AZ Alkmaar,7.5,4.6,1.4
+2011-10-02,Twente,Excelsior,1.13,8.0,21.0
+2011-10-02,Nijmegen,PSV Eindhoven,8.0,4.5,1.4
+2011-10-02,Feyenoord,Den Haag,1.36,4.75,8.5
+2011-10-02,Samsunspor,Manisaspor,2.15,3.3,3.4
+2011-10-02,Sp Gijon,Barcelona,13.0,7.5,1.17
+2011-10-02,Bolton,Chelsea,6.5,4.0,1.53
+2011-10-02,Guimaraes,Sp Lisbon,4.2,3.3,1.91
+2011-10-02,Feirense,Maritimo,2.9,3.1,2.5
+2011-10-02,Academica,Porto,8.0,4.5,1.4
+2011-10-02,Hannover,Werder Bremen,2.75,3.3,2.5
+2011-10-02,Novara,Catania,2.3,3.2,3.1
+2011-10-02,Espanol,Real Madrid,10.0,6.0,1.25
+2011-10-02,Betis,Levante,1.73,3.6,4.75
+2011-10-02,Ath Madrid,Sevilla,1.91,3.6,3.75
+2011-10-02,Tottenham,Arsenal,2.1,3.4,3.5
+2011-10-02,Fulham,QPR,2.0,3.3,4.0
+2011-10-02,Swansea,Stoke,2.63,3.25,2.75
+2011-10-03,Gil Vicente,Beira Mar,2.1,3.25,3.6
+2011-10-03,Gaziantepspor,Besiktas,3.3,3.25,2.2
+2011-10-03,Braunschweig,Fortuna Dusseldorf,2.4,3.3,2.9
+2011-10-14,Werder Bremen,Dortmund,2.8,3.5,2.4
+2011-10-14,Paderborn,Braunschweig,2.38,3.25,3.0
+2011-10-14,Doncaster,Leeds,2.88,3.4,2.38
+2011-10-14,Bochum,Ein Frankfurt,3.4,3.4,2.1
+2011-10-14,Hansa Rostock,Munich 1860,2.5,3.3,2.8
+2011-10-14,Trabzonspor,Ankaragucu,1.3,5.0,11.0
+2011-10-15,Brighton,Hull,2.1,3.4,3.4
+2011-10-15,Sivasspor,Gaziantepspor,2.4,3.3,2.9
+2011-10-15,Besiktas,Kayserispor,1.62,3.8,5.5
+2011-10-15,Bristol City,Peterboro,2.5,3.5,2.63
+2011-10-15,Burnley,Reading,2.38,3.4,2.88
+2011-10-15,Portsmouth,Barnsley,1.91,3.4,4.0
+2011-10-15,Coventry,Nott'm Forest,2.8,3.25,2.5
+2011-10-15,Aberdeen,Dundee United,2.38,3.25,3.0
+2011-10-15,Dunfermline,Hearts,4.2,3.5,1.83
+2011-10-15,Hibernian,Motherwell,2.5,3.2,2.8
+2011-10-15,Kilmarnock,Celtic,8.5,4.75,1.36
+2011-10-15,Rangers,St Mirren,1.2,6.0,16.0
+2011-10-15,St Johnstone,Inverness C,2.0,3.4,3.75
+2011-10-15,Duisburg,Ingolstadt,1.8,3.5,4.5
+2011-10-15,Union Berlin,Karlsruhe,1.73,3.6,4.75
+2011-10-15,West Ham,Blackpool,1.8,3.6,4.33
+2011-10-15,Barcelona,Santander,1.06,12.0,26.0
+2011-10-15,Getafe,Villarreal,2.25,3.5,3.0
+2011-10-15,Granada,Ath Madrid,3.5,3.3,2.1
+2011-10-15,Mallorca,Valencia,3.0,3.4,2.3
+2011-10-15,Real Madrid,Betis,1.14,8.0,16.0
+2011-10-15,Watford,Crystal Palace,2.2,3.4,3.2
+2011-10-15,Middlesbrough,Millwall,1.83,3.4,4.5
+2011-10-15,Derby,Southampton,3.4,3.4,2.1
+2011-10-15,Cardiff,Ipswich,2.0,3.5,3.6
+2011-10-15,Orduspor,Eskisehirspor,2.4,3.2,3.0
+2011-10-15,Lokeren,Genk,3.0,3.4,2.3
+2011-10-15,Milan,Palermo,1.44,4.2,7.5
+2011-10-15,Waregem,Lierse,1.73,3.5,5.0
+2011-10-15,Lyon,Nancy,1.33,4.75,10.0
+2011-10-15,Evian Thonon Gaillard,St Etienne,2.4,3.1,3.1
+2011-10-15,Wigan,Bolton,2.3,3.3,3.2
+2011-10-15,Brest,Caen,2.2,3.1,3.5
+2011-10-15,Auxerre,Lille,3.2,3.2,2.3
+2011-10-15,Bayern Munich,Hertha,1.2,6.5,13.0
+2011-10-15,Mainz,Augsburg,1.67,3.75,5.0
+2011-10-15,Catania,Inter,3.6,3.25,2.1
+2011-10-15,Stoke,Fulham,2.2,3.2,3.5
+2011-10-15,QPR,Blackburn,1.83,3.5,4.5
+2011-10-15,Norwich,Swansea,2.2,3.3,3.4
+2011-10-15,Man City,Aston Villa,1.33,5.0,10.0
+2011-10-15,Liverpool,Man United,3.0,3.3,2.4
+2011-10-15,Chelsea,Everton,1.36,4.5,10.0
+2011-10-15,Schalke 04,Kaiserslautern,1.44,4.2,7.5
+2011-10-15,Stuttgart,Hoffenheim,2.0,3.5,3.6
+2011-10-15,Wolfsburg,Nurnberg,2.1,3.4,3.4
+2011-10-15,Waalwijk,Twente,5.25,4.0,1.62
+2011-10-15,PSV Eindhoven,Utrecht,1.2,6.5,13.0
+2011-10-15,Heracles,Groningen,2.0,3.5,3.6
+2011-10-15,Heerenveen,Graafschap,1.33,5.0,9.0
+2011-10-15,Ajax,AZ Alkmaar,1.67,3.75,5.0
+2011-10-15,Nice,Bordeaux,2.8,3.1,2.6
+2011-10-15,Toulouse,Marseille,2.8,3.1,2.6
+2011-10-15,St Truiden,Germinal,2.63,3.5,2.5
+2011-10-15,Oud-Heverlee Leuven,Westerlo,2.3,3.3,3.1
+2011-10-15,M'gladbach,Leverkusen,2.6,3.4,2.6
+2011-10-15,Bergen,Kortrijk,2.0,3.5,3.6
+2011-10-15,Montpellier,Dijon,1.44,4.0,8.0
+2011-10-15,Napoli,Parma,1.5,3.75,7.5
+2011-10-15,Mechelen,Cercle Brugge,2.2,3.3,3.3
+2011-10-16,Zaragoza,Sociedad,2.0,3.3,3.8
+2011-10-16,Vallecano,Espanol,2.2,3.2,3.4
+2011-10-16,Sevilla,Sp Gijon,1.36,4.75,8.5
+2011-10-16,Levante,Malaga,2.9,3.25,2.4
+2011-10-16,Genoa,Lecce,1.57,3.75,6.0
+2011-10-16,Buyuksehyr,Samsunspor,1.91,3.3,4.2
+2011-10-16,Chievo,Juventus,4.0,3.2,2.0
+2011-10-16,Freiburg,Hamburg,2.5,3.4,2.7
+2011-10-16,Feyenoord,VVV Venlo,1.17,7.0,16.0
+2011-10-16,FC Koln,Hannover,2.4,3.4,2.8
+2011-10-16,Novara,Bologna,2.0,3.3,3.8
+2011-10-16,NAC Breda,Excelsior,1.4,4.5,7.5
+2011-10-16,Manisaspor,Karabukspor,2.15,3.3,3.4
+2011-10-16,Nijmegen,Vitesse,2.5,3.4,2.7
+2011-10-16,Lazio,Roma,2.6,3.2,2.75
+2011-10-16,Cesena,Fiorentina,3.0,3.2,2.4
+2011-10-16,Galatasaray,Bursaspor,1.75,3.6,4.75
+2011-10-16,Ajaccio,Paris SG,6.0,3.6,1.62
+2011-10-16,Birmingham,Leicester,2.6,3.25,2.7
+2011-10-16,Greuther Furth,Erzgebirge Aue,1.4,4.5,7.5
+2011-10-16,Frankfurt FSV,Cottbus,2.6,3.25,2.7
+2011-10-16,Dresden,Aachen,2.0,3.4,3.75
+2011-10-16,Anderlecht,Standard,1.75,3.6,4.75
+2011-10-16,Club Brugge,Gent,1.85,3.5,4.2
+2011-10-16,Valenciennes,Sochaux,2.05,3.2,3.75
+2011-10-16,Rennes,Lorient,2.0,3.2,4.0
+2011-10-16,Genclerbirligi,Antalyaspor,2.4,3.2,3.0
+2011-10-16,Atalanta,Udinese,2.6,3.1,2.8
+2011-10-16,Roda,Den Haag,2.2,3.4,3.2
+2011-10-16,West Brom,Wolves,2.0,3.3,4.0
+2011-10-16,Arsenal,Sunderland,1.44,4.33,7.5
+2011-10-16,Newcastle,Tottenham,3.0,3.3,2.4
+2011-10-16,Cagliari,Siena,1.91,3.25,4.33
+2011-10-17,St Pauli,Fortuna Dusseldorf,2.0,3.4,3.75
+2011-10-17,Ath Bilbao,Osasuna,1.83,3.5,4.33
+2011-10-17,Mersin Idman Yurdu,Fenerbahce,3.75,3.4,2.0
+2011-10-18,Barnsley,Burnley,2.75,3.3,2.5
+2011-10-18,Crystal Palace,Bristol City,1.91,3.4,4.0
+2011-10-18,Ipswich,Portsmouth,1.91,3.5,4.0
+2011-10-18,Peterboro,Cardiff,2.4,3.5,2.8
+2011-10-18,Southampton,West Ham,2.1,3.4,3.4
+2011-10-18,Nott'm Forest,Middlesbrough,2.63,3.3,2.63
+2011-10-18,Millwall,Brighton,2.2,3.3,3.25
+2011-10-18,Leeds,Coventry,1.62,3.8,5.5
+2011-10-18,Reading,Derby,1.73,3.5,5.0
+2011-10-18,Blackpool,Doncaster,1.67,3.75,5.0
+2011-10-19,Leicester,Watford,1.57,3.8,6.0
+2011-10-21,Pacos Ferreira,Academica,2.4,3.2,3.0
+2011-10-21,Fortuna Dusseldorf,Hansa Rostock,1.45,4.2,7.0
+2011-10-21,Augsburg,Werder Bremen,3.8,3.6,1.91
+2011-10-21,Munich 1860,Paderborn,1.91,3.5,3.8
+2011-10-21,Karlsruhe,Bochum,2.5,3.3,2.75
+2011-10-21,Antalyaspor,Galatasaray,4.5,3.5,1.8
+2011-10-21,Graafschap,NAC Breda,2.38,3.4,2.88
+2011-10-22,Reading,Southampton,2.75,3.3,2.5
+2011-10-22,Portsmouth,Doncaster,1.83,3.5,4.33
+2011-10-22,Peterboro,Leeds,2.4,3.3,2.88
+2011-10-22,Cercle Brugge,Oud-Heverlee Leuven,1.57,3.75,6.0
+2011-10-22,Genk,Bergen,1.73,3.75,4.5
+2011-10-22,Gent,Lokeren,1.5,4.0,6.5
+2011-10-22,Germinal,Mechelen,2.1,3.4,3.4
+2011-10-22,Lierse,St Truiden,1.67,3.75,5.0
+2011-10-22,Hull,Watford,1.8,3.5,4.5
+2011-10-22,Eskisehirspor,Manisaspor,1.91,3.3,4.2
+2011-10-22,Middlesbrough,Derby,1.73,3.5,5.0
+2011-10-22,Leicester,Millwall,1.73,3.5,5.0
+2011-10-22,Ipswich,Crystal Palace,2.0,3.5,3.6
+2011-10-22,Braunschweig,Dresden,1.57,3.8,6.0
+2011-10-22,Cottbus,Greuther Furth,3.0,3.4,2.3
+2011-10-22,Blackpool,Nott'm Forest,2.0,3.4,3.75
+2011-10-22,Cardiff,Barnsley,1.67,3.5,5.5
+2011-10-22,Coventry,Burnley,2.63,3.3,2.63
+2011-10-22,Karabukspor,Buyuksehyr,2.6,3.1,2.8
+2011-10-22,Bursaspor,Trabzonspor,2.6,3.0,2.88
+2011-10-22,Motherwell,Kilmarnock,1.91,3.4,4.0
+2011-10-22,Hoffenheim,M'gladbach,2.0,3.5,3.6
+2011-10-22,Wolves,Swansea,2.0,3.4,3.8
+2011-10-22,Newcastle,Wigan,1.57,3.8,6.5
+2011-10-22,Liverpool,Norwich,1.29,5.5,11.0
+2011-10-22,Nurnberg,Stuttgart,2.5,3.4,2.7
+2011-10-22,Kaiserslautern,Freiburg,2.0,3.5,3.6
+2011-10-22,Den Haag,Nijmegen,1.73,3.9,4.33
+2011-10-22,Hertha,Mainz,1.95,3.5,3.75
+2011-10-22,Excelsior,Heracles,5.75,3.9,1.57
+2011-10-22,VVV Venlo,Waalwijk,3.4,3.4,2.1
+2011-10-22,Bolton,Sunderland,2.2,3.2,3.5
+2011-10-22,Aston Villa,West Brom,2.0,3.3,4.0
+2011-10-22,Fiorentina,Catania,1.67,3.5,5.5
+2011-10-22,Juventus,Genoa,1.62,3.6,6.0
+2011-10-22,Dortmund,FC Koln,1.29,5.5,9.5
+2011-10-22,Utrecht,Heerenveen,2.1,3.4,3.4
+2011-10-22,Beira Mar,Benfica,9.0,4.5,1.36
+2011-10-22,Olhanense,Guimaraes,2.9,3.2,2.45
+2011-10-22,Sp Gijon,Granada,2.0,3.3,3.75
+2011-10-22,St Etienne,Valenciennes,2.1,3.25,3.5
+2011-10-22,Sochaux,Evian Thonon Gaillard,1.95,3.3,4.0
+2011-10-22,Nancy,Nice,2.4,3.0,3.2
+2011-10-22,Marseille,Ajaccio,1.3,5.0,10.0
+2011-10-22,Lorient,Toulouse,2.2,3.1,3.5
+2011-10-22,Caen,Montpellier,2.7,3.1,2.7
+2011-10-22,Santander,Espanol,2.5,3.2,2.88
+2011-10-22,Hamburg,Wolfsburg,2.15,3.4,3.3
+2011-10-22,Malaga,Real Madrid,7.5,4.5,1.4
+2011-10-22,Barcelona,Sevilla,1.17,7.5,13.0
+2011-10-22,Dundee United,St Johnstone,2.0,3.4,3.75
+2011-10-22,Inverness C,Dunfermline,1.83,3.5,4.33
+2011-10-22,Bordeaux,Brest,1.75,3.4,5.0
+2011-10-22,St Mirren,Hibernian,2.1,3.4,3.4
+2011-10-23,Arsenal,Stoke,1.53,4.0,6.5
+2011-10-23,Lille,Lyon,2.3,3.1,3.2
+2011-10-23,Westerlo,Anderlecht,6.0,3.75,1.57
+2011-10-23,Fulham,Everton,2.25,3.25,3.3
+2011-10-23,Standard,Waregem,1.53,4.0,6.0
+2011-10-23,Blackburn,Tottenham,4.0,3.5,1.91
+2011-10-23,Kortrijk,Club Brugge,4.0,3.4,1.91
+2011-10-23,Groningen,Twente,4.0,3.5,1.91
+2011-10-23,AZ Alkmaar,Roda,1.22,6.0,13.0
+2011-10-23,Ajax,Feyenoord,1.36,4.75,8.5
+2011-10-23,Man United,Man City,2.0,3.4,3.8
+2011-10-23,Hannover,Bayern Munich,9.0,4.5,1.36
+2011-10-23,Leverkusen,Schalke 04,2.0,3.5,3.6
+2011-10-23,Ankaragucu,Orduspor,2.9,3.0,2.6
+2011-10-23,Fenerbahce,Samsunspor,1.33,5.0,9.0
+2011-10-23,Gaziantepspor,Genclerbirligi,1.73,3.4,5.25
+2011-10-23,Kayserispor,Sivasspor,2.05,3.4,3.5
+2011-10-23,Auxerre,Rennes,2.4,3.2,3.0
+2011-10-23,Vitesse,PSV Eindhoven,6.5,3.8,1.53
+2011-10-23,QPR,Chelsea,9.5,5.0,1.33
+2011-10-23,Bristol City,Birmingham,2.88,3.3,2.4
+2011-10-23,Cagliari,Napoli,2.8,3.25,2.5
+2011-10-23,Ein Frankfurt,Duisburg,1.44,4.2,7.5
+2011-10-23,Aachen,Ingolstadt,2.0,3.5,3.6
+2011-10-23,Sp Braga,Feirense,1.4,4.0,9.5
+2011-10-23,Rio Ave,Leiria,1.95,3.3,4.0
+2011-10-23,Porto,Nacional,1.14,7.0,19.0
+2011-10-23,Maritimo,Setubal,1.67,3.5,5.5
+2011-10-23,Hearts,Rangers,5.0,3.5,1.73
+2011-10-23,Celtic,Aberdeen,1.25,6.0,10.0
+2011-10-23,Paris SG,Dijon,1.25,5.5,12.0
+2011-10-23,Bologna,Lazio,3.5,3.3,2.1
+2011-10-23,Erzgebirge Aue,Union Berlin,2.2,3.25,3.25
+2011-10-23,Inter,Chievo,1.55,3.75,6.5
+2011-10-23,Lecce,Milan,7.0,4.0,1.5
+2011-10-23,St Pauli,Frankfurt FSV,1.36,4.75,8.0
+2011-10-23,Ath Madrid,Mallorca,1.44,4.2,7.5
+2011-10-23,Parma,Atalanta,2.1,3.2,3.6
+2011-10-23,Roma,Palermo,1.73,3.5,5.0
+2011-10-23,Villarreal,Levante,1.91,3.3,4.2
+2011-10-23,Valencia,Ath Bilbao,1.67,3.75,5.0
+2011-10-23,Siena,Cesena,1.83,3.4,4.5
+2011-10-23,Udinese,Novara,1.44,4.2,7.5
+2011-10-23,Sociedad,Getafe,2.3,3.2,3.2
+2011-10-23,Betis,Vallecano,1.73,3.6,4.75
+2011-10-23,Osasuna,Zaragoza,1.91,3.4,4.0
+2011-10-24,Mersin Idman Yurdu,Besiktas,3.4,3.4,2.1
+2011-10-24,Sp Lisbon,Gil Vicente,1.33,4.75,10.0
+2011-10-24,Brighton,West Ham,2.88,3.3,2.4
+2011-10-25,Granada,Barcelona,23.0,9.0,1.1
+2011-10-25,Sevilla,Santander,1.4,4.5,7.5
+2011-10-25,Juventus,Fiorentina,1.67,3.6,5.5
+2011-10-26,Buyuksehyr,Eskisehirspor,1.91,3.4,4.0
+2011-10-26,Trabzonspor,Antalyaspor,1.4,4.5,7.5
+2011-10-26,Galatasaray,Gaziantepspor,1.36,4.75,8.0
+2011-10-26,Orduspor,Bursaspor,2.63,3.3,2.63
+2011-10-26,Samsunspor,Karabukspor,2.1,3.4,3.4
+2011-10-26,Birmingham,Leeds,2.25,3.4,3.1
+2011-10-26,Novara,Siena,2.4,3.2,3.0
+2011-10-26,Zaragoza,Valencia,3.3,3.3,2.2
+2011-10-26,Napoli,Udinese,2.05,3.25,3.75
+2011-10-26,Milan,Parma,1.33,4.75,10.0
+2011-10-26,Levante,Sociedad,1.73,3.5,5.0
+2011-10-26,Getafe,Osasuna,1.95,3.3,4.0
+2011-10-26,Cesena,Cagliari,2.7,3.1,2.7
+2011-10-26,Mallorca,Sp Gijon,2.0,3.3,3.8
+2011-10-26,Real Madrid,Villarreal,1.13,8.0,21.0
+2011-10-26,Vallecano,Malaga,2.9,3.3,2.4
+2011-10-26,Atalanta,Inter,3.2,3.25,2.25
+2011-10-26,Chievo,Bologna,1.8,3.25,5.0
+2011-10-26,Genoa,Roma,2.6,3.2,2.75
+2011-10-26,Lazio,Catania,1.67,3.6,5.5
+2011-10-27,Palermo,Lecce,1.53,4.0,6.25
+2011-10-27,Espanol,Betis,2.2,3.3,3.3
+2011-10-27,Ath Bilbao,Ath Madrid,2.38,3.4,2.88
+2011-10-27,Genclerbirligi,Kayserispor,2.5,3.25,2.8
+2011-10-27,Manisaspor,Ankaragucu,1.8,3.6,4.33
+2011-10-27,Sivasspor,Mersin Idman Yurdu,2.6,3.2,2.75
+2011-10-27,Besiktas,Fenerbahce,2.6,3.25,2.7
+2011-10-28,Hansa Rostock,Cottbus,2.3,3.4,3.0
+2011-10-28,Bochum,Aachen,1.91,3.5,4.0
+2011-10-28,NAC Breda,VVV Venlo,1.5,4.33,6.0
+2011-10-28,Freiburg,Leverkusen,3.3,3.5,2.1
+2011-10-28,Porto,Pacos Ferreira,1.13,8.0,21.0
+2011-10-28,Union Berlin,St Pauli,2.6,3.4,2.6
+2011-10-29,Millwall,Ipswich,2.1,3.4,3.4
+2011-10-29,Doncaster,Coventry,2.3,3.25,3.1
+2011-10-29,Derby,Portsmouth,2.6,3.0,2.88
+2011-10-29,Crystal Palace,Reading,2.63,3.3,2.63
+2011-10-29,Birmingham,Brighton,2.0,3.5,3.6
+2011-10-29,Burnley,Blackpool,2.25,3.4,3.1
+2011-10-29,Nott'm Forest,Hull,2.3,3.1,3.2
+2011-10-29,Barnsley,Bristol City,2.2,3.4,3.2
+2011-10-29,Barcelona,Mallorca,1.06,11.0,34.0
+2011-10-29,Dijon,Marseille,4.2,3.3,1.91
+2011-10-29,Evian Thonon Gaillard,Auxerre,2.6,3.1,2.8
+2011-10-29,Lyon,St Etienne,1.62,3.6,6.0
+2011-10-29,Montpellier,Nancy,1.57,3.75,6.25
+2011-10-29,Paris SG,Caen,1.33,4.5,10.5
+2011-10-29,Villarreal,Vallecano,2.0,3.4,3.75
+2011-10-29,Valencia,Getafe,1.44,4.33,7.0
+2011-10-29,Sociedad,Real Madrid,15.0,7.0,1.17
+2011-10-29,Southampton,Middlesbrough,1.91,3.5,4.0
+2011-10-29,Brest,Lorient,2.6,3.0,2.9
+2011-10-29,Watford,Peterboro,2.63,3.5,2.5
+2011-10-29,Ajaccio,Bordeaux,3.6,3.1,2.15
+2011-10-29,Benfica,Olhanense,1.18,6.5,16.0
+2011-10-29,Oud-Heverlee Leuven,Germinal,2.6,3.4,2.6
+2011-10-29,Dresden,Karlsruhe,2.0,3.4,3.75
+2011-10-29,Paderborn,Erzgebirge Aue,1.75,3.5,4.75
+2011-10-29,Heerenveen,Den Haag,1.57,4.0,5.5
+2011-10-29,Roda,Ajax,5.25,4.2,1.57
+2011-10-29,Twente,PSV Eindhoven,2.4,3.4,2.8
+2011-10-29,Catania,Napoli,2.9,3.1,2.5
+2011-10-29,Inter,Juventus,2.5,3.2,2.88
+2011-10-29,Academica,Sp Braga,3.75,3.25,2.05
+2011-10-29,Roma,Milan,2.75,3.2,2.6
+2011-10-29,St Johnstone,St Mirren,2.3,3.2,3.1
+2011-10-29,Chelsea,Arsenal,1.62,4.0,5.5
+2011-10-29,Everton,Man United,4.5,3.6,1.8
+2011-10-29,Bergen,Gent,3.0,3.4,2.3
+2011-10-29,Club Brugge,Genk,1.75,3.6,4.75
+2011-10-29,Lokeren,Kortrijk,2.1,3.3,3.5
+2011-10-29,Waregem,Cercle Brugge,2.1,3.4,3.4
+2011-10-29,Aberdeen,Rangers,7.0,4.0,1.5
+2011-10-29,Celtic,Hibernian,1.22,6.0,13.0
+2011-10-29,West Ham,Leicester,1.91,3.4,4.0
+2011-10-29,Man City,Wolves,1.17,7.0,19.0
+2011-10-29,Swansea,Bolton,2.1,3.3,3.6
+2011-10-29,West Brom,Liverpool,4.0,3.3,2.0
+2011-10-29,Wigan,Fulham,2.88,3.25,2.5
+2011-10-29,Inverness C,Motherwell,2.8,3.2,2.5
+2011-10-29,Hearts,Kilmarnock,1.73,3.5,5.0
+2011-10-29,Wolfsburg,Hertha,2.2,3.4,3.2
+2011-10-29,Stuttgart,Dortmund,3.3,3.3,2.2
+2011-10-29,Schalke 04,Hoffenheim,1.95,3.3,4.0
+2011-10-29,Dunfermline,Dundee United,3.3,3.3,2.2
+2011-10-29,M'gladbach,Hannover,2.0,3.4,3.75
+2011-10-29,Bayern Munich,Nurnberg,1.17,7.0,16.0
+2011-10-29,Excelsior,Waalwijk,4.2,3.75,1.8
+2011-10-29,Gaziantepspor,Trabzonspor,2.55,3.2,2.55
+2011-10-29,Eskisehirspor,Samsunspor,1.8,3.3,4.2
+2011-10-29,Antalyaspor,Orduspor,2.25,3.2,3.0
+2011-10-29,Sunderland,Aston Villa,2.1,3.3,3.6
+2011-10-29,Norwich,Blackburn,1.91,3.6,4.0
+2011-10-29,Mainz,Werder Bremen,2.7,3.4,2.5
+2011-10-29,Mechelen,Westerlo,1.91,3.5,4.0
+2011-10-30,Bologna,Atalanta,2.5,3.2,2.88
+2011-10-30,Nacional,Beira Mar,2.15,3.1,3.6
+2011-10-30,Cagliari,Lazio,2.5,3.2,2.88
+2011-10-30,Leiria,Setubal,2.2,3.2,3.4
+2011-10-30,Leeds,Cardiff,2.25,3.5,3.0
+2011-10-30,Lecce,Novara,2.2,3.3,3.3
+2011-10-30,Tottenham,QPR,1.36,4.75,9.0
+2011-10-30,FC Koln,Augsburg,1.91,3.5,4.0
+2011-10-30,Nice,Sochaux,2.2,3.2,3.4
+2011-10-30,Toulouse,Rennes,2.5,3.0,3.0
+2011-10-30,Valenciennes,Lille,3.2,3.2,2.3
+2011-10-30,Sp Gijon,Ath Bilbao,2.6,3.2,2.75
+2011-10-30,Santander,Betis,2.6,3.2,2.75
+2011-10-30,Fiorentina,Genoa,2.0,3.2,4.0
+2011-10-30,Osasuna,Levante,2.3,3.2,3.2
+2011-10-30,Ath Madrid,Zaragoza,1.4,4.5,8.0
+2011-10-30,Graafschap,Vitesse,3.5,3.6,2.0
+2011-10-30,Groningen,Feyenoord,2.4,3.5,2.75
+2011-10-30,Nijmegen,Utrecht,2.25,3.4,3.1
+2011-10-30,Udinese,Palermo,1.67,3.6,5.5
+2011-10-30,Siena,Chievo,2.1,3.2,3.6
+2011-10-30,Parma,Cesena,1.8,3.25,5.0
+2011-10-30,Malaga,Espanol,1.73,3.5,5.0
+2011-10-30,Heracles,AZ Alkmaar,3.3,3.5,2.1
+2011-10-30,Guimaraes,Rio Ave,2.0,3.2,4.0
+2011-10-30,Hamburg,Kaiserslautern,1.91,3.4,4.0
+2011-10-30,Duisburg,Munich 1860,2.2,3.4,3.2
+2011-10-30,Frankfurt FSV,Fortuna Dusseldorf,3.75,3.4,2.0
+2011-10-30,Ingolstadt,Ein Frankfurt,6.0,4.0,1.55
+2011-10-30,Kayserispor,Galatasaray,3.0,3.2,2.25
+2011-10-30,Bursaspor,Manisaspor,1.57,3.6,5.5
+2011-10-30,Besiktas,Sivasspor,1.44,4.0,6.5
+2011-10-30,Ankaragucu,Buyuksehyr,3.5,3.25,2.0
+2011-10-30,Anderlecht,Lierse,1.18,6.5,16.0
+2011-10-30,St Truiden,Standard,4.5,3.75,1.75
+2011-10-30,Feirense,Sp Lisbon,7.5,3.8,1.5
+2011-10-31,Stoke,Newcastle,2.1,3.2,3.8
+2011-10-31,Fenerbahce,Karabukspor,1.25,5.5,9.0
+2011-10-31,Sevilla,Granada,1.4,4.5,8.0
+2011-10-31,Mersin Idman Yurdu,Genclerbirligi,1.9,3.25,2.75
+2011-10-31,Greuther Furth,Braunschweig,1.67,3.8,5.0
+2011-11-01,Millwall,Coventry,1.67,3.6,5.25
+2011-11-01,Watford,Brighton,2.4,3.3,2.88
+2011-11-01,Southampton,Peterboro,1.5,4.2,6.5
+2011-11-01,Nott'm Forest,Reading,2.38,3.25,3.0
+2011-11-01,West Ham,Bristol City,1.36,4.75,8.0
+2011-11-01,Barnsley,Hull,2.88,3.2,2.5
+2011-11-01,Burnley,Leicester,2.5,3.3,2.8
+2011-11-01,Doncaster,Middlesbrough,3.5,3.3,2.1
+2011-11-01,Gil Vicente,Maritimo,3.0,3.2,2.4
+2011-11-01,Crystal Palace,Portsmouth,2.1,3.3,3.5
+2011-11-02,Leeds,Blackpool,2.0,3.4,3.75
+2011-11-02,Derby,Cardiff,2.75,3.3,2.5
+2011-11-04,Samsunspor,Ankaragucu,1.73,3.5,5.0
+2011-11-04,Karlsruhe,Ingolstadt,2.25,3.4,3.1
+2011-11-04,Fortuna Dusseldorf,Dresden,1.4,4.75,7.0
+2011-11-04,Braunschweig,Union Berlin,1.8,3.5,4.5
+2011-11-04,Gent,Mechelen,1.44,4.2,7.5
+2011-11-04,Pacos Ferreira,Guimaraes,2.88,3.2,2.5
+2011-11-04,Mainz,Stuttgart,2.5,3.4,2.7
+2011-11-04,VVV Venlo,Excelsior,1.57,4.0,5.5
+2011-11-04,Sivasspor,Fenerbahce,4.33,3.5,1.83
+2011-11-05,QPR,Man City,10.0,5.0,1.33
+2011-11-05,Newcastle,Everton,2.25,3.25,3.3
+2011-11-05,Man United,Sunderland,1.25,5.5,13.0
+2011-11-05,Liverpool,Swansea,1.29,5.5,10.0
+2011-11-05,Blackburn,Chelsea,7.5,4.33,1.44
+2011-11-05,Aston Villa,Norwich,1.83,3.5,4.5
+2011-11-05,Arsenal,West Brom,1.4,4.5,8.5
+2011-11-05,Lierse,Oud-Heverlee Leuven,1.83,3.4,4.5
+2011-11-05,Germinal,Bergen,2.2,3.4,3.2
+2011-11-05,Waregem,St Truiden,1.73,3.5,5.0
+2011-11-05,Westerlo,Lokeren,2.3,3.25,3.1
+2011-11-05,Novara,Roma,4.0,3.4,1.91
+2011-11-05,Palermo,Bologna,1.67,3.5,5.5
+2011-11-05,Waalwijk,Groningen,3.1,3.4,2.25
+2011-11-05,Roda,Heerenveen,2.63,3.5,2.5
+2011-11-05,NAC Breda,Vitesse,2.7,3.4,2.5
+2011-11-05,Feyenoord,Nijmegen,1.44,4.5,6.5
+2011-11-05,Portsmouth,Nott'm Forest,2.3,3.25,3.1
+2011-11-05,Peterboro,Derby,1.91,3.6,3.75
+2011-11-05,Middlesbrough,Watford,1.67,3.4,5.0
+2011-11-05,Ipswich,Doncaster,1.73,3.5,5.0
+2011-11-05,Hull,West Ham,2.8,3.25,2.5
+2011-11-05,Coventry,Southampton,4.5,3.5,1.8
+2011-11-05,Genk,Kortrijk,1.62,3.6,6.0
+2011-11-05,Cardiff,Crystal Palace,1.91,3.4,4.0
+2011-11-05,Blackpool,Millwall,2.1,3.4,3.4
+2011-11-05,Betis,Malaga,2.63,3.25,2.63
+2011-11-05,Levante,Valencia,3.0,3.25,2.38
+2011-11-05,Lille,Evian Thonon Gaillard,1.36,4.5,9.0
+2011-11-05,Mallorca,Sevilla,3.0,3.2,2.38
+2011-11-05,Bristol City,Burnley,2.63,3.2,2.7
+2011-11-05,Galatasaray,Mersin Idman Yurdu,1.44,4.2,7.5
+2011-11-05,Werder Bremen,FC Koln,1.44,4.2,7.5
+2011-11-05,Orduspor,Gaziantepspor,2.1,3.25,3.5
+2011-11-05,Manisaspor,Antalyaspor,2.0,3.3,3.75
+2011-11-05,Karabukspor,Eskisehirspor,2.5,3.25,2.8
+2011-11-05,Olhanense,Porto,11.0,4.5,1.33
+2011-11-05,Hibernian,Dunfermline,1.8,3.5,4.5
+2011-11-05,Kilmarnock,Inverness C,2.1,3.25,3.6
+2011-11-05,Rangers,Dundee United,1.25,5.5,12.0
+2011-11-05,Nurnberg,Freiburg,1.73,3.5,5.0
+2011-11-05,Leverkusen,Hamburg,1.62,3.75,5.5
+2011-11-05,St Mirren,Hearts,2.88,3.3,2.4
+2011-11-05,Hoffenheim,Kaiserslautern,1.67,3.8,5.0
+2011-11-05,Hertha,M'gladbach,2.25,3.3,3.2
+2011-11-05,Dortmund,Wolfsburg,1.33,4.75,9.5
+2011-11-05,St Pauli,Greuther Furth,2.3,3.4,3.0
+2011-11-05,Munich 1860,Bochum,2.1,3.4,3.4
+2011-11-05,Maritimo,Academica,1.8,3.4,4.75
+2011-11-06,Cercle Brugge,Anderlecht,4.5,3.5,1.8
+2011-11-06,Espanol,Villarreal,1.85,3.4,4.33
+2011-11-06,Hannover,Schalke 04,2.7,3.4,2.5
+2011-11-06,Augsburg,Bayern Munich,15.0,6.0,1.2
+2011-11-06,Getafe,Ath Madrid,3.0,3.25,2.38
+2011-11-06,Ath Bilbao,Barcelona,11.0,6.5,1.22
+2011-11-06,Standard,Club Brugge,2.3,3.4,3.0
+2011-11-06,Real Madrid,Osasuna,1.06,11.0,29.0
+2011-11-06,Genclerbirligi,Besiktas,3.75,3.3,2.0
+2011-11-06,Buyuksehyr,Bursaspor,2.5,3.25,2.8
+2011-11-06,Granada,Santander,2.1,3.25,3.5
+2011-11-06,Atalanta,Cagliari,2.1,3.25,3.5
+2011-11-06,Cesena,Lecce,2.0,3.2,4.0
+2011-11-06,Chievo,Fiorentina,2.7,3.1,2.7
+2011-11-06,Lazio,Parma,1.57,3.6,6.5
+2011-11-06,Milan,Catania,1.33,4.5,11.0
+2011-11-06,Udinese,Siena,1.62,3.6,6.0
+2011-11-06,Reading,Birmingham,2.2,3.3,3.25
+2011-11-06,Trabzonspor,Kayserispor,1.67,3.5,5.5
+2011-11-06,Leicester,Leeds,1.91,3.4,4.0
+2011-11-06,Brighton,Barnsley,1.8,3.5,4.5
+2011-11-06,Zaragoza,Sp Gijon,2.1,3.3,3.5
+2011-11-06,PSV Eindhoven,Heracles,1.25,5.5,12.0
+2011-11-06,AZ Alkmaar,Den Haag,1.29,5.5,9.5
+2011-11-06,St Etienne,Montpellier,2.5,3.1,2.9
+2011-11-06,Sochaux,Lyon,3.2,3.1,2.3
+2011-11-06,Rennes,Valenciennes,1.8,3.25,5.0
+2011-11-06,Nancy,Brest,2.3,3.1,3.25
+2011-11-06,Marseille,Nice,1.44,4.0,8.0
+2011-11-06,Lorient,Ajaccio,1.44,4.0,8.0
+2011-11-06,Caen,Dijon,1.83,3.25,4.75
+2011-11-06,Bordeaux,Paris SG,3.4,3.0,2.3
+2011-11-06,Auxerre,Toulouse,2.4,3.0,3.2
+2011-11-06,Motherwell,Celtic,6.0,4.0,1.53
+2011-11-06,Fulham,Tottenham,3.25,3.3,2.25
+2011-11-06,Wolves,Wigan,1.91,3.3,4.33
+2011-11-06,Aachen,Duisburg,2.25,3.25,3.2
+2011-11-06,Vallecano,Sociedad,1.91,3.4,4.0
+2011-11-06,Utrecht,Ajax,5.75,3.75,1.6
+2011-11-06,Twente,Graafschap,1.14,7.5,17.0
+2011-11-06,Setubal,Gil Vicente,2.5,3.1,2.9
+2011-11-06,Cottbus,Paderborn,2.1,3.4,3.4
+2011-11-06,Frankfurt FSV,Hansa Rostock,2.4,3.2,3.0
+2011-11-06,Beira Mar,Feirense,2.1,3.25,3.6
+2011-11-06,Rio Ave,Nacional,2.38,3.25,3.0
+2011-11-06,Sp Lisbon,Leiria,1.25,5.5,12.0
+2011-11-06,Bolton,Stoke,2.4,3.3,3.0
+2011-11-06,Sp Braga,Benfica,3.75,3.3,2.0
+2011-11-07,Erzgebirge Aue,Ein Frankfurt,4.5,3.6,1.75
+2011-11-18,Ingolstadt,Munich 1860,2.7,3.4,2.5
+2011-11-18,Duisburg,Braunschweig,2.5,3.3,2.75
+2011-11-18,Paderborn,Karlsruhe,1.67,3.75,5.0
+2011-11-18,Mersin Idman Yurdu,Trabzonspor,3.0,3.25,2.38
+2011-11-18,Oud-Heverlee Leuven,Standard,4.75,3.6,1.75
+2011-11-18,Kaiserslautern,Leverkusen,2.88,3.4,2.38
+2011-11-18,Lyon,Rennes,1.8,3.25,5.0
+2011-11-18,Toulouse,Lille,3.0,3.0,2.5
+2011-11-19,Hansa Rostock,St Pauli,2.9,3.3,2.4
+2011-11-19,Union Berlin,Fortuna Dusseldorf,3.2,3.25,2.25
+2011-11-19,St Mirren,Dunfermline,1.7,3.6,5.0
+2011-11-19,Middlesbrough,Blackpool,2.0,3.4,3.75
+2011-11-19,Birmingham,Peterboro,1.83,3.5,4.33
+2011-11-19,Rangers,St Johnstone,1.29,5.0,11.0
+2011-11-19,Inverness C,Celtic,7.0,4.33,1.44
+2011-11-19,Hibernian,Kilmarnock,2.38,3.4,2.88
+2011-11-19,Dundee United,Hearts,2.5,3.25,2.8
+2011-11-19,Aberdeen,Motherwell,2.5,3.2,2.8
+2011-11-19,Ajax,NAC Breda,1.2,6.0,15.0
+2011-11-19,Graafschap,PSV Eindhoven,10.0,5.0,1.3
+2011-11-19,Heerenveen,Waalwijk,1.4,4.5,7.5
+2011-11-19,Heracles,Twente,4.2,3.6,1.83
+2011-11-19,Nijmegen,Roda,1.7,3.6,5.0
+2011-11-19,Mechelen,Waregem,2.1,3.3,3.5
+2011-11-19,Lokeren,Germinal,1.91,3.6,3.8
+2011-11-19,Kortrijk,Gent,3.1,3.5,2.2
+2011-11-19,Genk,Westerlo,1.4,4.5,8.0
+2011-11-19,Bergen,Lierse,1.8,3.5,4.5
+2011-11-19,Watford,Portsmouth,2.38,3.25,3.0
+2011-11-19,Southampton,Brighton,1.5,4.33,6.0
+2011-11-19,Reading,Cardiff,2.2,3.25,3.3
+2011-11-19,Nott'm Forest,Ipswich,1.91,3.4,4.0
+2011-11-19,Wigan,Blackburn,2.5,3.25,2.88
+2011-11-19,Derby,Hull,2.7,3.25,2.6
+2011-11-19,Coventry,West Ham,4.75,3.5,1.75
+2011-11-19,Burnley,Leeds,2.5,3.25,2.8
+2011-11-19,Barnsley,Doncaster,2.2,3.3,3.25
+2011-11-19,West Brom,Bolton,2.0,3.4,3.8
+2011-11-19,Everton,Wolves,1.57,3.75,6.5
+2011-11-19,Sunderland,Fulham,2.3,3.25,3.2
+2011-11-19,Ankaragucu,Karabukspor,2.7,3.3,2.55
+2011-11-19,Fiorentina,Milan,3.5,3.25,2.1
+2011-11-19,Inter,Cagliari,1.53,3.8,6.5
+2011-11-19,Napoli,Lazio,2.05,3.25,3.75
+2011-11-19,Bayern Munich,Dortmund,1.62,3.8,5.5
+2011-11-19,Freiburg,Hertha,2.6,3.4,2.6
+2011-11-19,Swansea,Man United,6.5,4.2,1.5
+2011-11-19,Barcelona,Zaragoza,1.06,12.0,26.0
+2011-11-19,M'gladbach,Werder Bremen,2.5,3.3,2.75
+2011-11-19,Fenerbahce,Eskisehirspor,1.4,4.5,8.0
+2011-11-19,Wolfsburg,Hannover,2.3,3.4,3.0
+2011-11-19,Valencia,Real Madrid,6.0,4.0,1.53
+2011-11-19,Nice,St Etienne,2.4,3.0,3.2
+2011-11-19,Schalke 04,Nurnberg,1.75,3.5,4.75
+2011-11-19,Villarreal,Betis,2.0,3.3,3.8
+2011-11-19,Stoke,QPR,1.83,3.5,4.5
+2011-11-19,Montpellier,Marseille,2.8,3.1,2.63
+2011-11-19,Ajaccio,Caen,3.2,3.0,2.4
+2011-11-19,Dijon,Bordeaux,3.1,3.1,2.4
+2011-11-19,Kayserispor,Orduspor,2.25,3.25,3.25
+2011-11-19,Norwich,Arsenal,5.5,3.6,1.67
+2011-11-19,Man City,Newcastle,1.3,5.5,10.0
+2011-11-19,Evian Thonon Gaillard,Lorient,2.75,3.0,2.75
+2011-11-20,Paris SG,Nancy,1.3,5.0,11.0
+2011-11-20,Sp Gijon,Getafe,2.2,3.2,3.4
+2011-11-20,Sociedad,Espanol,2.25,3.25,3.2
+2011-11-20,Sevilla,Ath Bilbao,1.91,3.5,4.0
+2011-11-20,Antalyaspor,Buyuksehyr,2.55,3.3,2.7
+2011-11-20,Besiktas,Galatasaray,2.3,3.3,3.1
+2011-11-20,Gaziantepspor,Manisaspor,2.15,3.2,3.5
+2011-11-20,Osasuna,Vallecano,1.91,3.4,4.0
+2011-11-20,Ath Madrid,Levante,1.57,4.0,5.5
+2011-11-20,Leicester,Crystal Palace,1.67,3.75,5.0
+2011-11-20,Valenciennes,Auxerre,2.25,3.1,3.4
+2011-11-20,Anderlecht,St Truiden,1.17,7.0,16.0
+2011-11-20,Club Brugge,Cercle Brugge,1.62,3.75,5.5
+2011-11-20,Vitesse,Feyenoord,2.1,3.5,3.3
+2011-11-20,Groningen,VVV Venlo,1.14,7.5,17.0
+2011-11-20,Den Haag,Utrecht,2.1,3.4,3.4
+2011-11-20,Sivasspor,Genclerbirligi,2.1,3.3,3.5
+2011-11-20,Brest,Sochaux,2.25,3.0,3.5
+2011-11-20,Millwall,Bristol City,1.8,3.5,4.5
+2011-11-20,Catania,Chievo,1.91,3.3,4.2
+2011-11-20,Stuttgart,Augsburg,1.4,4.5,8.0
+2011-11-20,Hamburg,Hoffenheim,2.3,3.4,3.0
+2011-11-20,Dresden,Erzgebirge Aue,1.91,3.5,4.0
+2011-11-20,Ein Frankfurt,Aachen,1.29,5.0,11.0
+2011-11-20,Greuther Furth,Frankfurt FSV,1.36,4.75,8.5
+2011-11-20,Bologna,Cesena,1.91,3.3,4.2
+2011-11-20,Siena,Atalanta,2.1,3.2,3.6
+2011-11-20,Roma,Lecce,1.36,4.5,9.0
+2011-11-20,Juventus,Palermo,1.44,4.2,7.5
+2011-11-20,Chelsea,Liverpool,1.83,3.5,4.5
+2011-11-20,Parma,Udinese,2.9,3.1,2.5
+2011-11-20,Genoa,Novara,1.57,3.75,6.0
+2011-11-21,Bochum,Cottbus,1.83,3.5,4.33
+2011-11-21,Santander,Malaga,3.2,3.2,2.25
+2011-11-21,Tottenham,Aston Villa,1.57,4.0,6.0
+2011-11-21,Bursaspor,Samsunspor,1.53,3.75,7.0
+2011-11-22,Birmingham,Burnley,1.73,3.5,5.0
+2011-11-22,Coventry,Cardiff,3.6,3.5,2.0
+2011-11-23,Celtic,Dunfermline,1.17,6.5,17.0
+2011-11-25,FC Koln,M'gladbach,3.2,3.4,2.2
+2011-11-25,Hansa Rostock,Union Berlin,2.4,3.25,2.9
+2011-11-25,AZ Alkmaar,Utrecht,1.29,5.5,10.0
+2011-11-25,Academica,Beira Mar,2.1,3.2,3.6
+2011-11-25,Udinese,Roma,2.25,3.2,3.25
+2011-11-25,Genclerbirligi,Fenerbahce,4.2,3.3,1.91
+2011-11-25,Standard,Mechelen,1.4,4.33,8.5
+2011-11-25,Erzgebirge Aue,Duisburg,2.5,3.3,2.75
+2011-11-25,Frankfurt FSV,Paderborn,3.0,3.25,2.38
+2011-11-26,Lecce,Catania,2.6,3.1,2.8
+2011-11-26,Novara,Parma,2.5,3.1,2.9
+2011-11-26,Celtic,St Mirren,1.25,5.5,12.0
+2011-11-26,Nurnberg,Kaiserslautern,2.0,3.3,3.8
+2011-11-26,Hoffenheim,Freiburg,1.62,3.75,5.5
+2011-11-26,Atalanta,Napoli,2.63,3.1,2.75
+2011-11-26,Lazio,Juventus,2.75,3.1,2.63
+2011-11-26,NAC Breda,Heerenveen,2.7,3.4,2.5
+2011-11-26,PSV Eindhoven,Groningen,1.3,5.5,8.5
+2011-11-26,Roda,Heracles,2.3,3.4,3.0
+2011-11-26,VVV Venlo,Graafschap,2.15,3.4,3.3
+2011-11-26,Toulouse,Valenciennes,2.2,3.1,3.5
+2011-11-26,Westerlo,Bergen,2.4,3.4,2.8
+2011-11-26,Waregem,Anderlecht,5.25,3.75,1.65
+2011-11-26,St Truiden,Oud-Heverlee Leuven,1.91,3.5,4.0
+2011-11-26,Lierse,Club Brugge,4.75,3.5,1.75
+2011-11-26,Germinal,Kortrijk,2.15,3.4,3.3
+2011-11-26,Cercle Brugge,Lokeren,1.91,3.4,4.0
+2011-11-26,Benfica,Sp Lisbon,1.8,3.6,4.33
+2011-11-26,Nacional,Maritimo,2.9,3.1,2.5
+2011-11-26,Karlsruhe,Aachen,2.25,3.2,3.25
+2011-11-26,Munich 1860,Ein Frankfurt,4.0,3.4,1.91
+2011-11-26,Hertha,Leverkusen,2.88,3.2,2.5
+2011-11-26,Hannover,Hamburg,2.2,3.4,3.2
+2011-11-26,Vallecano,Valencia,3.4,3.4,2.1
+2011-11-26,Crystal Palace,Millwall,2.38,3.25,3.0
+2011-11-26,Hearts,Inverness C,1.83,3.5,4.33
+2011-11-26,Dunfermline,Aberdeen,3.2,3.4,2.2
+2011-11-26,Augsburg,Wolfsburg,2.88,3.4,2.38
+2011-11-26,Dortmund,Schalke 04,1.65,3.75,5.25
+2011-11-26,Brighton,Coventry,1.73,3.5,5.0
+2011-11-26,West Ham,Derby,1.4,4.33,8.5
+2011-11-26,Portsmouth,Leicester,2.8,3.25,2.5
+2011-11-26,Peterboro,Middlesbrough,2.5,3.4,2.7
+2011-11-26,Leeds,Barnsley,1.67,3.5,5.5
+2011-11-26,Ipswich,Reading,2.6,3.4,2.6
+2011-11-26,Arsenal,Fulham,1.44,4.2,8.0
+2011-11-26,Bolton,Everton,3.1,3.25,2.38
+2011-11-26,Chelsea,Wolves,1.22,6.0,15.0
+2011-11-26,Man United,Newcastle,1.4,4.5,8.5
+2011-11-26,Norwich,QPR,2.1,3.4,3.5
+2011-11-26,Stoke,Blackburn,1.83,3.5,4.5
+2011-11-26,Real Madrid,Ath Madrid,1.17,6.5,17.0
+2011-11-26,Sunderland,Wigan,1.67,3.6,5.5
+2011-11-26,West Brom,Tottenham,4.0,3.6,1.91
+2011-11-26,Hull,Burnley,1.91,3.4,4.0
+2011-11-26,Doncaster,Watford,2.5,3.25,2.8
+2011-11-26,Cardiff,Nott'm Forest,2.0,3.4,3.75
+2011-11-26,Bristol City,Southampton,4.2,3.5,1.83
+2011-11-26,Motherwell,Dundee United,2.2,3.4,3.2
+2011-11-26,St Johnstone,Hibernian,2.1,3.4,3.4
+2011-11-26,Blackpool,Birmingham,2.38,3.25,3.0
+2011-11-26,Galatasaray,Sivasspor,1.5,4.0,6.5
+2011-11-26,Orduspor,Mersin Idman Yurdu,2.2,3.25,3.3
+2011-11-26,Samsunspor,Antalyaspor,2.4,3.25,2.9
+2011-11-26,St Etienne,Ajaccio,1.5,4.0,7.0
+2011-11-26,Bordeaux,Caen,1.91,3.2,4.33
+2011-11-26,Getafe,Barcelona,13.0,6.5,1.2
+2011-11-26,Sochaux,Montpellier,2.7,3.1,2.7
+2011-11-26,Rennes,Evian Thonon Gaillard,1.73,3.5,5.0
+2011-11-26,Lille,Brest,1.4,4.33,8.5
+2011-11-26,Nancy,Dijon,1.8,3.3,4.75
+2011-11-27,Liverpool,Man City,2.75,3.2,2.63
+2011-11-27,Trabzonspor,Besiktas,2.0,3.3,3.8
+2011-11-27,Manisaspor,Kayserispor,2.25,3.25,3.2
+2011-11-27,Palermo,Fiorentina,2.3,3.1,3.3
+2011-11-27,Porto,Sp Braga,1.4,4.5,8.0
+2011-11-27,Marseille,Paris SG,2.25,3.2,3.2
+2011-11-27,Excelsior,Den Haag,3.3,3.5,2.1
+2011-11-27,Nijmegen,Ajax,6.0,3.8,1.57
+2011-11-27,Twente,Vitesse,1.2,6.5,13.0
+2011-11-27,Waalwijk,Feyenoord,3.4,3.4,2.1
+2011-11-27,Lorient,Nice,1.62,3.6,6.0
+2011-11-27,Buyuksehyr,Gaziantepspor,2.05,3.3,3.6
+2011-11-27,Eskisehirspor,Ankaragucu,1.62,3.75,5.5
+2011-11-27,Siena,Inter,3.0,3.2,2.38
+2011-11-27,Cesena,Genoa,2.63,3.1,2.75
+2011-11-27,Gent,Genk,2.0,3.5,3.6
+2011-11-27,St Pauli,Dresden,1.5,4.0,6.5
+2011-11-27,Cottbus,Ingolstadt,1.67,3.75,5.0
+2011-11-27,Kilmarnock,Rangers,7.0,4.0,1.5
+2011-11-27,Pacos Ferreira,Olhanense,2.25,3.25,3.2
+2011-11-27,Gil Vicente,Leiria,2.05,3.25,3.75
+2011-11-27,Feirense,Rio Ave,2.75,3.0,2.75
+2011-11-27,Braunschweig,Bochum,2.2,3.4,3.2
+2011-11-27,Milan,Chievo,1.33,4.75,10.0
+2011-11-27,Werder Bremen,Stuttgart,2.1,3.4,3.4
+2011-11-27,Ath Bilbao,Granada,1.44,4.2,7.5
+2011-11-27,Betis,Sociedad,2.0,3.4,3.75
+2011-11-27,Espanol,Osasuna,1.83,3.5,4.33
+2011-11-27,Levante,Sp Gijon,1.83,3.5,4.33
+2011-11-27,Mallorca,Santander,1.83,3.4,4.5
+2011-11-27,Zaragoza,Sevilla,2.9,3.25,2.4
+2011-11-27,Swansea,Aston Villa,2.2,3.25,3.4
+2011-11-27,Cagliari,Bologna,1.85,3.3,4.5
+2011-11-27,Mainz,Bayern Munich,9.0,5.0,1.33
+2011-11-27,Auxerre,Lyon,3.1,3.1,2.4
+2011-11-28,Karabukspor,Bursaspor,3.75,3.3,2.0
+2011-11-28,Fortuna Dusseldorf,Greuther Furth,2.0,3.3,3.8
+2011-11-28,Guimaraes,Setubal,1.62,3.6,6.0
+2011-11-28,Malaga,Villarreal,1.73,3.5,5.0
+2011-11-29,Southampton,Hull,1.62,3.75,5.5
+2011-11-29,Millwall,Doncaster,1.73,3.75,4.5
+2011-11-29,Nott'm Forest,Leeds,2.25,3.25,3.2
+2011-11-29,Reading,Peterboro,1.73,3.75,4.5
+2011-11-29,Watford,Bristol City,2.3,3.4,3.0
+2011-11-29,Barcelona,Vallecano,1.06,11.0,29.0
+2011-11-29,Burnley,Ipswich,1.91,3.4,4.0
+2011-11-29,Napoli,Juventus,2.4,3.2,3.0
+2011-11-29,Middlesbrough,West Ham,2.5,3.25,2.8
+2011-11-29,Derby,Brighton,2.5,3.25,2.8
+2011-11-29,Leicester,Blackpool,1.8,3.6,4.33
+2011-12-02,Union Berlin,Cottbus,2.0,3.5,3.6
+2011-12-02,Paderborn,St Pauli,2.7,3.4,2.5
+2011-12-02,Ingolstadt,Braunschweig,2.7,3.4,2.5
+2011-12-02,Germinal,Genk,3.2,3.4,2.2
+2011-12-02,Heracles,VVV Venlo,1.25,5.5,12.0
+2011-12-02,Genoa,Milan,4.5,3.5,1.8
+2011-12-02,Crystal Palace,Derby,2.2,3.3,3.25
+2011-12-02,Caen,Marseille,4.0,3.2,2.0
+2011-12-02,Leverkusen,Hoffenheim,1.73,3.75,4.5
+2011-12-02,Sivasspor,Trabzonspor,3.75,3.4,2.0
+2011-12-03,Cercle Brugge,Kortrijk,1.91,3.3,4.2
+2011-12-03,Lierse,Mechelen,2.25,3.2,3.25
+2011-12-03,St Truiden,Bergen,2.3,3.25,3.1
+2011-12-03,Valencia,Espanol,1.5,4.0,7.0
+2011-12-03,Blackburn,Swansea,2.1,3.4,3.5
+2011-12-03,Genclerbirligi,Galatasaray,3.5,3.3,2.1
+2011-12-03,Gaziantepspor,Samsunspor,1.73,3.5,5.0
+2011-12-03,Fenerbahce,Ankaragucu,1.2,6.5,13.0
+2011-12-03,St Mirren,Inverness C,2.1,3.4,3.4
+2011-12-03,Rangers,Dunfermline,1.14,7.0,21.0
+2011-12-03,Kilmarnock,Aberdeen,2.2,3.25,3.25
+2011-12-03,Hearts,St Johnstone,2.0,3.2,4.0
+2011-12-03,Man City,Norwich,1.17,7.0,17.0
+2011-12-03,Inter,Udinese,2.0,3.3,3.75
+2011-12-03,Barcelona,Levante,1.1,8.5,26.0
+2011-12-03,Santander,Villarreal,2.75,3.2,2.6
+2011-12-03,Sp Gijon,Real Madrid,13.0,6.0,1.22
+2011-12-03,Waregem,Lokeren,2.0,3.3,3.8
+2011-12-03,Aston Villa,Man United,5.0,3.6,1.73
+2011-12-03,Ein Frankfurt,Karlsruhe,1.25,5.5,12.0
+2011-12-03,Greuther Furth,Hansa Rostock,1.36,4.5,9.0
+2011-12-03,Napoli,Lecce,1.36,4.5,9.0
+2011-12-03,Westerlo,Club Brugge,5.0,3.5,1.73
+2011-12-03,Newcastle,Chelsea,3.5,3.4,2.1
+2011-12-03,Nice,Rennes,3.0,3.0,2.5
+2011-12-03,Den Haag,NAC Breda,2.2,3.6,3.0
+2011-12-03,Wigan,Arsenal,6.0,4.0,1.57
+2011-12-03,Ipswich,Watford,2.38,3.25,3.0
+2011-12-03,Hull,Leicester,2.63,3.25,2.63
+2011-12-03,Doncaster,Southampton,4.5,3.75,1.73
+2011-12-03,Bristol City,Middlesbrough,2.6,3.3,2.63
+2011-12-03,Brighton,Nott'm Forest,2.25,3.25,3.2
+2011-12-03,QPR,West Brom,2.25,3.3,3.25
+2011-12-03,Blackpool,Reading,2.5,3.3,2.75
+2011-12-03,Ajaccio,Lille,6.0,3.75,1.57
+2011-12-03,Brest,St Etienne,2.4,3.0,3.2
+2011-12-03,Dijon,Sochaux,2.25,3.2,3.25
+2011-12-03,Evian Thonon Gaillard,Valenciennes,2.25,3.1,3.4
+2011-12-03,Montpellier,Lorient,1.8,3.4,4.6
+2011-12-03,Groningen,Nijmegen,1.57,3.75,6.0
+2011-12-03,Graafschap,Roda,2.7,3.4,2.5
+2011-12-03,Ajax,Excelsior,1.08,9.0,29.0
+2011-12-03,Bayern Munich,Werder Bremen,1.3,5.5,9.0
+2011-12-03,Tottenham,Bolton,1.3,5.0,12.0
+2011-12-03,Kaiserslautern,Hertha,2.4,3.3,2.88
+2011-12-03,Wolfsburg,Mainz,2.38,3.4,2.88
+2011-12-03,West Ham,Burnley,1.57,3.75,6.0
+2011-12-03,Portsmouth,Coventry,1.8,3.5,4.5
+2011-12-03,Peterboro,Barnsley,1.91,3.4,4.0
+2011-12-03,Freiburg,Hannover,2.38,3.4,2.88
+2011-12-03,Leeds,Millwall,2.0,3.4,3.75
+2011-12-03,M'gladbach,Dortmund,3.4,3.4,2.1
+2011-12-03,Stuttgart,FC Koln,1.44,4.33,7.0
+2011-12-04,Bologna,Siena,2.5,3.0,3.0
+2011-12-04,Schalke 04,Augsburg,1.36,4.75,8.5
+2011-12-04,Hamburg,Nurnberg,1.91,3.4,4.0
+2011-12-04,Lyon,Toulouse,1.73,3.4,5.25
+2011-12-04,Bordeaux,Nancy,1.67,3.5,5.5
+2011-12-04,Dundee United,Celtic,5.5,3.75,1.62
+2011-12-04,Cardiff,Birmingham,2.0,3.5,3.6
+2011-12-04,Juventus,Cesena,1.25,5.5,12.0
+2011-12-04,Fiorentina,Roma,2.4,3.1,3.1
+2011-12-04,Chievo,Atalanta,2.3,3.1,3.25
+2011-12-04,Mallorca,Ath Bilbao,2.75,3.3,2.5
+2011-12-04,Granada,Zaragoza,2.1,3.25,3.5
+2011-12-04,Ath Madrid,Vallecano,1.57,4.0,5.5
+2011-12-04,Catania,Cagliari,2.0,3.2,4.0
+2011-12-04,Paris SG,Auxerre,1.5,3.75,7.5
+2011-12-04,Parma,Palermo,2.1,3.2,3.6
+2011-12-04,Antalyaspor,Karabukspor,2.0,3.3,3.75
+2011-12-04,Standard,Gent,2.1,3.2,3.6
+2011-12-04,Sociedad,Malaga,3.0,3.2,2.4
+2011-12-04,Osasuna,Betis,2.1,3.25,3.6
+2011-12-04,Anderlecht,Oud-Heverlee Leuven,1.14,8.0,15.0
+2011-12-04,Vitesse,Waalwijk,1.62,3.75,5.5
+2011-12-04,Dresden,Frankfurt FSV,1.91,3.6,3.75
+2011-12-04,Feyenoord,PSV Eindhoven,3.5,3.6,2.0
+2011-12-04,Heerenveen,AZ Alkmaar,3.1,3.4,2.25
+2011-12-04,Aachen,Munich 1860,2.5,3.3,2.75
+2011-12-04,Bursaspor,Eskisehirspor,1.83,3.25,4.75
+2011-12-04,Kayserispor,Buyuksehyr,2.25,3.25,3.2
+2011-12-04,Mersin Idman Yurdu,Manisaspor,2.3,3.25,3.1
+2011-12-04,Utrecht,Twente,4.5,3.75,1.73
+2011-12-04,Everton,Stoke,1.67,3.6,5.5
+2011-12-04,Bochum,Erzgebirge Aue,1.73,3.6,4.75
+2011-12-04,Wolves,Sunderland,2.4,3.3,3.0
+2011-12-05,Duisburg,Fortuna Dusseldorf,3.25,3.3,2.2
+2011-12-05,Lazio,Novara,1.36,4.5,9.0
+2011-12-05,Besiktas,Orduspor,1.67,3.5,5.5
+2011-12-05,Fulham,Liverpool,3.5,3.4,2.1
+2011-12-05,Sevilla,Getafe,1.62,3.8,5.5
+2011-12-06,Barnsley,Crystal Palace,2.25,3.25,3.25
+2011-12-07,Eskisehirspor,Antalyaspor,1.85,3.4,4.33
+2011-12-07,Hull,Birmingham,2.38,3.2,3.0
+2011-12-07,Granada,Mallorca,2.25,3.1,3.4
+2011-12-07,Karabukspor,Gaziantepspor,2.4,3.3,2.9
+2011-12-07,Galatasaray,Fenerbahce,2.5,3.25,2.8
+2011-12-07,Excelsior,AZ Alkmaar,11.0,5.0,1.29
+2011-12-08,Buyuksehyr,Mersin Idman Yurdu,2.1,3.3,3.5
+2011-12-08,Orduspor,Sivasspor,2.25,3.25,3.2
+2011-12-08,Manisaspor,Besiktas,3.1,3.2,2.3
+2011-12-08,Samsunspor,Kayserispor,2.6,3.2,2.7
+2011-12-08,Ankaragucu,Bursaspor,4.33,3.5,1.83
+2011-12-09,Hertha,Schalke 04,2.75,3.3,2.5
+2011-12-09,Mechelen,Anderlecht,5.5,4.2,1.55
+2011-12-09,Den Haag,Heracles,2.63,3.5,2.5
+2011-12-09,Duisburg,Karlsruhe,1.62,4.0,5.0
+2011-12-09,Munich 1860,Braunschweig,2.25,3.4,3.1
+2011-12-09,Sp Braga,Pacos Ferreira,1.36,4.75,8.5
+2011-12-09,Paderborn,Hansa Rostock,1.57,3.8,6.0
+2011-12-10,Aberdeen,St Mirren,2.1,3.3,3.5
+2011-12-10,Augsburg,M'gladbach,4.0,3.4,1.91
+2011-12-10,FC Koln,Freiburg,2.3,3.4,3.0
+2011-12-10,Hibernian,Rangers,7.5,4.2,1.44
+2011-12-10,Celtic,Hearts,1.33,5.0,9.0
+2011-12-10,Man United,Wolves,1.22,6.0,15.0
+2011-12-10,St Johnstone,Motherwell,2.5,3.3,2.8
+2011-12-10,Sp Lisbon,Nacional,1.25,5.5,12.0
+2011-12-10,Beira Mar,Porto,10.0,4.75,1.33
+2011-12-10,Liverpool,QPR,1.33,5.0,10.0
+2011-12-10,Millwall,Cardiff,2.5,3.3,2.75
+2011-12-10,Nott'm Forest,Crystal Palace,1.91,3.4,4.0
+2011-12-10,Reading,West Ham,2.63,3.3,2.63
+2011-12-10,Arsenal,Everton,1.53,4.0,6.5
+2011-12-10,Hannover,Leverkusen,2.7,3.4,2.5
+2011-12-10,Bolton,Aston Villa,2.5,3.3,2.88
+2011-12-10,Southampton,Blackpool,1.57,4.0,5.5
+2011-12-10,West Brom,Wigan,1.67,3.8,5.25
+2011-12-10,Swansea,Fulham,2.63,3.25,2.75
+2011-12-10,Norwich,Newcastle,2.4,3.4,2.88
+2011-12-10,Inverness C,Dundee United,2.75,3.3,2.5
+2011-12-10,Mainz,Hamburg,2.2,3.4,3.2
+2011-12-10,Gent,Germinal,1.33,5.0,9.0
+2011-12-10,Werder Bremen,Wolfsburg,1.62,4.0,5.0
+2011-12-10,Real Madrid,Barcelona,2.4,3.5,2.8
+2011-12-10,Levante,Sevilla,2.8,3.3,2.5
+2011-12-10,Betis,Valencia,3.2,3.25,2.25
+2011-12-10,Twente,Nijmegen,1.17,6.5,19.0
+2011-12-10,PSV Eindhoven,NAC Breda,1.14,7.0,21.0
+2011-12-10,Marseille,Bordeaux,1.73,3.4,5.25
+2011-12-10,Nurnberg,Hoffenheim,2.3,3.4,3.0
+2011-12-10,AZ Alkmaar,Graafschap,1.13,7.5,23.0
+2011-12-10,Excelsior,Heerenveen,6.0,4.33,1.5
+2011-12-10,Rennes,Brest,1.62,3.6,6.0
+2011-12-10,Sochaux,Paris SG,4.0,3.3,1.95
+2011-12-10,St Etienne,Caen,1.8,3.3,4.75
+2011-12-10,Toulouse,Evian Thonon Gaillard,1.73,3.3,5.5
+2011-12-10,Valenciennes,Montpellier,2.5,3.0,3.0
+2011-12-10,Bochum,Fortuna Dusseldorf,3.1,3.4,2.25
+2011-12-10,Union Berlin,Frankfurt FSV,1.62,3.75,5.5
+2011-12-10,Nancy,Ajaccio,1.73,3.3,5.5
+2011-12-10,Gaziantepspor,Eskisehirspor,2.4,3.2,3.0
+2011-12-10,Siena,Genoa,2.1,3.2,3.6
+2011-12-10,Lecce,Lazio,4.2,3.25,1.91
+2011-12-10,Genk,Lierse,1.4,4.5,8.0
+2011-12-10,Middlesbrough,Brighton,1.8,3.5,4.5
+2011-12-10,Leicester,Peterboro,1.62,3.75,5.5
+2011-12-10,Bergen,Cercle Brugge,2.1,3.4,3.4
+2011-12-10,Derby,Bristol City,2.5,3.3,2.75
+2011-12-10,Coventry,Hull,2.88,3.3,2.4
+2011-12-10,Burnley,Portsmouth,2.0,3.4,3.75
+2011-12-10,Palermo,Cesena,1.62,3.6,6.0
+2011-12-10,Birmingham,Doncaster,1.62,3.75,5.5
+2011-12-10,Kortrijk,Westerlo,1.73,3.75,4.5
+2011-12-10,Inter,Fiorentina,1.91,3.25,4.33
+2011-12-10,Lokeren,Standard,3.0,3.5,2.25
+2011-12-10,Oud-Heverlee Leuven,Waregem,2.9,3.3,2.4
+2011-12-10,Barnsley,Ipswich,2.0,3.5,3.6
+2011-12-10,Watford,Leeds,2.7,3.4,2.5
+2011-12-11,Malaga,Osasuna,1.62,3.75,5.5
+2011-12-11,Getafe,Granada,1.73,3.5,5.0
+2011-12-11,Ath Bilbao,Santander,1.4,4.5,8.0
+2011-12-11,Espanol,Ath Madrid,2.8,3.25,2.5
+2011-12-11,Utrecht,Feyenoord,3.1,3.5,2.2
+2011-12-11,Sunderland,Blackburn,1.83,3.5,4.5
+2011-12-11,Stoke,Tottenham,3.75,3.5,2.0
+2011-12-11,Dortmund,Kaiserslautern,1.25,5.5,12.0
+2011-12-11,Stuttgart,Bayern Munich,6.25,4.0,1.53
+2011-12-11,VVV Venlo,Roda,4.0,3.75,1.83
+2011-12-11,Setubal,Feirense,2.3,3.1,3.2
+2011-12-11,Rio Ave,Gil Vicente,2.1,3.2,3.6
+2011-12-11,Maritimo,Benfica,5.0,3.5,1.73
+2011-12-11,Vallecano,Sp Gijon,2.0,3.2,4.0
+2011-12-11,Leiria,Guimaraes,3.1,3.1,2.4
+2011-12-11,Bologna,Milan,8.0,4.0,1.44
+2011-12-11,Cagliari,Parma,2.1,3.1,3.75
+2011-12-11,Novara,Napoli,4.0,3.4,1.91
+2011-12-11,Udinese,Chievo,1.5,3.75,7.5
+2011-12-11,Zaragoza,Mallorca,2.1,3.25,3.6
+2011-12-11,Villarreal,Sociedad,1.8,3.5,4.5
+2011-12-11,Atalanta,Catania,2.0,3.2,4.0
+2011-12-11,Waalwijk,Ajax,8.0,4.5,1.4
+2011-12-11,Vitesse,Groningen,2.1,3.4,3.4
+2011-12-11,Antalyaspor,Ankaragucu,1.73,3.6,4.75
+2011-12-11,Trabzonspor,Galatasaray,2.38,3.2,3.0
+2011-12-11,Mersin Idman Yurdu,Samsunspor,1.95,3.2,4.2
+2011-12-11,Genclerbirligi,Orduspor,2.2,3.1,3.5
+2011-12-11,Lorient,Lyon,3.0,3.0,2.5
+2011-12-11,Lille,Dijon,1.29,5.0,12.0
+2011-12-11,Auxerre,Nice,1.95,3.1,4.33
+2011-12-11,Besiktas,Buyuksehyr,1.75,3.5,4.75
+2011-12-11,Club Brugge,St Truiden,1.25,6.0,10.0
+2011-12-11,Ingolstadt,St Pauli,3.75,3.6,1.91
+2011-12-11,Aachen,Erzgebirge Aue,1.83,3.5,4.33
+2011-12-11,Dresden,Cottbus,2.2,3.4,3.2
+2011-12-12,Ein Frankfurt,Greuther Furth,1.8,3.5,4.5
+2011-12-12,Sivasspor,Manisaspor,2.3,3.2,3.1
+2011-12-12,Kayserispor,Karabukspor,1.83,3.4,4.5
+2011-12-12,Chelsea,Man City,2.4,3.3,3.0
+2011-12-12,Roma,Juventus,4.0,3.2,2.0
+2011-12-12,Bursaspor,Fenerbahce,2.88,3.2,2.5
+2011-12-12,Olhanense,Academica,2.3,3.2,3.2
+2011-12-13,FC Koln,Mainz,2.5,3.4,2.7
+2011-12-13,St Johnstone,Aberdeen,2.25,3.2,3.25
+2011-12-13,Genoa,Inter,3.25,3.2,2.25
+2011-12-14,Trabzonspor,Genclerbirligi,1.62,3.75,5.5
+2011-12-16,Benfica,Rio Ave,1.17,6.5,19.0
+2011-12-16,Greuther Furth,Union Berlin,1.62,4.0,5.25
+2011-12-16,Orduspor,Galatasaray,4.0,3.4,1.91
+2011-12-16,Graafschap,Waalwijk,2.5,3.4,2.7
+2011-12-16,Erzgebirge Aue,Ingolstadt,2.2,3.4,3.2
+2011-12-16,Fortuna Dusseldorf,Paderborn,1.62,3.75,5.5
+2011-12-16,Bayern Munich,FC Koln,1.13,8.5,17.0
+2011-12-17,Blackpool,Watford,1.91,3.4,4.0
+2011-12-17,Brighton,Burnley,2.2,3.4,3.2
+2011-12-17,Bristol City,Nott'm Forest,2.38,3.25,3.0
+2011-12-17,Hull,Millwall,2.0,3.4,3.75
+2011-12-17,Milan,Siena,1.29,5.0,12.0
+2011-12-17,Ipswich,Derby,2.2,3.5,3.1
+2011-12-17,Guimaraes,Gil Vicente,1.73,3.6,4.75
+2011-12-17,Chievo,Cagliari,1.91,3.25,4.2
+2011-12-17,Cardiff,Middlesbrough,2.1,3.4,3.4
+2011-12-17,Porto,Maritimo,1.22,6.0,13.0
+2011-12-17,Frankfurt FSV,Bochum,3.0,3.4,2.3
+2011-12-17,Karabukspor,Mersin Idman Yurdu,2.6,3.1,2.8
+2011-12-17,Eskisehirspor,Kayserispor,2.0,3.3,3.75
+2011-12-17,Bursaspor,Antalyaspor,1.73,3.5,5.0
+2011-12-17,Ankaragucu,Gaziantepspor,3.8,3.3,2.0
+2011-12-17,Karlsruhe,Munich 1860,3.2,3.4,2.2
+2011-12-17,Wolves,Stoke,2.5,3.25,2.88
+2011-12-17,Fiorentina,Atalanta,1.91,3.25,4.33
+2011-12-17,Rangers,Inverness C,1.22,6.0,13.0
+2011-12-17,Blackburn,West Brom,2.38,3.3,3.0
+2011-12-17,Westerlo,Germinal,3.2,3.25,2.25
+2011-12-17,Brest,Auxerre,2.1,3.0,4.0
+2011-12-17,Kilmarnock,Dundee United,2.4,3.3,2.88
+2011-12-17,Hearts,Dunfermline,1.57,3.75,6.0
+2011-12-17,Aberdeen,Hibernian,2.1,3.25,3.6
+2011-12-17,Leeds,Reading,2.25,3.4,3.1
+2011-12-17,Freiburg,Dortmund,5.5,4.0,1.57
+2011-12-17,Hamburg,Augsburg,1.57,3.75,6.0
+2011-12-17,Hoffenheim,Hertha,1.91,3.5,4.0
+2011-12-17,Leverkusen,Nurnberg,1.5,4.0,7.0
+2011-12-17,Groningen,Utrecht,1.57,3.8,6.0
+2011-12-17,Heracles,Vitesse,1.83,3.5,4.2
+2011-12-17,Nijmegen,VVV Venlo,1.44,4.2,7.5
+2011-12-17,Roda,Excelsior,1.25,5.5,12.0
+2011-12-17,Schalke 04,Werder Bremen,2.0,3.5,3.6
+2011-12-17,Wolfsburg,Stuttgart,2.6,3.4,2.6
+2011-12-17,Caen,Nancy,2.0,3.2,4.0
+2011-12-17,Dijon,St Etienne,2.9,3.1,2.5
+2011-12-17,Lyon,Evian Thonon Gaillard,1.36,4.33,10.0
+2011-12-17,Marseille,Lorient,1.53,3.75,7.0
+2011-12-17,Waregem,Bergen,2.05,3.4,3.5
+2011-12-17,Doncaster,Leicester,4.0,3.5,1.91
+2011-12-17,Fulham,Bolton,1.62,3.75,6.0
+2011-12-17,Everton,Norwich,1.62,3.75,6.0
+2011-12-17,Wigan,Chelsea,9.0,4.75,1.36
+2011-12-17,Sp Gijon,Espanol,2.2,3.25,3.25
+2011-12-17,Sevilla,Real Madrid,8.0,4.5,1.4
+2011-12-17,Motherwell,St Mirren,1.91,3.4,4.0
+2011-12-17,Mallorca,Getafe,2.1,3.4,3.4
+2011-12-17,Lierse,Kortrijk,2.6,3.2,2.7
+2011-12-17,St Truiden,Mechelen,2.4,3.4,2.8
+2011-12-17,West Ham,Barnsley,1.57,3.75,6.0
+2011-12-17,Peterboro,Coventry,1.73,3.75,4.5
+2011-12-17,Nice,Valenciennes,2.3,3.0,3.4
+2011-12-17,Montpellier,Toulouse,1.83,3.25,4.75
+2011-12-17,Ath Bilbao,Zaragoza,1.4,4.33,8.5
+2011-12-17,Newcastle,Swansea,1.8,3.6,4.5
+2011-12-18,Portsmouth,Southampton,3.25,3.3,2.2
+2011-12-18,Heerenveen,PSV Eindhoven,3.6,3.75,1.91
+2011-12-18,Man City,Arsenal,1.73,3.75,4.5
+2011-12-18,NAC Breda,AZ Alkmaar,4.2,4.0,1.73
+2011-12-18,Ajaccio,Rennes,5.0,3.5,1.73
+2011-12-18,Bordeaux,Sochaux,1.57,3.75,6.0
+2011-12-18,Paris SG,Lille,2.2,3.2,3.4
+2011-12-18,Ath Madrid,Betis,1.5,4.0,6.5
+2011-12-18,Granada,Levante,2.5,3.25,2.8
+2011-12-18,Osasuna,Villarreal,2.1,3.4,3.4
+2011-12-18,Santander,Sociedad,2.1,3.3,3.5
+2011-12-18,Valencia,Malaga,1.73,3.6,4.75
+2011-12-18,St Johnstone,Celtic,6.5,4.0,1.5
+2011-12-18,Parma,Lecce,1.67,3.6,5.5
+2011-12-18,Napoli,Roma,1.83,3.4,4.5
+2011-12-18,Lazio,Udinese,2.2,3.2,3.4
+2011-12-18,Genoa,Bologna,1.8,3.4,4.75
+2011-12-18,Cesena,Inter,4.75,3.25,1.83
+2011-12-18,Catania,Palermo,2.1,3.2,3.6
+2011-12-18,Kaiserslautern,Hannover,2.3,3.3,3.1
+2011-12-18,Tottenham,Sunderland,1.36,4.75,9.0
+2011-12-18,QPR,Man United,7.5,4.33,1.44
+2011-12-18,Aston Villa,Liverpool,4.2,3.4,1.91
+2011-12-18,Juventus,Novara,1.22,6.0,13.0
+2011-12-18,M'gladbach,Mainz,1.83,3.5,4.33
+2011-12-18,Oud-Heverlee Leuven,Club Brugge,6.0,3.8,1.57
+2011-12-18,Standard,Genk,1.91,3.4,4.0
+2011-12-18,Buyuksehyr,Sivasspor,1.85,3.5,4.2
+2011-12-18,Academica,Sp Lisbon,5.5,3.5,1.67
+2011-12-18,Feirense,Leiria,2.3,3.1,3.25
+2011-12-18,Nacional,Setubal,1.83,3.4,4.5
+2011-12-18,Pacos Ferreira,Beira Mar,2.3,3.1,3.25
+2011-12-18,Hansa Rostock,Dresden,2.25,3.4,3.1
+2011-12-18,Cottbus,Duisburg,2.3,3.4,3.0
+2011-12-18,Braunschweig,Aachen,1.8,3.5,4.5
+2011-12-18,Anderlecht,Lokeren,1.3,5.0,10.0
+2011-12-18,Fenerbahce,Trabzonspor,1.85,3.4,4.33
+2011-12-18,Manisaspor,Genclerbirligi,2.0,3.3,3.75
+2011-12-18,Samsunspor,Besiktas,4.2,3.3,1.91
+2011-12-18,Cercle Brugge,Gent,3.2,3.4,2.2
+2011-12-18,Feyenoord,Twente,2.8,3.4,2.4
+2011-12-18,Ajax,Den Haag,1.17,7.0,15.0
+2011-12-19,Crystal Palace,Birmingham,2.8,3.25,2.5
+2011-12-19,Olhanense,Sp Braga,5.0,3.5,1.73
+2011-12-19,St Pauli,Ein Frankfurt,2.6,3.4,2.6
+2011-12-20,Nancy,Marseille,4.5,3.3,1.85
+2011-12-20,Wolves,Norwich,2.0,3.5,3.75
+2011-12-20,Blackburn,Bolton,2.1,3.4,3.5
+2011-12-20,Cagliari,Milan,6.5,3.6,1.57
+2011-12-20,Siena,Fiorentina,2.5,3.1,2.9
+2011-12-21,Lorient,Caen,1.83,3.25,4.75
+2011-12-21,Antalyaspor,Fenerbahce,4.2,3.3,1.91
+2011-12-21,Atalanta,Cesena,1.91,3.25,4.33
+2011-12-21,Bologna,Roma,3.4,3.1,2.25
+2011-12-21,Inter,Lecce,1.3,5.0,11.0
+2011-12-21,Mersin Idman Yurdu,Eskisehirspor,2.5,3.1,2.9
+2011-12-21,Lazio,Chievo,1.53,3.75,7.0
+2011-12-21,Napoli,Genoa,1.57,3.75,6.25
+2011-12-21,Novara,Palermo,2.38,3.0,3.2
+2011-12-21,Parma,Catania,2.1,3.2,3.6
+2011-12-21,Udinese,Juventus,2.88,3.2,2.5
+2011-12-21,Aston Villa,Arsenal,5.0,3.6,1.73
+2011-12-21,Lille,Nice,1.36,4.33,10.0
+2011-12-21,Everton,Swansea,1.57,3.75,6.5
+2011-12-21,Man City,Stoke,1.22,6.0,15.0
+2011-12-21,Newcastle,West Brom,2.0,3.5,3.75
+2011-12-21,Sivasspor,Samsunspor,1.91,3.25,4.33
+2011-12-21,Kayserispor,Ankaragucu,1.62,3.75,5.5
+2011-12-21,Auxerre,Dijon,1.8,3.25,5.0
+2011-12-21,QPR,Sunderland,2.5,3.3,2.88
+2011-12-21,Evian Thonon Gaillard,Montpellier,3.2,3.0,2.38
+2011-12-21,St Etienne,Paris SG,3.5,3.1,2.2
+2011-12-21,Sochaux,Ajaccio,1.62,3.6,6.0
+2011-12-21,Rennes,Bordeaux,2.2,3.1,3.5
+2011-12-21,Wigan,Liverpool,7.0,4.0,1.5
+2011-12-21,Fulham,Man United,5.0,3.6,1.73
+2011-12-21,Galatasaray,Manisaspor,1.4,4.5,8.0
+2011-12-21,Valenciennes,Lyon,3.1,3.1,2.4
+2011-12-21,Toulouse,Brest,1.85,3.2,4.75
+2011-12-22,Genclerbirligi,Buyuksehyr,2.38,3.25,3.0
+2011-12-22,Besiktas,Karabukspor,1.4,4.5,8.0
+2011-12-22,Gaziantepspor,Bursaspor,2.5,3.0,3.0
+2011-12-22,Trabzonspor,Orduspor,1.53,3.75,7.0
+2011-12-22,Tottenham,Chelsea,2.6,3.4,2.7
+2011-12-24,Hearts,Motherwell,2.1,3.3,3.5
+2011-12-24,Dunfermline,St Johnstone,3.3,3.3,2.2
+2011-12-24,Dundee United,Hibernian,1.83,3.4,4.5
+2011-12-24,Celtic,Kilmarnock,1.25,5.5,12.0
+2011-12-24,Inverness C,Aberdeen,2.4,3.3,2.88
+2011-12-24,St Mirren,Rangers,7.5,4.2,1.44
+2011-12-26,Barnsley,Blackpool,2.5,3.4,2.7
+2011-12-26,Chelsea,Fulham,1.3,5.0,12.0
+2011-12-26,Liverpool,Blackburn,1.25,5.5,13.0
+2011-12-26,Burnley,Doncaster,1.73,3.75,4.5
+2011-12-26,Man United,Wigan,1.14,7.5,21.0
+2011-12-26,Coventry,Bristol City,2.63,3.3,2.63
+2011-12-26,Stoke,Aston Villa,1.91,3.4,4.2
+2011-12-26,Club Brugge,Waregem,1.4,4.5,8.0
+2011-12-26,Sunderland,Everton,2.4,3.25,3.0
+2011-12-26,West Brom,Man City,7.0,4.5,1.44
+2011-12-26,Germinal,Lierse,1.73,3.5,5.0
+2011-12-26,Kortrijk,Standard,2.9,3.3,2.4
+2011-12-26,Lokeren,St Truiden,1.67,3.75,5.0
+2011-12-26,Mechelen,Oud-Heverlee Leuven,1.7,3.6,5.0
+2011-12-26,Bolton,Newcastle,2.5,3.4,2.8
+2011-12-26,Birmingham,West Ham,2.5,3.25,2.8
+2011-12-26,Genk,Cercle Brugge,1.73,3.5,5.0
+2011-12-26,Millwall,Portsmouth,2.1,3.3,3.5
+2011-12-26,Watford,Cardiff,2.88,3.2,2.5
+2011-12-26,Southampton,Crystal Palace,1.44,4.33,7.0
+2011-12-26,Reading,Brighton,1.73,3.5,5.0
+2011-12-26,Derby,Leeds,2.8,3.4,2.4
+2011-12-26,Leicester,Ipswich,1.57,4.0,5.5
+2011-12-26,Middlesbrough,Hull,2.0,3.4,3.75
+2011-12-26,Gent,Westerlo,1.25,5.5,12.0
+2011-12-26,Nott'm Forest,Peterboro,2.0,3.5,3.6
+2011-12-27,Norwich,Tottenham,4.5,3.6,1.8
+2011-12-27,Swansea,QPR,2.0,3.4,3.8
+2011-12-27,Bergen,Anderlecht,5.0,3.75,1.67
+2011-12-27,Arsenal,Wolves,1.22,6.0,15.0
+2011-12-28,St Mirren,Dundee United,2.8,3.25,2.5
+2011-12-28,St Johnstone,Kilmarnock,2.3,3.25,3.1
+2011-12-28,Celtic,Rangers,2.0,3.3,3.75
+2011-12-28,Hibernian,Inverness C,2.38,3.25,3.0
+2011-12-28,Aberdeen,Hearts,2.75,3.3,2.5
+2011-12-30,Southampton,Bristol City,1.44,4.33,7.0
+2011-12-30,Liverpool,Newcastle,1.53,4.0,6.5
+2011-12-31,Reading,Ipswich,1.67,3.6,5.25
+2011-12-31,Swansea,Tottenham,5.5,3.6,1.67
+2011-12-31,Watford,Doncaster,1.83,3.4,4.5
+2011-12-31,Nott'm Forest,Cardiff,2.63,3.25,2.63
+2011-12-31,Bolton,Wolves,2.2,3.25,3.4
+2011-12-31,Birmingham,Blackpool,1.91,3.6,3.75
+2011-12-31,Burnley,Hull,2.38,3.25,3.0
+2011-12-31,Chelsea,Aston Villa,1.29,5.0,13.0
+2011-12-31,Norwich,Fulham,2.6,3.25,2.75
+2011-12-31,Coventry,Brighton,2.63,3.2,2.7
+2011-12-31,Derby,West Ham,3.5,3.3,2.1
+2011-12-31,Leicester,Portsmouth,1.73,3.5,5.0
+2011-12-31,Middlesbrough,Peterboro,1.67,3.75,5.0
+2011-12-31,Arsenal,QPR,1.25,5.5,13.0
+2011-12-31,Millwall,Crystal Palace,2.1,3.3,3.5
+2011-12-31,Man United,Blackburn,1.13,8.0,26.0
+2011-12-31,Stoke,Wigan,1.67,3.6,5.5
+2011-12-31,Barnsley,Leeds,2.8,3.4,2.4
+2012-01-01,Sunderland,Man City,6.5,4.0,1.53
+2012-01-01,West Brom,Everton,2.6,3.25,2.75
+2012-01-02,Brighton,Southampton,3.5,3.3,2.1
+2012-01-02,Cardiff,Reading,2.2,3.3,3.25
+2012-01-02,Crystal Palace,Leicester,2.8,3.25,2.5
+2012-01-02,Blackpool,Middlesbrough,2.6,3.25,2.7
+2012-01-02,Kilmarnock,St Mirren,2.1,3.3,3.5
+2012-01-02,Dunfermline,Celtic,12.0,5.5,1.25
+2012-01-02,Hibernian,Hearts,3.2,3.25,2.25
+2012-01-02,Portsmouth,Watford,2.0,3.3,3.75
+2012-01-02,Peterboro,Birmingham,2.88,3.4,2.38
+2012-01-02,Leeds,Burnley,2.1,3.4,3.4
+2012-01-02,Rangers,Motherwell,1.33,5.0,9.0
+2012-01-02,Dundee United,Aberdeen,2.0,3.4,3.75
+2012-01-02,QPR,Norwich,2.1,3.4,3.5
+2012-01-02,Ipswich,Nott'm Forest,2.2,3.3,3.25
+2012-01-02,Fulham,Arsenal,4.0,3.5,1.91
+2012-01-02,Blackburn,Stoke,2.5,3.25,2.88
+2012-01-02,Hull,Derby,1.83,3.4,4.5
+2012-01-02,Doncaster,Barnsley,2.5,3.4,2.7
+2012-01-02,Aston Villa,Swansea,1.83,3.4,4.75
+2012-01-02,Wolves,Chelsea,6.0,4.0,1.57
+2012-01-02,West Ham,Coventry,1.44,4.2,7.5
+2012-01-03,Trabzonspor,Manisaspor,1.67,3.5,5.5
+2012-01-03,Galatasaray,Buyuksehyr,1.5,4.0,7.0
+2012-01-03,Kayserispor,Bursaspor,2.5,3.1,2.9
+2012-01-03,Man City,Liverpool,1.91,3.4,4.2
+2012-01-03,Bristol City,Millwall,2.1,3.3,3.5
+2012-01-03,Tottenham,West Brom,1.33,5.0,10.0
+2012-01-03,Wigan,Sunderland,2.63,3.25,2.75
+2012-01-03,Sivasspor,Karabukspor,1.83,3.5,4.33
+2012-01-03,Mersin Idman Yurdu,Ankaragucu,1.36,4.5,9.0
+2012-01-04,Besiktas,Eskisehirspor,1.67,3.5,5.5
+2012-01-04,Gaziantepspor,Antalyaspor,2.25,3.1,3.4
+2012-01-04,Newcastle,Man United,5.0,3.6,1.73
+2012-01-04,Genclerbirligi,Samsunspor,1.67,3.5,5.5
+2012-01-04,Everton,Bolton,1.5,4.0,7.0
+2012-01-04,Orduspor,Fenerbahce,5.5,3.5,1.67
+2012-01-06,Setubal,Academica,3.25,3.0,2.38
+2012-01-07,Samsunspor,Galatasaray,6.0,3.6,1.62
+2012-01-07,Bursaspor,Mersin Idman Yurdu,1.83,3.25,4.75
+2012-01-07,Inter,Parma,1.4,4.33,8.5
+2012-01-07,Levante,Mallorca,1.91,3.4,4.0
+2012-01-07,Malaga,Ath Madrid,2.2,3.25,3.25
+2012-01-07,Real Madrid,Granada,1.06,11.0,29.0
+2012-01-07,Santander,Zaragoza,2.0,3.3,3.8
+2012-01-07,Sociedad,Osasuna,2.2,3.25,3.3
+2012-01-07,Sp Lisbon,Porto,3.0,3.25,2.38
+2012-01-07,Buyuksehyr,Trabzonspor,3.4,3.2,2.2
+2012-01-07,Siena,Lazio,3.25,3.1,2.3
+2012-01-08,Ankaragucu,Besiktas,9.0,5.0,1.33
+2012-01-08,Antalyaspor,Kayserispor,2.5,3.2,2.88
+2012-01-08,Eskisehirspor,Sivasspor,2.05,3.3,3.6
+2012-01-08,Getafe,Ath Bilbao,2.5,3.3,2.75
+2012-01-08,Roma,Chievo,1.62,3.6,6.0
+2012-01-08,Cagliari,Genoa,2.25,3.1,3.4
+2012-01-08,Lecce,Juventus,7.5,3.8,1.5
+2012-01-08,Novara,Fiorentina,2.9,3.1,2.5
+2012-01-08,Palermo,Napoli,3.0,3.25,2.38
+2012-01-08,Udinese,Cesena,1.44,3.8,9.0
+2012-01-08,Manisaspor,Orduspor,2.05,3.3,3.6
+2012-01-08,Karabukspor,Genclerbirligi,2.6,3.1,2.8
+2012-01-08,Villarreal,Valencia,3.0,3.4,2.3
+2012-01-08,Vallecano,Sevilla,3.0,3.25,2.38
+2012-01-08,Espanol,Barcelona,13.0,6.0,1.22
+2012-01-08,Bologna,Catania,2.3,3.2,3.2
+2012-01-08,Gil Vicente,Nacional,2.2,3.2,3.4
+2012-01-08,Guimaraes,Feirense,1.67,3.5,5.5
+2012-01-08,Betis,Sp Gijon,1.91,3.5,4.0
+2012-01-08,Atalanta,Milan,5.5,3.25,1.73
+2012-01-08,Leiria,Benfica,10.0,4.5,1.3
+2012-01-08,Rio Ave,Pacos Ferreira,1.95,3.3,4.0
+2012-01-08,Maritimo,Olhanense,1.57,3.75,6.0
+2012-01-09,Beira Mar,Sp Braga,4.75,3.3,1.8
+2012-01-09,Fenerbahce,Gaziantepspor,1.44,4.2,7.5
+2012-01-11,Tottenham,Everton,1.53,3.8,7.0
+2012-01-11,Birmingham,Ipswich,1.5,4.0,7.0
+2012-01-13,Pacos Ferreira,Maritimo,3.0,3.2,2.38
+2012-01-14,Ajaccio,Auxerre,2.8,3.1,2.6
+2012-01-14,Benfica,Setubal,1.14,7.5,17.0
+2012-01-14,Montpellier,Lyon,2.7,3.1,2.7
+2012-01-14,Bordeaux,Valenciennes,1.8,3.3,4.75
+2012-01-14,Brest,Nice,1.95,3.2,4.2
+2012-01-14,Caen,Rennes,2.9,3.1,2.5
+2012-01-14,Dijon,Evian Thonon Gaillard,2.25,3.2,3.25
+2012-01-14,Feirense,Gil Vicente,2.25,3.2,3.25
+2012-01-14,Nancy,Lorient,2.5,3.1,2.9
+2012-01-14,Chelsea,Sunderland,1.4,4.5,8.5
+2012-01-14,Blackburn,Fulham,3.0,3.3,2.38
+2012-01-14,Aberdeen,Kilmarnock,2.1,3.3,3.5
+2012-01-14,St Johnstone,Rangers,6.0,4.0,1.53
+2012-01-14,Celtic,Dundee United,1.22,6.0,13.0
+2012-01-14,Motherwell,Inverness C,1.91,3.4,4.0
+2012-01-14,Hearts,St Mirren,1.73,3.5,5.0
+2012-01-14,Dunfermline,Hibernian,2.75,3.3,2.5
+2012-01-14,St Truiden,Kortrijk,2.9,3.3,2.4
+2012-01-14,Aston Villa,Everton,2.4,3.25,3.0
+2012-01-14,West Brom,Norwich,2.0,3.4,3.8
+2012-01-14,Tottenham,Wolves,1.25,5.5,13.0
+2012-01-14,Man United,Bolton,1.14,8.0,17.0
+2012-01-14,Liverpool,Stoke,1.4,4.33,9.0
+2012-01-14,Paris SG,Toulouse,1.57,3.75,6.0
+2012-01-14,St Etienne,Sochaux,1.67,3.5,5.5
+2012-01-14,Standard,Germinal,1.44,4.2,7.5
+2012-01-14,Galatasaray,Karabukspor,1.29,5.25,10.0
+2012-01-14,Valencia,Sociedad,1.4,4.5,8.0
+2012-01-14,Zaragoza,Getafe,2.6,3.2,2.75
+2012-01-14,Oud-Heverlee Leuven,Lokeren,2.75,3.3,2.5
+2012-01-14,Mechelen,Bergen,2.0,3.5,3.6
+2012-01-14,Brighton,Bristol City,2.25,3.25,3.2
+2012-01-14,Crystal Palace,Leeds,2.5,3.3,2.75
+2012-01-14,Derby,Coventry,1.8,3.6,4.33
+2012-01-14,Doncaster,Cardiff,3.75,3.4,2.0
+2012-01-14,Hull,Peterboro,1.73,3.5,5.0
+2012-01-14,Ipswich,Blackpool,2.88,3.4,2.38
+2012-01-14,Leicester,Barnsley,1.62,3.75,5.5
+2012-01-14,Porto,Rio Ave,1.14,7.5,17.0
+2012-01-14,Millwall,Birmingham,2.9,3.25,2.4
+2012-01-14,Nott'm Forest,Southampton,2.9,3.25,2.4
+2012-01-14,Middlesbrough,Burnley,1.91,3.4,4.0
+2012-01-14,Watford,Reading,2.8,3.25,2.5
+2012-01-14,Lierse,Gent,5.0,3.75,1.67
+2012-01-14,Cercle Brugge,Westerlo,1.67,3.75,5.0
+2012-01-14,Granada,Vallecano,2.25,3.2,3.25
+2012-01-14,Mallorca,Real Madrid,11.0,5.0,1.29
+2012-01-14,Sevilla,Espanol,1.8,3.5,4.5
+2012-01-14,Genclerbirligi,Eskisehirspor,2.2,3.2,3.4
+2012-01-14,Portsmouth,West Ham,2.9,3.25,2.4
+2012-01-15,Trabzonspor,Samsunspor,1.3,5.0,10.0
+2012-01-15,Besiktas,Bursaspor,1.8,3.5,4.5
+2012-01-15,Ath Bilbao,Levante,1.62,3.75,5.5
+2012-01-15,Ath Madrid,Villarreal,1.67,3.75,5.0
+2012-01-15,Orduspor,Buyuksehyr,2.4,3.2,3.0
+2012-01-15,Mersin Idman Yurdu,Antalyaspor,2.0,3.3,3.75
+2012-01-15,Sivasspor,Ankaragucu,1.44,4.2,6.0
+2012-01-15,Sp Gijon,Malaga,3.1,3.25,2.3
+2012-01-15,Osasuna,Santander,1.73,3.5,5.0
+2012-01-15,Barcelona,Betis,1.07,11.0,26.0
+2012-01-15,Academica,Guimaraes,2.2,3.25,3.25
+2012-01-15,Swansea,Arsenal,4.75,3.5,1.8
+2012-01-15,Olhanense,Beira Mar,2.3,3.2,3.1
+2012-01-15,Fiorentina,Lecce,1.4,4.5,8.0
+2012-01-15,Chievo,Palermo,2.1,3.0,3.9
+2012-01-15,Cesena,Novara,2.0,3.2,4.0
+2012-01-15,Marseille,Lille,2.2,3.1,3.5
+2012-01-15,Lazio,Atalanta,1.8,3.4,4.75
+2012-01-15,Milan,Inter,2.1,3.25,3.6
+2012-01-15,Genoa,Udinese,2.9,3.1,2.5
+2012-01-15,Newcastle,QPR,1.73,3.6,5.0
+2012-01-15,Nacional,Leiria,1.91,3.25,4.2
+2012-01-15,Waregem,Genk,2.9,3.3,2.38
+2012-01-15,Anderlecht,Club Brugge,1.73,3.5,5.0
+2012-01-15,Sp Braga,Sp Lisbon,2.4,3.2,3.0
+2012-01-15,Parma,Siena,2.2,3.0,3.6
+2012-01-15,Juventus,Cagliari,1.3,4.5,13.0
+2012-01-16,Kayserispor,Gaziantepspor,2.0,3.3,3.75
+2012-01-16,Manisaspor,Fenerbahce,4.0,3.4,1.91
+2012-01-16,Napoli,Bologna,1.33,5.0,9.0
+2012-01-16,Wigan,Man City,9.0,4.33,1.4
+2012-01-20,Den Haag,Roda,1.91,3.6,3.75
+2012-01-20,Gaziantepspor,Mersin Idman Yurdu,2.1,3.2,3.6
+2012-01-20,Antalyaspor,Besiktas,3.75,3.3,2.0
+2012-01-20,Genk,St Truiden,1.33,5.0,9.0
+2012-01-20,Academica,Leiria,1.91,3.3,4.2
+2012-01-20,M'gladbach,Bayern Munich,5.0,3.75,1.67
+2012-01-21,Bergen,Oud-Heverlee Leuven,1.62,3.8,5.5
+2012-01-21,Germinal,Cercle Brugge,2.3,3.3,3.1
+2012-01-21,Gent,Waregem,1.4,4.5,8.0
+2012-01-21,Dundee United,Motherwell,2.15,3.3,3.4
+2012-01-21,Samsunspor,Orduspor,2.63,3.1,2.75
+2012-01-21,Karabukspor,Trabzonspor,4.75,3.25,1.83
+2012-01-21,Fenerbahce,Kayserispor,1.36,4.33,10.0
+2012-01-21,Buyuksehyr,Manisaspor,2.2,3.1,3.5
+2012-01-21,Bursaspor,Sivasspor,1.83,3.4,4.5
+2012-01-21,Hibernian,St Johnstone,2.75,3.2,2.6
+2012-01-21,Kortrijk,Anderlecht,4.0,3.5,1.91
+2012-01-21,St Mirren,Celtic,8.5,4.75,1.36
+2012-01-21,Rangers,Aberdeen,1.33,4.75,10.0
+2012-01-21,Kilmarnock,Dunfermline,1.57,4.0,5.5
+2012-01-21,Inverness C,Hearts,2.9,3.3,2.4
+2012-01-21,Club Brugge,Mechelen,1.44,4.33,7.0
+2012-01-21,Lokeren,Lierse,1.67,3.8,5.0
+2012-01-21,Cardiff,Portsmouth,1.8,3.5,4.5
+2012-01-21,Bolton,Liverpool,6.0,3.75,1.62
+2012-01-21,Peterboro,Brighton,1.91,3.6,3.75
+2012-01-21,Reading,Hull,2.0,3.3,3.8
+2012-01-21,West Ham,Nott'm Forest,1.57,4.0,5.5
+2012-01-21,Roma,Cesena,1.4,4.2,9.0
+2012-01-21,Atalanta,Juventus,4.33,3.25,1.91
+2012-01-21,Santander,Getafe,2.5,3.2,2.8
+2012-01-21,Wolves,Aston Villa,2.5,3.25,2.88
+2012-01-21,Sunderland,Swansea,1.91,3.4,4.2
+2012-01-21,Stoke,West Brom,1.91,3.4,4.2
+2012-01-21,QPR,Wigan,2.0,3.4,3.8
+2012-01-21,Norwich,Chelsea,5.5,4.0,1.62
+2012-01-21,Fulham,Newcastle,2.0,3.4,3.8
+2012-01-21,Everton,Blackburn,1.53,4.0,6.5
+2012-01-21,Excelsior,NAC Breda,3.8,3.6,1.91
+2012-01-21,Beira Mar,Maritimo,2.8,3.1,2.63
+2012-01-21,Graafschap,Heerenveen,4.5,4.0,1.7
+2012-01-21,Twente,Waalwijk,1.22,6.0,13.0
+2012-01-21,Betis,Sevilla,2.5,3.3,2.75
+2012-01-21,Sociedad,Ath Madrid,2.9,3.3,2.4
+2012-01-21,Leeds,Ipswich,1.73,3.6,4.75
+2012-01-21,Coventry,Middlesbrough,3.5,3.3,2.1
+2012-01-21,Espanol,Granada,1.73,3.5,5.0
+2012-01-21,Bristol City,Doncaster,1.83,3.4,4.5
+2012-01-21,Freiburg,Augsburg,2.05,3.4,3.6
+2012-01-21,Hoffenheim,Hannover,1.85,3.6,4.0
+2012-01-21,Kaiserslautern,Werder Bremen,2.8,3.4,2.4
+2012-01-21,Nurnberg,Hertha,2.15,3.3,3.4
+2012-01-21,Schalke 04,Stuttgart,1.8,3.6,4.33
+2012-01-21,Wolfsburg,FC Koln,1.8,3.75,4.2
+2012-01-21,Burnley,Derby,1.83,3.4,4.5
+2012-01-21,Blackpool,Crystal Palace,1.67,3.75,5.0
+2012-01-21,Birmingham,Watford,1.67,3.75,5.0
+2012-01-21,Barnsley,Millwall,2.25,3.2,3.25
+2012-01-22,Vallecano,Mallorca,2.0,3.4,3.75
+2012-01-22,Levante,Zaragoza,1.83,3.4,4.5
+2012-01-22,Malaga,Barcelona,9.5,5.5,1.29
+2012-01-22,Osasuna,Valencia,3.25,3.25,2.25
+2012-01-22,Porto,Guimaraes,1.3,5.5,9.0
+2012-01-22,Real Madrid,Ath Bilbao,1.2,6.5,15.0
+2012-01-22,Pacos Ferreira,Setubal,2.0,3.2,4.0
+2012-01-22,Benfica,Gil Vicente,1.14,7.5,17.0
+2012-01-22,Westerlo,Standard,4.2,3.5,1.85
+2012-01-22,Sp Braga,Rio Ave,1.36,4.33,10.0
+2012-01-22,Groningen,Heracles,1.7,3.75,4.75
+2012-01-22,Utrecht,PSV Eindhoven,7.0,4.33,1.44
+2012-01-22,Vitesse,Nijmegen,1.57,4.0,5.5
+2012-01-22,VVV Venlo,Feyenoord,7.0,4.33,1.44
+2012-01-22,Nacional,Feirense,1.91,3.3,4.2
+2012-01-22,AZ Alkmaar,Ajax,2.3,3.5,2.9
+2012-01-22,Ankaragucu,Genclerbirligi,5.5,3.8,1.62
+2012-01-22,Bologna,Parma,2.5,3.0,3.0
+2012-01-22,Arsenal,Man United,2.8,3.4,2.5
+2012-01-22,Man City,Tottenham,1.91,3.6,4.0
+2012-01-22,Eskisehirspor,Galatasaray,4.5,3.3,1.85
+2012-01-22,Hamburg,Dortmund,4.33,3.5,1.83
+2012-01-22,Udinese,Catania,1.62,3.6,6.0
+2012-01-22,Siena,Napoli,3.5,3.3,2.1
+2012-01-22,Palermo,Genoa,2.05,3.25,3.75
+2012-01-22,Novara,Milan,8.5,4.33,1.4
+2012-01-22,Leverkusen,Mainz,1.8,3.5,4.5
+2012-01-22,Lecce,Chievo,2.4,3.2,3.0
+2012-01-22,Cagliari,Fiorentina,2.38,3.1,3.1
+2012-01-22,Inter,Lazio,1.62,3.6,6.0
+2012-01-23,Southampton,Leicester,1.91,3.4,4.0
+2012-01-23,Villarreal,Sp Gijon,1.83,3.5,4.33
+2012-01-23,Olhanense,Sp Lisbon,5.5,3.6,1.67
+2012-01-24,Anderlecht,Gent,1.57,4.0,5.5
+2012-01-24,Manisaspor,Samsunspor,1.91,3.25,4.33
+2012-01-24,Motherwell,Dunfermline,1.6,3.75,5.75
+2012-01-24,Mersin Idman Yurdu,Kayserispor,2.3,3.1,3.2
+2012-01-24,Sivasspor,Antalyaspor,1.91,3.25,4.2
+2012-01-24,Besiktas,Gaziantepspor,1.4,4.33,8.5
+2012-01-25,Galatasaray,Ankaragucu,1.07,11.0,26.0
+2012-01-25,Trabzonspor,Eskisehirspor,1.62,3.75,5.5
+2012-01-25,Buyuksehyr,Fenerbahce,4.5,3.5,1.8
+2012-01-25,Genclerbirligi,Bursaspor,2.4,3.2,3.0
+2012-01-25,Lierse,Cercle Brugge,2.8,3.25,2.5
+2012-01-25,Mechelen,Genk,2.63,3.3,2.63
+2012-01-25,Club Brugge,Lokeren,1.53,4.0,6.0
+2012-01-25,Oud-Heverlee Leuven,Kortrijk,3.0,3.4,2.3
+2012-01-25,St Truiden,Westerlo,2.1,3.4,3.4
+2012-01-25,Waregem,Germinal,2.0,3.4,3.75
+2012-01-25,Orduspor,Karabukspor,2.1,3.25,3.6
+2012-01-26,Standard,Bergen,1.44,4.33,7.0
+2012-01-27,Guimaraes,Nacional,1.91,3.4,4.0
+2012-01-27,Hannover,Nurnberg,2.2,3.4,3.2
+2012-01-27,PSV Eindhoven,Vitesse,1.2,6.5,13.0
+2012-01-28,Lyon,Dijon,1.36,4.5,9.0
+2012-01-28,Lorient,Sochaux,1.7,3.4,5.5
+2012-01-28,Lille,St Etienne,1.55,3.75,6.5
+2012-01-28,Espanol,Mallorca,1.91,3.4,4.0
+2012-01-28,Brest,Paris SG,4.0,3.2,2.0
+2012-01-28,Auxerre,Nancy,2.05,3.1,4.0
+2012-01-28,Toulouse,Caen,1.8,3.25,5.0
+2012-01-28,Villarreal,Barcelona,12.0,6.0,1.22
+2012-01-28,Vallecano,Ath Bilbao,3.0,3.2,2.38
+2012-01-28,Real Madrid,Zaragoza,1.07,11.0,26.0
+2012-01-28,Nice,Montpellier,3.0,3.0,2.5
+2012-01-28,Motherwell,St Johnstone,2.2,3.3,3.25
+2012-01-28,Heerenveen,Utrecht,1.5,4.0,7.0
+2012-01-28,Catania,Parma,2.1,3.25,3.6
+2012-01-28,Bursaspor,Galatasaray,4.0,3.2,2.0
+2012-01-28,Antalyaspor,Genclerbirligi,2.3,3.2,3.2
+2012-01-28,Genk,Oud-Heverlee Leuven,1.33,5.0,9.0
+2012-01-28,Gent,St Truiden,1.29,5.25,8.0
+2012-01-28,Germinal,Anderlecht,5.5,3.75,1.62
+2012-01-28,Kortrijk,Waregem,2.0,3.3,3.75
+2012-01-28,Lokeren,Mechelen,2.1,3.4,3.4
+2012-01-28,Westerlo,Lierse,2.1,3.3,3.5
+2012-01-28,Heracles,Excelsior,1.25,5.5,12.0
+2012-01-28,Feirense,Benfica,12.0,5.5,1.25
+2012-01-28,Rio Ave,Academica,2.1,3.3,3.5
+2012-01-28,Juventus,Udinese,1.62,3.75,5.5
+2012-01-28,NAC Breda,Graafschap,1.57,4.0,5.5
+2012-01-28,Inverness C,St Mirren,2.1,3.4,3.4
+2012-01-28,Peterboro,Portsmouth,2.1,3.4,3.4
+2012-01-28,Reading,Bristol City,1.8,3.5,4.5
+2012-01-28,Werder Bremen,Leverkusen,2.2,3.4,3.2
+2012-01-28,Hertha,Hamburg,2.38,3.25,3.0
+2012-01-28,FC Koln,Schalke 04,4.0,3.5,1.91
+2012-01-28,Dortmund,Hoffenheim,1.33,5.0,9.0
+2012-01-28,Bayern Munich,Wolfsburg,1.17,7.0,15.0
+2012-01-28,Augsburg,Kaiserslautern,2.5,3.2,2.88
+2012-01-28,Aberdeen,Dunfermline,1.57,3.8,6.0
+2012-01-28,Rangers,Hibernian,1.25,6.0,10.0
+2012-01-28,Roda,AZ Alkmaar,4.33,3.6,1.8
+2012-01-29,Genoa,Napoli,3.2,3.25,2.25
+2012-01-29,Fiorentina,Siena,1.83,3.25,4.75
+2012-01-29,Lecce,Inter,6.0,3.6,1.62
+2012-01-29,Chievo,Lazio,2.88,3.2,2.5
+2012-01-29,Karabukspor,Manisaspor,2.2,3.25,3.3
+2012-01-29,Milan,Cagliari,1.3,5.0,10.0
+2012-01-29,Feyenoord,Ajax,3.0,3.5,2.25
+2012-01-29,Nijmegen,Den Haag,2.0,3.5,3.6
+2012-01-29,Twente,Groningen,1.36,4.75,8.0
+2012-01-29,Waalwijk,VVV Venlo,1.62,4.0,5.0
+2012-01-29,Levante,Getafe,2.4,3.3,2.88
+2012-01-29,Cesena,Atalanta,2.6,3.1,2.8
+2012-01-29,Palermo,Novara,1.53,3.75,7.0
+2012-01-29,Fenerbahce,Mersin Idman Yurdu,1.33,4.75,10.0
+2012-01-29,Malaga,Sevilla,2.2,3.3,3.3
+2012-01-29,Mainz,Freiburg,1.67,3.75,5.0
+2012-01-29,Stuttgart,M'gladbach,2.5,3.25,2.8
+2012-01-29,Evian Thonon Gaillard,Bordeaux,2.8,3.0,2.7
+2012-01-29,Sp Lisbon,Beira Mar,1.36,4.33,10.0
+2012-01-29,Setubal,Olhanense,2.5,3.3,2.75
+2012-01-29,Leiria,Pacos Ferreira,2.15,3.3,3.4
+2012-01-29,Gil Vicente,Porto,11.0,5.0,1.29
+2012-01-29,Cercle Brugge,Standard,2.9,3.25,2.4
+2012-01-29,Bergen,Club Brugge,3.5,3.5,2.0
+2012-01-29,Ankaragucu,Trabzonspor,14.0,6.0,1.2
+2012-01-29,Eskisehirspor,Orduspor,1.73,3.4,5.25
+2012-01-29,Betis,Granada,1.62,3.75,5.5
+2012-01-29,Gaziantepspor,Sivasspor,2.6,3.2,2.75
+2012-01-29,Rennes,Marseille,2.8,3.0,2.7
+2012-01-29,Samsunspor,Buyuksehyr,2.38,3.1,3.1
+2012-01-29,Santander,Valencia,3.25,3.3,2.2
+2012-01-29,Sociedad,Sp Gijon,2.0,3.4,3.75
+2012-01-29,Roma,Bologna,1.4,4.2,9.0
+2012-01-29,Valenciennes,Ajaccio,1.53,3.75,7.0
+2012-01-30,Osasuna,Ath Madrid,3.1,3.3,2.3
+2012-01-30,Maritimo,Sp Braga,3.2,3.4,2.2
+2012-01-30,Kayserispor,Besiktas,3.6,3.2,2.1
+2012-01-31,Everton,Man City,4.33,3.5,1.85
+2012-01-31,Man United,Stoke,1.33,5.0,10.0
+2012-01-31,Millwall,Watford,2.1,3.25,3.6
+2012-01-31,Tottenham,Wigan,1.22,6.0,15.0
+2012-01-31,Wolves,Liverpool,5.0,3.8,1.7
+2012-01-31,Southampton,Cardiff,2.0,3.4,3.75
+2012-01-31,Leeds,Birmingham,2.8,3.25,2.5
+2012-01-31,Ipswich,West Ham,3.75,3.6,1.91
+2012-01-31,Hull,Doncaster,1.53,3.75,7.0
+2012-01-31,Crystal Palace,Brighton,2.25,3.2,3.25
+2012-01-31,Barnsley,Derby,2.25,3.3,3.2
+2012-01-31,Swansea,Chelsea,4.0,3.25,2.0
+2012-01-31,Blackpool,Coventry,1.57,4.0,5.5
+2012-01-31,Nott'm Forest,Burnley,2.4,3.3,2.88
+2012-02-01,Inter,Palermo,1.44,4.2,7.5
+2012-02-01,Bolton,Arsenal,5.0,3.75,1.7
+2012-02-01,Blackburn,Newcastle,2.63,3.3,2.7
+2012-02-01,Aston Villa,QPR,1.8,3.5,4.75
+2012-02-01,Trabzonspor,Bursaspor,1.7,3.6,5.0
+2012-02-01,Genclerbirligi,Gaziantepspor,1.91,3.4,4.0
+2012-02-01,Galatasaray,Antalyaspor,1.33,4.75,10.0
+2012-02-01,Udinese,Lecce,1.44,4.2,7.0
+2012-02-01,Napoli,Cesena,1.29,5.0,11.0
+2012-02-01,Lazio,Milan,3.2,3.2,2.3
+2012-02-01,Fulham,West Brom,1.83,3.5,4.5
+2012-02-01,Cagliari,Roma,2.88,3.2,2.5
+2012-02-01,Sunderland,Norwich,1.91,3.5,4.2
+2012-02-01,Leicester,Middlesbrough,2.0,3.4,3.75
+2012-02-02,Sivasspor,Kayserispor,1.91,3.5,4.0
+2012-02-02,Samsunspor,Fenerbahce,6.0,3.75,1.57
+2012-02-02,Manisaspor,Eskisehirspor,2.6,3.2,2.75
+2012-02-02,Besiktas,Mersin Idman Yurdu,1.36,4.5,9.0
+2012-02-02,Novara,Chievo,2.63,3.1,2.75
+2012-02-03,Nurnberg,Dortmund,6.0,4.0,1.57
+2012-02-03,Duisburg,Frankfurt FSV,1.67,3.75,5.0
+2012-02-03,Paderborn,Union Berlin,1.91,3.4,4.0
+2012-02-03,Dresden,Greuther Furth,3.75,3.4,2.0
+2012-02-03,Heerenveen,Roda,1.44,4.5,6.5
+2012-02-04,Stoke,Sunderland,2.25,3.25,3.3
+2012-02-04,Birmingham,Southampton,2.1,3.4,3.4
+2012-02-04,Bristol City,Leeds,2.4,3.25,2.9
+2012-02-04,Bordeaux,Toulouse,2.0,3.1,4.2
+2012-02-04,Excelsior,VVV Venlo,2.25,3.5,3.0
+2012-02-04,Vitesse,NAC Breda,1.67,3.75,5.0
+2012-02-04,West Brom,Swansea,2.1,3.3,3.6
+2012-02-04,Wigan,Everton,3.5,3.4,2.1
+2012-02-04,Ath Bilbao,Espanol,1.73,3.5,5.0
+2012-02-04,Cardiff,Blackpool,1.83,3.75,4.0
+2012-02-04,Coventry,Ipswich,2.38,3.4,2.88
+2012-02-04,Middlesbrough,Crystal Palace,1.7,3.6,5.0
+2012-02-04,Brighton,Leicester,2.88,3.2,2.5
+2012-02-04,Burnley,Peterboro,1.73,3.75,4.5
+2012-02-04,Barcelona,Sociedad,1.07,11.0,26.0
+2012-02-04,Antalyaspor,Trabzonspor,3.2,3.4,2.2
+2012-02-04,Montpellier,Brest,1.57,3.6,6.5
+2012-02-04,Nancy,Rennes,3.2,3.0,2.38
+2012-02-04,Paris SG,Evian Thonon Gaillard,1.33,4.75,10.0
+2012-02-04,Hamburg,Bayern Munich,6.0,4.0,1.53
+2012-02-04,Hertha,Hannover,2.4,3.4,2.8
+2012-02-04,Hoffenheim,Augsburg,1.62,3.8,5.5
+2012-02-04,Leverkusen,Stuttgart,1.75,3.75,4.5
+2012-02-04,Schalke 04,Mainz,1.73,3.75,4.5
+2012-02-04,Wolfsburg,M'gladbach,2.88,3.4,2.4
+2012-02-04,Aachen,St Pauli,2.88,3.4,2.38
+2012-02-04,Ingolstadt,Fortuna Dusseldorf,4.0,3.4,1.91
+2012-02-04,Waregem,Westerlo,1.67,3.75,5.0
+2012-02-04,St Truiden,Cercle Brugge,2.9,3.3,2.4
+2012-02-04,Oud-Heverlee Leuven,Gent,6.0,4.0,1.53
+2012-02-04,Mechelen,Kortrijk,2.0,3.4,3.75
+2012-02-04,Lokeren,Bergen,1.91,3.5,4.0
+2012-02-04,Lierse,Standard,4.33,3.5,1.83
+2012-02-04,Roma,Inter,2.4,3.2,3.0
+2012-02-04,Watford,Barnsley,2.1,3.3,3.5
+2012-02-04,Gaziantepspor,Galatasaray,3.5,3.3,2.1
+2012-02-04,West Ham,Millwall,1.57,3.8,6.0
+2012-02-04,Dijon,Valenciennes,2.63,3.0,2.88
+2012-02-04,Ajaccio,Nice,2.4,3.1,3.1
+2012-02-04,Getafe,Real Madrid,9.0,5.0,1.33
+2012-02-04,Levante,Santander,2.3,3.2,3.2
+2012-02-04,Mallorca,Betis,2.2,3.2,3.4
+2012-02-04,QPR,Wolves,1.91,3.6,4.0
+2012-02-04,Arsenal,Blackburn,1.29,5.5,11.0
+2012-02-04,Norwich,Bolton,2.0,3.5,3.75
+2012-02-04,Man City,Fulham,1.3,5.5,10.0
+2012-02-05,Lecce,Bologna,2.3,3.2,3.2
+2012-02-05,Juventus,Siena,1.3,5.0,11.0
+2012-02-05,Genoa,Lazio,2.5,3.25,2.8
+2012-02-05,Chievo,Parma,2.3,3.1,3.3
+2012-02-05,Nijmegen,Feyenoord,3.0,3.4,2.3
+2012-02-05,Heracles,PSV Eindhoven,4.5,3.75,1.75
+2012-02-05,Bursaspor,Orduspor,1.8,3.5,4.5
+2012-02-05,Fenerbahce,Besiktas,2.0,3.4,3.75
+2012-02-05,Fiorentina,Udinese,2.4,3.2,3.0
+2012-02-05,Milan,Napoli,1.73,3.5,5.0
+2012-02-05,Palermo,Atalanta,1.83,3.4,4.5
+2012-02-05,Anderlecht,Genk,1.44,4.33,7.0
+2012-02-05,Club Brugge,Germinal,1.4,4.33,8.5
+2012-02-05,Karlsruhe,Erzgebirge Aue,2.15,3.4,3.3
+2012-02-05,Ein Frankfurt,Braunschweig,1.57,3.8,6.0
+2012-02-05,Bochum,Hansa Rostock,1.62,3.75,5.5
+2012-02-05,Kaiserslautern,FC Koln,1.75,3.5,4.75
+2012-02-05,Freiburg,Werder Bremen,3.2,3.4,2.2
+2012-02-05,Zaragoza,Vallecano,2.38,3.2,3.0
+2012-02-05,Sp Gijon,Osasuna,2.25,3.25,3.25
+2012-02-05,Sevilla,Villarreal,1.83,3.5,4.33
+2012-02-05,Ath Madrid,Valencia,2.0,3.4,3.75
+2012-02-05,Marseille,Lyon,2.0,3.3,3.75
+2012-02-05,Novara,Cagliari,2.8,3.1,2.63
+2012-02-05,Mersin Idman Yurdu,Sivasspor,2.63,3.3,2.63
+2012-02-05,Kayserispor,Genclerbirligi,2.3,3.25,3.1
+2012-02-05,Chelsea,Man United,2.5,3.3,2.88
+2012-02-05,Newcastle,Aston Villa,2.0,3.4,3.8
+2012-02-05,Groningen,Waalwijk,1.53,4.0,6.0
+2012-02-05,Ajax,Utrecht,1.2,6.5,13.0
+2012-02-06,Karabukspor,Samsunspor,2.0,3.4,3.75
+2012-02-06,Liverpool,Tottenham,2.0,3.4,3.8
+2012-02-06,Eskisehirspor,Buyuksehyr,2.5,3.2,2.88
+2012-02-06,Munich 1860,Cottbus,1.8,3.6,4.33
+2012-02-06,Granada,Malaga,3.0,3.2,2.4
+2012-02-07,Dunfermline,Kilmarnock,3.4,3.4,2.1
+2012-02-07,Birmingham,Portsmouth,1.67,3.6,5.5
+2012-02-08,Catania,Roma,3.25,3.2,2.25
+2012-02-08,Den Haag,AZ Alkmaar,4.75,3.6,1.73
+2012-02-08,Hearts,Celtic,5.0,3.6,1.7
+2012-02-09,Lazio,Cesena,1.5,3.75,7.5
+2012-02-09,Sivasspor,Besiktas,2.5,3.25,2.8
+2012-02-09,Buyuksehyr,Karabukspor,1.73,3.6,4.75
+2012-02-10,Twente,Heracles,1.3,5.0,10.0
+2012-02-10,Sp Braga,Setubal,1.2,6.0,15.0
+2012-02-10,Trabzonspor,Gaziantepspor,1.44,4.2,7.5
+2012-02-10,Cottbus,Aachen,2.05,3.3,3.6
+2012-02-10,Frankfurt FSV,Ingolstadt,2.38,3.25,3.0
+2012-02-10,Wolfsburg,Freiburg,1.7,3.8,4.75
+2012-02-11,Maritimo,Sp Lisbon,3.6,3.25,2.1
+2012-02-11,Werder Bremen,Hoffenheim,1.83,3.5,4.33
+2012-02-11,Stuttgart,Hertha,1.8,3.5,4.5
+2012-02-11,Santander,Ath Madrid,3.75,3.4,2.0
+2012-02-11,Braunschweig,Karlsruhe,1.62,3.8,5.5
+2012-02-11,M'gladbach,Schalke 04,2.38,3.4,2.88
+2012-02-11,Mainz,Hannover,1.91,3.4,4.0
+2012-02-11,Dortmund,Leverkusen,1.4,4.5,8.0
+2012-02-11,Union Berlin,Dresden,1.91,3.6,3.8
+2012-02-11,Bayern Munich,Kaiserslautern,1.14,8.0,15.0
+2012-02-11,Sunderland,Arsenal,3.5,3.4,2.1
+2012-02-11,Benfica,Nacional,1.14,7.5,17.0
+2012-02-11,Reading,Coventry,1.5,4.0,7.0
+2012-02-11,Betis,Ath Bilbao,2.8,3.2,2.5
+2012-02-11,Hull,Bristol City,1.73,3.5,5.0
+2012-02-11,Celtic,Inverness C,1.25,5.5,12.0
+2012-02-11,Dunfermline,Rangers,11.0,5.0,1.29
+2012-02-11,Hibernian,Aberdeen,2.6,3.2,2.75
+2012-02-11,Kilmarnock,Hearts,2.63,3.25,2.63
+2012-02-11,St Johnstone,Dundee United,2.63,3.2,2.7
+2012-02-11,St Mirren,Motherwell,2.5,3.2,2.88
+2012-02-11,Leeds,Brighton,2.0,3.4,3.75
+2012-02-11,Leicester,Cardiff,2.25,3.4,3.1
+2012-02-11,Millwall,Derby,2.1,3.4,3.4
+2012-02-11,Auxerre,Lorient,2.4,3.2,3.0
+2012-02-11,Brest,Dijon,1.91,3.25,4.33
+2012-02-11,Lyon,Caen,1.4,4.2,9.0
+2012-02-11,Montpellier,Ajaccio,1.3,5.0,10.0
+2012-02-11,Rennes,Sochaux,1.44,4.0,8.0
+2012-02-11,Valenciennes,Nancy,1.8,3.3,4.75
+2012-02-11,Nott'm Forest,Watford,2.05,3.4,3.5
+2012-02-11,Westerlo,Oud-Heverlee Leuven,1.91,3.4,4.0
+2012-02-11,Southampton,Burnley,1.7,3.75,4.75
+2012-02-11,Osasuna,Barcelona,9.5,5.0,1.33
+2012-02-11,Lierse,Waregem,2.8,3.25,2.5
+2012-02-11,Swansea,Norwich,1.83,3.5,4.5
+2012-02-11,Germinal,St Truiden,1.57,3.75,6.0
+2012-02-11,Kortrijk,Bergen,1.91,3.4,4.0
+2012-02-11,Udinese,Milan,2.5,3.2,2.88
+2012-02-11,Cagliari,Palermo,2.1,3.2,3.6
+2012-02-11,NAC Breda,Ajax,4.5,3.75,1.73
+2012-02-11,AZ Alkmaar,Excelsior,1.1,9.0,21.0
+2012-02-11,Roda,Nijmegen,1.91,3.4,4.0
+2012-02-11,Blackburn,QPR,2.38,3.3,3.0
+2012-02-11,Bolton,Wigan,2.0,3.5,3.75
+2012-02-11,Everton,Chelsea,3.25,3.3,2.25
+2012-02-11,VVV Venlo,Groningen,3.6,3.5,2.0
+2012-02-11,Blackpool,Portsmouth,1.73,3.75,4.5
+2012-02-11,Man United,Liverpool,1.85,3.6,4.33
+2012-02-11,Fulham,Stoke,1.91,3.5,4.0
+2012-02-11,Genclerbirligi,Mersin Idman Yurdu,1.83,3.5,4.33
+2012-02-11,Genk,Lokeren,1.6,3.6,6.0
+2012-02-11,Tottenham,Newcastle,1.44,4.33,7.5
+2012-02-11,Cercle Brugge,Mechelen,2.1,3.4,3.4
+2012-02-11,Galatasaray,Kayserispor,1.44,4.33,7.0
+2012-02-12,Augsburg,Nurnberg,2.7,3.2,2.63
+2012-02-12,Aston Villa,Man City,5.5,3.6,1.67
+2012-02-12,Wolves,West Brom,2.5,3.25,2.88
+2012-02-12,Feyenoord,Vitesse,1.44,4.33,7.0
+2012-02-12,PSV Eindhoven,Graafschap,1.1,9.0,21.0
+2012-02-12,Utrecht,Den Haag,1.73,3.75,4.5
+2012-02-12,Samsunspor,Eskisehirspor,2.6,3.25,2.7
+2012-02-12,Orduspor,Antalyaspor,2.25,3.25,3.2
+2012-02-12,Manisaspor,Bursaspor,2.8,3.25,2.5
+2012-02-12,Karabukspor,Fenerbahce,4.5,3.5,1.8
+2012-02-12,Porto,Leiria,1.11,9.0,19.0
+2012-02-12,Buyuksehyr,Ankaragucu,1.3,5.0,10.0
+2012-02-12,Waalwijk,Heerenveen,3.4,3.4,2.1
+2012-02-12,Pacos Ferreira,Feirense,2.1,3.2,3.6
+2012-02-12,FC Koln,Hamburg,3.1,3.4,2.25
+2012-02-12,Beira Mar,Guimaraes,2.9,3.1,2.5
+2012-02-12,Gent,Club Brugge,1.91,3.4,4.0
+2012-02-12,Standard,Anderlecht,3.2,3.25,2.25
+2012-02-12,St Pauli,Bochum,1.73,3.75,4.5
+2012-02-12,Hansa Rostock,Duisburg,2.3,3.4,3.0
+2012-02-12,Vallecano,Getafe,2.5,3.2,2.8
+2012-02-12,Villarreal,Granada,1.57,3.75,6.0
+2012-02-12,Valencia,Sp Gijon,1.36,4.5,9.0
+2012-02-12,Real Madrid,Levante,1.08,10.0,26.0
+2012-02-12,Malaga,Mallorca,1.73,3.5,5.0
+2012-02-12,Espanol,Zaragoza,1.62,3.75,5.5
+2012-02-12,Olhanense,Rio Ave,2.3,3.2,3.2
+2012-02-12,Toulouse,St Etienne,2.1,3.0,4.0
+2012-02-12,Nice,Paris SG,4.0,3.2,2.0
+2012-02-12,Greuther Furth,Paderborn,1.7,3.6,5.0
+2012-02-12,Atalanta,Lecce,1.83,3.4,4.5
+2012-02-12,Catania,Genoa,2.1,3.25,3.5
+2012-02-12,Inter,Novara,1.25,5.5,13.0
+2012-02-12,Lille,Bordeaux,1.62,3.75,5.5
+2012-02-13,Siena,Roma,3.1,3.25,2.3
+2012-02-13,Academica,Gil Vicente,2.1,3.2,3.6
+2012-02-13,Fortuna Dusseldorf,Ein Frankfurt,2.4,3.4,2.8
+2012-02-13,Napoli,Chievo,1.53,4.0,6.0
+2012-02-13,Sociedad,Sevilla,2.8,3.25,2.5
+2012-02-14,Cardiff,Peterboro,1.62,3.8,5.5
+2012-02-14,Coventry,Leeds,3.1,3.3,2.3
+2012-02-14,West Ham,Southampton,2.25,3.25,3.2
+2012-02-14,Brighton,Millwall,2.0,3.4,3.75
+2012-02-14,Doncaster,Blackpool,3.1,3.4,2.25
+2012-02-14,Middlesbrough,Nott'm Forest,2.0,3.4,3.75
+2012-02-14,Portsmouth,Ipswich,2.2,3.5,3.1
+2012-02-14,Watford,Leicester,3.0,3.25,2.38
+2012-02-14,Birmingham,Hull,1.83,3.4,4.5
+2012-02-14,Bristol City,Crystal Palace,2.3,3.25,3.1
+2012-02-14,Derby,Reading,2.8,3.25,2.5
+2012-02-14,Burnley,Barnsley,1.73,3.5,5.0
+2012-02-15,Atalanta,Genoa,2.1,3.3,3.5
+2012-02-15,Parma,Juventus,4.75,3.4,1.8
+2012-02-17,Heerenveen,NAC Breda,1.3,5.25,9.5
+2012-02-17,Mersin Idman Yurdu,Galatasaray,5.5,3.4,1.7
+2012-02-17,Rio Ave,Maritimo,2.6,3.2,2.7
+2012-02-17,Inter,Bologna,1.44,4.0,8.0
+2012-02-17,Hoffenheim,Mainz,2.4,3.3,2.9
+2012-02-17,Duisburg,St Pauli,2.88,3.4,2.38
+2012-02-17,Karlsruhe,Cottbus,2.4,3.3,2.88
+2012-02-17,Paderborn,Dresden,1.91,3.4,4.0
+2012-02-17,Reading,Burnley,1.8,3.4,4.75
+2012-02-17,Fiorentina,Napoli,2.38,3.0,3.25
+2012-02-18,Fenerbahce,Sivasspor,1.57,3.6,6.5
+2012-02-18,Real Madrid,Santander,1.08,9.5,26.0
+2012-02-18,Getafe,Espanol,2.0,3.3,3.75
+2012-02-18,Kaiserslautern,M'gladbach,3.2,3.3,2.25
+2012-02-18,Ajaccio,Brest,2.6,3.1,2.8
+2012-02-18,Antalyaspor,Manisaspor,1.83,3.4,4.5
+2012-02-18,Caen,Evian Thonon Gaillard,2.25,3.1,3.4
+2012-02-18,Dijon,Nice,2.38,3.2,3.0
+2012-02-18,Lorient,Lille,3.25,3.2,2.25
+2012-02-18,Marseille,Valenciennes,1.44,4.0,8.0
+2012-02-18,Nancy,Toulouse,2.5,3.2,2.8
+2012-02-18,Freiburg,Bayern Munich,9.0,5.5,1.3
+2012-02-18,Ankaragucu,Samsunspor,6.0,4.0,1.44
+2012-02-18,Rangers,Kilmarnock,1.36,4.75,8.0
+2012-02-18,Sochaux,Auxerre,2.4,3.1,3.1
+2012-02-18,Motherwell,Hearts,2.5,3.25,2.8
+2012-02-18,Dunfermline,Inverness C,3.5,3.3,2.1
+2012-02-18,Dundee United,St Mirren,1.73,3.6,4.75
+2012-02-18,Ein Frankfurt,Frankfurt FSV,1.33,5.0,8.5
+2012-02-18,Barnsley,Portsmouth,2.38,3.25,3.0
+2012-02-18,Crystal Palace,Watford,2.25,3.2,3.25
+2012-02-18,Ipswich,Cardiff,2.75,3.3,2.5
+2012-02-18,Leeds,Doncaster,1.62,3.75,5.5
+2012-02-18,Nott'm Forest,Coventry,1.8,3.75,4.2
+2012-02-18,Peterboro,Bristol City,2.38,3.4,2.88
+2012-02-18,Southampton,Derby,1.53,3.8,6.5
+2012-02-18,Bochum,Union Berlin,2.1,3.25,3.5
+2012-02-18,Sevilla,Osasuna,1.62,3.75,5.5
+2012-02-18,Hamburg,Werder Bremen,2.0,3.5,3.6
+2012-02-18,Hertha,Dortmund,7.0,4.0,1.5
+2012-02-18,Heracles,Roda,1.57,4.0,5.5
+2012-02-18,St Truiden,Lierse,2.25,3.4,3.1
+2012-02-18,Graafschap,VVV Venlo,2.0,3.5,3.6
+2012-02-18,Lokeren,Gent,3.4,3.4,2.1
+2012-02-18,Mechelen,Germinal,1.83,3.5,4.33
+2012-02-18,Feyenoord,Waalwijk,1.36,4.75,8.5
+2012-02-18,Den Haag,Excelsior,1.4,4.5,7.5
+2012-02-18,Juventus,Catania,1.33,5.0,9.0
+2012-02-18,Bergen,Genk,3.0,3.4,2.3
+2012-02-18,Nurnberg,FC Koln,1.73,3.5,5.0
+2012-02-18,Gil Vicente,Sp Braga,4.33,3.4,1.83
+2012-02-18,Oud-Heverlee Leuven,Cercle Brugge,3.0,3.4,2.3
+2012-02-18,Leverkusen,Augsburg,1.5,4.0,7.0
+2012-02-19,Mallorca,Villarreal,2.25,3.25,3.2
+2012-02-19,Granada,Sociedad,2.3,3.2,3.2
+2012-02-19,Barcelona,Valencia,1.25,5.75,11.0
+2012-02-19,Hibernian,Celtic,9.0,5.0,1.33
+2012-02-19,Aberdeen,St Johnstone,2.2,3.25,3.3
+2012-02-19,Sp Gijon,Ath Madrid,4.0,3.4,1.91
+2012-02-19,Munich 1860,Fortuna Dusseldorf,2.75,3.3,2.5
+2012-02-19,Groningen,PSV Eindhoven,5.0,3.75,1.67
+2012-02-19,Ajax,Nijmegen,1.33,4.5,11.0
+2012-02-19,Ingolstadt,Greuther Furth,4.0,3.4,1.91
+2012-02-19,Aachen,Hansa Rostock,1.85,3.4,4.33
+2012-02-19,Setubal,Porto,13.0,4.75,1.29
+2012-02-19,Sp Lisbon,Pacos Ferreira,1.44,4.2,7.5
+2012-02-19,Hannover,Stuttgart,2.5,3.3,2.8
+2012-02-19,Feirense,Olhanense,2.38,3.1,3.1
+2012-02-19,Leiria,Beira Mar,2.3,3.2,3.1
+2012-02-19,Nacional,Academica,2.0,3.25,3.8
+2012-02-19,Waregem,Standard,2.8,3.3,2.5
+2012-02-19,Ath Bilbao,Malaga,1.83,3.6,4.2
+2012-02-19,Levante,Vallecano,2.3,3.2,3.2
+2012-02-19,Anderlecht,Westerlo,1.13,8.5,17.0
+2012-02-19,Utrecht,AZ Alkmaar,5.0,3.75,1.67
+2012-02-19,Vitesse,Twente,4.0,3.4,1.91
+2012-02-19,St Etienne,Rennes,2.3,3.1,3.25
+2012-02-19,Paris SG,Montpellier,1.8,3.3,4.75
+2012-02-19,Bordeaux,Lyon,2.5,3.1,2.9
+2012-02-19,Udinese,Cagliari,1.95,3.4,4.0
+2012-02-19,Club Brugge,Kortrijk,1.4,4.33,8.5
+2012-02-19,Palermo,Lazio,2.4,3.2,3.0
+2012-02-19,Novara,Atalanta,2.6,3.2,2.75
+2012-02-19,Lecce,Siena,2.4,3.2,3.0
+2012-02-19,Genoa,Chievo,1.91,3.4,4.0
+2012-02-19,Cesena,Milan,6.5,3.8,1.53
+2012-02-19,Roma,Parma,1.57,3.75,6.0
+2012-02-19,Schalke 04,Wolfsburg,1.67,3.75,5.0
+2012-02-19,Besiktas,Genclerbirligi,1.67,3.6,5.25
+2012-02-19,Eskisehirspor,Karabukspor,1.75,3.4,5.0
+2012-02-19,Kayserispor,Trabzonspor,3.6,3.0,2.2
+2012-02-19,Gaziantepspor,Orduspor,2.0,3.3,3.75
+2012-02-20,Bursaspor,Buyuksehyr,1.91,3.4,4.0
+2012-02-20,Erzgebirge Aue,Braunschweig,2.9,3.3,2.4
+2012-02-20,Zaragoza,Betis,2.6,3.2,2.75
+2012-02-20,Guimaraes,Benfica,6.0,3.75,1.55
+2012-02-21,Dundee United,Kilmarnock,1.83,3.5,4.33
+2012-02-21,Bologna,Fiorentina,2.5,3.0,3.0
+2012-02-21,Millwall,Middlesbrough,2.38,3.25,3.0
+2012-02-21,Blackpool,West Ham,2.38,3.4,2.88
+2012-02-21,Barnsley,Birmingham,3.5,3.3,2.1
+2012-02-22,Hull,Brighton,1.8,3.5,4.5
+2012-02-22,Caen,Auxerre,2.1,3.25,3.5
+2012-02-22,Sochaux,Lille,5.0,3.5,1.73
+2012-02-22,Siena,Catania,2.1,3.2,3.6
+2012-02-22,Motherwell,Hibernian,1.73,3.5,5.0
+2012-02-22,Celtic,Dunfermline,1.13,7.5,21.0
+2012-02-22,St Etienne,Lorient,2.0,3.2,4.0
+2012-02-23,Derby,Leicester,3.1,3.4,2.25
+2012-02-24,Hansa Rostock,Ingolstadt,2.1,3.3,3.5
+2012-02-24,Maritimo,Leiria,1.5,4.0,7.0
+2012-02-24,Dresden,Duisburg,2.1,3.4,3.4
+2012-02-24,Waalwijk,Vitesse,2.2,3.4,3.2
+2012-02-24,Union Berlin,Munich 1860,2.25,3.5,3.0
+2012-02-24,M'gladbach,Hamburg,1.73,3.75,4.5
+2012-02-24,Orduspor,Kayserispor,2.1,3.2,3.6
+2012-02-25,Portsmouth,Leeds,3.1,3.25,2.3
+2012-02-25,Malaga,Zaragoza,1.44,4.2,7.5
+2012-02-25,Espanol,Levante,1.73,3.5,5.0
+2012-02-25,Ajaccio,Dijon,2.3,3.25,3.1
+2012-02-25,Nijmegen,Groningen,2.2,3.5,3.1
+2012-02-25,Roda,Graafschap,1.29,5.0,11.0
+2012-02-25,Wigan,Aston Villa,2.75,3.25,2.63
+2012-02-25,West Brom,Sunderland,2.4,3.25,3.0
+2012-02-25,QPR,Fulham,2.63,3.25,2.75
+2012-02-25,Newcastle,Wolves,1.57,4.0,6.0
+2012-02-25,Man City,Blackburn,1.17,7.0,17.0
+2012-02-25,Chelsea,Bolton,1.29,5.5,11.0
+2012-02-25,Eskisehirspor,Fenerbahce,3.5,3.3,2.1
+2012-02-25,VVV Venlo,Heracles,3.75,3.6,1.91
+2012-02-25,Santander,Sp Gijon,2.05,3.25,3.75
+2012-02-25,Karabukspor,Ankaragucu,1.1,7.5,17.0
+2012-02-25,Cottbus,Erzgebirge Aue,1.91,3.4,4.0
+2012-02-25,Samsunspor,Bursaspor,2.6,3.2,2.75
+2012-02-25,Greuther Furth,Bochum,1.57,3.75,6.0
+2012-02-25,Middlesbrough,Reading,2.5,3.25,2.8
+2012-02-25,Valenciennes,Lorient,2.0,3.2,4.0
+2012-02-25,Nice,Caen,2.05,3.2,3.75
+2012-02-25,Montpellier,Bordeaux,1.91,3.3,4.2
+2012-02-25,Hearts,Dundee United,2.38,3.25,3.0
+2012-02-25,Kilmarnock,Hibernian,1.91,3.4,4.0
+2012-02-25,St Johnstone,Dunfermline,1.62,3.75,5.5
+2012-02-25,St Mirren,Aberdeen,2.38,3.25,3.0
+2012-02-25,Lyon,Paris SG,2.3,3.25,3.1
+2012-02-25,Evian Thonon Gaillard,Nancy,2.1,3.25,3.5
+2012-02-25,Auxerre,St Etienne,2.63,3.1,2.75
+2012-02-25,Manisaspor,Gaziantepspor,2.63,3.2,2.7
+2012-02-25,NAC Breda,Den Haag,1.83,3.5,4.33
+2012-02-25,Betis,Getafe,2.0,3.4,3.75
+2012-02-25,Academica,Benfica,9.0,4.5,1.36
+2012-02-25,Werder Bremen,Nurnberg,1.8,3.5,4.5
+2012-02-25,Stuttgart,Freiburg,1.67,3.75,5.0
+2012-02-25,Mainz,Kaiserslautern,1.73,3.6,4.75
+2012-02-25,FC Koln,Leverkusen,3.75,3.6,1.91
+2012-02-25,Augsburg,Hertha,2.6,3.25,2.7
+2012-02-25,Coventry,Barnsley,2.3,3.25,3.1
+2012-02-25,Doncaster,Peterboro,2.38,3.25,3.0
+2012-02-25,Westerlo,Mechelen,2.75,3.3,2.5
+2012-02-25,Burnley,Millwall,1.91,3.4,4.0
+2012-02-25,Brighton,Ipswich,2.25,3.4,3.1
+2012-02-25,Bristol City,Blackpool,3.0,3.4,2.3
+2012-02-25,Kortrijk,Lokeren,2.0,3.4,3.75
+2012-02-25,Germinal,Oud-Heverlee Leuven,1.62,3.8,5.5
+2012-02-25,Gent,Bergen,1.4,4.33,8.0
+2012-02-25,Celtic,Motherwell,1.33,5.0,9.0
+2012-02-25,Cercle Brugge,Waregem,2.4,3.25,2.9
+2012-02-25,Genoa,Parma,2.1,3.2,3.6
+2012-02-25,West Ham,Crystal Palace,1.62,3.75,5.5
+2012-02-25,Watford,Southampton,3.75,3.4,2.0
+2012-02-25,Milan,Juventus,2.2,3.25,3.3
+2012-02-25,Birmingham,Nott'm Forest,1.57,4.0,5.5
+2012-02-25,Wolfsburg,Hoffenheim,2.2,3.3,3.25
+2012-02-26,Rennes,Lille,2.6,3.1,2.8
+2012-02-26,Olhanense,Gil Vicente,2.3,3.1,3.3
+2012-02-26,Brest,Marseille,4.0,3.2,2.0
+2012-02-26,Atalanta,Roma,3.0,3.25,2.38
+2012-02-26,Cagliari,Lecce,1.8,3.4,4.75
+2012-02-26,Twente,Utrecht,1.25,5.5,12.0
+2012-02-26,PSV Eindhoven,Feyenoord,1.4,4.5,7.5
+2012-02-26,Beira Mar,Setubal,1.83,3.4,4.5
+2012-02-26,Bologna,Udinese,2.5,3.0,3.0
+2012-02-26,Standard,St Truiden,1.29,5.0,11.0
+2012-02-26,Lierse,Anderlecht,6.0,4.33,1.5
+2012-02-26,Genk,Club Brugge,2.2,3.4,3.2
+2012-02-26,Excelsior,Ajax,11.0,5.0,1.29
+2012-02-26,AZ Alkmaar,Heerenveen,1.57,4.2,5.25
+2012-02-26,Porto,Feirense,1.13,8.5,17.0
+2012-02-26,Sp Lisbon,Rio Ave,1.44,4.2,7.5
+2012-02-26,Toulouse,Sochaux,1.53,3.8,6.5
+2012-02-26,Catania,Novara,1.53,3.8,6.5
+2012-02-26,Pacos Ferreira,Nacional,2.3,3.1,3.3
+2012-02-26,Lazio,Fiorentina,2.1,3.25,3.6
+2012-02-26,Siena,Palermo,2.2,3.2,3.4
+2012-02-26,Napoli,Inter,1.83,3.4,4.33
+2012-02-26,Villarreal,Ath Bilbao,2.25,3.25,3.2
+2012-02-26,Vallecano,Real Madrid,8.0,4.75,1.36
+2012-02-26,Valencia,Sevilla,1.75,3.5,4.75
+2012-02-26,Sociedad,Mallorca,2.1,3.25,3.5
+2012-02-26,Osasuna,Granada,1.91,3.3,4.2
+2012-02-26,Ath Madrid,Barcelona,7.0,4.33,1.44
+2012-02-26,Chievo,Cesena,2.0,3.2,4.0
+2012-02-26,Arsenal,Tottenham,2.5,3.4,2.75
+2012-02-26,Norwich,Man United,6.5,4.0,1.53
+2012-02-26,Stoke,Swansea,2.1,3.4,3.5
+2012-02-26,Paderborn,Ein Frankfurt,3.6,3.5,2.0
+2012-02-26,Frankfurt FSV,Karlsruhe,2.3,3.25,3.1
+2012-02-26,Dortmund,Hannover,1.25,5.5,12.0
+2012-02-26,Bayern Munich,Schalke 04,1.4,4.5,7.5
+2012-02-26,Inverness C,Rangers,5.5,3.6,1.57
+2012-02-26,St Pauli,Braunschweig,1.8,3.5,4.5
+2012-02-26,Trabzonspor,Mersin Idman Yurdu,1.44,4.33,7.0
+2012-02-26,Buyuksehyr,Antalyaspor,2.1,3.3,3.5
+2012-02-26,Galatasaray,Besiktas,1.85,3.4,4.33
+2012-02-26,Genclerbirligi,Sivasspor,2.3,3.3,3.0
+2012-02-27,Fortuna Dusseldorf,Aachen,1.5,4.0,7.0
+2012-02-27,Sp Braga,Guimaraes,1.62,3.75,5.5
+2012-03-02,Blackpool,Hull,2.2,3.25,3.3
+2012-03-02,Benfica,Porto,2.5,3.2,2.88
+2012-03-02,Duisburg,Greuther Furth,4.33,3.5,1.83
+2012-03-02,Bochum,Dresden,2.1,3.4,3.4
+2012-03-02,Ingolstadt,Union Berlin,2.4,3.4,2.8
+2012-03-03,Rangers,Hearts,1.7,3.8,4.75
+2012-03-03,Dortmund,Mainz,1.3,5.0,11.0
+2012-03-03,Freiburg,Schalke 04,3.8,3.6,1.91
+2012-03-03,Hamburg,Stuttgart,2.0,3.5,3.6
+2012-03-03,Hannover,Augsburg,1.73,3.5,5.0
+2012-03-03,Hibernian,St Mirren,2.1,3.4,3.4
+2012-03-03,AZ Alkmaar,Heracles,1.3,4.75,7.5
+2012-03-03,Den Haag,Heerenveen,4.0,3.75,1.83
+2012-03-03,VVV Venlo,NAC Breda,2.1,3.5,3.3
+2012-03-03,Waalwijk,Excelsior,1.4,4.5,8.0
+2012-03-03,Hertha,Werder Bremen,2.5,3.4,2.7
+2012-03-03,Leverkusen,Bayern Munich,4.5,3.6,1.8
+2012-03-03,Aberdeen,Celtic,6.0,4.0,1.55
+2012-03-03,Dunfermline,Motherwell,5.0,3.5,1.73
+2012-03-03,Kilmarnock,St Johnstone,2.75,3.2,2.6
+2012-03-03,Kaiserslautern,Wolfsburg,2.3,3.25,3.1
+2012-03-03,QPR,Everton,3.1,3.25,2.38
+2012-03-03,Vallecano,Santander,1.83,3.4,4.5
+2012-03-03,Nancy,Lyon,3.6,3.2,2.1
+2012-03-03,Marseille,Toulouse,1.57,3.6,6.5
+2012-03-03,Dijon,Montpellier,3.8,3.2,2.05
+2012-03-03,Bordeaux,Nice,1.57,3.6,6.5
+2012-03-03,Juventus,Chievo,1.29,5.25,10.0
+2012-03-03,Palermo,Milan,4.75,3.6,1.73
+2012-03-03,Wigan,Swansea,2.5,3.25,2.88
+2012-03-03,West Brom,Chelsea,4.2,3.4,1.91
+2012-03-03,Stoke,Norwich,1.83,3.5,4.5
+2012-03-03,Man City,Bolton,1.13,8.5,21.0
+2012-03-03,Sochaux,Valenciennes,2.9,3.1,2.5
+2012-03-03,Liverpool,Arsenal,2.0,3.5,3.75
+2012-03-03,Barcelona,Sp Gijon,1.08,11.0,26.0
+2012-03-03,Getafe,Malaga,2.4,3.2,3.0
+2012-03-03,Mallorca,Osasuna,1.91,3.3,4.2
+2012-03-03,Sevilla,Ath Madrid,2.38,3.25,3.0
+2012-03-03,Karlsruhe,Fortuna Dusseldorf,3.75,3.4,2.0
+2012-03-03,Aachen,Paderborn,2.38,3.25,3.0
+2012-03-03,Barnsley,Nott'm Forest,2.8,3.3,2.5
+2012-03-03,Birmingham,Derby,1.5,3.75,7.5
+2012-03-03,Crystal Palace,Peterboro,2.0,3.3,3.8
+2012-03-03,Doncaster,Brighton,2.88,3.3,2.4
+2012-03-03,Blackburn,Aston Villa,2.38,3.4,3.0
+2012-03-03,St Etienne,Evian Thonon Gaillard,1.62,3.6,6.0
+2012-03-03,Lille,Auxerre,1.4,4.2,9.0
+2012-03-03,Antalyaspor,Samsunspor,1.83,3.4,4.5
+2012-03-03,St Truiden,Waregem,3.4,3.4,2.1
+2012-03-03,Oud-Heverlee Leuven,Lierse,2.2,3.4,3.2
+2012-03-03,Mechelen,Gent,2.7,3.4,2.5
+2012-03-03,Lokeren,Westerlo,1.44,4.2,7.5
+2012-03-03,Kortrijk,Genk,2.7,3.4,2.5
+2012-03-03,Bergen,Germinal,2.2,3.4,3.2
+2012-03-03,Watford,Burnley,2.5,3.4,2.7
+2012-03-03,Portsmouth,Middlesbrough,3.0,3.25,2.38
+2012-03-03,Millwall,Reading,3.0,3.2,2.4
+2012-03-03,Ankaragucu,Eskisehirspor,9.0,5.0,1.33
+2012-03-03,Leeds,Southampton,3.0,3.4,2.3
+2012-03-03,Ipswich,Bristol City,1.8,3.75,4.2
+2012-03-03,Leicester,Coventry,1.53,4.0,6.0
+2012-03-03,Setubal,Sp Lisbon,6.0,3.6,1.62
+2012-03-03,Fenerbahce,Genclerbirligi,1.53,4.0,6.0
+2012-03-03,Mersin Idman Yurdu,Orduspor,2.5,3.2,2.8
+2012-03-03,Nacional,Sp Braga,4.0,3.2,2.0
+2012-03-04,Lecce,Genoa,2.15,3.3,3.4
+2012-03-04,Inter,Catania,1.67,3.5,5.5
+2012-03-04,Club Brugge,Standard,1.83,3.6,4.2
+2012-03-04,Anderlecht,Cercle Brugge,1.29,5.25,10.0
+2012-03-04,Parma,Napoli,3.6,3.2,2.1
+2012-03-04,Besiktas,Trabzonspor,2.3,3.25,3.1
+2012-03-04,Bursaspor,Karabukspor,1.75,3.5,4.75
+2012-03-04,Gaziantepspor,Buyuksehyr,2.38,3.2,3.0
+2012-03-04,Kayserispor,Manisaspor,1.73,3.5,5.0
+2012-03-04,Bologna,Novara,1.73,3.5,5.0
+2012-03-04,Fiorentina,Cesena,1.5,3.75,7.5
+2012-03-04,Erzgebirge Aue,Frankfurt FSV,2.1,3.4,3.4
+2012-03-04,Ein Frankfurt,Cottbus,1.36,4.5,9.0
+2012-03-04,Braunschweig,Hansa Rostock,1.73,3.6,4.75
+2012-03-04,Roma,Lazio,2.1,3.3,3.5
+2012-03-04,Newcastle,Sunderland,2.1,3.4,3.5
+2012-03-04,Udinese,Atalanta,1.67,3.5,5.5
+2012-03-04,Cardiff,West Ham,2.4,3.4,2.8
+2012-03-04,Feirense,Academica,2.4,3.1,3.1
+2012-03-04,Gil Vicente,Pacos Ferreira,2.2,3.2,3.4
+2012-03-04,Guimaraes,Maritimo,2.3,3.1,3.25
+2012-03-04,Rio Ave,Beira Mar,2.1,3.1,3.75
+2012-03-04,Paris SG,Ajaccio,1.25,5.5,12.0
+2012-03-04,Lorient,Rennes,2.63,3.1,2.75
+2012-03-04,Siena,Cagliari,2.1,3.2,3.6
+2012-03-04,Nurnberg,M'gladbach,3.0,3.25,2.38
+2012-03-04,Hoffenheim,FC Koln,1.62,3.8,5.5
+2012-03-04,Tottenham,Man United,2.88,3.4,2.4
+2012-03-04,Caen,Brest,2.1,3.1,3.75
+2012-03-04,PSV Eindhoven,Twente,1.8,3.6,4.33
+2012-03-04,Fulham,Wolves,1.57,3.75,6.5
+2012-03-04,Utrecht,Nijmegen,2.1,3.4,3.4
+2012-03-04,Ath Bilbao,Sociedad,1.62,3.6,6.0
+2012-03-04,Granada,Valencia,3.5,3.3,2.1
+2012-03-04,Real Madrid,Espanol,1.13,8.0,21.0
+2012-03-04,Zaragoza,Villarreal,3.1,3.25,2.3
+2012-03-04,Vitesse,Graafschap,1.33,4.75,10.0
+2012-03-04,Ajax,Roda,1.22,6.0,13.0
+2012-03-04,Feyenoord,Groningen,1.44,4.5,6.5
+2012-03-05,Dundee United,Inverness C,1.73,3.75,4.5
+2012-03-05,Sivasspor,Galatasaray,3.4,3.4,2.1
+2012-03-05,Munich 1860,St Pauli,2.25,3.4,3.1
+2012-03-05,Leiria,Olhanense,2.5,3.0,3.0
+2012-03-05,Levante,Betis,2.5,3.2,2.88
+2012-03-06,Evian Thonon Gaillard,Marseille,3.25,3.2,2.25
+2012-03-06,Southampton,Ipswich,1.62,4.0,5.0
+2012-03-06,Bristol City,Leicester,4.0,3.5,1.91
+2012-03-06,Coventry,Crystal Palace,2.6,3.1,2.8
+2012-03-06,Derby,Blackpool,3.1,3.4,2.25
+2012-03-06,Hull,Leeds,2.0,3.4,3.75
+2012-03-06,Middlesbrough,Barnsley,1.62,3.75,5.5
+2012-03-06,Nott'm Forest,Doncaster,1.7,3.6,5.0
+2012-03-06,Peterboro,Millwall,2.3,3.25,3.1
+2012-03-06,Reading,Portsmouth,1.53,3.75,7.0
+2012-03-07,Brighton,Cardiff,2.4,3.2,3.0
+2012-03-07,West Ham,Watford,1.53,4.0,6.0
+2012-03-07,Parma,Fiorentina,2.1,3.1,3.75
+2012-03-07,Cesena,Catania,2.7,3.0,2.8
+2012-03-07,Bologna,Juventus,5.0,3.5,1.73
+2012-03-09,Maritimo,Feirense,1.53,3.75,7.0
+2012-03-09,Chievo,Inter,2.75,3.2,2.6
+2012-03-09,Stuttgart,Kaiserslautern,1.67,3.75,5.0
+2012-03-09,Roda,VVV Venlo,1.6,4.2,5.0
+2012-03-09,Napoli,Cagliari,1.53,3.75,7.0
+2012-03-09,Greuther Furth,Aachen,1.36,4.75,8.5
+2012-03-09,Ajaccio,Marseille,4.0,3.2,2.0
+2012-03-09,Union Berlin,Duisburg,1.73,3.75,4.5
+2012-03-09,Paderborn,Bochum,1.91,3.6,3.75
+2012-03-09,Ankaragucu,Fenerbahce,26.0,8.5,1.06
+2012-03-10,Peterboro,Blackpool,3.0,3.4,2.3
+2012-03-10,Reading,Leicester,2.1,3.25,3.6
+2012-03-10,Southampton,Barnsley,1.36,4.5,9.0
+2012-03-10,Heerenveen,Excelsior,1.18,7.0,13.0
+2012-03-10,West Ham,Doncaster,1.36,4.5,9.0
+2012-03-10,Chelsea,Stoke,1.4,4.5,8.5
+2012-03-10,Everton,Tottenham,2.88,3.25,2.5
+2012-03-10,Sunderland,Liverpool,3.8,3.4,2.0
+2012-03-10,Wolves,Blackburn,2.38,3.3,3.0
+2012-03-10,Bolton,QPR,2.5,3.25,2.88
+2012-03-10,Nott'm Forest,Millwall,2.2,3.3,3.25
+2012-03-10,Hull,Ipswich,2.0,3.4,3.75
+2012-03-10,Derby,Watford,2.3,3.25,3.1
+2012-03-10,Coventry,Birmingham,3.5,3.3,2.1
+2012-03-10,Burnley,Crystal Palace,2.0,3.4,3.75
+2012-03-10,Bristol City,Cardiff,3.25,3.3,2.2
+2012-03-10,Brighton,Portsmouth,1.57,3.6,5.5
+2012-03-10,Sp Braga,Leiria,1.22,6.0,13.0
+2012-03-10,Groningen,Vitesse,1.91,3.6,3.75
+2012-03-10,Porto,Academica,1.14,8.0,15.0
+2012-03-10,Valenciennes,St Etienne,2.2,3.1,3.5
+2012-03-10,Toulouse,Lorient,1.73,3.25,5.5
+2012-03-10,Nice,Nancy,2.0,3.2,4.0
+2012-03-10,Lyon,Lille,2.5,3.1,2.9
+2012-03-10,Evian Thonon Gaillard,Sochaux,1.83,3.4,4.5
+2012-03-10,Brest,Bordeaux,3.0,3.0,2.5
+2012-03-10,Palermo,Roma,2.63,3.3,2.63
+2012-03-10,Betis,Real Madrid,7.0,4.33,1.44
+2012-03-10,Aston Villa,Fulham,2.5,3.25,2.88
+2012-03-10,Sociedad,Zaragoza,1.73,3.6,4.75
+2012-03-10,Malaga,Levante,1.53,3.8,6.5
+2012-03-10,Frankfurt FSV,Munich 1860,3.4,3.4,2.1
+2012-03-10,Fortuna Dusseldorf,Erzgebirge Aue,1.33,4.75,10.0
+2012-03-10,Mainz,Nurnberg,1.91,3.4,4.0
+2012-03-10,FC Koln,Hertha,2.38,3.25,3.0
+2012-03-10,Bayern Munich,Hoffenheim,1.25,5.5,12.0
+2012-03-10,Inverness C,Kilmarnock,2.2,3.25,3.25
+2012-03-10,Augsburg,Dortmund,8.5,4.75,1.36
+2012-03-10,M'gladbach,Freiburg,1.53,4.0,6.0
+2012-03-10,Wolfsburg,Leverkusen,2.88,3.4,2.38
+2012-03-10,Galatasaray,Genclerbirligi,1.36,4.33,10.0
+2012-03-10,Sp Gijon,Sevilla,3.25,3.3,2.2
+2012-03-10,Heracles,Den Haag,1.44,4.33,7.0
+2012-03-10,Buyuksehyr,Kayserispor,2.1,3.3,3.5
+2012-03-11,Beira Mar,Gil Vicente,2.5,3.1,2.9
+2012-03-11,Eskisehirspor,Bursaspor,2.4,3.25,2.9
+2012-03-11,Karabukspor,Antalyaspor,2.15,3.3,3.4
+2012-03-11,Manisaspor,Mersin Idman Yurdu,2.4,3.3,2.88
+2012-03-11,Orduspor,Besiktas,3.1,3.25,2.3
+2012-03-11,Samsunspor,Gaziantepspor,2.3,3.25,3.1
+2012-03-11,Hansa Rostock,Ein Frankfurt,4.5,3.5,1.8
+2012-03-11,Cottbus,Braunschweig,2.4,3.25,2.9
+2012-03-11,Valencia,Mallorca,1.5,4.0,7.0
+2012-03-11,Atalanta,Parma,2.1,3.1,3.75
+2012-03-11,Cesena,Siena,2.9,3.1,2.5
+2012-03-11,Genoa,Juventus,4.33,3.5,1.83
+2012-03-11,Ath Madrid,Granada,1.33,4.75,10.0
+2012-03-11,Espanol,Vallecano,2.1,3.4,3.4
+2012-03-11,Osasuna,Ath Bilbao,2.8,3.25,2.5
+2012-03-11,Dresden,Ingolstadt,1.91,3.4,4.0
+2012-03-11,Santander,Barcelona,13.0,6.0,1.22
+2012-03-11,Milan,Lecce,1.2,6.0,15.0
+2012-03-11,Novara,Udinese,4.2,3.3,1.91
+2012-03-11,Sp Lisbon,Guimaraes,1.73,3.5,5.0
+2012-03-11,Rio Ave,Setubal,2.0,3.2,4.0
+2012-03-11,Pacos Ferreira,Benfica,8.0,4.0,1.44
+2012-03-11,Olhanense,Nacional,2.5,3.0,3.0
+2012-03-11,Lazio,Bologna,1.67,3.5,5.5
+2012-03-11,Catania,Fiorentina,2.0,3.3,3.8
+2012-03-11,Montpellier,Caen,1.5,4.2,6.5
+2012-03-11,Rennes,Auxerre,1.57,3.5,7.0
+2012-03-11,Graafschap,AZ Alkmaar,7.0,4.33,1.44
+2012-03-11,Dijon,Paris SG,4.5,3.4,1.83
+2012-03-11,NAC Breda,PSV Eindhoven,6.0,4.0,1.53
+2012-03-11,Nijmegen,Twente,4.0,3.75,1.83
+2012-03-11,Ajax,Waalwijk,1.2,6.5,13.0
+2012-03-11,Norwich,Wigan,1.83,3.6,4.33
+2012-03-11,Man United,West Brom,1.29,5.5,11.0
+2012-03-11,Swansea,Man City,6.0,3.75,1.62
+2012-03-11,Werder Bremen,Hannover,2.0,3.5,3.6
+2012-03-11,Middlesbrough,Leeds,2.0,3.4,3.75
+2012-03-11,Schalke 04,Hamburg,1.83,3.6,4.2
+2012-03-11,Feyenoord,Utrecht,1.36,4.5,9.0
+2012-03-12,Arsenal,Newcastle,1.44,4.33,7.5
+2012-03-12,St Pauli,Karlsruhe,1.4,4.5,8.0
+2012-03-12,Villarreal,Getafe,1.91,3.4,4.0
+2012-03-12,Trabzonspor,Sivasspor,1.8,3.5,4.5
+2012-03-13,Leicester,Birmingham,2.5,3.2,1.88
+2012-03-13,Doncaster,Reading,4.0,3.5,1.91
+2012-03-13,Liverpool,Everton,1.73,3.4,5.5
+2012-03-13,Derby,Nott'm Forest,2.7,3.25,2.6
+2012-03-13,Cardiff,Hull,2.1,3.25,3.6
+2012-03-14,Erzgebirge Aue,Munich 1860,3.2,3.4,2.2
+2012-03-16,Hoffenheim,Stuttgart,2.3,3.4,3.0
+2012-03-16,Braunschweig,Frankfurt FSV,1.67,3.75,5.0
+2012-03-16,Aachen,Union Berlin,2.5,3.4,2.7
+2012-03-16,Vitesse,Heracles,2.0,3.5,3.6
+2012-03-16,Ein Frankfurt,Dresden,1.4,4.75,7.0
+2012-03-16,Benfica,Beira Mar,1.14,8.0,17.0
+2012-03-16,Nacional,Porto,7.5,4.2,1.44
+2012-03-16,Genclerbirligi,Trabzonspor,2.88,3.4,2.38
+2012-03-17,Ingolstadt,Paderborn,2.55,3.3,2.7
+2012-03-17,Munich 1860,Greuther Furth,3.0,3.4,2.3
+2012-03-17,Excelsior,Roda,3.5,3.6,2.0
+2012-03-17,Hamburg,Freiburg,1.83,3.75,4.0
+2012-03-17,Waalwijk,Graafschap,1.44,4.2,7.5
+2012-03-17,Feirense,Sp Braga,6.0,3.75,1.57
+2012-03-17,Barnsley,Reading,4.33,3.4,1.85
+2012-03-17,Birmingham,Middlesbrough,1.91,3.25,4.33
+2012-03-17,Blackpool,Brighton,1.91,3.5,4.0
+2012-03-17,Doncaster,Derby,2.2,3.4,3.2
+2012-03-17,Ipswich,Peterboro,1.73,3.75,4.5
+2012-03-17,Leeds,West Ham,2.75,3.3,2.5
+2012-03-17,Millwall,Southampton,3.4,3.4,2.1
+2012-03-17,Portsmouth,Bristol City,2.25,3.25,3.2
+2012-03-17,Watford,Coventry,2.0,3.4,3.75
+2012-03-17,Nurnberg,Wolfsburg,2.0,3.4,3.75
+2012-03-17,Leverkusen,M'gladbach,2.1,3.4,3.4
+2012-03-17,Hertha,Bayern Munich,9.0,5.0,1.33
+2012-03-17,Dortmund,Werder Bremen,1.33,5.0,9.0
+2012-03-17,Augsburg,Mainz,2.9,3.3,2.4
+2012-03-17,VVV Venlo,Nijmegen,3.0,3.4,2.3
+2012-03-17,Leiria,Rio Ave,3.1,3.1,2.4
+2012-03-17,Crystal Palace,Hull,2.5,3.2,2.88
+2012-03-17,Getafe,Sociedad,1.95,3.3,4.0
+2012-03-17,Antalyaspor,Eskisehirspor,2.38,3.25,3.0
+2012-03-17,Parma,Milan,5.5,3.5,1.67
+2012-03-17,Fiorentina,Juventus,4.0,3.2,2.0
+2012-03-17,Dundee United,Rangers,2.63,3.4,2.38
+2012-03-17,Wigan,West Brom,2.75,3.3,2.6
+2012-03-17,Sivasspor,Orduspor,1.91,3.5,4.0
+2012-03-17,Zaragoza,Osasuna,2.5,3.2,2.88
+2012-03-17,Vallecano,Betis,2.2,3.3,3.3
+2012-03-17,Sevilla,Barcelona,8.5,4.75,1.36
+2012-03-17,Granada,Sp Gijon,2.0,3.3,3.8
+2012-03-17,Fulham,Swansea,1.83,3.5,4.5
+2012-03-17,Auxerre,Evian Thonon Gaillard,2.25,3.1,3.4
+2012-03-17,Bordeaux,Ajaccio,1.4,4.2,9.0
+2012-03-17,Caen,Paris SG,4.5,3.5,1.8
+2012-03-17,Lorient,Brest,2.0,3.1,4.2
+2012-03-17,Marseille,Dijon,1.4,4.5,8.0
+2012-03-17,Nancy,Montpellier,3.4,3.2,2.2
+2012-03-17,St Etienne,Lyon,2.6,3.0,2.88
+2012-03-17,Motherwell,Aberdeen,2.15,3.25,3.5
+2012-03-17,St Mirren,St Johnstone,2.38,3.2,3.0
+2012-03-17,Fenerbahce,Galatasaray,2.3,3.4,3.0
+2012-03-18,Mersin Idman Yurdu,Buyuksehyr,2.38,3.25,3.0
+2012-03-18,Standard,Oud-Heverlee Leuven,1.25,6.0,10.0
+2012-03-18,PSV Eindhoven,Heerenveen,1.5,4.5,5.5
+2012-03-18,Erzgebirge Aue,St Pauli,3.6,3.3,2.05
+2012-03-18,Utrecht,Groningen,2.0,3.6,3.5
+2012-03-18,Twente,Feyenoord,1.62,4.2,4.75
+2012-03-18,Den Haag,Ajax,6.0,4.33,1.5
+2012-03-18,AZ Alkmaar,NAC Breda,1.2,7.0,11.0
+2012-03-18,Karlsruhe,Hansa Rostock,2.05,3.4,3.5
+2012-03-18,Duisburg,Bochum,2.4,3.4,2.8
+2012-03-18,Kayserispor,Samsunspor,2.2,3.2,3.4
+2012-03-18,Kaiserslautern,Schalke 04,3.5,3.3,2.1
+2012-03-18,Cardiff,Burnley,1.91,3.4,4.0
+2012-03-18,Hannover,FC Koln,1.62,3.8,5.5
+2012-03-18,Westerlo,Genk,5.0,3.8,1.67
+2012-03-18,Real Madrid,Malaga,1.17,7.5,14.0
+2012-03-18,Mallorca,Ath Madrid,3.0,3.25,2.38
+2012-03-18,Levante,Villarreal,2.4,3.2,3.0
+2012-03-18,Ath Bilbao,Valencia,2.25,3.4,3.1
+2012-03-18,Lille,Valenciennes,1.57,3.6,6.5
+2012-03-18,Rennes,Toulouse,2.0,3.2,4.0
+2012-03-18,Sochaux,Nice,2.38,3.0,3.25
+2012-03-18,Gaziantepspor,Karabukspor,1.83,3.5,4.33
+2012-03-18,Waregem,Mechelen,2.1,3.3,3.5
+2012-03-18,Hearts,Hibernian,1.83,3.4,4.5
+2012-03-18,Lierse,Bergen,2.1,3.3,3.5
+2012-03-18,Wolves,Man United,9.0,5.0,1.33
+2012-03-18,Newcastle,Norwich,1.8,3.6,4.5
+2012-03-18,Setubal,Maritimo,3.3,3.25,2.2
+2012-03-18,Guimaraes,Olhanense,1.8,3.4,4.75
+2012-03-18,Academica,Pacos Ferreira,2.3,3.1,3.25
+2012-03-18,Germinal,Lokeren,2.75,3.2,2.6
+2012-03-18,Siena,Novara,1.57,3.6,6.5
+2012-03-18,Lecce,Palermo,2.05,3.4,3.6
+2012-03-18,Inter,Atalanta,1.62,3.8,5.5
+2012-03-18,Udinese,Napoli,2.5,3.2,2.88
+2012-03-18,Gent,Kortrijk,1.44,4.33,7.0
+2012-03-18,Cagliari,Cesena,1.53,3.75,7.0
+2012-03-18,Cercle Brugge,Club Brugge,4.2,3.5,1.85
+2012-03-18,St Truiden,Anderlecht,9.5,4.75,1.33
+2012-03-18,Catania,Lazio,2.38,3.25,3.0
+2012-03-18,Bologna,Chievo,2.2,2.8,4.0
+2012-03-19,Besiktas,Manisaspor,1.4,4.33,8.0
+2012-03-19,Gil Vicente,Sp Lisbon,4.33,3.4,1.85
+2012-03-19,Cottbus,Fortuna Dusseldorf,3.5,3.4,2.05
+2012-03-19,Roma,Genoa,1.5,4.0,7.0
+2012-03-19,Espanol,Santander,1.67,3.75,5.0
+2012-03-20,Bristol City,Watford,2.4,3.25,2.9
+2012-03-20,Osasuna,Getafe,2.2,3.2,3.4
+2012-03-20,West Ham,Middlesbrough,1.73,3.6,4.75
+2012-03-20,Hull,Southampton,2.75,3.3,2.5
+2012-03-20,Brighton,Derby,1.8,3.5,4.5
+2012-03-20,Blackburn,Sunderland,2.4,3.4,2.88
+2012-03-20,Crystal Palace,Barnsley,1.83,3.5,4.2
+2012-03-20,Doncaster,Millwall,2.5,3.25,2.8
+2012-03-20,Barcelona,Granada,1.05,13.0,34.0
+2012-03-20,Portsmouth,Birmingham,3.6,3.4,1.91
+2012-03-20,Leeds,Nott'm Forest,1.91,3.4,4.0
+2012-03-20,Peterboro,Reading,3.75,3.6,1.91
+2012-03-21,Oud-Heverlee Leuven,St Truiden,2.25,3.3,2.88
+2012-03-21,Lokeren,Cercle Brugge,2.2,3.25,3.0
+2012-03-21,Kortrijk,Germinal,1.91,3.4,3.6
+2012-03-21,Genk,Gent,2.5,3.2,2.63
+2012-03-21,Club Brugge,Lierse,1.29,5.0,9.0
+2012-03-21,QPR,Liverpool,5.0,3.6,1.73
+2012-03-21,Bergen,Westerlo,1.83,3.5,3.75
+2012-03-21,Anderlecht,Waregem,1.2,6.5,9.5
+2012-03-21,Man City,Chelsea,1.91,3.6,4.0
+2012-03-21,Everton,Arsenal,3.0,3.4,2.3
+2012-03-21,Tottenham,Stoke,1.4,4.5,8.5
+2012-03-21,Ipswich,Burnley,1.91,3.4,4.0
+2012-03-21,Cardiff,Coventry,1.62,3.75,5.5
+2012-03-21,Mechelen,Standard,2.63,3.2,2.5
+2012-03-21,Blackpool,Leicester,2.38,3.4,2.88
+2012-03-21,Graafschap,Twente,8.0,4.5,1.33
+2012-03-21,Sociedad,Levante,2.0,3.4,3.75
+2012-03-21,Sp Gijon,Mallorca,2.38,3.25,3.0
+2012-03-21,Valencia,Zaragoza,1.29,5.0,11.0
+2012-03-21,Villarreal,Real Madrid,8.5,4.75,1.36
+2012-03-21,Ath Madrid,Ath Bilbao,1.8,3.5,4.5
+2012-03-22,Betis,Espanol,1.91,3.4,4.0
+2012-03-22,Malaga,Vallecano,1.67,3.75,5.0
+2012-03-22,Santander,Sevilla,3.2,3.25,2.25
+2012-03-23,Wolfsburg,Hamburg,2.05,3.5,3.4
+2012-03-23,Bochum,Ingolstadt,2.0,3.5,3.6
+2012-03-23,Dresden,Munich 1860,2.1,3.5,3.3
+2012-03-23,Frankfurt FSV,Aachen,2.1,3.4,3.4
+2012-03-23,Olhanense,Benfica,8.5,4.33,1.4
+2012-03-23,Excelsior,Groningen,3.3,3.5,2.1
+2012-03-24,Millwall,Leeds,2.38,3.4,2.88
+2012-03-24,Valenciennes,Rennes,2.5,3.1,2.9
+2012-03-24,Nice,Marseille,3.1,3.1,2.4
+2012-03-24,Montpellier,St Etienne,1.73,3.5,5.0
+2012-03-24,Lyon,Sochaux,1.33,4.75,9.5
+2012-03-24,Watford,Ipswich,2.5,3.3,2.75
+2012-03-24,Evian Thonon Gaillard,Lille,3.75,3.3,2.0
+2012-03-24,Brest,Nancy,2.2,3.0,3.6
+2012-03-24,Ajaccio,Lorient,2.6,3.1,2.8
+2012-03-24,Getafe,Valencia,2.8,3.25,2.5
+2012-03-24,Sp Lisbon,Feirense,1.33,5.0,9.0
+2012-03-24,Barnsley,Peterboro,2.38,3.4,2.88
+2012-03-24,Burnley,West Ham,3.1,3.25,2.3
+2012-03-24,Coventry,Portsmouth,2.1,3.25,3.25
+2012-03-24,Derby,Crystal Palace,2.5,3.25,2.8
+2012-03-24,Arsenal,Aston Villa,1.33,5.0,10.0
+2012-03-24,Bolton,Blackburn,2.4,3.4,2.9
+2012-03-24,Leicester,Hull,2.0,3.4,3.75
+2012-03-24,Middlesbrough,Bristol City,1.57,3.75,6.0
+2012-03-24,Chelsea,Tottenham,1.83,3.6,4.33
+2012-03-24,Liverpool,Wigan,1.29,5.5,11.0
+2012-03-24,Norwich,Wolves,1.73,3.75,4.75
+2012-03-24,Stoke,Man City,6.0,3.75,1.62
+2012-03-24,Sunderland,QPR,2.0,3.4,3.8
+2012-03-24,Southampton,Doncaster,1.33,5.0,9.0
+2012-03-24,Swansea,Everton,2.2,3.25,3.4
+2012-03-24,Reading,Blackpool,1.83,3.5,4.33
+2012-03-24,Nott'm Forest,Brighton,2.25,3.4,3.1
+2012-03-24,Mallorca,Barcelona,13.0,6.0,1.22
+2012-03-24,Mainz,Hertha,1.73,3.5,5.0
+2012-03-24,Aberdeen,Inverness C,2.1,3.25,3.5
+2012-03-24,Fortuna Dusseldorf,Braunschweig,1.57,4.0,5.5
+2012-03-24,Greuther Furth,Karlsruhe,1.22,6.0,12.0
+2012-03-24,Palermo,Udinese,2.4,3.3,2.88
+2012-03-24,Heerenveen,VVV Venlo,1.25,5.5,12.0
+2012-03-24,Milan,Roma,1.67,3.5,5.5
+2012-03-24,Kilmarnock,Motherwell,3.2,3.3,2.25
+2012-03-24,Hibernian,Dundee United,3.5,3.25,2.1
+2012-03-24,Dunfermline,St Mirren,3.4,3.4,2.1
+2012-03-24,St Johnstone,Hearts,2.4,3.3,2.9
+2012-03-24,Fenerbahce,Bursaspor,1.67,3.75,5.0
+2012-03-24,Den Haag,Twente,6.5,3.8,1.53
+2012-03-24,Real Madrid,Sociedad,1.13,8.0,21.0
+2012-03-24,Bayern Munich,Hannover,1.17,7.0,15.0
+2012-03-24,Freiburg,Kaiserslautern,2.0,3.4,3.75
+2012-03-24,Roda,Vitesse,2.1,3.5,3.3
+2012-03-24,M'gladbach,Hoffenheim,1.67,3.6,5.25
+2012-03-24,Schalke 04,Leverkusen,1.91,3.6,3.75
+2012-03-24,Werder Bremen,Augsburg,1.8,3.5,4.5
+2012-03-24,NAC Breda,Nijmegen,2.5,3.25,2.8
+2012-03-25,Novara,Lecce,2.38,3.1,3.1
+2012-03-25,Napoli,Catania,1.57,3.75,6.0
+2012-03-25,Dijon,Caen,2.3,3.2,3.1
+2012-03-25,Stuttgart,Nurnberg,1.83,3.5,4.33
+2012-03-25,Toulouse,Auxerre,1.73,3.5,5.0
+2012-03-25,Rangers,Celtic,3.5,3.5,1.91
+2012-03-25,Birmingham,Cardiff,2.0,3.4,3.75
+2012-03-25,Hansa Rostock,Erzgebirge Aue,1.83,3.6,4.2
+2012-03-25,Paderborn,Duisburg,1.73,3.6,4.75
+2012-03-25,St Pauli,Cottbus,1.53,3.8,6.5
+2012-03-25,Eskisehirspor,Gaziantepspor,2.1,3.2,3.6
+2012-03-25,Galatasaray,Trabzonspor,1.73,3.6,4.75
+2012-03-25,Karabukspor,Kayserispor,2.0,3.4,3.75
+2012-03-25,Manisaspor,Sivasspor,2.88,3.2,2.5
+2012-03-25,Paris SG,Bordeaux,1.67,3.5,5.5
+2012-03-25,Setubal,Leiria,2.1,3.2,3.6
+2012-03-25,Orduspor,Genclerbirligi,2.1,3.25,3.5
+2012-03-25,Pacos Ferreira,Porto,10.0,4.33,1.36
+2012-03-25,Vallecano,Villarreal,2.1,3.4,3.4
+2012-03-25,Rio Ave,Guimaraes,2.38,3.1,3.1
+2012-03-25,Levante,Osasuna,2.1,3.3,3.5
+2012-03-25,Atalanta,Bologna,2.38,2.63,3.75
+2012-03-25,Cesena,Parma,3.8,3.3,2.0
+2012-03-25,Chievo,Siena,2.5,2.4,4.0
+2012-03-25,Espanol,Malaga,2.38,3.25,3.0
+2012-03-25,West Brom,Newcastle,2.3,3.4,3.1
+2012-03-25,Zaragoza,Ath Madrid,4.5,3.5,1.8
+2012-03-25,Juventus,Inter,1.62,3.75,5.5
+2012-03-25,Genoa,Fiorentina,2.4,3.0,3.2
+2012-03-25,Betis,Santander,1.67,3.75,5.0
+2012-03-25,Heracles,Utrecht,1.8,3.6,4.33
+2012-03-25,Graafschap,Feyenoord,7.0,4.33,1.44
+2012-03-25,AZ Alkmaar,Waalwijk,1.29,5.0,11.0
+2012-03-25,Ajax,PSV Eindhoven,2.1,3.4,3.4
+2012-03-25,Beira Mar,Nacional,2.88,3.0,2.63
+2012-03-25,Ath Bilbao,Sp Gijon,1.36,4.5,9.0
+2012-03-25,Samsunspor,Mersin Idman Yurdu,2.38,3.2,3.0
+2012-03-25,FC Koln,Dortmund,8.0,4.5,1.4
+2012-03-25,Lazio,Cagliari,1.8,3.25,5.0
+2012-03-26,Buyuksehyr,Besiktas,3.1,3.2,2.3
+2012-03-26,Union Berlin,Ein Frankfurt,3.6,3.5,2.0
+2012-03-26,Granada,Sevilla,3.0,3.25,2.38
+2012-03-26,Sp Braga,Academica,1.33,4.75,10.0
+2012-03-26,Maritimo,Gil Vicente,1.73,3.5,5.0
+2012-03-26,Man United,Fulham,1.22,6.0,15.0
+2012-03-27,Ipswich,Middlesbrough,2.3,3.4,3.0
+2012-03-27,Crystal Palace,Doncaster,1.8,3.5,4.5
+2012-03-27,Portsmouth,Hull,2.75,3.2,2.6
+2012-03-27,Peterboro,West Ham,3.8,3.6,1.91
+2012-03-27,Leicester,Nott'm Forest,1.83,3.5,4.33
+2012-03-28,Inverness C,St Johnstone,2.6,3.25,2.7
+2012-03-30,Aachen,Dresden,2.2,3.4,3.2
+2012-03-30,Gaziantepspor,Ankaragucu,1.08,9.0,15.0
+2012-03-30,Doncaster,Birmingham,4.0,3.5,1.91
+2012-03-30,Braunschweig,Paderborn,2.1,3.4,3.4
+2012-03-30,Utrecht,Excelsior,1.33,5.0,9.0
+2012-03-30,Academica,Maritimo,3.1,3.1,2.4
+2012-03-30,Dortmund,Stuttgart,1.29,5.5,10.0
+2012-03-30,Mersin Idman Yurdu,Karabukspor,1.91,3.4,4.0
+2012-03-30,Ein Frankfurt,Bochum,1.29,5.5,10.0
+2012-03-31,Malaga,Betis,1.67,3.8,5.0
+2012-03-31,Nancy,Paris SG,4.2,3.25,1.91
+2012-03-31,Lorient,Evian Thonon Gaillard,1.91,3.25,4.33
+2012-03-31,Bordeaux,Dijon,1.57,3.6,6.5
+2012-03-31,Auxerre,Valenciennes,2.4,2.88,3.3
+2012-03-31,Barcelona,Ath Bilbao,1.11,9.0,21.0
+2012-03-31,Osasuna,Real Madrid,8.0,4.5,1.4
+2012-03-31,Santander,Granada,2.1,3.3,3.5
+2012-03-31,Sp Gijon,Zaragoza,2.1,3.3,3.5
+2012-03-31,Munich 1860,Hansa Rostock,1.67,3.8,5.0
+2012-03-31,Erzgebirge Aue,Greuther Furth,5.0,3.8,1.67
+2012-03-31,Galatasaray,Orduspor,1.25,6.0,10.0
+2012-03-31,Genclerbirligi,Manisaspor,1.29,5.0,8.0
+2012-03-31,Kayserispor,Eskisehirspor,2.88,3.2,2.5
+2012-03-31,Sivasspor,Buyuksehyr,1.95,3.5,3.75
+2012-03-31,Sochaux,Brest,2.0,3.1,4.2
+2012-03-31,St Etienne,Nice,1.8,3.25,5.0
+2012-03-31,Porto,Olhanense,1.17,7.0,15.0
+2012-03-31,Brighton,Middlesbrough,2.2,3.3,3.25
+2012-03-31,Fulham,Norwich,1.7,3.75,5.0
+2012-03-31,Man City,Sunderland,1.22,6.5,12.0
+2012-03-31,QPR,Arsenal,5.5,4.2,1.57
+2012-03-31,Wigan,Stoke,2.63,3.25,2.75
+2012-03-31,Catania,Milan,3.5,3.25,2.1
+2012-03-31,Parma,Lazio,2.5,3.0,3.0
+2012-03-31,Werder Bremen,Mainz,2.1,3.4,3.4
+2012-03-31,Nurnberg,Bayern Munich,8.5,4.75,1.36
+2012-03-31,Kaiserslautern,Hamburg,2.5,3.25,2.8
+2012-03-31,Everton,West Brom,1.83,3.5,4.5
+2012-03-31,Hertha,Wolfsburg,2.4,3.3,2.9
+2012-03-31,Wolves,Bolton,2.3,3.4,3.1
+2012-03-31,Twente,Roda,1.3,5.5,9.0
+2012-03-31,PSV Eindhoven,VVV Venlo,1.08,10.0,23.0
+2012-03-31,Groningen,Heerenveen,2.75,3.5,2.4
+2012-03-31,Feyenoord,NAC Breda,1.25,6.0,10.0
+2012-03-31,Dundee United,Dunfermline,1.36,4.75,8.5
+2012-03-31,Hearts,Aberdeen,2.1,3.3,3.5
+2012-03-31,Motherwell,Rangers,3.2,3.4,2.2
+2012-03-31,St Mirren,Kilmarnock,2.38,3.2,3.0
+2012-03-31,Augsburg,FC Koln,2.0,3.4,3.75
+2012-03-31,Aston Villa,Chelsea,4.5,3.5,1.83
+2012-03-31,Leverkusen,Freiburg,1.7,3.8,4.75
+2012-03-31,Crystal Palace,Nott'm Forest,2.38,3.25,3.0
+2012-03-31,Cardiff,Millwall,1.83,3.5,4.2
+2012-03-31,Bristol City,Derby,2.25,3.2,3.2
+2012-03-31,Blackpool,Southampton,2.7,3.4,2.5
+2012-03-31,Ipswich,Barnsley,1.62,3.75,5.5
+2012-03-31,Leeds,Watford,1.83,3.5,4.33
+2012-03-31,Peterboro,Leicester,3.2,3.4,2.2
+2012-03-31,West Ham,Reading,2.2,3.4,3.2
+2012-03-31,Benfica,Sp Braga,1.73,3.6,4.75
+2012-03-31,Portsmouth,Burnley,2.25,3.2,3.25
+2012-03-31,Hull,Coventry,1.8,3.25,5.0
+2012-04-01,Gil Vicente,Setubal,1.91,3.25,4.33
+2012-04-01,Ath Madrid,Getafe,1.62,3.8,5.5
+2012-04-01,Nijmegen,Graafschap,1.3,5.0,11.0
+2012-04-01,Feirense,Beira Mar,2.4,3.1,3.1
+2012-04-01,Ajax,Heracles,1.2,6.5,13.0
+2012-04-01,Newcastle,Liverpool,2.88,3.4,2.4
+2012-04-01,Roma,Novara,1.3,5.0,11.0
+2012-04-01,Siena,Udinese,2.63,3.0,2.88
+2012-04-01,Lille,Toulouse,1.73,3.4,5.25
+2012-04-01,Villarreal,Espanol,2.0,3.4,3.75
+2012-04-01,Rennes,Lyon,2.5,3.0,3.0
+2012-04-01,Karlsruhe,Union Berlin,2.7,3.4,2.5
+2012-04-01,Leiria,Sp Lisbon,5.5,3.3,1.73
+2012-04-01,Guimaraes,Pacos Ferreira,2.05,3.25,3.75
+2012-04-01,Caen,Ajaccio,1.83,3.4,4.5
+2012-04-01,Tottenham,Swansea,1.4,4.5,8.5
+2012-04-01,Lecce,Cesena,1.53,3.75,7.0
+2012-04-01,Hoffenheim,Schalke 04,3.0,3.4,2.3
+2012-04-01,Ingolstadt,Duisburg,2.1,3.4,3.4
+2012-04-01,Nacional,Rio Ave,2.1,3.2,3.6
+2012-04-01,Cottbus,Frankfurt FSV,2.0,3.4,3.75
+2012-04-01,Waalwijk,Den Haag,1.67,3.75,5.0
+2012-04-01,Vitesse,AZ Alkmaar,3.2,3.4,2.2
+2012-04-01,Inverness C,Hibernian,2.1,3.4,3.4
+2012-04-01,Trabzonspor,Fenerbahce,2.3,3.4,3.0
+2012-04-01,Besiktas,Samsunspor,1.33,4.4,8.0
+2012-04-01,Celtic,St Johnstone,1.36,4.5,9.0
+2012-04-01,Antalyaspor,Bursaspor,2.75,3.3,2.5
+2012-04-01,Bologna,Palermo,2.4,2.5,4.0
+2012-04-01,Cagliari,Atalanta,2.25,2.5,4.5
+2012-04-01,Fiorentina,Chievo,1.75,3.4,5.0
+2012-04-01,Inter,Genoa,1.57,3.8,6.0
+2012-04-01,Juventus,Napoli,1.8,3.5,4.5
+2012-04-01,Sociedad,Vallecano,2.1,3.3,3.5
+2012-04-01,Hannover,M'gladbach,2.7,3.25,2.6
+2012-04-01,Valencia,Levante,1.62,3.8,5.5
+2012-04-02,Sevilla,Mallorca,1.73,3.6,4.75
+2012-04-02,Fortuna Dusseldorf,St Pauli,1.85,3.4,4.33
+2012-04-02,Blackburn,Man United,9.0,4.75,1.36
+2012-04-03,Burnley,Birmingham,3.2,3.25,2.25
+2012-04-05,Greuther Furth,Cottbus,1.3,5.0,10.0
+2012-04-05,Hansa Rostock,Fortuna Dusseldorf,4.0,3.4,1.91
+2012-04-05,Union Berlin,Erzgebirge Aue,1.73,3.6,4.75
+2012-04-06,Beira Mar,Academica,2.38,3.1,3.1
+2012-04-06,Watford,Blackpool,2.63,3.3,2.63
+2012-04-06,Leiria,Gil Vicente,2.3,3.1,3.2
+2012-04-06,Karabukspor,Besiktas,5.25,4.2,1.5
+2012-04-06,Reading,Leeds,1.57,3.8,6.0
+2012-04-06,Swansea,Newcastle,2.4,3.4,2.88
+2012-04-06,Setubal,Guimaraes,3.0,3.2,2.4
+2012-04-06,Barnsley,West Ham,4.33,3.6,1.8
+2012-04-06,Burnley,Brighton,2.38,3.25,3.0
+2012-04-07,Fenerbahce,Antalyaspor,1.33,4.6,8.0
+2012-04-07,Eskisehirspor,Mersin Idman Yurdu,1.29,5.25,8.0
+2012-04-07,Udinese,Parma,1.8,3.5,4.5
+2012-04-07,Palermo,Juventus,6.0,3.8,1.57
+2012-04-07,Frankfurt FSV,St Pauli,3.25,3.3,2.2
+2012-04-07,Duisburg,Ein Frankfurt,4.33,3.6,1.8
+2012-04-07,Dresden,Braunschweig,2.5,3.3,2.8
+2012-04-07,Buyuksehyr,Genclerbirligi,2.05,3.4,3.5
+2012-04-07,Milan,Fiorentina,1.29,5.0,12.0
+2012-04-07,Ankaragucu,Kayserispor,7.0,4.5,1.36
+2012-04-07,Novara,Genoa,2.6,3.3,2.63
+2012-04-07,Atalanta,Siena,2.4,2.5,4.0
+2012-04-07,Cesena,Bologna,3.6,3.0,2.2
+2012-04-07,Chievo,Catania,2.63,2.7,3.2
+2012-04-07,Samsunspor,Sivasspor,2.4,3.4,2.8
+2012-04-07,Lazio,Napoli,2.75,3.0,2.7
+2012-04-07,Lecce,Roma,4.0,3.5,1.91
+2012-04-07,Bursaspor,Gaziantepspor,2.1,3.3,3.5
+2012-04-07,Cagliari,Inter,4.0,3.25,2.0
+2012-04-07,Lyon,Auxerre,1.4,4.5,8.0
+2012-04-07,Olhanense,Pacos Ferreira,2.4,3.1,3.1
+2012-04-07,FC Koln,Werder Bremen,2.8,3.4,2.4
+2012-04-07,Freiburg,Nurnberg,2.1,3.4,3.4
+2012-04-07,Kaiserslautern,Hoffenheim,2.75,3.3,2.5
+2012-04-07,M'gladbach,Hertha,1.57,3.75,6.0
+2012-04-07,Stuttgart,Mainz,2.05,3.4,3.6
+2012-04-07,Wolfsburg,Dortmund,5.5,4.0,1.57
+2012-04-07,Southampton,Portsmouth,1.5,4.0,7.0
+2012-04-07,Nott'm Forest,Bristol City,1.8,3.5,4.5
+2012-04-07,Millwall,Hull,2.3,3.25,3.1
+2012-04-07,Middlesbrough,Cardiff,2.38,3.4,2.88
+2012-04-07,Leicester,Doncaster,1.4,4.33,8.5
+2012-04-07,Derby,Ipswich,2.6,3.4,2.6
+2012-04-07,Coventry,Peterboro,2.0,3.5,3.6
+2012-04-07,Birmingham,Crystal Palace,1.5,3.8,7.5
+2012-04-07,Valenciennes,Toulouse,2.55,3.1,2.88
+2012-04-07,Ajaccio,St Etienne,3.0,3.0,2.5
+2012-04-07,Brest,Lille,5.0,3.25,1.8
+2012-04-07,Dijon,Nancy,2.3,3.1,3.25
+2012-04-07,Evian Thonon Gaillard,Rennes,2.75,3.2,2.6
+2012-04-07,Maritimo,Nacional,2.05,3.25,3.75
+2012-04-07,Bolton,Fulham,2.6,3.3,2.75
+2012-04-07,Bayern Munich,Augsburg,1.13,8.0,21.0
+2012-04-07,Liverpool,Aston Villa,1.44,4.33,7.5
+2012-04-07,Rio Ave,Feirense,1.73,3.5,5.0
+2012-04-07,Sp Braga,Porto,3.2,3.25,2.25
+2012-04-07,St Johnstone,Inverness C,2.0,3.4,3.75
+2012-04-07,Rangers,St Mirren,1.36,4.75,8.0
+2012-04-07,Kilmarnock,Celtic,7.0,4.0,1.5
+2012-04-07,Dunfermline,Hearts,4.5,3.5,1.8
+2012-04-07,Aberdeen,Dundee United,3.2,3.4,2.2
+2012-04-07,Zaragoza,Barcelona,19.0,7.5,1.14
+2012-04-07,Chelsea,Wigan,1.25,6.0,12.0
+2012-04-07,Vallecano,Osasuna,2.05,3.4,3.6
+2012-04-07,Espanol,Sociedad,1.91,3.4,4.0
+2012-04-07,Betis,Villarreal,2.1,3.3,3.5
+2012-04-07,West Brom,Blackburn,1.91,3.6,4.0
+2012-04-07,Sunderland,Tottenham,3.3,3.4,2.2
+2012-04-07,Stoke,Wolves,1.57,4.0,6.0
+2012-04-07,Norwich,Everton,3.0,3.3,2.4
+2012-04-07,Montpellier,Sochaux,1.45,4.2,7.5
+2012-04-07,Getafe,Sp Gijon,1.73,3.5,5.0
+2012-04-08,Schalke 04,Hannover,1.67,3.8,5.0
+2012-04-08,Man United,QPR,1.17,7.5,15.0
+2012-04-08,Hamburg,Leverkusen,2.75,3.3,2.5
+2012-04-08,Arsenal,Man City,2.4,3.4,2.88
+2012-04-08,Hibernian,Motherwell,2.88,3.4,2.38
+2012-04-08,Orduspor,Trabzonspor,7.0,4.2,1.4
+2012-04-08,Ingolstadt,Aachen,1.91,3.4,4.0
+2012-04-08,Paderborn,Munich 1860,2.1,3.4,3.4
+2012-04-08,Real Madrid,Valencia,1.2,6.5,13.0
+2012-04-08,Mallorca,Granada,1.83,3.5,4.33
+2012-04-08,Levante,Ath Madrid,3.0,3.4,2.3
+2012-04-08,Ath Bilbao,Sevilla,2.25,3.25,3.2
+2012-04-08,Caen,Bordeaux,3.0,3.0,2.5
+2012-04-08,Nice,Lorient,2.2,3.0,3.6
+2012-04-08,Paris SG,Marseille,1.83,3.4,4.5
+2012-04-08,Bochum,Karlsruhe,2.0,3.5,3.6
+2012-04-08,Manisaspor,Galatasaray,13.0,8.0,1.13
+2012-04-09,Aston Villa,Stoke,2.2,3.3,3.4
+2012-04-09,Sp Lisbon,Benfica,3.5,3.3,2.1
+2012-04-09,Blackpool,Barnsley,1.4,4.5,8.0
+2012-04-09,Bristol City,Coventry,2.38,3.25,3.0
+2012-04-09,Cardiff,Watford,1.67,3.75,5.0
+2012-04-09,Leeds,Derby,1.83,3.5,4.33
+2012-04-09,Hull,Middlesbrough,2.6,3.2,2.75
+2012-04-09,Ipswich,Leicester,2.5,3.4,2.7
+2012-04-09,Everton,Sunderland,1.83,3.5,4.5
+2012-04-09,Peterboro,Nott'm Forest,2.6,3.4,2.6
+2012-04-09,West Ham,Birmingham,2.2,3.4,3.2
+2012-04-09,Malaga,Santander,1.4,4.5,8.0
+2012-04-09,Crystal Palace,Southampton,4.0,3.4,1.91
+2012-04-09,Fulham,Chelsea,3.5,3.4,2.1
+2012-04-09,Doncaster,Burnley,2.75,3.3,2.5
+2012-04-09,Tottenham,Norwich,1.29,5.5,11.0
+2012-04-09,Newcastle,Bolton,1.53,4.2,6.0
+2012-04-10,Excelsior,Nijmegen,4.5,3.75,1.75
+2012-04-10,St Pauli,Union Berlin,1.57,4.0,5.5
+2012-04-10,Fortuna Dusseldorf,Frankfurt FSV,1.4,4.5,8.0
+2012-04-10,Cottbus,Hansa Rostock,2.1,3.4,3.4
+2012-04-10,Brighton,Reading,3.1,3.25,2.3
+2012-04-10,Barcelona,Getafe,1.06,13.0,26.0
+2012-04-10,Osasuna,Espanol,2.5,3.25,2.8
+2012-04-10,Chievo,Milan,6.0,3.8,1.57
+2012-04-10,Sociedad,Betis,2.25,3.4,3.1
+2012-04-10,Braunschweig,Greuther Furth,3.75,3.4,2.0
+2012-04-10,Portsmouth,Millwall,2.25,3.4,3.1
+2012-04-10,Blackburn,Liverpool,3.5,3.4,2.1
+2012-04-10,Augsburg,Stuttgart,2.7,3.4,2.5
+2012-04-10,Hertha,Freiburg,2.1,3.4,3.4
+2012-04-10,Mainz,FC Koln,1.57,4.0,5.5
+2012-04-10,Werder Bremen,M'gladbach,2.4,3.4,2.8
+2012-04-11,Hoffenheim,Hamburg,2.2,3.4,3.2
+2012-04-11,Heerenveen,Ajax,3.6,3.75,1.91
+2012-04-11,NAC Breda,Heracles,2.0,3.5,3.6
+2012-04-11,Roda,Feyenoord,3.25,3.5,2.1
+2012-04-11,Waalwijk,PSV Eindhoven,5.5,3.8,1.62
+2012-04-11,Valencia,Vallecano,1.5,4.2,6.5
+2012-04-11,Granada,Ath Bilbao,2.63,3.4,2.6
+2012-04-11,Karlsruhe,Dresden,2.1,3.4,3.4
+2012-04-11,Ath Madrid,Real Madrid,5.5,4.0,1.57
+2012-04-11,Ein Frankfurt,Ingolstadt,1.25,6.0,10.0
+2012-04-11,Aachen,Bochum,2.2,3.4,3.2
+2012-04-11,Leverkusen,Kaiserslautern,1.4,4.5,8.0
+2012-04-11,Nurnberg,Schalke 04,3.0,3.4,2.3
+2012-04-11,Sp Gijon,Levante,2.6,3.2,2.75
+2012-04-11,Marseille,Montpellier,3.0,3.25,2.4
+2012-04-11,Erzgebirge Aue,Paderborn,2.5,3.4,2.7
+2012-04-11,AZ Alkmaar,Twente,2.0,3.4,3.75
+2012-04-11,Wolves,Arsenal,7.0,4.5,1.44
+2012-04-11,Man City,West Brom,1.25,5.5,13.0
+2012-04-11,Roma,Udinese,1.95,3.3,4.0
+2012-04-11,QPR,Swansea,2.1,3.4,3.5
+2012-04-11,Parma,Novara,1.57,3.8,6.0
+2012-04-11,Napoli,Atalanta,1.44,4.0,8.5
+2012-04-11,Juventus,Lazio,1.44,4.0,8.5
+2012-04-11,Inter,Siena,1.62,3.8,5.5
+2012-04-11,Genoa,Cesena,1.44,4.0,8.0
+2012-04-11,Fiorentina,Palermo,1.7,3.6,5.0
+2012-04-11,Catania,Lecce,2.05,3.4,3.6
+2012-04-11,Wigan,Man United,9.0,4.75,1.36
+2012-04-11,Dortmund,Bayern Munich,2.6,3.4,2.7
+2012-04-11,Munich 1860,Duisburg,2.0,3.5,3.6
+2012-04-11,Hannover,Wolfsburg,2.1,3.5,3.3
+2012-04-12,Den Haag,Groningen,2.1,3.5,3.25
+2012-04-12,Graafschap,Utrecht,4.33,3.6,1.8
+2012-04-12,VVV Venlo,Vitesse,3.5,3.4,2.05
+2012-04-12,Bologna,Cagliari,2.75,2.38,3.6
+2012-04-12,Villarreal,Malaga,2.5,3.3,2.8
+2012-04-12,Sevilla,Zaragoza,1.44,4.33,7.0
+2012-04-12,Santander,Mallorca,2.7,3.2,2.63
+2012-04-13,Southampton,Reading,2.2,3.25,3.3
+2012-04-13,Stuttgart,Werder Bremen,1.73,4.0,4.2
+2012-04-13,Greuther Furth,St Pauli,1.67,3.8,5.0
+2012-04-13,Hansa Rostock,Frankfurt FSV,2.0,3.4,3.75
+2012-04-13,Union Berlin,Braunschweig,2.2,3.6,3.0
+2012-04-14,Burnley,Coventry,2.0,3.4,3.75
+2012-04-14,West Brom,QPR,2.1,3.4,3.5
+2012-04-14,Watford,Hull,2.3,3.25,3.1
+2012-04-14,Swansea,Blackburn,1.91,3.5,4.0
+2012-04-14,Nott'm Forest,Blackpool,2.38,3.4,2.88
+2012-04-14,Millwall,Leicester,2.88,3.3,2.4
+2012-04-14,Leeds,Peterboro,1.91,3.4,4.0
+2012-04-14,Doncaster,Portsmouth,2.6,3.4,2.6
+2012-04-14,Derby,Middlesbrough,2.7,3.25,2.6
+2012-04-14,Birmingham,Bristol City,1.5,4.0,6.5
+2012-04-14,Norwich,Man City,6.0,4.2,1.53
+2012-04-14,Sunderland,Wolves,1.5,4.2,6.5
+2012-04-14,Twente,NAC Breda,1.25,5.5,12.0
+2012-04-14,PSV Eindhoven,AZ Alkmaar,1.73,3.5,5.0
+2012-04-14,Nijmegen,Heerenveen,2.7,3.4,2.5
+2012-04-14,Feyenoord,Excelsior,1.17,7.0,15.0
+2012-04-14,West Ham,Brighton,1.62,3.75,5.5
+2012-04-14,Barnsley,Cardiff,4.0,3.4,1.91
+2012-04-14,Crystal Palace,Ipswich,2.75,3.3,2.5
+2012-04-14,Hamburg,Hannover,2.3,3.4,3.0
+2012-04-14,Kaiserslautern,Nurnberg,2.8,3.4,2.4
+2012-04-14,Leverkusen,Hertha,1.53,4.0,6.0
+2012-04-14,Schalke 04,Dortmund,3.3,3.5,2.1
+2012-04-14,Wolfsburg,Augsburg,1.73,3.75,4.5
+2012-04-14,Bayern Munich,Mainz,1.29,5.0,11.0
+2012-04-14,Duisburg,Aachen,1.91,3.6,3.75
+2012-04-14,Ein Frankfurt,Erzgebirge Aue,1.22,6.0,12.0
+2012-04-14,Levante,Barcelona,15.0,6.0,1.2
+2012-04-14,Real Madrid,Sp Gijon,1.06,11.0,29.0
+2012-04-15,Vitesse,Den Haag,1.62,3.75,5.5
+2012-04-15,Utrecht,VVV Venlo,1.44,4.33,7.0
+2012-04-15,Heracles,Waalwijk,1.91,3.4,4.0
+2012-04-15,Groningen,Roda,2.0,3.5,3.6
+2012-04-15,Ajax,Graafschap,1.06,11.0,26.0
+2012-04-15,Espanol,Valencia,2.88,3.4,2.38
+2012-04-15,Betis,Osasuna,1.91,3.5,4.0
+2012-04-15,Lorient,Montpellier,3.75,3.1,2.1
+2012-04-15,Malaga,Sociedad,1.5,4.2,6.5
+2012-04-15,Vallecano,Ath Madrid,2.8,3.4,2.4
+2012-04-15,Villarreal,Santander,1.5,4.0,7.0
+2012-04-15,Zaragoza,Granada,2.1,3.4,3.4
+2012-04-15,Ath Bilbao,Mallorca,1.67,3.8,5.0
+2012-04-15,Nancy,Bordeaux,2.63,3.0,2.88
+2012-04-15,Lille,Ajaccio,1.3,5.0,11.0
+2012-04-15,St Etienne,Brest,1.75,3.2,5.5
+2012-04-15,Paderborn,Cottbus,1.83,3.4,4.33
+2012-04-15,Auxerre,Paris SG,3.5,3.25,2.1
+2012-04-15,Ingolstadt,Karlsruhe,2.0,3.4,3.75
+2012-04-15,Sochaux,Dijon,1.95,3.3,4.0
+2012-04-15,Man United,Aston Villa,1.22,6.5,13.0
+2012-04-15,Bochum,Munich 1860,2.38,3.4,2.88
+2012-04-15,M'gladbach,FC Koln,1.5,4.33,6.0
+2012-04-15,Freiburg,Hoffenheim,2.3,3.4,3.0
+2012-04-15,Valenciennes,Evian Thonon Gaillard,2.0,3.1,4.2
+2012-04-16,Rennes,Nice,1.67,3.4,6.0
+2012-04-16,Getafe,Sevilla,2.6,3.3,2.63
+2012-04-16,Dresden,Fortuna Dusseldorf,3.6,3.5,2.0
+2012-04-16,Arsenal,Wigan,1.25,6.0,12.0
+2012-04-17,Brighton,Watford,1.91,3.4,4.0
+2012-04-17,Bristol City,West Ham,5.0,3.75,1.67
+2012-04-17,Cardiff,Derby,1.53,3.8,6.5
+2012-04-17,Hull,Barnsley,1.67,3.75,5.0
+2012-04-17,Ipswich,Birmingham,2.88,3.4,2.38
+2012-04-17,Leicester,Burnley,1.67,3.75,5.0
+2012-04-17,Middlesbrough,Doncaster,1.36,4.5,9.0
+2012-04-17,Peterboro,Southampton,4.75,4.33,1.62
+2012-04-17,Portsmouth,Crystal Palace,1.91,3.4,4.0
+2012-04-17,Reading,Nott'm Forest,1.5,4.2,6.5
+2012-04-17,Coventry,Millwall,2.2,3.4,3.2
+2012-04-17,Blackpool,Leeds,1.73,3.75,4.5
+2012-04-18,Toulouse,Lyon,2.63,3.0,2.88
+2012-04-18,Marseille,Caen,1.7,3.5,5.25
+2012-04-20,Braunschweig,Duisburg,2.2,3.4,3.2
+2012-04-20,Cottbus,Bochum,2.2,3.4,3.2
+2012-04-20,Frankfurt FSV,Greuther Furth,3.6,3.5,2.0
+2012-04-20,Pacos Ferreira,Sp Braga,6.5,3.6,1.57
+2012-04-20,Mainz,Wolfsburg,1.91,3.6,3.75
+2012-04-20,NAC Breda,Roda,2.1,3.6,3.2
+2012-04-21,FC Koln,Stuttgart,4.0,3.75,1.83
+2012-04-21,Hearts,Rangers,3.2,3.25,2.25
+2012-04-21,Inverness C,Aberdeen,2.4,3.3,2.88
+2012-04-21,St Johnstone,Dundee United,2.88,3.3,2.4
+2012-04-21,Brest,Rennes,3.1,3.1,2.38
+2012-04-21,Hertha,Kaiserslautern,1.53,4.0,6.0
+2012-04-21,Hoffenheim,Leverkusen,2.38,3.4,2.88
+2012-04-21,Nurnberg,Hamburg,2.2,3.3,3.25
+2012-04-21,Werder Bremen,Bayern Munich,3.2,3.4,2.2
+2012-04-21,Erzgebirge Aue,Dresden,1.95,3.5,3.8
+2012-04-21,Munich 1860,Ingolstadt,1.91,3.6,3.75
+2012-04-21,Dortmund,M'gladbach,1.44,4.2,7.5
+2012-04-21,Mallorca,Zaragoza,1.8,3.6,4.33
+2012-04-21,Benfica,Maritimo,1.3,5.0,11.0
+2012-04-21,Guimaraes,Leiria,1.67,3.5,5.5
+2012-04-21,Porto,Beira Mar,1.14,7.5,17.0
+2012-04-21,Parma,Cagliari,2.25,2.7,4.0
+2012-04-21,Napoli,Novara,1.22,6.0,12.0
+2012-04-21,Chievo,Udinese,3.1,3.1,2.4
+2012-04-21,Catania,Atalanta,2.1,2.8,4.33
+2012-04-21,Nice,Auxerre,2.0,3.25,3.9
+2012-04-21,Montpellier,Valenciennes,1.44,4.2,7.5
+2012-04-21,Evian Thonon Gaillard,Toulouse,2.5,3.1,2.9
+2012-04-21,Dijon,Lille,5.0,3.5,1.73
+2012-04-21,Caen,St Etienne,2.6,3.0,2.88
+2012-04-21,Waalwijk,Utrecht,1.8,3.6,4.33
+2012-04-21,Reading,Crystal Palace,1.4,4.5,8.0
+2012-04-21,St Mirren,Dunfermline,1.67,3.5,5.5
+2012-04-21,Peterboro,Watford,2.38,3.25,3.0
+2012-04-21,Sevilla,Levante,1.57,3.8,6.0
+2012-04-21,Sp Gijon,Vallecano,2.3,3.4,3.0
+2012-04-21,QPR,Tottenham,4.0,3.6,1.91
+2012-04-21,Barcelona,Real Madrid,1.62,4.0,5.0
+2012-04-21,Newcastle,Stoke,1.67,3.75,5.5
+2012-04-21,Fulham,Wigan,1.91,3.6,4.0
+2012-04-21,Bolton,Swansea,2.2,3.3,3.4
+2012-04-21,Blackburn,Norwich,2.1,3.4,3.5
+2012-04-21,Aston Villa,Sunderland,2.3,3.3,3.2
+2012-04-21,Arsenal,Chelsea,2.0,3.6,3.6
+2012-04-21,Portsmouth,Derby,2.1,3.25,3.6
+2012-04-21,Excelsior,Twente,12.0,5.5,1.25
+2012-04-21,Graafschap,Heracles,3.8,3.6,1.91
+2012-04-21,Bordeaux,Marseille,2.4,3.1,3.1
+2012-04-21,Middlesbrough,Southampton,3.1,3.4,2.25
+2012-04-21,Ipswich,Millwall,2.05,3.3,3.6
+2012-04-21,Heerenveen,Vitesse,1.57,4.2,5.25
+2012-04-21,Blackpool,Burnley,1.67,3.75,5.0
+2012-04-21,Brighton,Birmingham,3.1,3.4,2.25
+2012-04-21,Bristol City,Barnsley,1.8,3.5,4.5
+2012-04-21,Hull,Nott'm Forest,2.38,3.25,3.0
+2012-04-21,Coventry,Doncaster,1.7,3.6,5.0
+2012-04-21,Cardiff,Leeds,1.7,3.6,5.0
+2012-04-22,Augsburg,Schalke 04,3.2,3.4,2.2
+2012-04-22,Wolves,Man City,12.0,6.5,1.22
+2012-04-22,Man United,Everton,1.3,5.0,11.0
+2012-04-22,Liverpool,West Brom,1.44,4.33,7.5
+2012-04-22,Ajaccio,Nancy,2.5,3.0,3.0
+2012-04-22,Paris SG,Sochaux,1.36,4.5,9.5
+2012-04-22,Cesena,Palermo,3.4,3.1,2.25
+2012-04-22,Hannover,Freiburg,1.83,3.5,4.2
+2012-04-22,Fiorentina,Inter,2.8,3.25,2.5
+2012-04-22,Motherwell,Celtic,5.5,3.75,1.62
+2012-04-22,Genoa,Siena,2.1,3.2,3.6
+2012-04-22,Juventus,Roma,1.44,4.2,7.5
+2012-04-22,Milan,Bologna,1.2,6.5,13.0
+2012-04-22,St Pauli,Hansa Rostock,1.53,4.0,6.0
+2012-04-22,Karlsruhe,Paderborn,2.75,3.3,2.5
+2012-04-22,Fortuna Dusseldorf,Union Berlin,1.44,4.2,7.5
+2012-04-22,Hibernian,Kilmarnock,2.25,3.25,3.2
+2012-04-22,Lazio,Lecce,1.62,3.75,5.5
+2012-04-22,Lyon,Lorient,1.44,4.33,7.0
+2012-04-22,Granada,Getafe,2.25,3.25,3.2
+2012-04-22,Gil Vicente,Rio Ave,2.25,3.2,3.25
+2012-04-22,Nacional,Sp Lisbon,3.25,3.2,2.25
+2012-04-22,Ath Madrid,Espanol,1.57,3.75,6.0
+2012-04-22,Feirense,Setubal,2.38,3.1,3.1
+2012-04-22,Valencia,Betis,1.62,3.75,5.5
+2012-04-22,Ajax,Groningen,1.14,8.0,15.0
+2012-04-22,Santander,Ath Bilbao,3.6,3.5,2.0
+2012-04-22,Den Haag,Feyenoord,5.0,4.2,1.6
+2012-04-22,PSV Eindhoven,Nijmegen,1.3,5.0,10.0
+2012-04-22,Sociedad,Villarreal,2.25,3.25,3.2
+2012-04-22,AZ Alkmaar,VVV Venlo,1.17,7.5,13.0
+2012-04-23,Leicester,West Ham,2.5,3.3,2.75
+2012-04-23,Osasuna,Malaga,3.1,3.3,2.3
+2012-04-23,Academica,Olhanense,2.1,3.2,3.6
+2012-04-23,Aachen,Ein Frankfurt,4.75,3.6,1.73
+2012-04-24,Cagliari,Catania,1.91,3.4,4.0
+2012-04-24,Atalanta,Chievo,2.1,2.63,4.75
+2012-04-24,Aston Villa,Bolton,1.91,3.5,4.0
+2012-04-25,Novara,Lazio,5.0,3.5,1.73
+2012-04-25,Roma,Fiorentina,1.62,3.75,5.5
+2012-04-25,Siena,Bologna,2.25,2.5,4.5
+2012-04-25,Udinese,Inter,2.3,3.4,3.0
+2012-04-25,Milan,Genoa,1.2,6.5,13.0
+2012-04-25,Lecce,Napoli,3.1,3.3,2.3
+2012-04-25,Palermo,Parma,2.38,2.8,3.5
+2012-04-25,Cesena,Juventus,13.0,6.0,1.22
+2012-04-27,Sp Braga,Olhanense,1.29,5.0,12.0
+2012-04-27,Groningen,Graafschap,1.53,4.0,6.0
+2012-04-27,Lorient,Marseille,2.38,3.2,3.0
+2012-04-27,Toulouse,Montpellier,2.7,3.1,2.7
+2012-04-28,Derby,Peterboro,1.91,3.6,3.75
+2012-04-28,Crystal Palace,Cardiff,3.5,3.3,2.1
+2012-04-28,Doncaster,Ipswich,3.1,3.5,2.2
+2012-04-28,Leeds,Leicester,2.63,3.3,2.6
+2012-04-28,Dundee United,Hearts,1.91,3.4,4.0
+2012-04-28,Burnley,Bristol City,1.91,3.4,4.0
+2012-04-28,Birmingham,Reading,2.2,3.3,3.25
+2012-04-28,Dunfermline,Aberdeen,3.4,3.2,2.2
+2012-04-28,Barnsley,Brighton,2.75,3.3,2.5
+2012-04-28,Hamburg,Mainz,2.1,3.4,3.4
+2012-04-28,Vitesse,Excelsior,1.29,5.0,11.0
+2012-04-28,Kaiserslautern,Dortmund,7.0,4.0,1.5
+2012-04-28,Leverkusen,Hannover,1.83,3.6,4.2
+2012-04-28,M'gladbach,Augsburg,1.73,3.75,4.5
+2012-04-28,Schalke 04,Hertha,1.44,4.33,7.0
+2012-04-28,Wolfsburg,Werder Bremen,2.1,3.5,3.3
+2012-04-28,Kilmarnock,Inverness C,2.25,3.25,3.2
+2012-04-28,Everton,Fulham,1.83,3.5,4.5
+2012-04-28,Norwich,Liverpool,3.8,3.4,2.0
+2012-04-28,Stoke,Arsenal,4.33,3.6,1.83
+2012-04-28,Sunderland,Bolton,2.0,3.5,3.75
+2012-04-28,Swansea,Wolves,1.53,4.0,6.5
+2012-04-28,West Brom,Aston Villa,2.1,3.4,3.5
+2012-04-28,Wigan,Newcastle,2.8,3.4,2.5
+2012-04-28,Hoffenheim,Nurnberg,1.91,3.5,4.0
+2012-04-28,Motherwell,St Johnstone,2.1,3.3,3.5
+2012-04-28,Sociedad,Santander,1.5,4.0,6.5
+2012-04-28,Nott'm Forest,Portsmouth,1.83,3.5,4.33
+2012-04-28,Villarreal,Osasuna,1.8,3.5,4.5
+2012-04-28,Cagliari,Chievo,1.91,3.1,4.5
+2012-04-28,Palermo,Catania,2.2,2.88,3.75
+2012-04-28,Roma,Napoli,2.8,3.2,2.5
+2012-04-28,Millwall,Blackpool,2.38,3.4,2.88
+2012-04-28,Maritimo,Porto,7.0,4.0,1.5
+2012-04-28,Gil Vicente,Guimaraes,2.6,3.1,2.8
+2012-04-28,Utrecht,NAC Breda,1.62,3.75,5.5
+2012-04-28,Heracles,Heerenveen,2.38,3.4,2.88
+2012-04-28,Levante,Granada,1.83,3.5,4.33
+2012-04-28,Getafe,Mallorca,1.91,3.4,4.0
+2012-04-28,Espanol,Sp Gijon,1.67,3.75,5.0
+2012-04-28,Freiburg,FC Koln,2.25,3.5,3.0
+2012-04-28,Bayern Munich,Stuttgart,1.7,3.75,4.75
+2012-04-28,West Ham,Hull,1.44,4.33,7.0
+2012-04-28,Watford,Middlesbrough,2.88,3.4,2.38
+2012-04-28,Southampton,Coventry,1.29,5.5,9.5
+2012-04-28,VVV Venlo,Den Haag,2.25,3.4,3.1
+2012-04-29,Chelsea,QPR,1.4,4.5,8.5
+2012-04-29,Vallecano,Barcelona,9.0,5.0,1.33
+2012-04-29,Zaragoza,Ath Bilbao,3.2,3.4,2.2
+2012-04-29,Real Madrid,Sevilla,1.22,6.0,13.0
+2012-04-29,Auxerre,Brest,2.1,3.1,3.75
+2012-04-29,Betis,Ath Madrid,3.2,3.3,2.25
+2012-04-29,Lille,Paris SG,2.2,3.3,3.25
+2012-04-29,Nancy,Caen,2.0,3.3,3.75
+2012-04-29,Rennes,Ajaccio,1.5,4.0,7.0
+2012-04-29,Sochaux,Bordeaux,2.5,3.1,2.9
+2012-04-29,St Etienne,Dijon,1.62,3.6,6.0
+2012-04-29,Valenciennes,Nice,2.0,3.2,4.0
+2012-04-29,Malaga,Valencia,2.2,3.4,3.2
+2012-04-29,Tottenham,Blackburn,1.36,5.0,8.0
+2012-04-29,Inter,Cesena,1.25,5.5,12.0
+2012-04-29,Twente,Ajax,2.75,3.3,2.5
+2012-04-29,Roda,PSV Eindhoven,5.0,3.5,1.73
+2012-04-29,Udinese,Lazio,2.2,3.3,3.25
+2012-04-29,Siena,Milan,5.5,4.0,1.57
+2012-04-29,Novara,Juventus,12.0,5.5,1.25
+2012-04-29,Lecce,Parma,2.0,3.5,3.6
+2012-04-29,Celtic,Rangers,1.73,3.75,4.5
+2012-04-29,St Mirren,Hibernian,2.4,3.3,2.9
+2012-04-29,Union Berlin,Hansa Rostock,2.15,3.4,3.3
+2012-04-29,Ingolstadt,Cottbus,2.0,3.5,3.6
+2012-04-29,Greuther Furth,Fortuna Dusseldorf,2.1,3.4,3.4
+2012-04-29,Ein Frankfurt,Munich 1860,1.44,4.33,7.0
+2012-04-29,Aachen,Karlsruhe,2.4,3.3,2.88
+2012-04-29,Paderborn,Frankfurt FSV,1.7,3.75,4.75
+2012-04-29,Dresden,St Pauli,3.75,3.5,1.95
+2012-04-29,Nijmegen,Waalwijk,1.7,3.6,5.0
+2012-04-29,Feyenoord,AZ Alkmaar,2.1,3.5,3.25
+2012-04-29,Beira Mar,Pacos Ferreira,2.3,3.2,3.1
+2012-04-29,Bochum,Braunschweig,2.0,3.5,3.6
+2012-04-29,Rio Ave,Benfica,6.5,3.8,1.53
+2012-04-29,Setubal,Nacional,2.8,3.1,2.6
+2012-04-29,Leiria,Feirense,2.38,3.2,3.0
+2012-04-29,Duisburg,Erzgebirge Aue,2.0,3.4,3.75
+2012-04-29,Atalanta,Fiorentina,2.7,2.5,3.4
+2012-04-29,Bologna,Genoa,2.6,3.2,2.75
+2012-04-30,Man City,Man United,2.1,3.5,3.4
+2012-04-30,Sp Lisbon,Academica,1.5,3.8,7.5
+2012-05-01,Hearts,Motherwell,2.2,3.3,3.25
+2012-05-01,Montpellier,Evian Thonon Gaillard,1.36,4.33,9.5
+2012-05-01,Liverpool,Fulham,1.62,4.0,5.5
+2012-05-01,Napoli,Palermo,1.3,5.25,9.5
+2012-05-01,Getafe,Santander,1.4,4.5,8.0
+2012-05-01,Granada,Espanol,1.83,3.5,3.75
+2012-05-01,Sp Gijon,Villarreal,2.4,3.4,2.8
+2012-05-01,Stoke,Everton,2.75,3.25,2.6
+2012-05-01,Chievo,Roma,3.5,3.3,2.1
+2012-05-02,Rangers,Dundee United,1.67,3.8,5.0
+2012-05-02,Lazio,Siena,1.57,3.75,6.0
+2012-05-02,Juventus,Lecce,1.17,7.5,13.0
+2012-05-02,Genoa,Cagliari,1.73,3.5,5.0
+2012-05-02,Fiorentina,Novara,1.5,4.0,7.0
+2012-05-02,Cesena,Udinese,5.0,3.5,1.73
+2012-05-02,Catania,Bologna,1.95,3.2,4.2
+2012-05-02,Mallorca,Vallecano,1.85,3.5,4.2
+2012-05-02,Sevilla,Betis,1.73,3.6,4.75
+2012-05-02,Valencia,Osasuna,1.44,4.0,8.0
+2012-05-02,Zaragoza,Levante,2.25,3.4,3.1
+2012-05-02,Nice,Lille,4.75,3.3,1.8
+2012-05-02,Paris SG,St Etienne,1.67,3.6,5.25
+2012-05-02,Feyenoord,Heracles,1.33,5.0,9.0
+2012-05-02,Graafschap,Excelsior,1.95,3.6,3.6
+2012-05-02,Aberdeen,Hibernian,2.25,3.4,3.1
+2012-05-02,Milan,Atalanta,1.22,6.0,12.0
+2012-05-02,Inverness C,Dunfermline,1.8,3.5,4.5
+2012-05-02,Parma,Inter,3.75,3.6,1.91
+2012-05-02,Lyon,Valenciennes,1.53,3.75,7.0
+2012-05-02,Waalwijk,Roda,2.0,3.5,3.6
+2012-05-02,Utrecht,Vitesse,2.2,3.5,3.1
+2012-05-02,Twente,Heerenveen,1.62,4.0,5.0
+2012-05-02,Ajax,VVV Venlo,1.1,9.0,21.0
+2012-05-02,Chelsea,Newcastle,1.5,4.33,6.5
+2012-05-02,Bolton,Tottenham,4.0,3.6,1.91
+2012-05-02,Ajaccio,Sochaux,2.25,3.2,3.25
+2012-05-02,Marseille,Nancy,1.73,3.5,5.0
+2012-05-02,Bordeaux,Rennes,2.3,3.1,3.3
+2012-05-02,Ath Bilbao,Real Madrid,6.0,4.0,1.53
+2012-05-02,Caen,Lorient,2.3,3.1,3.25
+2012-05-02,Ath Madrid,Sociedad,1.4,4.5,7.5
+2012-05-02,Barcelona,Malaga,1.2,6.0,15.0
+2012-05-02,PSV Eindhoven,Den Haag,1.2,6.0,15.0
+2012-05-02,Nijmegen,AZ Alkmaar,3.0,3.25,2.38
+2012-05-02,Groningen,NAC Breda,2.0,3.4,3.75
+2012-05-02,Brest,Toulouse,2.88,3.0,2.6
+2012-05-02,Kilmarnock,St Mirren,2.25,3.4,3.1
+2012-05-03,Celtic,St Johnstone,1.29,5.0,11.0
+2012-05-03,Dijon,Auxerre,2.3,3.1,3.3
+2012-05-05,Hannover,Kaiserslautern,1.33,5.0,9.0
+2012-05-05,Nurnberg,Leverkusen,2.5,3.3,2.8
+2012-05-05,Stuttgart,Wolfsburg,1.91,3.75,3.6
+2012-05-05,Werder Bremen,Schalke 04,2.5,3.4,2.7
+2012-05-05,Mallorca,Levante,1.91,3.4,4.0
+2012-05-05,Osasuna,Sociedad,1.8,3.5,4.5
+2012-05-05,Sevilla,Vallecano,1.7,3.6,5.0
+2012-05-05,Sp Gijon,Betis,2.3,3.25,3.1
+2012-05-05,Valencia,Villarreal,1.57,4.2,4.5
+2012-05-05,Zaragoza,Santander,1.33,5.0,9.0
+2012-05-05,Academica,Setubal,1.75,3.5,4.75
+2012-05-05,Feirense,Guimaraes,2.4,3.2,3.0
+2012-05-05,Nacional,Gil Vicente,1.8,3.5,4.5
+2012-05-05,Olhanense,Maritimo,2.7,3.2,2.6
+2012-05-05,Pacos Ferreira,Rio Ave,2.5,3.2,2.8
+2012-05-05,Arsenal,Norwich,1.22,6.5,12.0
+2012-05-05,Mainz,M'gladbach,2.3,3.4,3.0
+2012-05-05,Sp Braga,Beira Mar,1.29,5.0,12.0
+2012-05-05,Porto,Sp Lisbon,1.67,3.6,5.25
+2012-05-05,Dortmund,Freiburg,1.3,5.25,9.5
+2012-05-05,FC Koln,Bayern Munich,5.0,4.0,1.62
+2012-05-05,Roma,Catania,1.62,3.75,5.5
+2012-05-05,Lecce,Fiorentina,1.95,3.4,3.8
+2012-05-05,Ath Bilbao,Getafe,1.8,3.5,4.5
+2012-05-05,Ath Madrid,Malaga,2.0,3.5,3.6
+2012-05-05,Hertha,Hoffenheim,1.95,3.6,3.6
+2012-05-05,Kilmarnock,Aberdeen,2.3,3.4,3.0
+2012-05-05,Rangers,Motherwell,1.62,3.75,5.5
+2012-05-05,Augsburg,Hamburg,2.4,3.3,2.88
+2012-05-05,St Mirren,Inverness C,2.3,3.4,3.0
+2012-05-05,Granada,Real Madrid,7.5,5.0,1.36
+2012-05-05,Barcelona,Espanol,1.13,8.0,19.0
+2012-05-06,Vitesse,Ajax,4.5,3.75,1.73
+2012-05-06,Heracles,Nijmegen,2.2,3.5,3.1
+2012-05-06,VVV Venlo,Twente,8.0,5.25,1.33
+2012-05-06,Roda,Utrecht,1.83,3.6,4.2
+2012-05-06,NAC Breda,Waalwijk,2.38,3.4,2.88
+2012-05-06,Hansa Rostock,Greuther Furth,4.5,3.75,1.73
+2012-05-06,St Pauli,Paderborn,1.91,3.75,3.6
+2012-05-06,AZ Alkmaar,Groningen,1.2,6.5,13.0
+2012-05-06,Novara,Cesena,2.0,3.3,3.8
+2012-05-06,Heerenveen,Feyenoord,4.2,4.5,1.67
+2012-05-06,Palermo,Chievo,2.0,3.3,3.75
+2012-05-06,Siena,Parma,2.3,3.25,3.1
+2012-05-06,Udinese,Genoa,1.62,3.75,5.5
+2012-05-06,Braunschweig,Ingolstadt,2.05,3.5,3.4
+2012-05-06,Cottbus,Union Berlin,1.83,3.25,4.75
+2012-05-06,Erzgebirge Aue,Bochum,1.75,3.5,4.75
+2012-05-06,Fortuna Dusseldorf,Duisburg,1.36,4.5,9.0
+2012-05-06,Den Haag,Graafschap,1.53,4.0,6.0
+2012-05-06,Excelsior,PSV Eindhoven,13.0,6.5,1.2
+2012-05-06,Inter,Milan,3.75,3.6,1.91
+2012-05-06,Frankfurt FSV,Dresden,2.2,3.5,3.1
+2012-05-06,Karlsruhe,Ein Frankfurt,2.7,3.4,2.5
+2012-05-06,Fulham,Sunderland,1.83,3.6,4.33
+2012-05-06,Atalanta,Lazio,2.3,3.2,3.1
+2012-05-06,Bologna,Napoli,5.0,4.0,1.62
+2012-05-06,Valenciennes,Paris SG,4.2,3.6,1.83
+2012-05-06,Lyon,Brest,1.4,4.33,8.5
+2012-05-06,Evian Thonon Gaillard,Ajaccio,2.0,3.3,3.8
+2012-05-06,Munich 1860,Aachen,2.1,3.75,3.1
+2012-05-06,Hearts,St Johnstone,2.0,3.6,3.5
+2012-05-06,Cagliari,Juventus,13.0,5.25,1.25
+2012-05-06,Bolton,West Brom,2.0,3.5,3.75
+2012-05-06,Man United,Swansea,1.17,7.0,17.0
+2012-05-06,Newcastle,Man City,5.0,4.0,1.67
+2012-05-06,QPR,Stoke,1.83,3.75,4.2
+2012-05-06,Wolves,Everton,5.0,3.75,1.7
+2012-05-06,Aston Villa,Tottenham,4.2,3.75,1.83
+2012-05-06,Dundee United,Celtic,4.5,3.5,1.8
+2012-05-07,Lorient,Dijon,1.83,3.4,4.5
+2012-05-07,Lille,Caen,1.33,4.75,10.0
+2012-05-07,Auxerre,Bordeaux,2.4,3.2,3.0
+2012-05-07,Hibernian,Dunfermline,1.83,3.5,4.33
+2012-05-07,Rennes,Montpellier,2.5,3.0,3.0
+2012-05-07,Sochaux,Nancy,2.2,3.2,3.4
+2012-05-07,St Etienne,Marseille,2.1,3.4,3.4
+2012-05-07,Toulouse,Nice,1.67,3.6,5.25
+2012-05-07,Blackburn,Wigan,2.4,3.5,2.88
+2012-05-08,Liverpool,Chelsea,2.1,3.5,3.4
+2012-05-10,Evian Thonon Gaillard,Lyon,3.25,3.3,2.2
+2012-05-12,Betis,Barcelona,7.5,5.5,1.33
+2012-05-12,Sociedad,Valencia,2.7,3.4,2.5
+2012-05-12,Gil Vicente,Feirense,3.0,3.25,2.38
+2012-05-12,Aberdeen,St Mirren,2.0,3.3,3.75
+2012-05-12,Dunfermline,Kilmarnock,3.2,3.3,2.25
+2012-05-12,Inverness C,Hibernian,2.1,3.4,3.4
+2012-05-12,Sp Lisbon,Sp Braga,2.2,3.25,3.25
+2012-05-12,Setubal,Benfica,8.5,4.33,1.4
+2012-05-12,Rio Ave,Porto,7.5,4.2,1.44
+2012-05-12,Guimaraes,Academica,2.88,3.1,2.5
+2012-05-12,Beira Mar,Olhanense,2.5,3.2,2.88
+2012-05-12,Maritimo,Pacos Ferreira,1.83,3.4,4.5
+2012-05-13,Espanol,Sevilla,2.8,3.5,2.38
+2012-05-13,Getafe,Zaragoza,5.5,4.0,1.57
+2012-05-13,Levante,Ath Bilbao,1.57,4.0,5.5
+2012-05-13,Malaga,Sp Gijon,1.3,5.5,9.0
+2012-05-13,Real Madrid,Mallorca,1.2,7.0,11.0
+2012-05-13,Santander,Osasuna,6.0,4.0,1.53
+2012-05-13,Vallecano,Granada,1.83,3.5,4.33
+2012-05-13,Parma,Bologna,1.91,3.4,4.0
+2012-05-13,Stoke,Bolton,2.38,3.5,2.88
+2012-05-13,Sunderland,Man United,7.0,4.5,1.44
+2012-05-13,Swansea,Liverpool,3.4,3.5,2.1
+2012-05-13,Tottenham,Fulham,1.4,4.5,8.5
+2012-05-13,West Brom,Arsenal,5.0,4.0,1.67
+2012-05-13,Wigan,Wolves,1.57,4.0,6.0
+2012-05-13,Ajaccio,Lyon,3.25,3.25,2.25
+2012-05-13,Villarreal,Ath Madrid,2.3,3.4,3.0
+2012-05-13,Bordeaux,Lorient,1.73,3.5,5.0
+2012-05-13,Caen,Sochaux,2.25,3.1,3.4
+2012-05-13,Dijon,Toulouse,2.55,3.1,2.88
+2012-05-13,Marseille,Auxerre,1.85,3.4,4.33
+2012-05-13,Montpellier,Lille,2.38,3.3,2.9
+2012-05-13,Nancy,St Etienne,2.8,3.1,2.6
+2012-05-13,Nice,Evian Thonon Gaillard,2.0,3.3,3.75
+2012-05-13,Paris SG,Rennes,1.57,3.8,6.0
+2012-05-13,Brest,Valenciennes,2.1,3.1,3.75
+2012-05-13,Man City,QPR,1.13,9.0,19.0
+2012-05-13,Norwich,Aston Villa,2.2,3.4,3.25
+2012-05-13,Chelsea,Blackburn,1.3,5.5,10.0
+2012-05-13,Napoli,Siena,1.33,4.5,11.0
+2012-05-13,Milan,Novara,1.25,5.5,12.0
+2012-05-13,Lazio,Inter,2.88,3.4,2.38
+2012-05-13,Juventus,Atalanta,1.3,5.0,10.0
+2012-05-13,Genoa,Palermo,2.0,2.3,6.0
+2012-05-13,Fiorentina,Cagliari,2.0,3.3,3.75
+2012-05-13,Everton,Newcastle,2.2,3.5,3.2
+2012-05-13,Cesena,Roma,4.5,3.75,1.73
+2012-05-13,Chievo,Lecce,2.25,3.5,3.0
+2012-05-13,St Johnstone,Rangers,4.2,3.25,1.91
+2012-05-13,Motherwell,Dundee United,2.5,3.3,2.8
+2012-05-13,Celtic,Hearts,1.33,5.0,9.0
+2012-05-13,Catania,Udinese,4.0,2.15,2.88
+2012-05-20,Rennes,Dijon,1.73,3.6,4.75
+2012-05-20,Valenciennes,Caen,2.1,3.2,3.6
+2012-05-20,Toulouse,Ajaccio,2.3,3.25,3.1
+2012-05-20,St Etienne,Bordeaux,2.4,3.3,2.9
+2012-05-20,Sochaux,Marseille,2.2,3.2,3.4
+2012-05-20,Auxerre,Montpellier,7.0,3.75,1.53
+2012-05-20,Evian Thonon Gaillard,Brest,2.5,3.25,2.8
+2012-05-20,Lille,Nancy,1.33,4.75,9.5
+2012-05-20,Lorient,Paris SG,4.5,3.75,1.75
+2012-05-20,Lyon,Nice,1.8,3.5,4.5

@@ -42,6 +42,7 @@ WC_GROUP_MATCHES: Dict[int, int] = {
 # Feature columns used by the XGBoost model (mirrors xgboost_model.py)
 FEATURE_COLUMNS: List[str] = [
     "elo_diff",
+    "elo_diff_sq",
     "form_home_5f",
     "form_home_5a",
     "form_away_5f",
@@ -225,7 +226,7 @@ class BacktestEvaluator:
         train_data = data[data["date"] < first_match_date].copy()
         logger.info("  Training data: %d matches before %s", len(train_data), first_match_date.date())
 
-        if len(train_data) < 100:
+        if len(train_data) < 20:
             logger.warning("  Too few train samples (%d) — skipping %d", len(train_data), year)
             return (
                 {

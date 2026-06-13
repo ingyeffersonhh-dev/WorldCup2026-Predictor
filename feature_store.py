@@ -37,6 +37,7 @@ FEATURE_STORE_COLUMNS = [
     "home_team",
     "away_team",
     "elo_diff",
+    "elo_diff_sq",
     "form_home_5f",
     "form_home_5a",
     "form_away_5f",
@@ -152,6 +153,14 @@ class FeatureStore:
 
         # Step 6 — Odds integration (load + merge all available years)
         all_odds = []
+        # Load historical league data first (2005-2013 for pre-WC training data)
+        hist_dir = self.raw_dir / "odds" / "historical"
+        if hist_dir.exists():
+            for path in sorted(hist_dir.glob("odds_*.csv")):
+                odds = self._load_odds_csv(path)
+                if odds is not None:
+                    all_odds.append(odds)
+        # Then load WC-specific odds (these take priority for WC matches)
         for year in (2014, 2018, 2022, 2026):
             odds = self._load_odds_from_football_data(year)
             if odds is not None:
@@ -255,6 +264,7 @@ class FeatureStore:
         df = df.merge(away_elo, on=["match_id", "away_team"], how="left")
 
         df["elo_diff"] = df["elo_home"] - df["elo_away"]
+        df["elo_diff_sq"] = df["elo_diff"] ** 2
 
         # Drop intermediate columns
         df = df.drop(columns=["elo_home", "elo_away"], errors="ignore")
@@ -500,6 +510,27 @@ class FeatureStore:
 
         logger.info("  → %d matches with odds from %s", len(result), path)
         return result
+
+    def _load_odds_csv(self, path: Path) -> Optional[pd.DataFrame]:
+        """Load odds from a pre-parsed CSV (historical format).
+
+        Expects columns: ``date, home_team, away_team, odds_h, odds_d, odds_a``
+        """
+        if not path.exists():
+            return None
+        df = pd.read_csv(path, parse_dates=["date"])
+        if len(df) == 0:
+            return None
+        # Ensure required columns
+        needed = {"date", "home_team", "away_team", "odds_h", "odds_d", "odds_a"}
+        if not needed.issubset(df.columns):
+            logger.warning("  Skipping %s: missing columns (has %s)", path, list(df.columns))
+            return None
+        # Clean
+        df = df.dropna(subset=["odds_h", "odds_d", "odds_a"])
+        df = df[(df["odds_h"] >= 1.01) & (df["odds_d"] >= 1.01) & (df["odds_a"] >= 1.01)]
+        logger.info("  → %d matches with odds from %s", len(df), path)
+        return df
 
     @staticmethod
     def _merge_odds(df: pd.DataFrame, odds_df: pd.DataFrame) -> pd.DataFrame:

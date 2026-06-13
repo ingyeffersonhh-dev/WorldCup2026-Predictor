@@ -1,0 +1,3831 @@
+date,home_team,away_team,odds_h,odds_d,odds_a
+2008-08-09,Sheffield Weds,Burnley,2.3,3.3,3.1
+2008-08-09,Cardiff,Southampton,2.0,3.3,3.75
+2008-08-09,Charlton,Swansea,2.1,3.3,3.4
+2008-08-09,Coventry,Norwich,2.3,3.25,3.2
+2008-08-09,Crystal Palace,Watford,1.91,3.4,4.0
+2008-08-09,Derby,Doncaster,1.73,3.5,5.0
+2008-08-09,Ipswich,Preston,1.91,3.3,4.2
+2008-08-09,Plymouth,Wolves,2.6,3.3,2.62
+2008-08-09,QPR,Barnsley,1.62,3.6,6.0
+2008-08-09,Valenciennes,St Etienne,2.4,3.1,3.1
+2008-08-09,Blackpool,Bristol City,2.5,3.3,2.75
+2008-08-09,Kilmarnock,Hibernian,2.4,3.2,2.62
+2008-08-09,Falkirk,Rangers,6.5,4.0,1.5
+2008-08-09,Aberdeen,Inverness C,1.73,3.4,4.2
+2008-08-09,Auxerre,Nantes,2.1,3.1,3.75
+2008-08-09,Bordeaux,Caen,1.57,3.6,6.5
+2008-08-09,Le Havre,Nice,2.3,3.0,3.4
+2008-08-09,Le Mans,Lorient,2.1,3.1,3.8
+2008-08-09,Monaco,Paris SG,2.4,3.1,3.1
+2008-08-09,Nancy,Lille,2.15,3.1,3.6
+2008-08-09,Rennes,Marseille,2.7,3.0,2.8
+2008-08-09,Sochaux,Grenoble,1.91,3.2,4.33
+2008-08-09,Hearts,Motherwell,2.0,3.25,3.25
+2008-08-09,Birmingham,Sheffield United,1.91,3.3,4.2
+2008-08-10,Celtic,St Mirren,1.17,6.5,17.0
+2008-08-10,Lyon,Toulouse,1.33,4.5,11.0
+2008-08-10,Nott'm Forest,Reading,2.75,3.3,2.5
+2008-08-11,Hamilton,Dundee United,3.6,3.25,2.1
+2008-08-15,Bayern Munich,Hamburg,1.57,3.8,6.0
+2008-08-15,Aachen,Wehen,1.73,3.5,5.0
+2008-08-15,Mainz,Kaiserslautern ,1.91,3.4,4.2
+2008-08-15,St Pauli,Osnabruck,1.91,3.4,4.0
+2008-08-16,Bielefeld,Werder Bremen,4.5,3.5,1.8
+2008-08-16,Lille,Le Mans,1.8,3.3,4.75
+2008-08-16,Schalke 04,Hannover,1.57,3.8,6.0
+2008-08-16,Wolfsburg,FC Koln,1.62,3.6,6.0
+2008-08-16,Barnsley,Coventry,2.5,3.3,2.75
+2008-08-16,Bristol City,Derby,2.1,3.3,3.4
+2008-08-16,Burnley,Ipswich,2.2,3.4,3.2
+2008-08-16,Norwich,Blackpool,1.91,3.4,4.0
+2008-08-16,Nantes,Monaco,2.25,3.0,3.3
+2008-08-16,Preston,Crystal Palace,2.4,3.3,2.88
+2008-08-16,Reading,Plymouth,1.62,3.6,6.0
+2008-08-16,Sheffield United,QPR,2.1,3.3,3.5
+2008-08-16,Wolves,Sheffield Weds,1.8,3.4,5.0
+2008-08-16,Watford,Charlton,2.3,3.25,3.1
+2008-08-16,Doncaster,Cardiff,2.4,3.3,2.88
+2008-08-16,Nice,Nancy,2.4,2.9,3.3
+2008-08-16,Paris SG,Bordeaux,2.38,2.9,3.3
+2008-08-16,St Etienne,Sochaux,1.85,3.25,4.5
+2008-08-16,Karlsruhe,Bochum,2.2,3.3,3.25
+2008-08-16,Swansea,Nott'm Forest,2.1,3.3,3.5
+2008-08-16,Leverkusen,Dortmund,2.05,3.3,3.6
+2008-08-16,Waregem,Lokeren,1.95,3.2,3.6
+2008-08-16,Tubize,Mouscron,3.2,3.4,2.2
+2008-08-16,Roeselare,Kortrijk,2.1,3.2,3.3
+2008-08-16,Dender,Standard,5.0,3.5,1.65
+2008-08-16,Cottbus,Hoffenheim,2.4,3.3,2.9
+2008-08-16,Cercle Brugge,Anderlecht,2.38,3.3,2.75
+2008-08-16,Bolton,Stoke,1.83,3.5,4.5
+2008-08-16,Everton,Blackburn,2.0,3.3,4.0
+2008-08-16,Hull,Fulham,2.6,3.2,2.8
+2008-08-16,Middlesbrough,Tottenham,3.2,3.4,2.25
+2008-08-16,Sunderland,Liverpool,5.5,3.6,1.67
+2008-08-16,West Ham,Wigan,1.91,3.4,4.2
+2008-08-16,Toulouse,Le Havre,2.15,3.1,3.6
+2008-08-16,Arsenal,West Brom,1.2,6.5,15.0
+2008-08-16,Westerlo,Charleroi,2.25,3.25,2.88
+2008-08-16,Southampton,Birmingham,3.1,3.3,2.25
+2008-08-16,Hibernian,Falkirk,2.1,3.3,3.6
+2008-08-16,Inverness C,Hamilton,1.8,3.5,4.5
+2008-08-16,Motherwell,Aberdeen,2.1,3.3,3.5
+2008-08-16,Rangers,Hearts,1.44,4.2,7.5
+2008-08-16,St Mirren,Kilmarnock,2.4,3.3,2.88
+2008-08-16,Caen,Valenciennes,2.1,3.0,4.0
+2008-08-17,M'gladbach,Stuttgart,2.75,3.3,2.5
+2008-08-17,Man United,Newcastle,1.29,5.5,11.0
+2008-08-17,Aston Villa,Man City,1.91,3.4,4.33
+2008-08-17,Ingolstadt,Greuther Furth,2.55,3.3,2.7
+2008-08-17,Genk,Germinal,1.73,3.4,5.0
+2008-08-17,Nurnberg,Augsburg,1.55,3.75,6.5
+2008-08-17,Freiburg,Munich 1860,1.95,3.4,3.8
+2008-08-17,Gent,Bergen,1.44,3.75,7.5
+2008-08-17,Ein Frankfurt,Hertha,2.35,3.3,3.0
+2008-08-17,Koblenz,Oberhausen,1.95,3.4,3.8
+2008-08-17,Ahlen,Frankfurt FSV,2.1,3.3,3.5
+2008-08-17,Chelsea,Portsmouth,1.33,5.0,10.0
+2008-08-17,Grenoble,Rennes,2.88,2.9,2.7
+2008-08-17,Dundee United,Celtic,5.75,4.0,1.57
+2008-08-17,Lorient,Lyon,4.75,3.4,1.8
+2008-08-17,Marseille,Auxerre,1.57,3.6,6.5
+2008-08-18,Duisburg,Hansa Rostock,2.0,3.3,3.75
+2008-08-22,Frankfurt FSV,Koblenz,2.15,3.3,3.3
+2008-08-22,Hannover,Cottbus,1.62,3.6,6.0
+2008-08-22,Osnabruck,Freiburg,2.88,3.3,2.4
+2008-08-22,Greuther Furth,St Pauli,1.75,3.5,4.75
+2008-08-23,Standard,Westerlo,1.33,4.2,10.0
+2008-08-23,Blackburn,Hull,1.57,3.75,7.0
+2008-08-23,Lokeren,Tubize,1.65,3.6,4.75
+2008-08-23,West Brom,Everton,2.88,3.25,2.5
+2008-08-23,Tottenham,Sunderland,1.5,4.0,7.0
+2008-08-23,Stoke,Aston Villa,5.0,3.6,1.73
+2008-08-23,Newcastle,Bolton,1.8,3.5,4.75
+2008-08-23,Liverpool,Middlesbrough,1.36,4.5,10.0
+2008-08-23,Fulham,Arsenal,6.5,3.75,1.57
+2008-08-23,Mouscron,Mechelen,2.05,3.3,3.4
+2008-08-23,Le Mans,St Etienne,2.45,3.0,3.1
+2008-08-23,Kortrijk,Cercle Brugge,3.0,3.25,2.2
+2008-08-23,Monaco,Caen,1.75,3.25,5.25
+2008-08-23,Sochaux,Paris SG,2.7,2.9,2.8
+2008-08-23,Celtic,Falkirk,1.2,6.5,13.0
+2008-08-23,Hearts,St Mirren,1.73,3.5,5.0
+2008-08-23,Inverness C,Hibernian,2.4,3.3,2.88
+2008-08-23,Kilmarnock,Hamilton,2.1,3.3,3.5
+2008-08-23,Motherwell,Dundee United,2.4,3.3,2.88
+2008-08-23,Lyon,Grenoble,1.29,4.75,13.0
+2008-08-23,Germinal,Dender,1.53,3.75,5.5
+2008-08-23,Le Havre,Marseille,3.75,3.0,2.15
+2008-08-23,Nancy,Toulouse,1.85,3.1,5.0
+2008-08-23,Aberdeen,Rangers,5.0,3.5,1.73
+2008-08-23,Dortmund,Bayern Munich,3.4,3.25,2.15
+2008-08-23,Hamburg,Karlsruhe,1.4,4.33,8.5
+2008-08-23,Valenciennes,Lorient,2.25,2.9,3.6
+2008-08-23,Sheffield Weds,Preston,2.5,3.3,2.75
+2008-08-23,QPR,Doncaster,1.83,3.4,4.5
+2008-08-23,Plymouth,Swansea,2.4,3.3,2.88
+2008-08-23,Nott'm Forest,Watford,2.4,3.3,2.88
+2008-08-23,Ipswich,Wolves,2.3,3.25,3.1
+2008-08-23,Derby,Southampton,1.83,3.4,4.5
+2008-08-23,Crystal Palace,Burnley,1.83,3.4,4.5
+2008-08-23,Coventry,Bristol City,2.1,3.3,3.5
+2008-08-23,Charlton,Reading,2.62,3.3,2.62
+2008-08-23,Cardiff,Norwich,1.91,3.4,4.0
+2008-08-23,Sivasspor,Kayserispor,2.05,3.1,3.6
+2008-08-23,Hacettepespor,Bursaspor,2.3,3.2,2.88
+2008-08-23,Anderlecht,Gent,1.65,3.4,5.0
+2008-08-23,Gaziantepspor,Fenerbahce,4.5,3.5,1.7
+2008-08-23,Buyuksehyr,Eskisehirspor,1.95,3.3,3.6
+2008-08-23,Blackpool,Sheffield United,3.1,3.4,2.25
+2008-08-23,Birmingham,Barnsley,1.44,4.2,7.5
+2008-08-23,Werder Bremen,Schalke 04,2.0,3.3,3.8
+2008-08-23,Stuttgart,Leverkusen,1.91,3.4,4.0
+2008-08-23,Hoffenheim,M'gladbach,2.05,3.3,3.6
+2008-08-23,Hertha,Bielefeld,1.67,3.6,5.5
+2008-08-23,Galatasaray,Denizlispor,1.36,4.33,7.5
+2008-08-23,Charleroi,Roeselare,1.5,3.6,6.5
+2008-08-24,Wehen,Duisburg,3.0,3.3,2.3
+2008-08-24,Oberhausen,Ingolstadt,2.38,3.3,2.9
+2008-08-24,Munich 1860,Mainz,2.38,3.3,2.9
+2008-08-24,Hansa Rostock,Aachen,1.95,3.3,4.0
+2008-08-24,Augsburg,Ahlen,1.95,3.3,4.0
+2008-08-24,Bergen,Genk,3.6,3.3,1.95
+2008-08-24,Rennes,Lille,2.1,3.0,4.0
+2008-08-24,Bordeaux,Nantes,1.5,3.75,7.5
+2008-08-24,Man City,West Ham,2.3,3.25,3.2
+2008-08-24,Wigan,Chelsea,8.5,4.5,1.4
+2008-08-24,Bochum,Wolfsburg,2.88,3.3,2.4
+2008-08-24,Genclerbirligi,Kocaelispor,1.67,3.4,4.75
+2008-08-24,FC Koln,Ein Frankfurt,2.25,3.3,3.1
+2008-08-24,Konyaspor,Ankaragucu,2.15,3.25,3.1
+2008-08-24,Auxerre,Nice,2.15,3.0,3.75
+2008-08-24,Antalyaspor,Besiktas,5.5,3.5,1.6
+2008-08-24,Trabzonspor,Ankaraspor,1.6,3.5,5.5
+2008-08-25,Portsmouth,Man United,4.8,3.4,1.8
+2008-08-25,Kaiserslautern,Nurnberg,2.62,3.3,2.62
+2008-08-29,Vitesse,Groningen,2.2,3.3,3.0
+2008-08-29,Mainz,Osnabruck,1.44,4.2,7.5
+2008-08-29,Ankaragucu,Trabzonspor,2.9,3.25,2.3
+2008-08-29,Duisburg,Augsburg,1.67,3.6,5.5
+2008-08-29,Karlsruhe,FC Koln,2.1,3.3,3.5
+2008-08-29,Tubize,Club Brugge,7.0,3.75,1.53
+2008-08-29,Ingolstadt,Kaiserslautern ,2.75,3.3,2.5
+2008-08-30,Barnsley,Derby,2.4,3.4,2.8
+2008-08-30,Swansea,Sheffield Weds,1.91,3.4,4.0
+2008-08-30,Reading,Crystal Palace,1.8,3.5,4.5
+2008-08-30,Burnley,Plymouth,1.91,3.4,4.0
+2008-08-30,Doncaster,Coventry,2.3,3.4,3.0
+2008-08-30,Norwich,Birmingham,3.25,3.3,2.2
+2008-08-30,Preston,Charlton,2.2,3.3,3.25
+2008-08-30,Udinese,Palermo,2.1,3.1,3.8
+2008-08-30,Sheffield United,Cardiff,1.83,3.4,4.33
+2008-08-30,Southampton,Blackpool,1.83,3.4,4.5
+2008-08-30,Bristol City,QPR,2.25,3.4,3.1
+2008-08-30,Sampdoria,Inter,4.33,3.2,1.91
+2008-08-30,Wolfsburg,Ein Frankfurt,1.67,3.6,5.25
+2008-08-30,Fenerbahce,Buyuksehyr,1.29,4.75,9.0
+2008-08-30,Ankaraspor,Gaziantepspor,2.3,3.25,2.9
+2008-08-30,Schalke 04,Bochum,1.4,4.33,8.5
+2008-08-30,Willem II,Ajax,5.5,3.6,1.57
+2008-08-30,Utrecht,PSV Eindhoven,4.33,3.25,1.8
+2008-08-30,Roda JC,Twente,2.38,3.3,2.7
+2008-08-30,Nijmegen,Graafschap,1.67,3.5,5.0
+2008-08-30,M'gladbach,Werder Bremen,4.33,3.5,1.83
+2008-08-30,Leverkusen,Hoffenheim,1.73,3.75,4.5
+2008-08-30,Cottbus,Dortmund,3.5,3.3,2.1
+2008-08-30,Bielefeld,Hamburg,3.8,3.3,2.0
+2008-08-30,Kocaelispor,Sivasspor,2.7,3.2,2.45
+2008-08-30,Watford,Ipswich,2.3,3.3,3.1
+2008-08-30,Cercle Brugge,Bergen,1.7,3.25,4.75
+2008-08-30,Dundee United,Kilmarnock,1.8,3.5,4.5
+2008-08-30,Bolton,West Brom,1.83,3.5,4.5
+2008-08-30,Lorient,Auxerre,2.0,3.1,4.2
+2008-08-30,Marseille,Sochaux,1.44,4.0,8.0
+2008-08-30,Arsenal,Newcastle,1.44,4.0,9.0
+2008-08-30,Wolves,Nott'm Forest,1.83,3.4,4.5
+2008-08-30,Falkirk,Inverness C,2.1,3.4,3.4
+2008-08-30,Hull,Wigan,2.5,3.25,2.88
+2008-08-30,Hamilton,Hearts,3.0,3.4,2.3
+2008-08-30,St Mirren,Aberdeen,2.9,3.3,2.38
+2008-08-30,Anderlecht,Kortrijk,1.29,4.75,9.0
+2008-08-30,Dender,Mouscron,2.5,3.3,2.5
+2008-08-30,Genk,Lokeren,1.62,3.4,5.5
+2008-08-30,Mechelen,Waregem,2.0,3.4,3.25
+2008-08-30,Westerlo,Germinal,2.25,3.3,2.8
+2008-08-30,Hibernian,Motherwell,2.15,3.3,3.4
+2008-08-30,Middlesbrough,Stoke,1.57,3.6,7.0
+2008-08-30,Everton,Portsmouth,2.1,3.3,3.75
+2008-08-30,Nantes,Le Mans,2.0,3.0,4.0
+2008-08-30,Caen,Paris SG,2.5,3.0,3.0
+2008-08-30,Grenoble,Monaco,2.38,3.0,3.25
+2008-08-30,Valencia,Mallorca,1.7,3.6,5.25
+2008-08-30,Espanol,Valladolid,2.0,3.3,3.8
+2008-08-30,Nancy,Le Havre,1.73,3.25,5.75
+2008-08-30,West Ham,Blackburn,2.5,3.25,2.88
+2008-08-30,Nice,Valenciennes,1.91,3.1,4.5
+2008-08-31,Ahlen,Munich 1860,2.65,3.2,2.65
+2008-08-31,Roeselare,Standard,5.5,3.6,1.57
+2008-08-31,Gent,Charleroi,1.62,3.5,5.0
+2008-08-31,St Etienne,Lyon,3.2,3.25,2.25
+2008-08-31,Lille,Bordeaux,2.7,3.0,2.8
+2008-08-31,Aston Villa,Liverpool,3.0,3.25,2.4
+2008-08-31,Bursaspor,Genclerbirligi,2.25,3.2,3.0
+2008-08-31,Denizlispor,Antalyaspor,2.1,3.25,3.25
+2008-08-31,Eskisehirspor,Hacettepespor,1.95,3.25,3.6
+2008-08-31,Kayserispor,Galatasaray,3.5,3.3,2.0
+2008-08-31,Sunderland,Man City,2.2,3.3,3.4
+2008-08-31,Frankfurt FSV,Greuther Furth,2.65,3.25,2.62
+2008-08-31,Chelsea,Tottenham,1.4,4.33,9.0
+2008-08-31,Celtic,Rangers,2.0,3.3,3.8
+2008-08-31,Koblenz,Wehen,2.0,3.3,3.8
+2008-08-31,Nurnberg,Aachen,1.73,3.5,5.0
+2008-08-31,Bayern Munich,Hertha,1.36,4.5,9.0
+2008-08-31,Sp Gijon,Getafe,2.62,3.3,2.62
+2008-08-31,Santander,Sevilla,2.8,3.3,2.5
+2008-08-31,Osasuna,Villarreal,2.8,3.3,2.5
+2008-08-31,Numancia,Barcelona,7.0,4.0,1.5
+2008-08-31,La Coruna,Real Madrid,3.5,3.3,2.1
+2008-08-31,Betis,Recreativo,2.0,3.25,3.8
+2008-08-31,Cagliari,Lazio,3.0,3.0,2.5
+2008-08-31,Ath Madrid,Malaga,1.44,4.2,7.5
+2008-08-31,Catania,Genoa,2.4,3.0,3.2
+2008-08-31,Chievo,Reggina,2.15,3.0,3.75
+2008-08-31,Fiorentina,Juventus,2.75,3.0,2.75
+2008-08-31,Milan,Bologna,1.3,4.75,12.0
+2008-08-31,Roma,Napoli,1.57,3.6,6.5
+2008-08-31,Torino,Lecce,1.8,3.1,5.25
+2008-08-31,Ath Bilbao,Almeria,2.0,3.3,3.8
+2008-08-31,Toulouse,Rennes,2.45,3.0,3.1
+2008-08-31,Atalanta,Siena,2.05,3.1,4.0
+2008-08-31,St Pauli,Oberhausen,1.91,3.4,4.0
+2008-08-31,Stuttgart,Hannover,1.8,3.5,4.5
+2008-08-31,AZ Alkmaar,NAC Breda,1.7,3.3,5.0
+2008-08-31,Volendam,Heerenveen,4.2,3.4,1.8
+2008-08-31,Sparta,Den Haag,1.91,3.3,3.75
+2008-08-31,Heracles,Feyenoord,4.33,3.25,1.8
+2008-09-01,Besiktas,Konyaspor,1.3,4.5,8.5
+2008-09-01,Freiburg,Hansa Rostock,2.25,3.25,3.2
+2008-09-12,Kaiserslautern,St Pauli,1.6,4.0,5.5
+2008-09-12,Oberhausen,Ahlen,2.2,3.3,3.25
+2008-09-12,Heerenveen,Heracles,1.4,4.5,8.0
+2008-09-12,Aachen,Ingolstadt,1.62,3.75,5.25
+2008-09-13,Galatasaray,Antalyaspor,1.17,6.0,13.0
+2008-09-13,Hacettepespor,Fenerbahce,6.5,4.0,1.4
+2008-09-13,Hertha,Wolfsburg,2.3,3.3,3.1
+2008-09-13,Hamburg,Leverkusen,2.05,3.4,3.6
+2008-09-13,FC Koln,Bayern Munich,5.5,3.8,1.62
+2008-09-13,Dortmund,Schalke 04,2.6,3.25,2.7
+2008-09-13,Konyaspor,Denizlispor,2.0,3.25,3.5
+2008-09-13,Hoffenheim,Stuttgart,3.0,3.3,2.38
+2008-09-13,Werder Bremen,Cottbus,1.29,5.0,11.0
+2008-09-13,Kayserispor,Kocaelispor,1.5,3.8,6.5
+2008-09-13,Auxerre,Nancy,2.38,3.0,3.2
+2008-09-13,Birmingham,Doncaster,1.57,3.75,6.0
+2008-09-13,Le Mans,Toulouse,1.83,3.25,4.75
+2008-09-13,Standard,Kortrijk,1.17,6.0,10.0
+2008-09-13,Inverness C,St Mirren,2.0,3.3,3.8
+2008-09-13,Hibernian,Dundee United,2.3,3.25,3.1
+2008-09-13,Motherwell,Celtic,4.75,3.6,1.73
+2008-09-13,Valladolid,Ath Madrid,3.2,3.4,2.2
+2008-09-13,Barcelona,Santander,1.29,5.0,12.0
+2008-09-13,Sheffield Weds,Watford,2.5,3.3,2.75
+2008-09-13,Plymouth,Norwich,2.38,3.3,2.88
+2008-09-13,Nott'm Forest,Burnley,2.1,3.4,3.4
+2008-09-13,Ipswich,Reading,2.5,3.3,2.75
+2008-09-13,Derby,Sheffield United,2.75,3.3,2.5
+2008-09-13,Crystal Palace,Swansea,2.2,3.25,3.25
+2008-09-13,Coventry,Preston,2.38,3.25,3.0
+2008-09-13,Cardiff,Bristol City,2.1,3.3,3.5
+2008-09-13,Blackpool,Barnsley,2.1,3.3,3.5
+2008-09-13,Mouscron,Gent,2.88,3.1,2.25
+2008-09-13,Mechelen,Tubize,1.5,3.6,6.0
+2008-09-13,Lokeren,Westerlo,2.2,3.1,3.0
+2008-09-13,Germinal,Roeselare,1.5,3.5,6.5
+2008-09-13,Lyon,Nice,1.4,4.0,10.0
+2008-09-13,Monaco,Lorient,2.05,3.1,4.0
+2008-09-13,Rennes,Le Havre,1.67,3.4,6.0
+2008-09-13,Valenciennes,Grenoble,2.1,3.1,3.75
+2008-09-13,Wigan,Sunderland,2.05,3.3,4.0
+2008-09-13,West Brom,West Ham,2.4,3.25,3.0
+2008-09-13,Portsmouth,Middlesbrough,2.0,3.5,3.75
+2008-09-13,Bordeaux,Marseille,2.3,3.1,3.25
+2008-09-13,Newcastle,Hull,1.62,3.75,5.75
+2008-09-13,Liverpool,Man United,3.0,3.0,2.6
+2008-09-13,Fulham,Bolton,2.25,3.3,3.3
+2008-09-13,Blackburn,Arsenal,4.5,3.5,1.83
+2008-09-13,Aberdeen,Hamilton,1.67,3.6,5.0
+2008-09-13,Falkirk,Hearts,2.88,3.3,2.38
+2008-09-13,Bergen,Anderlecht,5.75,3.75,1.5
+2008-09-13,Club Brugge,Dender,1.2,5.25,12.0
+2008-09-13,Man City,Chelsea,4.33,3.3,1.91
+2008-09-13,Charlton,Wolves,2.5,3.3,2.75
+2008-09-13,Rangers,Kilmarnock,1.25,5.5,12.0
+2008-09-13,Inter,Catania,1.25,5.0,15.0
+2008-09-13,Twente,Nijmegen,1.67,3.5,4.5
+2008-09-13,PSV Eindhoven,Sparta,1.14,6.5,13.0
+2008-09-13,Feyenoord,Volendam,1.22,5.25,13.0
+2008-09-13,Den Haag,AZ Alkmaar,3.6,3.5,1.91
+2008-09-13,Palermo,Roma,3.5,3.1,2.2
+2008-09-14,Lecce,Chievo,2.38,3.0,3.2
+2008-09-14,Bochum,Bielefeld,1.91,3.4,4.0
+2008-09-14,Hannover,M'gladbach,2.0,3.4,3.75
+2008-09-14,Lazio,Sampdoria,2.2,3.0,3.6
+2008-09-14,Waregem,Genk,2.88,3.1,2.38
+2008-09-14,Charleroi,Cercle Brugge,2.6,3.1,2.55
+2008-09-14,Bologna,Atalanta,2.2,3.0,3.6
+2008-09-14,Trabzonspor,Besiktas,2.6,3.25,2.5
+2008-09-14,Genoa,Milan,4.5,3.1,1.91
+2008-09-14,Juventus,Udinese,1.53,3.75,7.0
+2008-09-14,Sochaux,Lille,2.38,3.0,3.2
+2008-09-14,Paris SG,Nantes,1.57,3.5,7.0
+2008-09-14,Stoke,Everton,3.4,3.4,2.2
+2008-09-14,Sivasspor,Bursaspor,1.53,3.8,5.5
+2008-09-14,Gaziantepspor,Ankaragucu,1.7,3.4,4.33
+2008-09-14,Caen,St Etienne,2.5,3.0,3.0
+2008-09-14,Buyuksehyr,Ankaraspor,2.45,3.2,2.7
+2008-09-14,Villarreal,La Coruna,2.0,3.25,4.0
+2008-09-14,Sevilla,Sp Gijon,1.33,5.0,9.0
+2008-09-14,Recreativo,Espanol,2.3,3.3,3.1
+2008-09-14,Real Madrid,Numancia,1.25,5.5,12.0
+2008-09-14,Mallorca,Osasuna,2.2,3.2,3.4
+2008-09-14,Malaga,Ath Bilbao,2.5,3.25,2.8
+2008-09-14,Getafe,Betis,2.1,3.3,3.5
+2008-09-14,Almeria,Valencia,2.75,3.3,2.5
+2008-09-14,Ajax,Roda JC,1.33,4.5,8.0
+2008-09-14,Graafschap,Vitesse,2.45,3.25,2.62
+2008-09-14,Groningen,Utrecht,1.65,3.6,5.0
+2008-09-14,NAC Breda,Willem II,1.75,3.5,4.2
+2008-09-14,Genclerbirligi,Eskisehirspor,1.8,3.25,4.2
+2008-09-14,Wehen,Nurnberg,3.2,3.25,2.25
+2008-09-14,QPR,Southampton,1.8,3.4,4.75
+2008-09-14,Hansa Rostock,Mainz,2.2,3.3,3.25
+2008-09-14,Osnabruck,Frankfurt FSV,2.2,3.3,3.25
+2008-09-14,Siena,Cagliari,1.91,3.1,4.5
+2008-09-14,Reggina,Torino,2.5,3.0,3.0
+2008-09-14,Augsburg,Freiburg,2.62,3.25,2.62
+2008-09-14,Greuther Furth,Koblenz,1.73,3.5,5.0
+2008-09-14,Napoli,Fiorentina,2.6,3.0,2.88
+2008-09-15,Munich 1860,Duisburg,2.62,3.25,2.62
+2008-09-15,Tottenham,Aston Villa,2.1,3.3,3.6
+2008-09-16,Burnley,Blackpool,2.0,3.3,3.75
+2008-09-16,Reading,Sheffield Weds,1.7,3.4,5.25
+2008-09-16,Preston,Nott'm Forest,1.8,3.5,4.5
+2008-09-16,Barnsley,Cardiff,2.62,3.25,2.7
+2008-09-16,Watford,Plymouth,1.73,3.5,5.0
+2008-09-16,Wolves,Crystal Palace,1.73,3.5,5.0
+2008-09-16,Doncaster,Charlton,2.38,3.25,3.0
+2008-09-16,Sheffield United,Coventry,1.73,3.5,5.0
+2008-09-16,Bristol City,Birmingham,2.75,3.4,2.5
+2008-09-16,Swansea,Derby,2.0,3.4,3.75
+2008-09-17,Norwich,QPR,2.38,3.25,3.0
+2008-09-17,Southampton,Ipswich,2.38,3.4,2.88
+2008-09-19,Anderlecht,Charleroi,1.4,4.33,8.0
+2008-09-19,Leverkusen,Hannover,1.67,3.6,5.25
+2008-09-19,St Pauli,Munich 1860,2.2,3.3,3.25
+2008-09-19,Ahlen,Hansa Rostock,3.1,3.3,2.3
+2008-09-19,Mainz,Nurnberg,2.2,3.4,3.2
+2008-09-19,Duisburg,Aachen,2.05,3.4,3.5
+2008-09-19,Koblenz,Augsburg,2.1,3.3,3.5
+2008-09-19,Denizlispor,Trabzonspor,3.25,3.3,2.2
+2008-09-19,Utrecht,Willem II,2.15,3.4,3.3
+2008-09-20,Coventry,QPR,2.62,3.3,2.62
+2008-09-20,Crystal Palace,Plymouth,1.83,3.4,4.5
+2008-09-20,Bristol City,Doncaster,1.91,3.4,4.0
+2008-09-20,Vitesse,Sparta,1.7,3.75,4.75
+2008-09-20,Birmingham,Blackpool,1.4,4.2,9.0
+2008-09-20,Dender,Waregem,2.38,3.25,2.75
+2008-09-20,Ath Madrid,Recreativo,1.5,3.8,7.25
+2008-09-20,Catania,Atalanta,2.35,2.9,3.4
+2008-09-20,Schalke 04,Ein Frankfurt,1.44,4.2,7.5
+2008-09-20,Espanol,Getafe,2.1,3.3,3.5
+2008-09-20,AZ Alkmaar,PSV Eindhoven,3.8,3.4,1.95
+2008-09-20,Heracles,Groningen,2.75,3.3,2.5
+2008-09-20,West Ham,Newcastle,2.1,3.3,3.6
+2008-09-20,Sunderland,Middlesbrough,2.38,3.1,3.2
+2008-09-20,Liverpool,Stoke,1.2,6.5,15.0
+2008-09-20,Bolton,Arsenal,6.5,3.75,1.57
+2008-09-20,Blackburn,Fulham,2.1,3.3,3.6
+2008-09-20,Westerlo,Mouscron,2.2,3.25,3.0
+2008-09-20,Roeselare,Lokeren,2.25,3.25,2.88
+2008-09-20,Kortrijk,Bergen,2.1,3.25,3.25
+2008-09-20,Cercle Brugge,Germinal,2.0,3.25,3.5
+2008-09-20,Roma,Reggina,1.33,4.75,10.0
+2008-09-20,M'gladbach,Hertha,2.4,3.3,2.9
+2008-09-20,Gent,Mechelen,1.36,4.33,7.5
+2008-09-20,Bielefeld,FC Koln,2.3,3.3,3.1
+2008-09-20,Ankaragucu,Buyuksehyr,1.8,3.3,4.2
+2008-09-20,Eskisehirspor,Sivasspor,3.1,3.2,2.2
+2008-09-20,Fenerbahce,Genclerbirligi,1.33,4.5,8.0
+2008-09-20,Aberdeen,Dundee United,2.1,3.4,3.4
+2008-09-20,Hamilton,Hibernian,2.5,3.4,2.7
+2008-09-20,Hearts,Inverness C,1.8,3.5,4.5
+2008-09-20,St Mirren,Falkirk,2.3,3.3,3.1
+2008-09-20,Cottbus,Bochum,2.4,3.3,2.9
+2008-09-20,Norwich,Sheffield United,2.4,3.25,2.9
+2008-09-20,Nott'm Forest,Charlton,2.4,3.3,2.9
+2008-09-20,Preston,Wolves,2.62,3.3,2.62
+2008-09-20,Sheffield Weds,Ipswich,2.5,3.3,2.75
+2008-09-20,Southampton,Barnsley,2.0,3.25,3.5
+2008-09-20,Swansea,Burnley,2.1,3.3,3.5
+2008-09-20,Watford,Reading,2.75,3.25,2.5
+2008-09-20,Derby,Cardiff,2.25,3.25,3.2
+2008-09-20,Le Havre,Lyon,5.0,3.5,1.73
+2008-09-20,Lille,Auxerre,1.8,3.1,5.25
+2008-09-20,Lorient,Caen,2.15,3.0,3.75
+2008-09-20,Nantes,Valenciennes,2.15,3.0,3.75
+2008-09-20,Nice,Le Mans,2.1,2.9,4.0
+2008-09-20,Grenoble,Bordeaux,3.25,3.0,2.35
+2008-09-20,Bayern Munich,Werder Bremen,1.73,3.5,5.0
+2008-09-20,Toulouse,Sochaux,2.15,2.88,4.0
+2008-09-21,Wolfsburg,Hamburg,2.4,3.3,2.9
+2008-09-21,Stuttgart,Karlsruhe,1.57,3.8,6.0
+2008-09-21,Valencia,Osasuna,1.62,3.75,5.5
+2008-09-21,Numancia,Villarreal,3.0,3.4,2.3
+2008-09-21,Santander,Real Madrid,3.4,3.4,2.1
+2008-09-21,La Coruna,Mallorca,1.91,3.3,4.2
+2008-09-21,Betis,Sevilla,3.1,3.25,2.3
+2008-09-21,Ath Bilbao,Valladolid,2.0,3.3,3.75
+2008-09-21,Almeria,Malaga,1.83,3.5,4.33
+2008-09-21,Sp Gijon,Barcelona,7.5,3.8,1.5
+2008-09-21,Genk,Club Brugge,2.5,3.2,2.62
+2008-09-21,Torino,Inter,5.75,3.4,1.67
+2008-09-21,Udinese,Napoli,2.1,3.1,3.75
+2008-09-21,Sampdoria,Chievo,1.62,3.5,6.25
+2008-09-21,Ankaraspor,Hacettepespor,1.67,3.4,4.75
+2008-09-21,Antalyaspor,Konyaspor,2.1,3.25,3.25
+2008-09-21,Besiktas,Gaziantepspor,1.4,4.2,6.5
+2008-09-21,Bursaspor,Kayserispor,2.3,3.2,2.88
+2008-09-21,Kocaelispor,Galatasaray,6.0,3.4,1.57
+2008-09-21,Cagliari,Juventus,6.25,3.5,1.62
+2008-09-21,Palermo,Genoa,2.1,3.1,3.8
+2008-09-21,Fiorentina,Bologna,1.53,3.6,7.5
+2008-09-21,Lecce,Siena,2.25,2.88,3.6
+2008-09-21,Milan,Lazio,1.73,3.3,5.5
+2008-09-21,Tubize,Standard,6.5,4.0,1.44
+2008-09-21,Hoffenheim,Dortmund,2.5,3.25,2.8
+2008-09-21,Frankfurt FSV,Oberhausen,1.95,3.4,4.0
+2008-09-21,Graafschap,Den Haag,2.4,3.3,2.88
+2008-09-21,Kilmarnock,Celtic,6.0,3.6,1.62
+2008-09-21,Feyenoord,Ajax,2.88,3.3,2.4
+2008-09-21,St Etienne,Paris SG,2.4,2.88,3.3
+2008-09-21,Heerenveen,Nijmegen,1.85,3.6,4.0
+2008-09-21,West Brom,Aston Villa,3.25,3.3,2.25
+2008-09-21,Tottenham,Wigan,1.73,3.6,5.0
+2008-09-21,Man City,Portsmouth,2.0,3.3,4.0
+2008-09-21,Roda JC,NAC Breda,2.1,3.4,3.4
+2008-09-21,Nancy,Rennes,2.1,2.9,4.0
+2008-09-21,Rangers,Motherwell,1.29,5.5,10.5
+2008-09-21,Volendam,Twente,4.2,3.6,1.7
+2008-09-21,Ingolstadt,Osnabruck,1.91,3.4,4.2
+2008-09-21,Hull,Everton,3.1,3.4,2.3
+2008-09-21,Chelsea,Man United,2.2,3.1,3.6
+2008-09-21,Freiburg,Wehen,1.5,4.0,7.0
+2008-09-21,Marseille,Monaco,1.62,3.4,6.5
+2008-09-22,Greuther Furth,Kaiserslautern ,2.45,3.25,2.88
+2008-09-24,Siena,Sampdoria,2.75,2.9,2.8
+2008-09-24,Reggina,Milan,6.5,3.6,1.57
+2008-09-24,Atalanta,Cagliari,1.73,3.3,5.5
+2008-09-24,Chievo,Torino,2.25,2.9,3.6
+2008-09-24,Napoli,Palermo,2.05,3.1,4.0
+2008-09-24,Lazio,Fiorentina,2.4,3.0,3.2
+2008-09-24,Juventus,Catania,1.25,5.25,13.0
+2008-09-24,Inter,Lecce,1.17,6.5,19.0
+2008-09-24,Genoa,Roma,4.2,3.0,2.05
+2008-09-24,Bologna,Udinese,2.65,2.9,2.9
+2008-09-24,Mechelen,Club Brugge,4.75,3.4,1.67
+2008-09-24,Barcelona,Betis,1.2,6.0,15.0
+2008-09-24,Getafe,Ath Madrid,2.9,3.25,2.4
+2008-09-24,Villarreal,Santander,1.57,3.75,6.0
+2008-09-24,Sevilla,Espanol,1.62,3.6,6.0
+2008-09-24,Real Madrid,Sp Gijon,1.17,6.5,17.0
+2008-09-24,Osasuna,La Coruna,2.25,3.25,3.2
+2008-09-25,Valladolid,Almeria,2.1,3.3,3.5
+2008-09-25,Mallorca,Numancia,1.85,3.4,4.33
+2008-09-25,Recreativo,Ath Bilbao,2.35,3.25,3.0
+2008-09-25,Malaga,Valencia,3.75,3.3,2.0
+2008-09-26,Osnabruck,Koblenz,2.2,3.3,3.25
+2008-09-26,Oberhausen,Greuther Furth,3.2,3.25,2.25
+2008-09-26,Sivasspor,Fenerbahce,3.2,3.4,2.2
+2008-09-26,Hansa Rostock,St Pauli,1.62,3.8,5.75
+2008-09-26,Standard,Anderlecht,2.1,3.4,3.4
+2008-09-26,FC Koln,Schalke 04,4.75,3.75,1.73
+2008-09-27,Barnsley,Norwich,2.5,3.3,2.8
+2008-09-27,Ipswich,Crystal Palace,1.83,3.5,4.33
+2008-09-27,Doncaster,Southampton,2.0,3.3,3.8
+2008-09-27,Charlton,Sheffield Weds,1.83,3.5,4.33
+2008-09-27,Cardiff,Birmingham,2.62,3.3,2.62
+2008-09-27,Burnley,Preston,2.4,3.3,2.88
+2008-09-27,Blackpool,Coventry,2.4,3.3,2.88
+2008-09-27,Fiorentina,Genoa,1.75,3.3,5.25
+2008-09-27,Inverness C,Kilmarnock,2.4,3.3,2.88
+2008-09-27,Sp Gijon,Villarreal,5.5,3.75,1.62
+2008-09-27,Espanol,Barcelona,4.5,3.5,1.8
+2008-09-27,Trabzonspor,Antalyaspor,1.36,4.5,9.0
+2008-09-27,Kocaelispor,Bursaspor,2.5,3.25,2.6
+2008-09-27,Genclerbirligi,Ankaraspor,2.1,3.3,3.2
+2008-09-27,Buyuksehyr,Besiktas,5.5,3.75,1.62
+2008-09-27,Falkirk,Hamilton,2.1,3.4,3.4
+2008-09-27,Dundee United,Hearts,2.38,3.4,2.88
+2008-09-27,Celtic,Aberdeen,1.33,4.5,11.0
+2008-09-27,Betis,Real Madrid,4.33,3.6,1.8
+2008-09-27,Motherwell,St Mirren,1.91,3.4,4.0
+2008-09-27,Auxerre,Le Havre,1.91,3.1,4.6
+2008-09-27,Sampdoria,Juventus,3.4,3.0,2.3
+2008-09-27,Le Mans,Marseille,3.0,3.0,2.5
+2008-09-27,Stoke,Chelsea,9.0,4.75,1.36
+2008-09-27,Newcastle,Blackburn,2.6,3.3,2.75
+2008-09-27,Wolves,Bristol City,1.73,3.5,5.0
+2008-09-27,Sheffield United,Watford,1.8,3.5,4.5
+2008-09-27,Middlesbrough,West Brom,1.8,3.4,5.0
+2008-09-27,Man United,Bolton,1.22,6.0,15.0
+2008-09-27,Fulham,West Ham,2.3,3.25,3.2
+2008-09-27,Everton,Liverpool,3.75,3.25,2.1
+2008-09-27,Aston Villa,Sunderland,1.57,3.75,6.5
+2008-09-27,Arsenal,Hull,1.2,6.0,17.0
+2008-09-27,Reading,Swansea,1.73,3.5,5.0
+2008-09-27,QPR,Derby,1.8,3.5,4.5
+2008-09-27,Plymouth,Nott'm Forest,2.0,3.3,3.8
+2008-09-27,Willem II,AZ Alkmaar,2.88,3.4,2.35
+2008-09-27,Caen,Nantes,2.0,2.9,4.5
+2008-09-27,Twente,Graafschap,1.36,4.75,8.0
+2008-09-27,Waregem,Tubize,1.55,4.0,6.0
+2008-09-27,Lyon,Nancy,1.44,4.0,8.5
+2008-09-27,Paris SG,Grenoble,1.57,3.5,7.0
+2008-09-27,NAC Breda,Heerenveen,2.4,3.4,2.8
+2008-09-27,Rennes,Nice,1.95,2.9,4.5
+2008-09-27,Bochum,Leverkusen,3.5,3.3,2.1
+2008-09-27,Dortmund,Stuttgart,2.38,3.3,2.9
+2008-09-27,PSV Eindhoven,Volendam,1.14,7.5,17.0
+2008-09-27,Hamburg,M'gladbach,1.44,4.2,7.5
+2008-09-27,Hertha,Cottbus,1.57,3.75,6.0
+2008-09-27,Werder Bremen,Hoffenheim,1.44,4.33,7.0
+2008-09-27,Bergen,Roeselare,1.8,3.5,4.5
+2008-09-27,Charleroi,Kortrijk,1.62,3.75,5.5
+2008-09-27,Club Brugge,Westerlo,1.44,4.2,7.5
+2008-09-27,Lokeren,Cercle Brugge,2.75,3.3,2.5
+2008-09-27,Hannover,Bayern Munich,7.0,3.8,1.5
+2008-09-27,Sochaux,Lorient,2.1,2.88,4.0
+2008-09-28,Portsmouth,Tottenham,2.5,3.25,3.0
+2008-09-28,Torino,Lazio,2.75,3.0,2.7
+2008-09-28,Mouscron,Genk,2.35,3.3,3.0
+2008-09-28,Palermo,Reggina,1.62,3.4,6.5
+2008-09-28,Milan,Inter,2.88,2.88,2.75
+2008-09-28,Kaiserslautern,Frankfurt FSV,1.5,4.0,6.5
+2008-09-28,Germinal,Gent,2.25,3.3,3.1
+2008-09-28,Augsburg,Mainz,3.1,3.3,2.3
+2008-09-28,Aachen,Freiburg,2.5,3.3,2.75
+2008-09-28,Lecce,Cagliari,2.0,3.0,4.33
+2008-09-28,Roma,Atalanta,1.57,3.6,6.5
+2008-09-28,Munich 1860,Ingolstadt,1.8,3.5,4.5
+2008-09-28,Monaco,Lille,2.38,2.88,3.4
+2008-09-28,Numancia,Osasuna,2.38,3.25,3.0
+2008-09-28,Bologna,Napoli,2.7,3.0,2.75
+2008-09-28,Ein Frankfurt,Bielefeld,1.95,3.3,4.0
+2008-09-28,Karlsruhe,Wolfsburg,3.1,3.3,2.3
+2008-09-28,Udinese,Siena,1.62,3.4,6.5
+2008-09-28,Den Haag,Utrecht,2.45,3.4,2.7
+2008-09-28,Groningen,Feyenoord,2.4,3.4,2.7
+2008-09-28,Nijmegen,Heracles,1.62,3.4,5.0
+2008-09-28,Sparta,Roda JC,2.5,3.25,2.6
+2008-09-28,Hibernian,Rangers,5.0,3.5,1.73
+2008-09-28,Valencia,La Coruna,1.67,3.6,5.25
+2008-09-28,Santander,Mallorca,2.2,3.1,3.5
+2008-09-28,Wehen,Ahlen,2.0,3.3,3.75
+2008-09-28,Catania,Chievo,2.05,3.0,4.2
+2008-09-28,Ath Madrid,Sevilla,2.05,3.3,3.6
+2008-09-28,Ath Bilbao,Getafe,2.2,3.25,3.3
+2008-09-28,Almeria,Recreativo,1.8,3.5,4.5
+2008-09-28,Kayserispor,Eskisehirspor,1.5,3.6,6.5
+2008-09-28,Hacettepespor,Ankaragucu,2.55,3.2,2.55
+2008-09-28,Gaziantepspor,Denizlispor,1.75,3.3,4.2
+2008-09-28,Galatasaray,Konyaspor,1.25,5.25,12.0
+2008-09-28,Bordeaux,St Etienne,1.85,3.2,4.75
+2008-09-28,Valenciennes,Toulouse,2.2,3.0,3.6
+2008-09-28,Ajax,Vitesse,1.22,6.0,12.0
+2008-09-28,Wigan,Man City,3.0,3.3,2.38
+2008-09-28,Malaga,Valladolid,2.5,3.25,2.8
+2008-09-29,Mechelen,Dender,1.73,3.6,4.75
+2008-09-29,Nurnberg,Duisburg,1.8,3.5,4.5
+2008-09-30,Cardiff,Coventry,2.0,3.4,3.75
+2008-09-30,Bristol City,Plymouth,1.9,3.5,4.0
+2008-09-30,Burnley,Watford,1.91,3.5,4.0
+2008-09-30,Crystal Palace,Charlton,2.2,3.3,3.25
+2008-09-30,Derby,Birmingham,2.8,3.3,2.5
+2008-09-30,Doncaster,Sheffield United,2.62,3.3,2.6
+2008-09-30,Ipswich,Barnsley,1.67,3.5,5.5
+2008-09-30,Preston,Swansea,1.91,3.4,4.0
+2008-09-30,QPR,Blackpool,1.67,3.5,5.5
+2008-09-30,Sheffield Weds,Nott'm Forest,1.91,3.4,4.0
+2008-09-30,Southampton,Norwich,2.5,3.3,2.75
+2008-09-30,Wolves,Reading,2.1,3.25,3.6
+2008-10-03,Bielefeld,Karlsruhe,2.25,3.25,3.2
+2008-10-03,Anderlecht,Mouscron,1.44,4.33,6.5
+2008-10-03,Oberhausen,Augsburg,2.5,3.2,2.75
+2008-10-03,AZ Alkmaar,Sparta,1.33,4.75,9.0
+2008-10-03,Frankfurt FSV,Munich 1860,2.38,3.25,2.9
+2008-10-03,Freiburg,Duisburg,1.91,3.3,4.0
+2008-10-04,Aberdeen,Hibernian,2.25,3.4,3.1
+2008-10-04,Celtic,Hamilton,1.2,6.0,15.0
+2008-10-04,Dundee United,Inverness C,1.8,3.6,4.5
+2008-10-04,Hearts,Kilmarnock,1.8,3.6,4.33
+2008-10-04,Grenoble,Nantes,2.05,3.1,4.0
+2008-10-04,Le Havre,Le Mans,2.6,3.1,2.8
+2008-10-04,Lille,Valenciennes,1.62,3.6,6.0
+2008-10-04,Lorient,Bordeaux,3.2,3.0,2.38
+2008-10-04,Marseille,Caen,1.53,3.75,7.0
+2008-10-04,Nice,Sochaux,1.91,3.0,4.75
+2008-10-04,Toulouse,Auxerre,1.91,3.2,4.33
+2008-10-04,Wigan,Middlesbrough,2.1,3.3,3.6
+2008-10-04,West Brom,Fulham,2.25,3.25,3.25
+2008-10-04,Sunderland,Arsenal,6.0,3.75,1.62
+2008-10-04,Kortrijk,Germinal,2.62,3.25,2.62
+2008-10-04,Bergen,Charleroi,2.25,3.3,3.1
+2008-10-04,Barnsley,Doncaster,2.38,3.4,2.88
+2008-10-04,Birmingham,QPR,1.8,3.5,4.5
+2008-10-04,Blackpool,Cardiff,2.38,3.4,2.88
+2008-10-04,Charlton,Ipswich,2.25,3.4,3.1
+2008-10-04,Coventry,Southampton,1.91,3.4,4.0
+2008-10-04,Norwich,Derby,2.25,3.25,3.2
+2008-10-04,Nott'm Forest,Crystal Palace,2.4,3.4,2.8
+2008-10-04,Blackburn,Man United,6.0,3.75,1.62
+2008-10-04,Plymouth,Sheffield Weds,2.1,3.4,3.4
+2008-10-04,Swansea,Wolves,2.8,3.25,2.5
+2008-10-04,Watford,Preston,2.38,3.4,2.88
+2008-10-04,Westerlo,Waregem,1.85,3.4,4.33
+2008-10-04,Tubize,Dender,2.4,3.25,2.88
+2008-10-04,Barcelona,Ath Madrid,1.62,3.6,6.0
+2008-10-04,Gent,Lokeren,1.62,3.6,5.0
+2008-10-04,Genk,Mechelen,1.44,4.33,6.5
+2008-10-04,Reading,Burnley,1.62,3.75,5.5
+2008-10-04,Sheffield United,Bristol City,1.91,3.4,4.0
+2008-10-04,Villarreal,Betis,1.57,3.6,6.5
+2008-10-04,Inter,Bologna,1.22,6.0,13.0
+2008-10-04,Lazio,Lecce,1.44,4.0,8.0
+2008-10-04,Ankaraspor,Sivasspor,2.88,3.2,2.3
+2008-10-04,Heracles,Roda JC,2.38,3.2,2.8
+2008-10-04,PSV Eindhoven,Graafschap,1.17,6.5,12.0
+2008-10-04,Vitesse,Willem II,2.05,3.25,3.4
+2008-10-04,Antalyaspor,Gaziantepspor,2.62,3.2,2.5
+2008-10-04,Konyaspor,Trabzonspor,3.0,3.25,2.2
+2008-10-04,Stuttgart,Werder Bremen,2.5,3.4,2.7
+2008-10-04,M'gladbach,FC Koln,2.25,3.3,3.2
+2008-10-04,Leverkusen,Hertha,1.62,3.6,6.0
+2008-10-04,Hoffenheim,Ein Frankfurt,1.7,3.6,4.75
+2008-10-04,Bayern Munich,Bochum,1.25,5.5,12.0
+2008-10-05,Heerenveen,Ajax,3.2,3.3,2.1
+2008-10-05,Denizlispor,Buyuksehyr,1.95,3.25,3.6
+2008-10-05,Ankaragucu,Genclerbirligi,2.38,3.2,2.8
+2008-10-05,Chelsea,Aston Villa,1.5,4.0,7.0
+2008-10-05,Utrecht,Twente,2.8,3.2,2.38
+2008-10-05,Man City,Liverpool,3.2,3.3,2.25
+2008-10-05,Portsmouth,Stoke,1.67,3.4,6.0
+2008-10-05,Eskisehirspor,Kocaelispor,2.05,3.25,3.4
+2008-10-05,Tottenham,Hull,1.73,3.75,4.75
+2008-10-05,West Ham,Bolton,1.83,3.4,4.75
+2008-10-05,Greuther Furth,Osnabruck,1.67,3.4,5.0
+2008-10-05,Ingolstadt,Hansa Rostock,2.75,3.25,2.38
+2008-10-05,Everton,Newcastle,1.73,3.6,5.0
+2008-10-05,Fenerbahce,Kayserispor,1.44,4.0,6.5
+2008-10-05,Osasuna,Santander,2.05,3.25,3.75
+2008-10-05,Getafe,Almeria,2.0,3.4,3.75
+2008-10-05,Ahlen,Nurnberg,2.75,3.25,2.38
+2008-10-05,Cottbus,Hamburg,3.75,3.4,2.0
+2008-10-05,Dortmund,Hannover,1.85,3.5,4.33
+2008-10-05,Schalke 04,Wolfsburg,1.8,3.5,4.5
+2008-10-05,Motherwell,Falkirk,2.0,3.5,3.6
+2008-10-05,St Mirren,Rangers,8.5,5.0,1.33
+2008-10-05,Cercle Brugge,Standard,3.3,3.2,2.2
+2008-10-05,Roeselare,Club Brugge,6.0,3.8,1.57
+2008-10-05,Sevilla,Ath Bilbao,1.44,4.2,7.5
+2008-10-05,Recreativo,Malaga,2.1,3.25,3.6
+2008-10-05,Real Madrid,Espanol,1.33,5.0,9.0
+2008-10-05,Koblenz,Kaiserslautern ,3.0,3.25,2.2
+2008-10-05,Mallorca,Sp Gijon,1.62,3.6,6.0
+2008-10-05,La Coruna,Numancia,1.73,3.5,5.0
+2008-10-05,Valladolid,Valencia,3.3,3.25,2.2
+2008-10-05,St Pauli,Aachen,2.3,3.25,2.8
+2008-10-05,Bursaspor,Galatasaray,4.5,3.4,1.73
+2008-10-05,Rennes,Lyon,3.4,3.2,2.2
+2008-10-05,Cagliari,Milan,8.0,4.0,1.44
+2008-10-05,Chievo,Fiorentina,3.25,3.0,2.38
+2008-10-05,Atalanta,Sampdoria,2.4,3.0,3.2
+2008-10-05,Volendam,NAC Breda,4.75,3.5,1.73
+2008-10-05,Genoa,Napoli,2.1,3.1,3.75
+2008-10-05,Juventus,Palermo,1.53,3.75,7.0
+2008-10-05,Reggina,Catania,2.5,2.88,3.2
+2008-10-05,Siena,Roma,4.0,3.2,2.0
+2008-10-05,Udinese,Torino,1.67,3.4,6.0
+2008-10-05,Groningen,Den Haag,1.5,3.75,6.5
+2008-10-05,Feyenoord,Nijmegen,1.65,3.75,4.75
+2008-10-05,Nancy,Paris SG,2.38,3.0,3.2
+2008-10-05,St Etienne,Monaco,2.0,3.2,4.0
+2008-10-06,Besiktas,Hacettepespor,1.25,5.0,10.0
+2008-10-06,Mainz,Wehen,1.4,4.2,7.0
+2008-10-17,Kaiserslautern,Ahlen,1.57,4.0,6.0
+2008-10-17,Nurnberg,Freiburg,2.25,3.3,3.1
+2008-10-17,Osnabruck,Oberhausen,1.73,3.6,5.0
+2008-10-17,Den Haag,Volendam,1.75,3.5,4.75
+2008-10-17,Bochum,M'gladbach,1.91,3.4,4.0
+2008-10-18,Inverness C,Celtic,6.5,3.8,1.53
+2008-10-18,Hamilton,St Mirren,2.38,3.3,3.0
+2008-10-18,Falkirk,Aberdeen,2.25,3.4,3.1
+2008-10-18,Kocaelispor,Fenerbahce,5.5,3.75,1.62
+2008-10-18,Wolves,Coventry,1.73,3.5,5.0
+2008-10-18,Ajax,Groningen,1.57,3.6,5.5
+2008-10-18,NAC Breda,PSV Eindhoven,3.2,3.3,2.1
+2008-10-18,Roda JC,Heerenveen,3.2,3.5,2.0
+2008-10-18,Twente,Heracles,1.4,4.33,6.5
+2008-10-18,Southampton,Watford,2.25,3.25,3.2
+2008-10-18,QPR,Nott'm Forest,1.62,3.75,5.5
+2008-10-18,Hertha,Stuttgart,2.5,3.3,2.75
+2008-10-18,Ipswich,Swansea,2.0,3.3,3.8
+2008-10-18,Doncaster,Blackpool,2.4,3.25,2.9
+2008-10-18,Derby,Plymouth,1.91,3.4,4.0
+2008-10-18,Crystal Palace,Barnsley,1.8,3.5,4.5
+2008-10-18,Ein Frankfurt,Leverkusen,3.6,3.4,2.0
+2008-10-18,Cardiff,Charlton,2.1,3.3,3.5
+2008-10-18,Kilmarnock,Motherwell,2.25,3.4,3.1
+2008-10-18,FC Koln,Cottbus,1.91,3.3,4.2
+2008-10-18,Burnley,Birmingham,2.88,3.3,2.4
+2008-10-18,Bristol City,Norwich,2.0,3.3,3.8
+2008-10-18,Wolfsburg,Bielefeld,1.5,4.0,6.75
+2008-10-18,Werder Bremen,Dortmund,1.73,3.6,4.75
+2008-10-18,Karlsruhe,Bayern Munich,5.5,3.75,1.62
+2008-10-18,Hannover,Hoffenheim,2.35,3.4,2.88
+2008-10-18,Preston,Reading,2.88,3.3,2.4
+2008-10-18,Standard,Bergen,1.2,5.5,13.0
+2008-10-18,Monaco,Nice,2.2,3.0,3.6
+2008-10-18,Middlesbrough,Chelsea,6.0,3.7,1.62
+2008-10-18,Man United,West Brom,1.2,6.5,15.0
+2008-10-18,Liverpool,Wigan,1.4,4.33,9.0
+2008-10-18,Fulham,Sunderland,2.25,3.25,3.3
+2008-10-18,Bolton,Blackburn,2.4,3.25,3.0
+2008-10-18,Aston Villa,Portsmouth,1.83,3.25,5.0
+2008-10-18,Arsenal,Everton,1.36,4.5,10.0
+2008-10-18,Sochaux,Le Havre,1.83,3.2,5.0
+2008-10-18,Paris SG,Lorient,1.62,3.4,6.5
+2008-10-18,Nantes,St Etienne,2.6,3.0,2.9
+2008-10-18,Tubize,Gent,5.5,3.6,1.57
+2008-10-18,Lyon,Lille,1.53,3.75,7.0
+2008-10-18,Caen,Grenoble,1.91,3.1,4.5
+2008-10-18,Bordeaux,Toulouse,1.65,3.4,6.0
+2008-10-18,Hacettepespor,Denizlispor,2.4,3.3,2.88
+2008-10-18,Buyuksehyr,Antalyaspor,2.1,3.3,3.5
+2008-10-18,Bursaspor,Eskisehirspor,1.5,4.0,5.75
+2008-10-18,Mechelen,Westerlo,2.2,3.25,3.0
+2008-10-18,Lokeren,Kortrijk,1.95,3.3,3.5
+2008-10-18,Napoli,Juventus,2.5,3.0,3.1
+2008-10-18,Fiorentina,Reggina,1.44,3.8,9.0
+2008-10-18,Ath Madrid,Real Madrid,2.9,3.3,2.4
+2008-10-18,Germinal,Charleroi,1.91,3.4,3.75
+2008-10-18,Mouscron,Roeselare,1.53,3.6,6.0
+2008-10-18,Dender,Genk,4.0,3.4,1.91
+2008-10-18,Espanol,Villarreal,2.75,3.3,2.5
+2008-10-19,Duisburg,Ingolstadt,1.67,3.75,5.0
+2008-10-19,Sivasspor,Ankaragucu,1.5,3.75,6.5
+2008-10-19,Genclerbirligi,Besiktas,4.2,3.25,1.83
+2008-10-19,Gaziantepspor,Konyaspor,1.8,3.3,4.33
+2008-10-19,Stoke,Tottenham,3.25,3.3,2.25
+2008-10-19,Galatasaray,Trabzonspor,1.73,3.5,4.5
+2008-10-19,Valenciennes,Marseille,3.5,3.2,2.15
+2008-10-19,Kayserispor,Ankaraspor,1.67,3.4,5.0
+2008-10-19,Hull,West Ham,2.62,3.25,2.75
+2008-10-19,Wehen,Frankfurt FSV,2.3,3.25,3.1
+2008-10-19,Augsburg,St Pauli,2.0,3.4,3.6
+2008-10-19,Le Mans,Nancy,2.05,3.0,4.2
+2008-10-19,Auxerre,Rennes,2.4,3.0,3.2
+2008-10-19,Sheffield Weds,Sheffield United,2.62,3.25,2.62
+2008-10-19,Munich 1860,Greuther Furth,2.5,3.25,2.8
+2008-10-19,Hamburg,Schalke 04,2.25,3.25,3.2
+2008-10-19,Hansa Rostock,Koblenz,1.67,3.6,5.25
+2008-10-19,Hibernian,Hearts,2.38,3.25,3.0
+2008-10-19,Club Brugge,Cercle Brugge,1.75,3.5,4.75
+2008-10-19,Waregem,Anderlecht,4.75,3.5,1.75
+2008-10-19,Willem II,Feyenoord,2.9,3.25,2.25
+2008-10-19,Milan,Sampdoria,1.4,4.0,9.5
+2008-10-19,Valencia,Numancia,1.33,4.6,10.0
+2008-10-19,Sp Gijon,Osasuna,2.62,3.25,2.62
+2008-10-19,Santander,La Coruna,2.15,3.25,3.4
+2008-10-19,Malaga,Getafe,2.5,3.25,2.8
+2008-10-19,Betis,Mallorca,2.0,3.3,3.8
+2008-10-19,Ath Bilbao,Barcelona,6.0,4.0,1.53
+2008-10-19,Almeria,Sevilla,2.7,3.25,2.6
+2008-10-19,Roma,Inter,3.4,3.0,2.3
+2008-10-19,Torino,Cagliari,1.83,3.1,5.0
+2008-10-19,Graafschap,AZ Alkmaar,6.25,4.2,1.45
+2008-10-19,Nijmegen,Vitesse,1.57,3.6,5.5
+2008-10-19,Sparta,Utrecht,2.62,3.2,2.5
+2008-10-19,Valladolid,Recreativo,1.83,3.4,4.5
+2008-10-19,Genoa,Siena,1.83,3.1,5.0
+2008-10-19,Chievo,Atalanta,2.5,2.88,3.2
+2008-10-19,Catania,Palermo,2.5,3.0,3.0
+2008-10-19,Bologna,Lazio,3.5,3.1,2.2
+2008-10-19,Lecce,Udinese,3.0,3.0,2.5
+2008-10-20,Aachen,Mainz,2.75,3.2,2.5
+2008-10-20,Newcastle,Man City,3.0,3.25,2.4
+2008-10-21,Blackpool,Derby,2.62,3.3,2.62
+2008-10-21,Watford,Cardiff,2.3,3.3,3.0
+2008-10-21,Reading,Doncaster,1.4,4.33,8.5
+2008-10-21,Charlton,Bristol City,2.2,3.3,3.3
+2008-10-21,Plymouth,Preston,2.1,3.3,3.5
+2008-10-21,Nott'm Forest,Ipswich,2.62,3.3,2.62
+2008-10-21,Norwich,Wolves,3.1,3.25,2.3
+2008-10-21,Coventry,Burnley,2.2,3.3,3.25
+2008-10-21,Barnsley,Sheffield Weds,2.5,3.3,2.75
+2008-10-21,Sheffield United,Southampton,1.62,3.6,6.0
+2008-10-21,Birmingham,Crystal Palace,1.73,3.5,5.0
+2008-10-21,Swansea,QPR,2.25,3.25,3.2
+2008-10-22,Ein Frankfurt,Karlsruhe,2.1,3.3,3.5
+2008-10-24,Frankfurt FSV,Hansa Rostock,3.2,3.4,2.2
+2008-10-24,Heracles,Den Haag,1.85,3.6,4.0
+2008-10-24,Greuther Furth,Aachen,2.0,3.4,3.75
+2008-10-24,Besiktas,Sivasspor,1.53,4.0,6.25
+2008-10-24,St Pauli,Wehen,1.6,3.75,5.75
+2008-10-24,Ahlen,Freiburg,2.88,3.3,2.4
+2008-10-24,Ingolstadt,Augsburg,2.3,3.3,3.1
+2008-10-24,Kortrijk,Mouscron,2.4,3.3,2.9
+2008-10-24,Leverkusen,FC Koln,1.53,4.0,6.5
+2008-10-25,Plymouth,Ipswich,2.2,3.3,3.25
+2008-10-25,Nice,Bordeaux,2.88,3.0,2.6
+2008-10-25,Norwich,Doncaster,1.73,3.5,5.0
+2008-10-25,Sheffield United,Preston,1.8,3.5,4.5
+2008-10-25,Coventry,Derby,2.38,3.25,3.0
+2008-10-25,Charlton,Burnley,2.5,3.3,2.75
+2008-10-25,Blackpool,Crystal Palace,2.38,3.25,3.0
+2008-10-25,Swansea,Southampton,1.73,3.6,4.75
+2008-10-25,Watford,Wolves,2.75,3.3,2.5
+2008-10-25,Birmingham,Sheffield Weds,1.6,3.75,6.0
+2008-10-25,Nott'm Forest,Cardiff,2.75,3.4,2.5
+2008-10-25,Reading,QPR,1.67,3.6,5.25
+2008-10-25,Bergen,Germinal,2.4,3.3,2.9
+2008-10-25,Cercle Brugge,Dender,1.44,4.2,7.5
+2008-10-25,Charleroi,Lokeren,2.1,3.3,3.5
+2008-10-25,Roeselare,Waregem,2.75,3.3,2.5
+2008-10-25,Westerlo,Tubize,1.44,4.2,7.5
+2008-10-25,Willem II,Graafschap,1.67,3.75,5.0
+2008-10-25,Lorient,Nantes,2.1,3.1,3.75
+2008-10-25,Lille,Caen,1.67,3.5,5.5
+2008-10-25,Le Havre,Valenciennes,2.2,3.0,3.6
+2008-10-25,Auxerre,Lyon,4.2,3.3,1.91
+2008-10-25,West Brom,Hull,2.2,3.3,3.4
+2008-10-25,Hamilton,Rangers,10.0,4.75,1.33
+2008-10-25,Dundee United,St Mirren,1.73,3.5,5.0
+2008-10-25,Anderlecht,Mechelen,1.29,5.25,10.0
+2008-10-25,Barnsley,Bristol City,2.62,3.3,2.62
+2008-10-25,Rennes,Le Mans,2.0,3.1,4.2
+2008-10-25,Everton,Man United,7.5,4.0,1.5
+2008-10-25,Bayern Munich,Wolfsburg,1.57,3.8,5.75
+2008-10-25,Cottbus,Ein Frankfurt,2.3,3.25,3.1
+2008-10-25,Hannover,Werder Bremen,3.4,3.4,2.1
+2008-10-25,M'gladbach,Karlsruhe,2.2,3.3,3.25
+2008-10-25,Schalke 04,Bielefeld,1.3,5.25,10.0
+2008-10-25,Barcelona,Almeria,1.22,5.75,13.0
+2008-10-25,Juventus,Torino,1.57,3.6,7.0
+2008-10-25,Sunderland,Newcastle,2.2,3.3,3.4
+2008-10-25,Hearts,Aberdeen,2.0,3.4,3.75
+2008-10-25,Celtic,Hibernian,1.33,5.0,9.0
+2008-10-25,AZ Alkmaar,Volendam,1.14,7.5,18.0
+2008-10-25,Siena,Catania,2.25,2.9,3.6
+2008-10-25,PSV Eindhoven,Roda JC,1.29,5.25,11.0
+2008-10-25,Blackburn,Middlesbrough,2.1,3.25,3.75
+2008-10-25,Kilmarnock,Falkirk,2.0,3.4,3.75
+2008-10-25,Groningen,Sparta,1.33,5.0,9.0
+2008-10-25,Fenerbahce,Bursaspor,1.5,3.75,6.5
+2008-10-25,Inverness C,Motherwell,2.4,3.4,2.8
+2008-10-25,Ankaraspor,Kocaelispor,1.62,3.6,5.0
+2008-10-25,Toulouse,Monaco,2.1,3.1,3.75
+2008-10-25,Denizlispor,Genclerbirligi,2.25,3.2,3.0
+2008-10-25,Osasuna,Betis,2.3,3.2,3.2
+2008-10-26,Nancy,Sochaux,2.05,3.1,4.0
+2008-10-26,St Etienne,Grenoble,1.73,3.5,5.0
+2008-10-26,Gent,Club Brugge,2.8,3.3,2.5
+2008-10-26,Konyaspor,Buyuksehyr,1.91,3.3,3.75
+2008-10-26,Chelsea,Liverpool,1.91,3.25,4.5
+2008-10-26,Man City,Stoke,1.44,4.33,7.5
+2008-10-26,Portsmouth,Fulham,1.83,3.5,4.5
+2008-10-26,Tottenham,Bolton,2.05,3.3,4.0
+2008-10-26,Trabzonspor,Gaziantepspor,1.67,3.5,4.75
+2008-10-26,Marseille,Paris SG,1.83,3.4,4.5
+2008-10-26,Mainz,Duisburg,1.85,3.4,4.33
+2008-10-26,La Coruna,Sp Gijon,1.73,3.5,5.0
+2008-10-26,Osnabruck,Munich 1860,2.3,3.3,3.1
+2008-10-26,Udinese,Roma,2.4,3.1,3.1
+2008-10-26,Sampdoria,Bologna,1.7,3.3,5.75
+2008-10-26,Reggina,Lecce,2.2,3.0,3.6
+2008-10-26,Palermo,Fiorentina,2.4,3.0,3.2
+2008-10-26,Lazio,Napoli,2.1,3.1,3.75
+2008-10-26,Inter,Genoa,1.3,5.0,11.0
+2008-10-26,Cagliari,Chievo,2.1,3.0,4.0
+2008-10-26,Eskisehirspor,Galatasaray,5.5,3.75,1.57
+2008-10-26,Antalyaspor,Hacettepespor,2.2,3.25,3.0
+2008-10-26,Ankaragucu,Kayserispor,2.7,3.2,2.4
+2008-10-26,Atalanta,Milan,4.75,3.25,1.83
+2008-10-26,Koblenz,Nurnberg,3.25,3.3,2.2
+2008-10-26,Getafe,Valladolid,1.91,3.3,4.2
+2008-10-26,Dortmund,Hertha,2.05,3.3,3.6
+2008-10-26,Stuttgart,Bochum,1.44,4.2,7.5
+2008-10-26,Mallorca,Espanol,2.38,3.2,3.0
+2008-10-26,Numancia,Santander,2.5,3.25,2.8
+2008-10-26,Real Madrid,Ath Bilbao,1.25,5.5,11.0
+2008-10-26,Recreativo,Valencia,4.0,3.4,1.91
+2008-10-26,Vitesse,Twente,3.1,3.4,2.25
+2008-10-26,Hoffenheim,Hamburg,2.6,3.4,2.6
+2008-10-26,Genk,Standard,2.9,3.3,2.4
+2008-10-26,Feyenoord,Heerenveen,2.5,3.4,2.75
+2008-10-26,Ajax,Nijmegen,1.44,4.2,7.5
+2008-10-26,Oberhausen,Kaiserslautern ,4.0,3.3,1.95
+2008-10-26,West Ham,Arsenal,6.0,3.75,1.62
+2008-10-26,Sevilla,Malaga,1.36,4.75,8.5
+2008-10-26,Villarreal,Ath Madrid,2.05,3.4,3.6
+2008-10-26,Utrecht,NAC Breda,2.8,3.4,2.4
+2008-10-26,Wigan,Aston Villa,2.6,3.3,2.75
+2008-10-28,Den Haag,PSV Eindhoven,6.0,4.0,1.55
+2008-10-28,Wolfsburg,M'gladbach,1.5,4.0,7.0
+2008-10-28,Werder Bremen,Leverkusen,2.1,3.3,3.5
+2008-10-28,Derby,Norwich,2.0,3.4,3.75
+2008-10-28,Preston,Watford,2.0,3.4,3.75
+2008-10-28,Ipswich,Charlton,1.8,3.5,4.75
+2008-10-28,Doncaster,Barnsley,2.3,3.3,3.0
+2008-10-28,Newcastle,West Brom,1.83,3.5,4.5
+2008-10-28,Crystal Palace,Nott'm Forest,1.62,3.75,5.5
+2008-10-28,Cardiff,Blackpool,1.75,3.5,4.75
+2008-10-28,Volendam,Willem II,3.5,3.25,2.0
+2008-10-28,Burnley,Reading,2.8,3.3,2.5
+2008-10-28,Karlsruhe,Schalke 04,4.0,3.4,1.83
+2008-10-28,Bielefeld,Cottbus,1.91,3.4,4.2
+2008-10-28,Wehen,Ingolstadt,2.15,3.4,3.25
+2008-10-28,Hansa Rostock,Greuther Furth,1.85,3.6,4.0
+2008-10-28,Augsburg,Frankfurt FSV,1.75,3.5,4.75
+2008-10-28,Aachen,Ahlen,1.57,3.75,6.0
+2008-10-28,Bristol City,Sheffield United,2.3,3.4,3.0
+2008-10-28,Bordeaux,Le Havre,1.36,4.5,9.0
+2008-10-28,Roda JC,AZ Alkmaar,3.3,3.6,2.05
+2008-10-28,Southampton,Coventry,2.4,3.3,2.9
+2008-10-28,QPR,Birmingham,2.62,3.3,2.62
+2008-10-28,Sheffield Weds,Plymouth,2.1,3.3,3.5
+2008-10-28,Wolves,Swansea,1.8,3.5,4.5
+2008-10-29,Fulham,Wigan,2.38,3.3,3.0
+2008-10-29,Bolton,Everton,2.6,3.3,2.75
+2008-10-29,Aston Villa,Blackburn,1.67,3.75,5.5
+2008-10-29,St Etienne,Lorient,1.73,3.25,5.5
+2008-10-29,Valenciennes,Rennes,2.75,3.0,2.75
+2008-10-29,Catania,Udinese,2.6,3.0,2.88
+2008-10-29,Paris SG,Toulouse,1.75,3.25,5.5
+2008-10-29,Sparta,Feyenoord,3.6,3.4,2.0
+2008-10-29,Nijmegen,Groningen,2.4,3.2,2.75
+2008-10-29,NAC Breda,Twente,2.4,3.2,2.75
+2008-10-29,Heracles,Ajax,5.0,4.0,1.62
+2008-10-29,Heerenveen,Vitesse,1.33,4.75,8.0
+2008-10-29,Hull,Chelsea,8.0,4.33,1.44
+2008-10-29,Duisburg,St Pauli,1.5,4.0,6.5
+2008-10-29,Kaiserslautern,Osnabruck,1.36,4.5,9.0
+2008-10-29,Nantes,Marseille,3.6,3.0,2.2
+2008-10-29,Munich 1860,Koblenz,1.67,3.6,5.25
+2008-10-29,Nurnberg,Oberhausen,1.4,4.33,8.0
+2008-10-29,Liverpool,Portsmouth,1.33,5.0,10.0
+2008-10-29,Man United,West Ham,1.2,6.0,19.0
+2008-10-29,Middlesbrough,Man City,2.88,3.3,2.5
+2008-10-29,Stoke,Sunderland,2.6,3.3,2.75
+2008-10-29,Caen,Nice,2.25,3.0,3.5
+2008-10-29,Grenoble,Lille,2.8,3.0,2.7
+2008-10-29,Le Mans,Auxerre,1.91,3.25,4.33
+2008-10-29,Monaco,Nancy,2.1,3.0,4.0
+2008-10-29,Sochaux,Lyon,5.25,3.3,1.75
+2008-10-29,Freiburg,Mainz,2.2,3.3,3.25
+2008-10-29,Arsenal,Tottenham,1.44,4.5,7.5
+2008-10-29,Chievo,Lazio,3.25,3.1,2.3
+2008-10-29,Hertha,Hannover,2.0,3.3,3.8
+2008-10-29,Ein Frankfurt,Bayern Munich,6.5,3.75,1.57
+2008-10-29,Bochum,Hoffenheim,3.2,3.4,2.2
+2008-10-29,Club Brugge,Waregem,1.33,4.5,8.0
+2008-10-29,Fiorentina,Inter,3.25,3.1,2.3
+2008-10-29,Genoa,Cagliari,1.62,3.4,5.5
+2008-10-29,Bologna,Juventus,4.75,3.3,1.83
+2008-10-29,Milan,Siena,1.22,6.0,13.0
+2008-10-29,Lecce,Palermo,2.62,3.0,2.88
+2008-10-29,FC Koln,Dortmund,2.62,3.3,2.6
+2008-10-29,Napoli,Reggina,1.44,4.0,9.0
+2008-10-29,Hamburg,Stuttgart,2.1,3.3,3.5
+2008-10-29,Torino,Atalanta,2.4,3.0,3.2
+2008-10-30,Graafschap,Utrecht,2.75,3.3,2.5
+2008-10-31,Standard,Charleroi,1.3,5.25,9.5
+2008-10-31,Frankfurt FSV,Aachen,2.62,3.25,2.62
+2008-10-31,Leverkusen,Wolfsburg,1.8,3.4,4.2
+2008-10-31,Greuther Furth,Wehen,1.33,4.5,8.5
+2008-11-01,Werder Bremen,Hertha,1.75,3.5,4.75
+2008-11-01,Juventus,Roma,2.2,2.9,3.75
+2008-11-01,Ath Bilbao,Villarreal,3.25,3.3,2.2
+2008-11-01,Reggina,Inter,9.0,4.2,1.4
+2008-11-01,Stuttgart,FC Koln,1.53,3.8,6.5
+2008-11-01,Malaga,Barcelona,9.0,4.5,1.36
+2008-11-01,Valencia,Santander,1.36,4.5,9.0
+2008-11-01,Aberdeen,Kilmarnock,2.2,3.4,3.2
+2008-11-01,Mouscron,Cercle Brugge,2.35,3.3,3.0
+2008-11-01,Mechelen,Roeselare,1.7,3.3,4.5
+2008-11-01,Lokeren,Bergen,1.91,3.4,4.0
+2008-11-01,Dender,Westerlo,2.9,3.3,2.38
+2008-11-01,Club Brugge,Kortrijk,1.3,5.25,9.5
+2008-11-01,Ath Madrid,Mallorca,1.53,4.0,6.0
+2008-11-01,Falkirk,Dundee United,2.4,3.3,2.88
+2008-11-01,Stoke,Arsenal,8.0,4.5,1.4
+2008-11-01,Rangers,Inverness C,1.22,6.0,13.0
+2008-11-01,Hacettepespor,Konyaspor,2.3,3.2,2.8
+2008-11-01,Eskisehirspor,Fenerbahce,4.33,3.4,1.73
+2008-11-01,Buyuksehyr,Trabzonspor,2.88,3.2,2.2
+2008-11-01,Bristol City,Reading,2.75,3.3,2.5
+2008-11-01,Burnley,Norwich,1.73,3.5,5.0
+2008-11-01,Cardiff,Wolves,2.5,3.25,2.8
+2008-11-01,Charlton,Barnsley,2.0,3.3,3.8
+2008-11-01,Crystal Palace,Sheffield Weds,2.0,3.3,3.8
+2008-11-01,Doncaster,Swansea,2.75,3.3,2.5
+2008-11-01,Ipswich,QPR,2.2,3.3,3.25
+2008-11-01,Motherwell,Hamilton,1.73,3.75,4.5
+2008-11-01,Preston,Southampton,1.73,3.75,4.5
+2008-11-01,Watford,Blackpool,1.91,3.4,4.0
+2008-11-01,St Mirren,Hibernian,2.6,3.3,2.62
+2008-11-01,Chelsea,Sunderland,1.17,6.5,21.0
+2008-11-01,Everton,Fulham,1.67,3.75,5.5
+2008-11-01,Man United,Hull,1.17,7.0,17.0
+2008-11-01,Middlesbrough,West Ham,2.0,3.3,4.0
+2008-11-01,Portsmouth,Wigan,1.91,3.4,4.2
+2008-11-01,Auxerre,Valenciennes,1.83,3.1,5.0
+2008-11-01,Tottenham,Liverpool,3.5,3.3,2.1
+2008-11-01,West Brom,Blackburn,2.5,3.3,2.88
+2008-11-01,Sheffield United,Plymouth,1.73,3.6,5.0
+2008-11-01,Lille,Nantes,1.73,3.25,4.75
+2008-11-01,Tubize,Genk,6.0,3.75,1.57
+2008-11-01,Marseille,St Etienne,1.57,3.6,6.5
+2008-11-01,Hannover,Hamburg,3.25,3.4,2.15
+2008-11-01,Cottbus,Schalke 04,4.5,3.5,1.8
+2008-11-01,Bayern Munich,Bielefeld,1.17,7.0,15.0
+2008-11-01,Heerenveen,AZ Alkmaar,2.62,3.3,2.6
+2008-11-01,NAC Breda,Groningen,2.4,3.3,2.88
+2008-11-01,Lorient,Grenoble,2.2,2.9,3.75
+2008-11-01,PSV Eindhoven,Willem II,1.25,5.5,11.0
+2008-11-01,Toulouse,Caen,2.0,3.0,4.33
+2008-11-01,Nice,Paris SG,2.6,2.88,3.0
+2008-11-01,Nancy,Bordeaux,3.1,2.88,2.6
+2008-11-01,Twente,Ajax,2.6,3.3,2.62
+2008-11-01,Hoffenheim,Karlsruhe,1.5,4.0,6.5
+2008-11-02,Roda JC,Feyenoord,2.6,3.25,2.5
+2008-11-02,Sparta,Nijmegen,3.1,3.3,2.05
+2008-11-02,Utrecht,Heracles,1.75,3.25,4.2
+2008-11-02,Hearts,Celtic,5.5,3.5,1.67
+2008-11-02,Derby,Nott'm Forest,1.67,3.6,5.5
+2008-11-02,Oberhausen,Hansa Rostock,3.6,3.3,2.05
+2008-11-02,Osnabruck,Augsburg,2.15,3.25,3.4
+2008-11-02,Koblenz,Duisburg,3.3,3.25,2.2
+2008-11-02,Ingolstadt,Freiburg,3.25,3.25,2.2
+2008-11-02,Ahlen,Mainz,3.5,3.3,2.1
+2008-11-02,Germinal,Anderlecht,4.0,3.25,1.83
+2008-11-02,M'gladbach,Ein Frankfurt,2.1,3.3,3.5
+2008-11-02,Dortmund,Bochum,1.55,3.8,6.25
+2008-11-02,Bursaspor,Ankaraspor,2.0,3.2,3.5
+2008-11-02,Galatasaray,Gaziantepspor,1.33,4.5,8.0
+2008-11-02,Genclerbirligi,Antalyaspor,1.73,3.4,4.33
+2008-11-02,Kayserispor,Besiktas,3.2,3.2,2.1
+2008-11-02,Kocaelispor,Ankaragucu,2.3,3.2,2.8
+2008-11-02,Sivasspor,Denizlispor,1.5,3.6,6.0
+2008-11-02,St Pauli,Nurnberg,2.62,3.25,2.62
+2008-11-02,Bolton,Man City,3.0,3.3,2.38
+2008-11-02,Vitesse,Den Haag,1.67,3.75,4.33
+2008-11-02,Waregem,Gent,2.6,3.2,2.5
+2008-11-02,Udinese,Genoa,1.8,3.2,5.0
+2008-11-02,Atalanta,Lecce,1.85,3.2,4.75
+2008-11-02,Cagliari,Bologna,2.0,2.9,4.5
+2008-11-02,Almeria,Real Madrid,5.5,3.5,1.67
+2008-11-02,Lazio,Catania,1.65,3.25,6.5
+2008-11-02,Betis,La Coruna,1.91,3.3,4.2
+2008-11-02,Espanol,Osasuna,2.0,3.3,3.8
+2008-11-02,Sampdoria,Torino,1.75,3.2,5.5
+2008-11-02,Valladolid,Sevilla,3.2,3.25,2.25
+2008-11-02,Recreativo,Getafe,2.5,3.25,2.8
+2008-11-02,Volendam,Graafschap,2.3,3.25,2.75
+2008-11-02,Palermo,Chievo,1.65,3.4,6.0
+2008-11-02,Rennes,Sochaux,1.65,3.4,6.0
+2008-11-02,Lyon,Le Mans,1.5,3.75,7.5
+2008-11-02,Le Havre,Monaco,2.6,2.88,3.0
+2008-11-02,Milan,Napoli,1.62,3.6,6.0
+2008-11-02,Sp Gijon,Numancia,2.1,3.4,3.4
+2008-11-02,Siena,Fiorentina,3.0,3.0,2.5
+2008-11-03,Birmingham,Coventry,1.62,3.6,6.0
+2008-11-03,Newcastle,Aston Villa,3.0,3.3,2.38
+2008-11-03,Kaiserslautern,Munich 1860,1.67,3.6,5.25
+2008-11-04,Rangers,Dundee United,1.29,5.0,11.0
+2008-11-07,Besiktas,Kocaelispor,1.22,6.0,13.0
+2008-11-07,FC Koln,Hannover,2.3,3.3,3.1
+2008-11-07,Cercle Brugge,Waregem,1.75,3.75,4.33
+2008-11-07,Graafschap,NAC Breda,4.2,3.75,1.8
+2008-11-07,Aachen,Koblenz,1.53,4.0,6.5
+2008-11-07,Wehen,Kaiserslautern ,4.0,3.4,1.91
+2008-11-07,Nurnberg,Frankfurt FSV,1.36,4.5,9.0
+2008-11-08,Anderlecht,Lokeren,1.36,4.75,8.5
+2008-11-08,Sunderland,Portsmouth,2.38,3.3,3.0
+2008-11-08,Liverpool,West Brom,1.2,6.0,19.0
+2008-11-08,Hull,Bolton,2.25,3.25,3.4
+2008-11-08,Arsenal,Man United,3.25,3.25,2.3
+2008-11-08,Lorient,Nice,2.25,3.0,3.5
+2008-11-08,Monaco,Lyon,4.2,3.3,1.91
+2008-11-08,Nantes,Toulouse,2.4,3.0,3.1
+2008-11-08,Barcelona,Valladolid,1.17,6.5,18.0
+2008-11-08,Sochaux,Le Mans,2.38,3.0,3.2
+2008-11-08,Real Madrid,Malaga,1.22,6.0,13.0
+2008-11-08,Torino,Palermo,2.38,3.0,3.25
+2008-11-08,Bologna,Roma,5.25,3.25,1.75
+2008-11-08,Celtic,Motherwell,1.29,5.25,11.0
+2008-11-08,Westerlo,Genk,2.7,3.25,2.6
+2008-11-08,Roeselare,Tubize,1.83,3.5,4.2
+2008-11-08,Kortrijk,Mechelen,2.0,3.5,3.6
+2008-11-08,Gent,Dender,1.4,4.33,8.0
+2008-11-08,Bergen,Mouscron,2.4,3.3,2.9
+2008-11-08,Wigan,Stoke,1.8,3.4,5.0
+2008-11-08,West Ham,Everton,2.6,3.25,2.8
+2008-11-08,Ankaragucu,Bursaspor,2.6,3.2,2.5
+2008-11-08,Grenoble,Marseille,3.6,3.2,2.1
+2008-11-08,Wolves,Burnley,1.8,3.5,4.5
+2008-11-08,Dundee United,Aberdeen,2.05,3.3,3.6
+2008-11-08,Willem II,Roda JC,2.3,3.3,3.1
+2008-11-08,Nijmegen,PSV Eindhoven,3.4,3.4,2.1
+2008-11-08,Heracles,Vitesse,2.2,3.4,3.2
+2008-11-08,Caen,Le Havre,1.7,3.4,5.5
+2008-11-08,Bordeaux,Auxerre,1.55,3.6,7.0
+2008-11-08,Hamilton,Falkirk,2.8,3.25,2.5
+2008-11-08,Wolfsburg,Cottbus,1.25,5.5,12.0
+2008-11-08,Southampton,Bristol City,2.5,3.3,2.75
+2008-11-08,Reading,Derby,1.67,3.75,5.0
+2008-11-08,Karlsruhe,Leverkusen,5.0,3.5,1.73
+2008-11-08,Hibernian,Inverness C,1.67,3.6,5.5
+2008-11-08,St Mirren,Hearts,2.75,3.25,2.6
+2008-11-08,Sheffield Weds,Doncaster,1.8,3.5,4.5
+2008-11-08,Blackpool,Ipswich,2.5,3.3,2.8
+2008-11-08,Hamburg,Dortmund,1.8,3.5,4.5
+2008-11-08,Bochum,Werder Bremen,4.33,3.6,1.8
+2008-11-08,Bielefeld,M'gladbach,2.1,3.3,3.5
+2008-11-08,QPR,Cardiff,2.1,3.25,3.6
+2008-11-08,Plymouth,Charlton,1.91,3.4,4.2
+2008-11-08,Nott'm Forest,Birmingham,3.5,3.3,2.1
+2008-11-08,Norwich,Preston,2.2,3.25,3.25
+2008-11-08,Coventry,Crystal Palace,2.25,3.3,3.2
+2008-11-08,Barnsley,Sheffield United,2.8,3.3,2.5
+2008-11-08,Trabzonspor,Hacettepespor,1.33,4.5,8.0
+2008-11-09,Inter,Udinese,1.53,3.6,7.5
+2008-11-09,Lazio,Siena,1.57,3.6,7.0
+2008-11-09,Lecce,Milan,7.0,3.6,1.57
+2008-11-09,Napoli,Sampdoria,1.8,3.25,5.0
+2008-11-09,Mallorca,Ath Bilbao,2.1,3.3,3.5
+2008-11-09,Ankaraspor,Eskisehirspor,1.73,3.4,4.33
+2008-11-09,Getafe,Valencia,2.9,3.3,2.4
+2008-11-09,Kilmarnock,Rangers,7.5,4.2,1.44
+2008-11-09,Genoa,Reggina,1.53,3.75,7.0
+2008-11-09,Valenciennes,Nancy,2.38,3.0,3.2
+2008-11-09,La Coruna,Espanol,2.15,3.3,3.4
+2008-11-09,Fiorentina,Atalanta,1.53,3.6,7.5
+2008-11-09,Duisburg,Ahlen,1.57,3.8,6.0
+2008-11-09,Catania,Cagliari,2.1,3.0,4.0
+2008-11-09,Villarreal,Almeria,1.53,3.75,7.0
+2008-11-09,Sevilla,Recreativo,1.36,4.5,9.0
+2008-11-09,Santander,Sp Gijon,2.0,3.3,3.75
+2008-11-09,Osasuna,Ath Madrid,3.2,3.3,2.25
+2008-11-09,Numancia,Betis,2.6,3.25,2.75
+2008-11-09,Ein Frankfurt,Stuttgart,3.1,3.3,2.3
+2008-11-09,Hertha,Hoffenheim,2.7,3.4,2.5
+2008-11-09,Chievo,Juventus,6.5,3.6,1.57
+2008-11-09,Schalke 04,Bayern Munich,2.8,3.3,2.5
+2008-11-09,St Etienne,Rennes,2.38,3.0,3.2
+2008-11-09,Hansa Rostock,Osnabruck,1.44,4.0,8.0
+2008-11-09,Ajax,Sparta,1.17,7.5,13.0
+2008-11-09,AZ Alkmaar,Twente,1.8,3.6,4.33
+2008-11-09,Den Haag,Heerenveen,3.8,3.6,1.91
+2008-11-09,Feyenoord,Utrecht,1.8,3.5,4.5
+2008-11-09,Groningen,Volendam,1.29,5.5,10.0
+2008-11-09,Augsburg,Greuther Furth,2.6,3.2,2.75
+2008-11-09,Paris SG,Lille,2.2,3.0,3.6
+2008-11-09,Antalyaspor,Sivasspor,3.6,3.3,1.91
+2008-11-09,Mainz,Ingolstadt,1.4,4.5,8.0
+2008-11-09,Munich 1860,Oberhausen,1.67,3.6,5.5
+2008-11-09,Fenerbahce,Galatasaray,2.3,3.2,2.8
+2008-11-09,Man City,Tottenham,2.25,3.3,3.3
+2008-11-09,Swansea,Watford,1.83,3.5,4.33
+2008-11-09,Blackburn,Chelsea,8.0,4.33,1.44
+2008-11-09,Gaziantepspor,Buyuksehyr,1.73,3.4,4.33
+2008-11-09,Fulham,Newcastle,2.38,3.25,3.1
+2008-11-09,Denizlispor,Kayserispor,2.6,3.2,2.5
+2008-11-09,Aston Villa,Middlesbrough,1.7,3.8,5.0
+2008-11-09,Germinal,Standard,3.6,3.3,2.05
+2008-11-09,Charleroi,Club Brugge,3.2,3.3,2.25
+2008-11-09,Konyaspor,Genclerbirligi,2.1,3.2,3.2
+2008-11-10,Freiburg,St Pauli,1.67,3.6,5.5
+2008-11-11,Aberdeen,St Mirren,1.73,3.5,5.0
+2008-11-12,Dundee United,Hibernian,1.91,3.4,4.0
+2008-11-12,Hearts,Hamilton,1.57,4.0,6.5
+2008-11-12,Inverness C,Falkirk,2.38,3.2,3.0
+2008-11-12,Motherwell,Rangers,6.5,4.0,1.53
+2008-11-12,Celtic,Kilmarnock,1.2,6.0,15.0
+2008-11-13,Juventus,Genoa,1.57,3.5,7.0
+2008-11-14,St Pauli,Ahlen,1.85,3.4,4.33
+2008-11-14,NAC Breda,Heracles,1.4,4.5,8.0
+2008-11-14,Genclerbirligi,Trabzonspor,3.4,3.3,2.1
+2008-11-14,Hannover,Bochum,1.91,3.3,4.0
+2008-11-14,Munich 1860,Augsburg,1.95,3.3,4.0
+2008-11-14,Westerlo,Gent,2.5,3.3,2.75
+2008-11-14,Osnabruck,Wehen,1.95,3.5,3.75
+2008-11-15,Barnsley,Watford,2.25,3.25,3.2
+2008-11-15,Birmingham,Charlton,1.62,3.6,6.0
+2008-11-15,Bristol City,Nott'm Forest,1.8,3.4,4.75
+2008-11-15,Cardiff,Crystal Palace,2.0,3.3,3.8
+2008-11-15,Kocaelispor,Denizlispor,2.25,3.25,2.9
+2008-11-15,Dortmund,Ein Frankfurt,1.65,3.75,5.5
+2008-11-15,Cottbus,Karlsruhe,2.3,3.3,3.1
+2008-11-15,Hoffenheim,Wolfsburg,2.05,3.4,3.5
+2008-11-15,Leverkusen,Schalke 04,2.25,3.25,3.2
+2008-11-15,M'gladbach,Bayern Munich,6.5,4.0,1.5
+2008-11-15,Stuttgart,Bielefeld,1.36,4.5,9.0
+2008-11-15,Waregem,Germinal,2.0,3.25,3.5
+2008-11-15,Tubize,Cercle Brugge,4.33,3.4,1.75
+2008-11-15,Mouscron,Charleroi,2.2,3.25,3.0
+2008-11-15,Mechelen,Bergen,2.05,3.25,3.4
+2008-11-15,Genk,Roeselare,1.25,5.25,10.0
+2008-11-15,Dender,Kortrijk,2.3,3.25,2.8
+2008-11-15,Valencia,Sp Gijon,1.36,4.75,8.5
+2008-11-15,Valladolid,Real Madrid,4.2,3.3,1.91
+2008-11-15,Hertha,Hamburg,2.5,3.3,2.75
+2008-11-15,Den Haag,Willem II,2.3,3.25,2.9
+2008-11-15,Blackburn,Sunderland,2.0,3.4,3.8
+2008-11-15,Coventry,Plymouth,2.1,3.3,3.5
+2008-11-15,Sheffield United,Reading,2.5,3.25,2.8
+2008-11-15,Southampton,Wolves,4.0,3.2,2.0
+2008-11-15,Auxerre,Sochaux,1.95,3.0,4.5
+2008-11-15,Le Havre,Paris SG,3.3,3.0,2.3
+2008-11-15,Le Mans,Valenciennes,1.6,3.4,6.5
+2008-11-15,Marseille,Lorient,1.4,4.33,8.5
+2008-11-15,Nancy,Caen,2.0,3.1,4.2
+2008-11-15,Toulouse,Grenoble,2.0,3.1,4.2
+2008-11-15,Rangers,St Mirren,1.17,7.0,15.0
+2008-11-15,Kilmarnock,Dundee United,2.9,3.4,2.38
+2008-11-15,Inverness C,Hearts,2.6,3.4,2.6
+2008-11-15,Hibernian,Aberdeen,2.3,3.4,3.0
+2008-11-15,Heerenveen,Utrecht,1.5,3.75,5.5
+2008-11-15,QPR,Burnley,2.0,3.4,3.75
+2008-11-15,Falkirk,Motherwell,2.4,3.5,2.75
+2008-11-15,Doncaster,Ipswich,3.2,3.25,2.25
+2008-11-15,Arsenal,Aston Villa,1.5,4.0,7.0
+2008-11-15,Fenerbahce,Ankaraspor,1.55,3.75,5.5
+2008-11-15,Bolton,Liverpool,6.0,3.75,1.62
+2008-11-15,Palermo,Inter,4.33,3.2,1.91
+2008-11-15,Norwich,Swansea,2.4,3.3,2.88
+2008-11-15,Man United,Stoke,1.14,7.5,23.0
+2008-11-15,Fulham,Tottenham,3.3,3.3,2.25
+2008-11-15,Roda JC,Nijmegen,2.62,3.2,2.5
+2008-11-15,Sparta,Volendam,1.62,3.6,4.75
+2008-11-15,West Brom,Chelsea,12.0,5.0,1.3
+2008-11-15,West Ham,Portsmouth,2.5,3.25,2.88
+2008-11-15,Derby,Sheffield Weds,2.0,3.3,3.8
+2008-11-15,Newcastle,Wigan,2.1,3.3,3.6
+2008-11-15,Lille,St Etienne,1.73,3.2,5.75
+2008-11-16,Hamilton,Celtic,11.0,5.25,1.29
+2008-11-16,Blackpool,Preston,2.3,3.25,3.1
+2008-11-16,Vitesse,AZ Alkmaar,4.0,3.4,1.8
+2008-11-16,Cagliari,Fiorentina,3.1,3.1,2.4
+2008-11-16,Greuther Furth,Duisburg,2.15,3.3,3.4
+2008-11-16,Ingolstadt,Nurnberg,2.62,3.3,2.6
+2008-11-16,Koblenz,Mainz,3.8,3.3,2.0
+2008-11-16,Oberhausen,Aachen,2.8,3.25,2.5
+2008-11-16,Sivasspor,Konyaspor,1.55,3.75,5.5
+2008-11-16,Kayserispor,Antalyaspor,1.5,3.8,6.0
+2008-11-16,Hacettepespor,Gaziantepspor,2.5,3.2,2.6
+2008-11-16,Galatasaray,Buyuksehyr,1.25,5.0,11.0
+2008-11-16,Atalanta,Napoli,2.8,2.88,2.75
+2008-11-16,Eskisehirspor,Ankaragucu,1.91,3.25,3.75
+2008-11-16,Bursaspor,Besiktas,3.75,3.25,1.91
+2008-11-16,Almeria,Mallorca,2.0,3.3,3.8
+2008-11-16,Frankfurt FSV,Freiburg,3.8,3.3,2.0
+2008-11-16,Ath Bilbao,Osasuna,2.1,3.3,3.5
+2008-11-16,Groningen,Graafschap,1.22,5.5,11.0
+2008-11-16,Ajax,PSV Eindhoven,2.2,3.25,3.0
+2008-11-16,Club Brugge,Anderlecht,2.3,3.25,2.9
+2008-11-16,Lokeren,Standard,3.25,3.25,2.1
+2008-11-16,Lyon,Bordeaux,1.73,3.4,5.25
+2008-11-16,Nice,Nantes,1.73,3.2,5.75
+2008-11-16,Rennes,Monaco,1.73,3.3,5.5
+2008-11-16,Ath Madrid,La Coruna,1.62,3.75,5.5
+2008-11-16,Betis,Santander,1.91,3.4,4.0
+2008-11-16,Espanol,Numancia,1.73,3.5,5.0
+2008-11-16,Getafe,Sevilla,2.88,3.3,2.4
+2008-11-16,Malaga,Villarreal,3.4,3.4,2.1
+2008-11-16,Twente,Feyenoord,1.95,3.4,3.5
+2008-11-16,Werder Bremen,FC Koln,1.4,4.2,8.5
+2008-11-16,Recreativo,Barcelona,9.0,5.0,1.33
+2008-11-16,Milan,Chievo,1.22,5.5,15.0
+2008-11-16,Siena,Bologna,1.91,3.1,4.5
+2008-11-16,Catania,Torino,2.15,2.88,4.0
+2008-11-16,Hull,Man City,2.88,3.25,2.5
+2008-11-16,Everton,Middlesbrough,1.83,3.5,4.5
+2008-11-16,Sampdoria,Lecce,1.62,3.3,7.0
+2008-11-16,Roma,Lazio,2.3,3.0,3.4
+2008-11-16,Udinese,Reggina,1.4,4.0,9.5
+2008-11-17,Kaiserslautern,Hansa Rostock,1.8,3.5,4.5
+2008-11-21,Volendam,Roda JC,3.5,3.6,2.0
+2008-11-21,Duisburg,Frankfurt FSV,1.44,4.2,7.5
+2008-11-21,Ahlen,Ingolstadt,2.05,3.4,3.6
+2008-11-21,Aachen,Osnabruck,1.44,4.33,7.0
+2008-11-21,Swansea,Birmingham,2.5,3.3,2.75
+2008-11-21,Karlsruhe,Dortmund,3.1,3.3,2.3
+2008-11-22,Kilmarnock,Inverness C,2.0,3.4,3.75
+2008-11-22,Middlesbrough,Bolton,1.91,3.4,4.33
+2008-11-22,Portsmouth,Hull,1.8,3.6,4.5
+2008-11-22,Liverpool,Fulham,1.25,5.5,15.0
+2008-11-22,Stoke,West Brom,2.2,3.3,3.4
+2008-11-22,St Mirren,Celtic,10.0,4.75,1.33
+2008-11-22,Chelsea,Newcastle,1.2,6.0,19.0
+2008-11-22,Aston Villa,Man United,5.0,3.6,1.73
+2008-11-22,Gaziantepspor,Genclerbirligi,2.0,3.4,3.75
+2008-11-22,Antalyaspor,Kocaelispor,1.85,3.4,4.33
+2008-11-22,Rangers,Aberdeen,1.33,5.0,9.0
+2008-11-22,Paris SG,Lyon,3.2,3.0,2.4
+2008-11-22,Ankaragucu,Fenerbahce,5.0,3.6,1.62
+2008-11-22,Motherwell,Hibernian,2.1,3.3,3.5
+2008-11-22,Ankaraspor,Galatasaray,3.1,3.3,2.15
+2008-11-22,Man City,Arsenal,3.25,3.4,2.2
+2008-11-22,Dundee United,Hamilton,1.53,4.0,7.0
+2008-11-22,Lorient,Toulouse,2.38,3.0,3.1
+2008-11-22,Grenoble,Le Havre,2.1,3.1,3.8
+2008-11-22,Caen,Auxerre,2.1,3.1,3.75
+2008-11-22,Bordeaux,Rennes,1.95,3.1,4.33
+2008-11-22,Fiorentina,Udinese,1.91,3.1,4.5
+2008-11-22,Inter,Juventus,2.1,3.1,3.75
+2008-11-22,Valenciennes,Sochaux,2.38,3.0,3.2
+2008-11-22,Standard,Mouscron,1.36,4.5,9.0
+2008-11-22,Roeselare,Dender,2.4,3.3,2.88
+2008-11-22,Germinal,Lokeren,2.2,3.3,3.3
+2008-11-22,Charleroi,Tubize,1.44,4.33,7.0
+2008-11-22,Cercle Brugge,Mechelen,1.67,3.75,5.5
+2008-11-22,Bergen,Club Brugge,4.33,3.4,1.85
+2008-11-22,Anderlecht,Westerlo,1.44,4.33,7.0
+2008-11-22,Graafschap,Sparta,2.4,3.3,2.7
+2008-11-22,NAC Breda,Nijmegen,2.05,3.5,3.5
+2008-11-22,PSV Eindhoven,Heracles,1.25,5.5,12.0
+2008-11-22,Hearts,Falkirk,1.91,3.4,4.0
+2008-11-22,Twente,Heerenveen,2.0,3.3,3.4
+2008-11-22,St Etienne,Nice,2.25,3.1,3.3
+2008-11-22,Ipswich,Derby,2.0,3.3,3.75
+2008-11-22,Bielefeld,Leverkusen,5.0,3.6,1.7
+2008-11-22,Bochum,Hertha,2.62,3.3,2.62
+2008-11-22,Ein Frankfurt,Hannover,2.25,3.4,3.1
+2008-11-22,Burnley,Doncaster,1.62,3.6,6.0
+2008-11-22,Charlton,Sheffield United,2.6,3.3,2.62
+2008-11-22,Crystal Palace,Bristol City,2.1,3.3,3.5
+2008-11-22,Nott'm Forest,Norwich,2.1,3.4,3.4
+2008-11-22,Plymouth,Cardiff,2.5,3.3,2.75
+2008-11-22,Preston,Barnsley,1.83,3.4,4.5
+2008-11-22,Reading,Southampton,1.4,4.2,9.0
+2008-11-22,Bayern Munich,Cottbus,1.17,7.0,15.0
+2008-11-22,Sheffield Weds,Coventry,2.1,3.25,3.6
+2008-11-22,Wolves,Blackpool,1.5,3.75,7.5
+2008-11-22,Real Madrid,Recreativo,1.3,5.5,9.0
+2008-11-22,FC Koln,Hoffenheim,3.0,3.5,2.25
+2008-11-22,Schalke 04,M'gladbach,1.36,4.75,9.0
+2008-11-22,Wolfsburg,Stuttgart,2.0,3.4,3.75
+2008-11-22,Villarreal,Valladolid,1.44,4.0,8.0
+2008-11-22,Sevilla,Valencia,2.2,3.25,3.3
+2008-11-22,Watford,QPR,2.5,3.25,2.8
+2008-11-23,Bologna,Palermo,2.5,3.0,3.0
+2008-11-23,Chievo,Siena,2.2,3.0,3.6
+2008-11-23,Tottenham,Blackburn,1.73,3.75,4.75
+2008-11-23,Sunderland,West Ham,2.1,3.4,3.5
+2008-11-23,Reggina,Atalanta,2.5,3.0,3.1
+2008-11-23,Sp Gijon,Betis,2.4,3.2,3.0
+2008-11-23,Torino,Milan,5.25,3.4,1.73
+2008-11-23,Napoli,Cagliari,1.57,3.6,6.5
+2008-11-23,Gent,Genk,2.1,3.3,3.2
+2008-11-23,Hamburg,Werder Bremen,2.38,3.4,2.88
+2008-11-23,Konyaspor,Kayserispor,2.5,3.25,2.62
+2008-11-23,Trabzonspor,Sivasspor,1.91,3.4,3.6
+2008-11-23,Sampdoria,Catania,1.67,3.4,6.0
+2008-11-23,Lecce,Roma,4.0,3.2,2.0
+2008-11-23,Utrecht,Vitesse,2.0,3.3,3.3
+2008-11-23,Augsburg,Kaiserslautern ,3.0,3.2,2.4
+2008-11-23,Denizlispor,Bursaspor,2.55,3.3,2.5
+2008-11-23,Buyuksehyr,Hacettepespor,1.95,3.3,3.6
+2008-11-23,Santander,Espanol,2.1,3.25,3.6
+2008-11-23,Osasuna,Almeria,2.25,3.2,3.25
+2008-11-23,Numancia,Ath Madrid,3.6,3.5,2.0
+2008-11-23,Mallorca,Malaga,2.1,3.4,3.4
+2008-11-23,La Coruna,Ath Bilbao,2.0,3.3,3.8
+2008-11-23,Barcelona,Getafe,1.18,7.0,15.0
+2008-11-23,Wehen,Oberhausen,2.05,3.3,3.75
+2008-11-23,Lazio,Genoa,2.0,3.1,4.2
+2008-11-23,Nurnberg,Greuther Furth,2.05,3.4,3.6
+2008-11-23,Mainz,St Pauli,1.5,4.0,7.0
+2008-11-23,Nantes,Nancy,2.38,3.0,3.25
+2008-11-23,Monaco,Le Mans,2.2,3.1,3.5
+2008-11-23,Marseille,Lille,1.8,3.25,5.0
+2008-11-23,Willem II,Groningen,3.1,3.3,2.1
+2008-11-23,Feyenoord,Den Haag,1.33,4.5,8.5
+2008-11-23,AZ Alkmaar,Ajax,2.3,3.3,2.75
+2008-11-23,Freiburg,Koblenz,1.36,4.75,8.5
+2008-11-23,Besiktas,Eskisehirspor,1.3,4.5,10.0
+2008-11-24,Barnsley,Burnley,2.63,3.3,2.63
+2008-11-24,Wigan,Everton,2.5,3.3,2.88
+2008-11-24,Hansa Rostock,Munich 1860,2.0,3.3,3.8
+2008-11-25,QPR,Charlton,1.85,3.4,3.8
+2008-11-25,Derby,Preston,2.25,3.25,3.25
+2008-11-25,Birmingham,Ipswich,1.8,3.5,4.5
+2008-11-25,Blackpool,Sheffield Weds,2.2,3.3,3.25
+2008-11-25,Southampton,Plymouth,2.3,3.4,3.0
+2008-11-25,Sheffield United,Wolves,2.5,3.3,2.75
+2008-11-25,Norwich,Crystal Palace,2.38,3.25,3.0
+2008-11-25,Doncaster,Nott'm Forest,2.38,3.25,3.0
+2008-11-25,Bristol City,Watford,1.95,3.3,4.0
+2008-11-25,Coventry,Swansea,2.38,3.25,3.0
+2008-11-25,Cardiff,Reading,2.75,3.3,2.5
+2008-11-28,Kayserispor,Trabzonspor,2.62,3.25,2.62
+2008-11-28,Hertha,FC Koln,1.75,3.5,4.75
+2008-11-28,Groningen,AZ Alkmaar,2.6,3.6,2.5
+2008-11-28,Kaiserslautern,Aachen,1.83,3.5,4.33
+2008-11-28,Koblenz,Ahlen,2.15,3.25,3.4
+2008-11-28,Osnabruck,Nurnberg,3.25,3.3,2.2
+2008-11-28,Dender,Anderlecht,5.0,3.75,1.67
+2008-11-29,Heerenveen,PSV Eindhoven,2.62,3.2,2.5
+2008-11-29,Heracles,Willem II,2.3,3.25,2.8
+2008-11-29,Hearts,Rangers,5.25,3.6,1.67
+2008-11-29,Lyon,Valenciennes,1.22,5.5,15.0
+2008-11-29,Werder Bremen,Ein Frankfurt,1.4,4.5,8.0
+2008-11-29,M'gladbach,Cottbus,1.85,3.4,4.33
+2008-11-29,Leverkusen,Bayern Munich,2.75,3.3,2.5
+2008-11-29,Hoffenheim,Bielefeld,1.4,4.33,8.5
+2008-11-29,Hannover,Karlsruhe,1.85,3.4,4.33
+2008-11-29,Burnley,Derby,1.95,3.3,4.0
+2008-11-29,Charlton,Southampton,2.2,3.3,3.25
+2008-11-29,Crystal Palace,QPR,2.05,3.3,3.6
+2008-11-29,Ipswich,Sheffield United,2.38,3.3,2.9
+2008-11-29,Nott'm Forest,Barnsley,2.38,3.3,2.9
+2008-11-29,Plymouth,Blackpool,1.91,3.4,4.0
+2008-11-29,Preston,Bristol City,2.0,3.3,3.8
+2008-11-29,Sheffield Weds,Norwich,2.1,3.3,3.5
+2008-11-29,Watford,Doncaster,1.8,3.6,4.33
+2008-11-29,Wolves,Birmingham,2.3,3.1,3.2
+2008-11-29,St Mirren,Dundee United,2.88,3.4,2.38
+2008-11-29,Hamilton,Kilmarnock,2.6,3.3,2.6
+2008-11-29,Falkirk,Hibernian,2.38,3.4,2.88
+2008-11-29,Celtic,Inverness C,1.2,6.0,13.0
+2008-11-29,Aberdeen,Motherwell,2.1,3.4,3.4
+2008-11-29,Auxerre,Monaco,2.25,3.0,3.5
+2008-11-29,Le Mans,Caen,2.05,3.0,4.0
+2008-11-29,Lille,Lorient,1.57,3.6,6.5
+2008-11-29,Sochaux,Bordeaux,3.4,3.1,2.25
+2008-11-29,Le Havre,Nantes,2.4,3.1,3.1
+2008-11-29,Graafschap,Roda JC,2.75,3.3,2.38
+2008-11-29,Gent,Roeselare,1.29,4.75,9.5
+2008-11-29,Westerlo,Bergen,1.57,3.6,5.25
+2008-11-29,Waregem,Charleroi,2.2,3.25,3.0
+2008-11-29,Tubize,Kortrijk,2.3,3.2,2.88
+2008-11-29,Mouscron,Lokeren,2.2,3.25,3.0
+2008-11-29,Genk,Cercle Brugge,1.73,3.4,4.5
+2008-11-29,Aston Villa,Fulham,1.57,3.8,6.5
+2008-11-29,Middlesbrough,Newcastle,2.2,3.3,3.4
+2008-11-29,Stoke,Hull,2.4,3.4,2.88
+2008-11-29,Sunderland,Bolton,2.25,3.3,3.3
+2008-11-29,Catania,Lecce,1.85,3.1,5.0
+2008-11-29,Wigan,West Brom,1.73,3.6,5.0
+2008-11-29,Juventus,Reggina,1.29,5.0,12.0
+2008-11-29,Sevilla,Barcelona,3.4,3.5,2.1
+2008-11-29,Ankaraspor,Ankaragucu,1.8,3.4,4.5
+2008-11-29,Eskisehirspor,Denizlispor,2.1,3.25,3.6
+2008-11-29,Fenerbahce,Besiktas,2.38,3.25,3.0
+2008-11-29,Sivasspor,Gaziantepspor,1.73,3.5,5.0
+2008-11-29,Den Haag,Twente,4.5,3.8,1.65
+2008-11-29,Getafe,Real Madrid,3.5,3.3,2.1
+2008-11-30,Kocaelispor,Konyaspor,2.5,3.25,2.6
+2008-11-30,Udinese,Chievo,1.44,4.0,8.0
+2008-11-30,Dortmund,Wolfsburg,2.2,3.3,3.25
+2008-11-30,Palermo,Milan,3.75,3.1,2.1
+2008-11-30,Inter,Napoli,1.5,3.8,7.5
+2008-11-30,Genoa,Bologna,1.62,3.4,6.5
+2008-11-30,Roma,Fiorentina,1.91,3.2,4.33
+2008-11-30,Bochum,Hamburg,3.3,3.25,2.2
+2008-11-30,Siena,Torino,2.1,3.0,4.0
+2008-11-30,Valladolid,Mallorca,2.0,3.3,3.8
+2008-11-30,Recreativo,Villarreal,3.5,3.3,2.1
+2008-11-30,Malaga,Osasuna,2.2,3.25,3.25
+2008-11-30,Stuttgart,Schalke 04,2.4,3.3,2.88
+2008-11-30,Espanol,Sp Gijon,2.1,3.3,3.5
+2008-11-30,Ath Madrid,Santander,1.57,3.8,6.0
+2008-11-30,Ath Bilbao,Numancia,1.85,3.5,4.2
+2008-11-30,Almeria,La Coruna,2.1,3.3,3.5
+2008-11-30,Ajax,Utrecht,1.33,4.5,8.0
+2008-11-30,Nijmegen,Volendam,1.25,5.0,11.0
+2008-11-30,Valencia,Betis,1.8,3.4,4.5
+2008-11-30,Toulouse,Marseille,3.4,3.1,2.25
+2008-11-30,Augsburg,Hansa Rostock,2.25,3.25,3.2
+2008-11-30,Mechelen,Standard,4.75,3.5,1.67
+2008-11-30,Genclerbirligi,Buyuksehyr,2.1,3.25,3.25
+2008-11-30,Galatasaray,Hacettepespor,1.2,6.0,11.0
+2008-11-30,Bursaspor,Antalyaspor,1.73,3.5,4.5
+2008-11-30,Tottenham,Everton,1.91,3.5,4.0
+2008-11-30,Portsmouth,Blackburn,2.1,3.3,3.6
+2008-11-30,Man City,Man United,4.33,3.6,1.83
+2008-11-30,Chelsea,Arsenal,1.8,3.4,5.0
+2008-11-30,Club Brugge,Germinal,1.44,4.2,6.0
+2008-11-30,Swansea,Cardiff,2.38,3.3,2.9
+2008-11-30,Vitesse,Feyenoord,2.75,3.2,2.38
+2008-11-30,Nancy,St Etienne,1.91,3.2,4.33
+2008-11-30,Rennes,Paris SG,2.25,3.0,3.5
+2008-11-30,Sparta,NAC Breda,3.6,3.4,1.91
+2008-11-30,Greuther Furth,Freiburg,2.25,3.25,3.2
+2008-11-30,Munich 1860,Wehen,1.65,3.6,5.5
+2008-11-30,Oberhausen,Duisburg,2.88,3.3,2.4
+2008-11-30,St Pauli,Ingolstadt,1.75,3.5,4.75
+2008-11-30,Cagliari,Sampdoria,2.5,3.0,3.0
+2008-11-30,Atalanta,Lazio,2.5,3.0,3.0
+2008-12-01,Liverpool,West Ham,1.3,5.0,12.0
+2008-12-01,Frankfurt FSV,Mainz,4.75,3.5,1.75
+2008-12-01,Reading,Coventry,1.53,3.8,6.5
+2008-12-05,Bayern Munich,Hoffenheim,1.62,3.8,5.5
+2008-12-05,Denizlispor,Fenerbahce,4.75,3.6,1.75
+2008-12-05,Ingolstadt,Frankfurt FSV,1.8,3.6,4.5
+2008-12-05,Bordeaux,Valenciennes,1.44,4.0,8.5
+2008-12-05,Aachen,Munich 1860,1.83,3.5,4.33
+2008-12-05,Mainz,Greuther Furth,1.67,3.75,5.5
+2008-12-05,Cercle Brugge,Gent,2.4,3.3,2.88
+2008-12-06,Blackburn,Liverpool,5.5,3.5,1.73
+2008-12-06,Arsenal,Wigan,1.33,4.75,11.0
+2008-12-06,Fulham,Man City,2.6,3.2,2.8
+2008-12-06,Anderlecht,Tubize,1.2,6.0,11.0
+2008-12-06,Bergen,Dender,2.1,3.25,3.25
+2008-12-06,Hull,Middlesbrough,2.38,3.25,3.1
+2008-12-06,Birmingham,Watford,1.57,3.6,6.5
+2008-12-06,Man United,Sunderland,1.14,7.5,23.0
+2008-12-06,Barnsley,Reading,3.4,3.4,2.1
+2008-12-06,Newcastle,Stoke,1.8,3.5,4.75
+2008-12-06,Bolton,Chelsea,7.0,3.8,1.53
+2008-12-06,Schalke 04,Hertha,1.83,3.4,4.33
+2008-12-06,Germinal,Mouscron,2.2,3.25,3.0
+2008-12-06,Karlsruhe,Werder Bremen,5.0,3.6,1.7
+2008-12-06,Roeselare,Westerlo,3.25,3.3,2.1
+2008-12-06,Standard,Waregem,1.36,4.5,7.5
+2008-12-06,Lazio,Inter,3.75,3.1,2.1
+2008-12-06,Chievo,Roma,5.5,3.4,1.73
+2008-12-06,Barcelona,Valencia,1.53,4.2,6.0
+2008-12-06,Sp Gijon,Ath Madrid,3.4,3.2,2.2
+2008-12-06,Villarreal,Getafe,1.73,3.6,4.75
+2008-12-06,Blackpool,Charlton,2.25,3.25,3.25
+2008-12-06,St Etienne,Le Havre,1.75,3.3,5.25
+2008-12-06,Marseille,Nice,1.75,3.3,5.25
+2008-12-06,Lille,Toulouse,1.75,3.3,5.25
+2008-12-06,Caen,Rennes,2.75,3.0,2.75
+2008-12-06,Bielefeld,Dortmund,3.1,3.3,2.3
+2008-12-06,Cottbus,Stuttgart,3.3,3.25,2.2
+2008-12-06,Ein Frankfurt,Bochum,2.1,3.3,3.5
+2008-12-06,Charleroi,Mechelen,1.67,3.4,5.0
+2008-12-06,M'gladbach,Leverkusen,4.75,3.5,1.75
+2008-12-06,Bristol City,Swansea,2.38,3.25,3.0
+2008-12-06,Besiktas,Ankaraspor,1.44,4.0,7.0
+2008-12-06,AZ Alkmaar,Heracles,1.2,5.5,12.0
+2008-12-06,PSV Eindhoven,Groningen,1.5,3.8,6.0
+2008-12-06,Roda JC,Vitesse,2.0,3.2,3.5
+2008-12-06,Twente,Sparta,1.22,5.25,10.0
+2008-12-06,Rangers,Hamilton,1.2,6.0,15.0
+2008-12-06,Inverness C,Dundee United,2.8,3.4,2.4
+2008-12-06,Falkirk,St Mirren,1.83,3.5,4.33
+2008-12-06,Southampton,Sheffield Weds,2.3,3.3,3.1
+2008-12-06,QPR,Wolves,3.0,3.3,2.3
+2008-12-06,Doncaster,Plymouth,2.5,3.25,2.8
+2008-12-06,Derby,Crystal Palace,2.4,3.25,3.0
+2008-12-06,Coventry,Nott'm Forest,2.0,3.3,3.75
+2008-12-06,Cardiff,Preston,2.1,3.4,3.4
+2008-12-06,Sheffield United,Burnley,2.0,3.4,3.75
+2008-12-06,Antalyaspor,Eskisehirspor,2.0,3.25,3.5
+2008-12-06,Gaziantepspor,Kayserispor,2.62,3.25,2.5
+2008-12-06,Hacettepespor,Genclerbirligi,2.75,3.2,2.4
+2008-12-07,Lorient,Nancy,2.1,3.1,3.75
+2008-12-07,Lecce,Juventus,5.5,3.4,1.73
+2008-12-07,Milan,Catania,1.29,5.0,12.0
+2008-12-07,Napoli,Siena,1.62,3.5,6.5
+2008-12-07,Santander,Ath Bilbao,2.1,3.25,3.6
+2008-12-07,Real Madrid,Sevilla,2.1,3.4,3.4
+2008-12-07,Reggina,Bologna,2.1,3.0,4.0
+2008-12-07,Sampdoria,Genoa,2.38,3.0,3.25
+2008-12-07,Ahlen,Osnabruck,1.91,3.4,4.2
+2008-12-07,Duisburg,Kaiserslautern ,2.1,3.4,3.4
+2008-12-07,Lokeren,Club Brugge,2.88,3.2,2.3
+2008-12-07,Kortrijk,Genk,3.25,3.25,2.1
+2008-12-07,Hibernian,Celtic,5.5,4.0,1.57
+2008-12-07,Osasuna,Valladolid,2.2,3.4,3.2
+2008-12-07,Numancia,Almeria,2.4,3.4,2.8
+2008-12-07,Mallorca,Recreativo,1.91,3.4,4.0
+2008-12-07,Freiburg,Oberhausen,1.44,4.33,7.0
+2008-12-07,St Pauli,Koblenz,1.7,3.5,5.25
+2008-12-07,La Coruna,Malaga,1.91,3.4,4.0
+2008-12-07,Cagliari,Palermo,2.5,3.0,3.0
+2008-12-07,Betis,Espanol,1.67,3.6,5.25
+2008-12-07,Paris SG,Le Mans,1.8,3.2,5.0
+2008-12-07,Nantes,Lyon,4.75,3.4,1.8
+2008-12-07,Wehen,Augsburg,2.5,3.2,2.8
+2008-12-07,Grenoble,Auxerre,2.38,3.0,3.25
+2008-12-07,Monaco,Sochaux,1.83,3.25,4.75
+2008-12-07,Atalanta,Udinese,2.3,3.1,3.3
+2008-12-07,Torino,Fiorentina,3.2,3.0,2.4
+2008-12-07,Ankaragucu,Galatasaray,4.75,3.5,1.67
+2008-12-07,Buyuksehyr,Sivasspor,3.1,3.25,2.15
+2008-12-07,Konyaspor,Bursaspor,2.2,3.25,3.0
+2008-12-07,Feyenoord,Graafschap,1.22,5.25,11.0
+2008-12-07,NAC Breda,Den Haag,1.25,5.0,9.5
+2008-12-07,Trabzonspor,Kocaelispor,1.25,5.0,11.0
+2008-12-07,Volendam,Ajax,7.5,4.33,1.36
+2008-12-07,West Brom,Portsmouth,2.62,3.25,2.75
+2008-12-07,Nijmegen,Utrecht,1.75,3.4,4.33
+2008-12-07,Everton,Aston Villa,2.62,3.25,2.75
+2008-12-07,Wolfsburg,Hannover,1.57,4.0,5.75
+2008-12-07,FC Koln,Hamburg,3.1,3.3,2.3
+2008-12-07,Norwich,Ipswich,2.75,3.25,2.6
+2008-12-07,Willem II,Heerenveen,2.55,3.25,2.55
+2008-12-08,Crystal Palace,Southampton,1.83,3.5,4.5
+2008-12-08,Nurnberg,Hansa Rostock,1.67,3.6,5.5
+2008-12-08,West Ham,Tottenham,2.75,3.25,2.62
+2008-12-09,Reading,Blackpool,1.5,3.8,7.5
+2008-12-09,Burnley,Cardiff,2.1,3.3,3.6
+2008-12-09,Preston,Doncaster,1.73,3.5,5.0
+2008-12-09,Sheffield Weds,QPR,2.38,3.3,3.0
+2008-12-09,Swansea,Barnsley,1.8,3.5,4.5
+2008-12-09,Wolves,Derby,1.57,3.6,6.5
+2008-12-09,Plymouth,Birmingham,3.25,3.3,2.2
+2008-12-09,Nott'm Forest,Sheffield United,2.8,3.3,2.5
+2008-12-09,Charlton,Coventry,2.2,3.25,3.25
+2008-12-10,Watford,Norwich,2.1,3.4,3.4
+2008-12-10,Nice,Grenoble,1.67,3.4,5.0
+2008-12-10,Ipswich,Bristol City,1.83,3.5,4.2
+2008-12-12,Genclerbirligi,Galatasaray,5.25,3.4,1.62
+2008-12-12,Dortmund,M'gladbach,1.44,4.2,7.5
+2008-12-12,Osnabruck,Duisburg,2.88,3.4,2.38
+2008-12-12,Frankfurt FSV,St Pauli,2.8,3.5,2.38
+2008-12-12,Mechelen,Germinal,2.5,3.3,2.75
+2008-12-12,Ajax,NAC Breda,1.33,4.75,8.5
+2008-12-12,Koblenz,Ingolstadt,1.91,3.4,4.0
+2008-12-13,Auxerre,Paris SG,2.75,2.9,2.8
+2008-12-13,Le Mans,Bordeaux,2.88,3.1,2.5
+2008-12-13,Nancy,Grenoble,1.91,3.1,4.5
+2008-12-13,Rennes,Nantes,1.62,3.5,6.25
+2008-12-13,Valenciennes,Monaco,2.75,2.9,2.8
+2008-12-13,Sochaux,Caen,2.2,3.1,3.5
+2008-12-13,Stoke,Fulham,2.5,3.25,2.88
+2008-12-13,Sunderland,West Brom,2.0,3.4,3.8
+2008-12-13,Toulouse,St Etienne,2.1,3.0,3.8
+2008-12-13,Swansea,Sheffield United,2.38,3.25,3.0
+2008-12-13,Wigan,Blackburn,2.1,3.3,3.6
+2008-12-13,Sheffield Weds,Bristol City,2.2,3.3,3.25
+2008-12-13,Aston Villa,Bolton,1.67,3.6,5.5
+2008-12-13,Burnley,Southampton,1.73,3.5,5.0
+2008-12-13,Crystal Palace,Doncaster,1.67,3.6,5.5
+2008-12-13,Ipswich,Cardiff,2.2,3.3,3.25
+2008-12-13,Nott'm Forest,Blackpool,2.3,3.25,3.1
+2008-12-13,Plymouth,QPR,2.5,3.3,2.75
+2008-12-13,Preston,Birmingham,2.75,3.2,2.6
+2008-12-13,Reading,Norwich,1.5,4.0,7.0
+2008-12-13,Wolves,Barnsley,1.44,4.2,7.5
+2008-12-13,Watford,Coventry,2.2,3.3,3.25
+2008-12-13,Tottenham,Man United,4.5,3.5,1.83
+2008-12-13,Liverpool,Hull,1.33,5.0,10.0
+2008-12-13,Man City,Everton,2.0,3.4,3.8
+2008-12-13,Bochum,FC Koln,2.1,3.3,3.5
+2008-12-13,Kayserispor,Buyuksehyr,1.67,3.4,5.0
+2008-12-13,Dender,Lokeren,3.25,3.25,2.2
+2008-12-13,Genk,Charleroi,1.53,4.0,6.0
+2008-12-13,Gent,Kortrijk,1.5,4.0,6.5
+2008-12-13,Tubize,Bergen,2.8,3.25,2.5
+2008-12-13,Waregem,Mouscron,2.05,3.3,3.6
+2008-12-13,Westerlo,Cercle Brugge,2.05,3.3,3.6
+2008-12-13,Feyenoord,AZ Alkmaar,3.25,3.4,2.15
+2008-12-13,Den Haag,Roda JC,2.7,3.3,2.55
+2008-12-13,Middlesbrough,Arsenal,4.5,3.6,1.8
+2008-12-13,St Mirren,Inverness C,2.4,3.5,2.75
+2008-12-13,Hibernian,Hamilton,1.53,4.0,6.0
+2008-12-13,Dundee United,Rangers,5.0,3.5,1.73
+2008-12-13,Celtic,Hearts,1.33,5.0,8.5
+2008-12-13,Aberdeen,Falkirk,1.91,3.3,4.2
+2008-12-13,Sivasspor,Hacettepespor,1.33,4.5,8.0
+2008-12-13,Bologna,Torino,2.2,3.0,3.6
+2008-12-13,Napoli,Lecce,1.44,3.8,9.0
+2008-12-13,Hannover,Bielefeld,1.8,3.5,4.5
+2008-12-13,Hertha,Karlsruhe,1.5,4.0,6.5
+2008-12-13,Leverkusen,Cottbus,1.3,5.0,10.0
+2008-12-13,Heerenveen,Graafschap,1.33,5.0,8.5
+2008-12-13,Willem II,Nijmegen,2.3,3.4,3.0
+2008-12-13,Besiktas,Ankaragucu,1.25,5.5,12.0
+2008-12-13,Barcelona,Real Madrid,1.57,3.8,6.0
+2008-12-13,Valencia,Espanol,1.53,4.0,6.0
+2008-12-13,Hamburg,Ein Frankfurt,1.44,4.2,7.5
+2008-12-13,Stuttgart,Bayern Munich,3.8,3.3,2.0
+2008-12-13,Werder Bremen,Wolfsburg,2.05,3.5,3.4
+2008-12-13,Bursaspor,Trabzonspor,3.1,3.25,2.3
+2008-12-14,Vitesse,PSV Eindhoven,4.5,3.75,1.73
+2008-12-14,Heracles,Sparta,1.91,3.3,3.75
+2008-12-14,Hoffenheim,Schalke 04,2.1,3.4,3.1
+2008-12-14,Groningen,Twente,2.38,3.4,2.88
+2008-12-14,Utrecht,Volendam,1.25,5.0,10.0
+2008-12-14,Valladolid,La Coruna,2.1,3.4,3.4
+2008-12-14,Palermo,Siena,1.75,3.2,5.25
+2008-12-14,Genoa,Atalanta,1.91,3.1,4.5
+2008-12-14,Nice,Lille,2.4,3.0,3.2
+2008-12-14,Lyon,Marseille,1.91,3.25,4.33
+2008-12-14,Le Havre,Lorient,2.65,3.0,2.8
+2008-12-14,Malaga,Numancia,1.95,3.3,4.0
+2008-12-14,Getafe,Mallorca,1.85,3.4,4.33
+2008-12-14,Ath Madrid,Betis,1.62,3.75,5.5
+2008-12-14,Ath Bilbao,Sp Gijon,2.0,3.3,3.8
+2008-12-14,Almeria,Santander,2.2,3.3,3.25
+2008-12-14,Augsburg,Aachen,2.38,3.4,2.88
+2008-12-14,Greuther Furth,Ahlen,1.67,3.75,5.0
+2008-12-14,Hansa Rostock,Wehen,1.73,3.5,5.0
+2008-12-14,Fiorentina,Catania,1.5,3.75,7.5
+2008-12-14,Oberhausen,Mainz,4.5,3.5,1.8
+2008-12-14,Fenerbahce,Antalyaspor,1.25,5.5,9.0
+2008-12-14,Eskisehirspor,Konyaspor,2.1,3.2,3.2
+2008-12-14,Ankaraspor,Denizlispor,1.73,3.4,4.5
+2008-12-14,Club Brugge,Standard,2.62,3.2,2.62
+2008-12-14,Roeselare,Anderlecht,8.0,4.75,1.36
+2008-12-14,Udinese,Lazio,2.3,3.0,3.4
+2008-12-14,Roma,Cagliari,1.4,3.8,11.0
+2008-12-14,Reggina,Sampdoria,2.4,2.88,3.3
+2008-12-14,Recreativo,Osasuna,2.3,3.25,3.1
+2008-12-14,Juventus,Milan,2.2,3.0,3.6
+2008-12-14,Inter,Chievo,1.17,6.5,19.0
+2008-12-14,Kocaelispor,Gaziantepspor,2.5,3.3,2.5
+2008-12-14,Munich 1860,Nurnberg,2.7,3.25,2.55
+2008-12-14,Sevilla,Villarreal,2.05,3.3,3.6
+2008-12-14,Portsmouth,Newcastle,2.05,3.2,3.4
+2008-12-14,Chelsea,West Ham,1.25,5.5,15.0
+2008-12-15,Charlton,Derby,2.4,3.3,2.88
+2008-12-15,Motherwell,Kilmarnock,2.2,3.3,3.3
+2008-12-15,Kaiserslautern ,Freiburg,2.05,3.4,3.5
+2008-12-16,Kortrijk,Waregem,2.38,3.4,2.88
+2008-12-19,Konyaspor,Fenerbahce,5.0,3.6,1.7
+2008-12-19,Anderlecht,Genk,1.57,3.8,6.0
+2008-12-19,AZ Alkmaar,Utrecht,1.33,5.0,9.0
+2008-12-20,Real Madrid,Valencia,1.9,3.4,4.0
+2008-12-20,Sparta,Heerenveen,3.3,3.5,2.1
+2008-12-20,Lazio,Palermo,1.9,3.1,4.5
+2008-12-20,Siena,Inter,5.5,3.6,1.66
+2008-12-20,Lille,Le Havre,1.44,3.75,9.5
+2008-12-20,Lorient,Rennes,2.6,2.9,3.0
+2008-12-20,Nantes,Sochaux,2.1,3.1,3.75
+2008-12-20,Espanol,Ath Madrid,3.4,3.4,2.1
+2008-12-20,Mouscron,Club Brugge,3.0,3.25,2.4
+2008-12-20,Germinal,Tubize,1.57,3.8,6.0
+2008-12-20,St Etienne,Auxerre,1.83,3.25,4.75
+2008-12-20,Charleroi,Dender,1.61,3.75,5.5
+2008-12-20,Roda JC,Groningen,2.4,3.5,2.8
+2008-12-20,Bergen,Waregem,2.25,3.25,3.25
+2008-12-20,Toulouse,Nice,2.2,3.0,3.6
+2008-12-20,Lokeren,Mechelen,1.83,3.4,4.5
+2008-12-20,Cercle Brugge,Roeselare,1.4,4.33,8.5
+2008-12-20,Rangers,Hibernian,1.33,5.0,9.0
+2008-12-20,Grenoble,Le Mans,2.4,3.0,3.2
+2008-12-20,Barnsley,Plymouth,2.3,3.3,3.1
+2008-12-20,Birmingham,Reading,2.37,3.25,3.0
+2008-12-20,Blackpool,Swansea,2.5,3.3,2.75
+2008-12-20,Bristol City,Burnley,2.6,3.3,2.62
+2008-12-20,Cardiff,Sheffield Weds,1.8,3.5,4.5
+2008-12-20,Coventry,Ipswich,2.4,3.4,2.87
+2008-12-20,Derby,Watford,2.2,3.3,3.25
+2008-12-20,Doncaster,Wolves,4.5,3.5,1.8
+2008-12-20,Norwich,Charlton,2.0,3.4,3.75
+2008-12-20,QPR,Preston,2.1,3.3,3.5
+2008-12-20,Sheffield United,Crystal Palace,2.1,3.3,3.5
+2008-12-20,Southampton,Nott'm Forest,2.2,3.25,3.3
+2008-12-20,Trabzonspor,Eskisehirspor,1.33,4.2,10.0
+2008-12-20,Hacettepespor,Kayserispor,3.25,3.25,2.1
+2008-12-20,Buyuksehyr,Kocaelispor,1.83,3.3,4.33
+2008-12-20,Hamilton,Motherwell,2.7,3.4,2.5
+2008-12-20,Hearts,Dundee United,2.2,3.3,3.3
+2008-12-20,Inverness C,Aberdeen,2.75,3.4,2.5
+2008-12-20,Kilmarnock,St Mirren,1.9,3.4,4.0
+2008-12-20,NAC Breda,Vitesse,1.72,3.6,4.75
+2008-12-20,Caen,Lyon,4.5,3.4,1.83
+2008-12-20,Blackburn,Stoke,1.83,3.5,4.5
+2008-12-20,Bolton,Portsmouth,2.2,3.25,3.4
+2008-12-20,Fulham,Middlesbrough,2.2,3.25,3.5
+2008-12-20,Hull,Sunderland,2.1,3.25,3.75
+2008-12-20,West Ham,Aston Villa,3.0,3.4,2.37
+2008-12-21,Kortrijk,Westerlo,2.3,3.25,3.2
+2008-12-21,Santander,Malaga,2.05,3.4,3.6
+2008-12-21,Genclerbirligi,Sivasspor,3.6,3.25,2.0
+2008-12-21,Gaziantepspor,Bursaspor,2.0,3.25,3.5
+2008-12-21,Galatasaray,Besiktas,1.8,3.4,4.2
+2008-12-21,Denizlispor,Ankaragucu,2.0,3.3,3.5
+2008-12-21,Antalyaspor,Ankaraspor,2.9,3.2,2.3
+2008-12-21,Sp Gijon,Almeria,2.3,3.0,3.4
+2008-12-21,Villarreal,Barcelona,4.2,3.75,1.8
+2008-12-21,Lecce,Bologna,2.1,2.9,4.2
+2008-12-21,Chievo,Genoa,2.5,3.0,3.0
+2008-12-21,Catania,Roma,5.0,3.2,1.83
+2008-12-21,Atalanta,Juventus,4.5,3.1,1.95
+2008-12-21,Osasuna,Getafe,2.4,3.3,2.87
+2008-12-21,Standard,Gent,1.5,4.2,6.5
+2008-12-21,Marseille,Nancy,1.53,3.75,7.0
+2008-12-21,Monaco,Bordeaux,3.1,3.1,2.4
+2008-12-21,Paris SG,Valenciennes,1.5,3.8,7.5
+2008-12-21,Volendam,Heracles,2.5,3.25,2.6
+2008-12-21,Twente,Willem II,1.28,4.5,10.0
+2008-12-21,PSV Eindhoven,Feyenoord,1.53,3.75,5.75
+2008-12-21,Nijmegen,Den Haag,1.4,4.0,8.0
+2008-12-21,Falkirk,Celtic,8.0,4.5,1.4
+2008-12-21,Cagliari,Reggina,1.75,3.25,5.5
+2008-12-21,Numancia,Valladolid,2.5,3.4,2.75
+2008-12-21,Graafschap,Ajax,8.5,4.0,1.36
+2008-12-21,La Coruna,Recreativo,1.72,3.5,5.0
+2008-12-21,Mallorca,Sevilla,3.5,3.5,2.05
+2008-12-21,Newcastle,Tottenham,2.37,3.4,3.0
+2008-12-21,Arsenal,Liverpool,2.4,3.25,3.0
+2008-12-21,West Brom,Man City,3.25,3.3,2.25
+2008-12-21,Sampdoria,Fiorentina,2.62,2.75,3.2
+2008-12-21,Torino,Napoli,2.62,3.0,2.87
+2008-12-21,Betis,Ath Bilbao,2.1,3.25,3.6
+2008-12-21,Milan,Udinese,1.66,3.6,5.5
+2008-12-22,Everton,Chelsea,5.0,3.6,1.73
+2008-12-26,Feyenoord,NAC Breda,2.05,3.3,3.25
+2008-12-26,Middlesbrough,Everton,2.5,3.3,2.87
+2008-12-26,Aston Villa,Arsenal,2.5,3.3,2.87
+2008-12-26,Chelsea,West Brom,1.14,7.5,21.0
+2008-12-26,Liverpool,Bolton,1.33,4.5,12.0
+2008-12-26,Man City,Hull,1.8,3.6,4.5
+2008-12-26,Burnley,Barnsley,1.61,3.75,5.5
+2008-12-26,Stoke,Man United,12.0,5.0,1.3
+2008-12-26,Crystal Palace,Norwich,1.72,3.5,5.0
+2008-12-26,Reading,Cardiff,1.66,3.75,5.0
+2008-12-26,Sheffield Weds,Blackpool,2.0,3.3,3.75
+2008-12-26,Charlton,QPR,2.62,3.3,2.62
+2008-12-26,Portsmouth,West Ham,2.2,3.25,3.4
+2008-12-26,Swansea,Coventry,1.9,3.4,4.0
+2008-12-26,Nott'm Forest,Doncaster,1.9,3.3,4.2
+2008-12-26,Plymouth,Southampton,1.9,3.4,4.0
+2008-12-26,Sunderland,Blackburn,2.25,3.25,3.3
+2008-12-26,Wigan,Newcastle,2.25,3.3,3.25
+2008-12-26,Watford,Bristol City,2.05,3.4,3.5
+2008-12-26,Wolves,Sheffield United,1.66,3.75,5.0
+2008-12-26,Ipswich,Birmingham,2.62,3.3,2.62
+2008-12-26,Tottenham,Fulham,1.72,3.6,5.0
+2008-12-26,Preston,Derby,1.83,3.5,4.33
+2008-12-27,Hibernian,Kilmarnock,1.8,3.5,4.5
+2008-12-27,Dundee United,Falkirk,1.72,3.6,5.0
+2008-12-27,Aberdeen,Hearts,2.3,3.5,2.87
+2008-12-27,Motherwell,Inverness C,1.9,3.5,3.8
+2008-12-27,Rangers,Celtic,2.3,3.3,3.1
+2008-12-27,Vitesse,Volendam,1.57,3.5,5.25
+2008-12-27,PSV Eindhoven,Twente,1.9,3.3,3.6
+2008-12-27,Willem II,Sparta,1.75,3.5,4.2
+2008-12-27,St Mirren,Hamilton,1.9,3.4,4.2
+2008-12-27,Heracles,Graafschap,1.66,3.4,4.5
+2008-12-28,Ajax,Den Haag,1.2,5.75,11.0
+2008-12-28,AZ Alkmaar,Nijmegen,1.4,4.0,7.5
+2008-12-28,Utrecht,Roda JC,1.95,3.3,3.3
+2008-12-28,Sheffield United,Charlton,1.61,4.0,6.0
+2008-12-28,Southampton,Reading,4.5,3.7,1.83
+2008-12-28,QPR,Watford,1.9,3.3,4.75
+2008-12-28,Groningen,Heerenveen,2.0,3.2,3.5
+2008-12-28,Coventry,Sheffield Weds,2.2,3.6,3.3
+2008-12-28,Derby,Ipswich,2.5,3.4,2.9
+2008-12-28,Fulham,Chelsea,6.5,3.75,1.61
+2008-12-28,Newcastle,Liverpool,5.0,3.6,1.8
+2008-12-28,West Brom,Tottenham,3.5,3.4,2.2
+2008-12-28,West Ham,Stoke,1.72,3.6,5.5
+2008-12-28,Cardiff,Plymouth,1.66,3.75,6.0
+2008-12-28,Bolton,Wigan,2.3,3.25,3.4
+2008-12-28,Bristol City,Crystal Palace,2.75,3.3,2.7
+2008-12-28,Norwich,Nott'm Forest,2.1,3.4,3.8
+2008-12-28,Arsenal,Portsmouth,1.4,4.5,10.0
+2008-12-28,Blackburn,Man City,2.62,3.3,2.87
+2008-12-28,Birmingham,Swansea,1.72,3.6,5.5
+2008-12-28,Barnsley,Preston,2.6,3.3,2.87
+2008-12-28,Doncaster,Burnley,3.3,3.4,2.3
+2008-12-28,Everton,Sunderland,1.8,3.6,5.0
+2008-12-29,Blackpool,Wolves,3.9,3.6,2.0
+2008-12-29,Man United,Middlesbrough,1.2,6.5,19.0
+2008-12-30,Hull,Aston Villa,4.33,3.6,1.91
+2009-01-03,Hamilton,Aberdeen,3.5,3.3,2.1
+2009-01-03,Hearts,Hibernian,2.0,3.4,3.75
+2009-01-03,Valencia,Ath Madrid,2.1,3.4,3.4
+2009-01-03,Barcelona,Mallorca,1.18,6.5,15.0
+2009-01-03,Celtic,Dundee United,1.36,4.5,9.0
+2009-01-03,Falkirk,Kilmarnock,2.5,3.25,2.87
+2009-01-03,St Mirren,Motherwell,2.3,3.25,3.1
+2009-01-04,Recreativo,Numancia,2.1,3.3,3.5
+2009-01-04,Real Madrid,Villarreal,1.75,3.75,4.5
+2009-01-04,Malaga,Sp Gijon,1.95,3.25,4.2
+2009-01-04,Getafe,La Coruna,2.1,3.3,3.5
+2009-01-04,Ath Bilbao,Espanol,1.9,3.4,4.0
+2009-01-04,Almeria,Betis,2.37,3.3,3.0
+2009-01-04,Valladolid,Santander,2.0,3.4,3.75
+2009-01-04,Sevilla,Osasuna,1.36,4.5,9.0
+2009-01-04,Inverness C,Rangers,9.0,4.5,1.36
+2009-01-07,Motherwell,Hearts,2.5,3.25,2.62
+2009-01-09,Reading,Watford,1.5,4.0,7.0
+2009-01-10,Barnsley,Southampton,2.0,3.3,3.75
+2009-01-10,La Coruna,Sevilla,2.7,3.2,2.7
+2009-01-10,Valencia,Villarreal,2.0,3.3,3.8
+2009-01-10,Sochaux,St Etienne,2.38,2.9,3.3
+2009-01-10,Auxerre,Marseille,3.8,3.1,2.1
+2009-01-10,Rennes,Grenoble,1.57,3.6,6.5
+2009-01-10,Monaco,Nantes,1.95,3.1,4.33
+2009-01-10,Le Havre,Toulouse,2.75,3.0,2.75
+2009-01-10,Stoke,Liverpool,10.0,4.5,1.36
+2009-01-10,Newcastle,West Ham,2.2,3.3,3.4
+2009-01-10,Arsenal,Bolton,1.36,4.33,11.0
+2009-01-10,Everton,Hull,1.62,3.75,6.0
+2009-01-10,Aston Villa,West Brom,1.4,4.33,9.0
+2009-01-10,Burnley,Swansea,2.1,3.3,3.5
+2009-01-10,Lyon,Lorient,1.4,4.2,8.5
+2009-01-10,Genoa,Torino,1.75,3.2,5.25
+2009-01-10,Inter,Cagliari,1.25,5.5,12.0
+2009-01-10,Charlton,Nott'm Forest,2.5,3.25,2.8
+2009-01-10,Wolves,Preston,1.67,3.5,5.5
+2009-01-10,Sheffield United,Norwich,1.67,3.5,5.5
+2009-01-10,Middlesbrough,Sunderland,2.25,3.2,3.4
+2009-01-10,Ipswich,Sheffield Weds,1.8,3.5,4.5
+2009-01-10,QPR,Coventry,1.91,3.4,4.0
+2009-01-11,Udinese,Sampdoria,2.15,3.0,3.8
+2009-01-11,Roma,Milan,2.75,3.0,2.75
+2009-01-11,Juventus,Siena,1.29,5.0,12.0
+2009-01-11,Palermo,Atalanta,2.0,3.1,4.2
+2009-01-11,Napoli,Catania,1.57,3.5,7.0
+2009-01-11,Fiorentina,Lecce,1.36,4.33,10.0
+2009-01-11,Bologna,Chievo,1.8,3.2,5.0
+2009-01-11,Man United,Chelsea,2.2,3.2,3.5
+2009-01-11,Reggina,Lazio,3.1,3.1,2.4
+2009-01-11,Wigan,Tottenham,2.5,3.25,2.88
+2009-01-11,Betis,Malaga,2.0,3.4,3.7
+2009-01-11,Espanol,Almeria,2.05,3.5,3.6
+2009-01-11,Mallorca,Real Madrid,4.75,3.5,1.75
+2009-01-11,Numancia,Getafe,2.5,3.3,2.8
+2009-01-11,Osasuna,Barcelona,8.0,4.5,1.4
+2009-01-11,Santander,Recreativo,1.91,3.4,4.0
+2009-01-11,Sp Gijon,Valladolid,2.38,3.1,3.2
+2009-01-11,Bordeaux,Paris SG,1.91,3.0,4.2
+2009-01-11,Ath Madrid,Ath Bilbao,1.62,3.6,6.0
+2009-01-13,Kilmarnock,Aberdeen,2.4,3.3,2.9
+2009-01-14,Man United,Wigan,1.2,6.0,15.0
+2009-01-14,Roma,Sampdoria,1.72,3.4,5.25
+2009-01-16,Anderlecht,Cercle Brugge,1.36,4.5,9.0
+2009-01-16,Heerenveen,Feyenoord,1.85,3.75,3.8
+2009-01-17,Den Haag,Heracles,2.3,3.6,2.88
+2009-01-17,Twente,Vitesse,1.36,4.5,9.5
+2009-01-17,Milan,Fiorentina,1.62,3.5,6.5
+2009-01-17,Club Brugge,Mechelen,1.45,4.0,6.0
+2009-01-17,Standard,Dender,1.2,6.5,13.0
+2009-01-17,Mouscron,Tubize,1.45,3.8,6.5
+2009-01-17,Lokeren,Waregem,2.1,3.2,3.3
+2009-01-17,Kortrijk,Roeselare,1.67,3.5,4.75
+2009-01-17,Bergen,Gent,2.8,3.3,2.3
+2009-01-17,NAC Breda,Utrecht,1.95,3.5,3.75
+2009-01-17,Hamilton,Inverness C,2.2,3.5,3.1
+2009-01-17,Bristol City,Wolves,3.1,3.3,2.3
+2009-01-17,Kilmarnock,Hearts,2.6,3.3,2.62
+2009-01-17,Rangers,Falkirk,1.2,6.0,16.0
+2009-01-17,Birmingham,Cardiff,2.0,3.3,3.8
+2009-01-17,Coventry,Blackpool,1.91,3.4,4.0
+2009-01-17,Crystal Palace,Ipswich,2.1,3.25,3.6
+2009-01-17,Derby,QPR,2.3,3.3,3.1
+2009-01-17,Norwich,Barnsley,2.1,3.3,3.5
+2009-01-17,Nott'm Forest,Plymouth,2.1,3.3,3.5
+2009-01-17,Preston,Burnley,2.0,3.4,3.75
+2009-01-17,Sheffield Weds,Charlton,1.83,3.5,4.33
+2009-01-17,Southampton,Doncaster,2.3,3.3,3.1
+2009-01-17,Swansea,Reading,2.88,3.4,2.38
+2009-01-17,Watford,Sheffield United,2.75,3.3,2.5
+2009-01-17,Hibernian,St Mirren,1.91,3.4,4.0
+2009-01-17,Graafschap,Willem II,2.6,3.4,2.6
+2009-01-17,Siena,Reggina,1.83,3.1,5.0
+2009-01-17,Chelsea,Stoke,1.2,6.5,15.0
+2009-01-17,Nantes,Bordeaux,4.0,3.1,2.05
+2009-01-17,West Brom,Middlesbrough,2.38,3.3,3.0
+2009-01-17,Sunderland,Aston Villa,3.25,3.25,2.25
+2009-01-17,Man City,Wigan,2.0,3.4,3.75
+2009-01-17,Hull,Arsenal,5.5,4.0,1.62
+2009-01-17,Sevilla,Numancia,1.33,4.75,9.5
+2009-01-17,Bolton,Man United,8.0,3.8,1.5
+2009-01-17,Grenoble,Lyon,4.75,3.5,1.75
+2009-01-17,Barcelona,La Coruna,1.25,5.5,12.0
+2009-01-17,Marseille,Le Havre,1.33,4.5,11.0
+2009-01-17,Blackburn,Newcastle,2.0,3.4,3.8
+2009-01-17,Toulouse,Nancy,2.05,3.1,4.0
+2009-01-17,St Etienne,Le Mans,2.0,3.1,4.2
+2009-01-17,Nice,Auxerre,1.91,3.2,4.33
+2009-01-17,Lorient,Valenciennes,1.85,3.2,4.75
+2009-01-18,Recreativo,Sp Gijon,2.25,3.0,3.5
+2009-01-18,Germinal,Genk,2.6,3.3,2.62
+2009-01-18,Charleroi,Westerlo,2.1,3.3,3.5
+2009-01-18,Dundee United,Motherwell,1.67,3.5,5.5
+2009-01-18,Aberdeen,Celtic,5.5,3.5,1.67
+2009-01-18,Tottenham,Portsmouth,1.73,3.6,5.0
+2009-01-18,West Ham,Fulham,2.1,3.3,3.6
+2009-01-18,Villarreal,Mallorca,1.44,4.2,7.5
+2009-01-18,Valladolid,Betis,2.05,3.4,3.5
+2009-01-18,Real Madrid,Osasuna,1.25,5.5,12.0
+2009-01-18,Almeria,Ath Madrid,3.0,3.4,2.3
+2009-01-18,Torino,Roma,4.0,3.2,2.0
+2009-01-18,Caen,Monaco,2.2,3.1,3.5
+2009-01-18,Lille,Rennes,2.25,3.0,3.5
+2009-01-18,Paris SG,Sochaux,1.62,3.6,6.0
+2009-01-18,Getafe,Santander,2.2,3.3,3.3
+2009-01-18,Atalanta,Inter,4.75,3.3,1.8
+2009-01-18,Cagliari,Udinese,2.3,3.0,3.4
+2009-01-18,Catania,Bologna,1.95,3.0,4.5
+2009-01-18,Malaga,Espanol,2.0,3.4,3.75
+2009-01-18,Nijmegen,Ajax,3.6,3.5,2.0
+2009-01-18,Sparta,Groningen,3.0,3.4,2.3
+2009-01-18,Volendam,AZ Alkmaar,11.0,5.0,1.3
+2009-01-18,Chievo,Napoli,3.2,3.0,2.38
+2009-01-18,Ath Bilbao,Valencia,3.0,3.4,2.3
+2009-01-18,Lecce,Genoa,2.7,2.88,2.88
+2009-01-18,Sampdoria,Palermo,1.91,3.1,4.5
+2009-01-18,Roda JC,PSV Eindhoven,4.5,3.75,1.75
+2009-01-18,Lazio,Juventus,3.4,3.0,2.25
+2009-01-19,Liverpool,Everton,1.62,3.75,6.0
+2009-01-23,Ankaraspor,Konyaspor,1.65,3.6,5.5
+2009-01-24,Aberdeen,Rangers,4.2,3.75,1.8
+2009-01-24,Reggina,Chievo,2.05,3.1,4.0
+2009-01-24,Barcelona,Numancia,1.14,7.5,18.0
+2009-01-24,Villarreal,Osasuna,1.5,4.0,7.0
+2009-01-24,Juventus,Fiorentina,1.66,3.4,6.0
+2009-01-24,PSV Eindhoven,NAC Breda,1.44,4.33,7.0
+2009-01-24,Cercle Brugge,Kortrijk,1.57,3.6,5.25
+2009-01-24,Dender,Germinal,3.2,3.25,2.1
+2009-01-24,Heerenveen,Roda JC,1.5,4.2,6.0
+2009-01-24,Feyenoord,Willem II,1.61,3.75,5.5
+2009-01-24,AZ Alkmaar,Graafschap,1.2,6.5,13.0
+2009-01-24,Motherwell,Falkirk,1.9,3.3,4.2
+2009-01-24,Blackpool,Birmingham,3.6,3.2,2.1
+2009-01-24,Dundee United,St Mirren,1.72,3.5,5.0
+2009-01-24,Hearts,Inverness C,1.57,3.8,6.0
+2009-01-24,Kayserispor,Genclerbirligi,1.61,3.6,5.0
+2009-01-24,Genk,Bergen,1.44,4.0,6.5
+2009-01-24,Mechelen,Mouscron,2.3,3.25,2.8
+2009-01-24,Tubize,Lokeren,2.9,3.2,2.25
+2009-01-24,Roeselare,Charleroi,2.7,3.2,2.4
+2009-01-24,Ankaragucu,Antalyaspor,2.05,3.2,3.4
+2009-01-24,Besiktas,Denizlispor,1.33,4.5,8.0
+2009-01-24,Sivasspor,Galatasaray,2.62,3.2,2.5
+2009-01-24,Celtic,Hibernian,1.33,5.0,9.0
+2009-01-24,Eskisehirspor,Gaziantepspor,2.3,3.25,2.8
+2009-01-25,Heracles,Twente,4.33,3.5,1.72
+2009-01-25,Lazio,Cagliari,1.66,3.4,6.0
+2009-01-25,Palermo,Udinese,1.95,3.1,4.33
+2009-01-25,Napoli,Roma,2.75,3.0,2.7
+2009-01-25,Lecce,Torino,2.2,2.9,3.75
+2009-01-25,Genoa,Catania,1.6,3.4,6.5
+2009-01-25,Inter,Sampdoria,1.45,4.0,8.0
+2009-01-25,Groningen,Ajax,3.5,3.25,2.0
+2009-01-25,Utrecht,Sparta,1.61,3.6,5.0
+2009-01-25,Westerlo,Standard,3.4,3.25,2.0
+2009-01-25,Volendam,Den Haag,2.3,3.25,2.8
+2009-01-25,Bursaspor,Buyuksehyr,1.8,3.3,4.2
+2009-01-25,Fenerbahce,Trabzonspor,1.8,3.3,4.33
+2009-01-25,Kocaelispor,Hacettepespor,2.15,3.2,3.1
+2009-01-25,Siena,Atalanta,2.35,2.9,3.4
+2009-01-25,Kilmarnock,Hamilton,1.9,3.2,4.33
+2009-01-25,Valladolid,Espanol,2.05,3.4,3.6
+2009-01-25,Vitesse,Nijmegen,2.6,3.25,2.5
+2009-01-25,Sevilla,Santander,1.53,3.8,6.5
+2009-01-25,Real Madrid,La Coruna,1.4,4.5,7.5
+2009-01-25,Waregem,Club Brugge,2.7,3.25,2.4
+2009-01-25,Malaga,Ath Madrid,2.7,3.4,2.5
+2009-01-25,Getafe,Sp Gijon,1.9,3.3,4.0
+2009-01-25,Almeria,Ath Bilbao,2.4,3.3,2.87
+2009-01-25,Bologna,Milan,5.25,3.4,1.72
+2009-01-25,Recreativo,Betis,2.5,3.25,2.8
+2009-01-25,Mallorca,Valencia,3.2,3.3,2.25
+2009-01-27,Plymouth,Bristol City,2.4,3.4,3.1
+2009-01-27,Watford,Burnley,2.7,3.4,2.75
+2009-01-27,West Brom,Man United,10.0,5.0,1.36
+2009-01-27,Tottenham,Stoke,1.61,3.8,6.5
+2009-01-27,Sunderland,Fulham,2.25,3.3,3.5
+2009-01-27,Portsmouth,Aston Villa,3.25,3.4,2.3
+2009-01-27,Barnsley,Ipswich,2.87,3.4,2.5
+2009-01-27,Blackpool,QPR,2.75,3.3,2.75
+2009-01-27,Charlton,Crystal Palace,3.0,3.3,2.5
+2009-01-27,Birmingham,Derby,1.66,3.75,6.0
+2009-01-27,Nott'm Forest,Sheffield Weds,2.1,3.4,3.75
+2009-01-27,Reading,Wolves,2.1,3.4,3.8
+2009-01-27,Sheffield United,Doncaster,1.66,3.6,6.5
+2009-01-27,Swansea,Preston,2.1,3.4,3.75
+2009-01-27,Norwich,Southampton,1.9,3.4,4.5
+2009-01-28,Coventry,Cardiff,2.75,3.5,2.6
+2009-01-28,Wigan,Liverpool,5.0,3.5,1.83
+2009-01-28,West Ham,Hull,1.83,3.6,4.75
+2009-01-28,Blackburn,Bolton,2.0,3.25,4.5
+2009-01-28,Chelsea,Middlesbrough,1.25,6.0,15.0
+2009-01-28,Everton,Arsenal,3.0,3.3,2.5
+2009-01-28,Man City,Newcastle,1.75,3.75,5.0
+2009-01-28,Atalanta,Bologna,1.8,3.1,5.5
+2009-01-28,Roma,Palermo,1.5,3.75,7.5
+2009-01-28,Catania,Inter,5.25,3.3,1.75
+2009-01-28,Chievo,Lecce,2.15,2.87,4.0
+2009-01-28,Fiorentina,Napoli,1.72,3.3,5.5
+2009-01-28,Milan,Genoa,1.4,4.2,8.5
+2009-01-28,Sampdoria,Lazio,2.4,3.0,3.2
+2009-01-28,Torino,Reggina,1.9,3.1,4.75
+2009-01-28,Udinese,Juventus,5.0,3.25,1.8
+2009-01-28,Cagliari,Siena,1.8,3.1,5.25
+2009-01-30,Augsburg,Nurnberg,2.87,3.3,2.4
+2009-01-30,Oberhausen,Koblenz,2.25,3.25,3.25
+2009-01-30,Osnabruck,St Pauli,2.37,3.25,3.0
+2009-01-30,Doncaster,Norwich,2.2,3.3,3.4
+2009-01-30,Roda JC,Heracles,1.75,3.6,4.5
+2009-01-30,Hamburg,Bayern Munich,3.8,3.4,2.0
+2009-01-31,Rennes,Toulouse,1.83,3.1,5.0
+2009-01-31,Le Mans,Nantes,2.1,3.0,4.0
+2009-01-31,Bergen,Cercle Brugge,3.25,3.2,2.2
+2009-01-31,Paris SG,Caen,1.6,3.5,6.5
+2009-01-31,Germinal,Westerlo,1.9,3.3,3.6
+2009-01-31,Kortrijk,Anderlecht,4.75,3.6,1.66
+2009-01-31,Mouscron,Dender,1.57,3.5,5.5
+2009-01-31,Standard,Roeselare,1.2,5.5,11.0
+2009-01-31,Waregem,Mechelen,1.8,3.4,4.0
+2009-01-31,Ankaraspor,Trabzonspor,2.62,3.25,2.37
+2009-01-31,Falkirk,Aberdeen,3.0,3.25,2.4
+2009-01-31,Hamilton,Hearts,3.0,3.25,2.37
+2009-01-31,Hibernian,Motherwell,2.1,3.4,3.4
+2009-01-31,Rangers,Dundee United,1.4,4.5,8.0
+2009-01-31,Bristol City,Barnsley,1.9,3.4,4.0
+2009-01-31,St Mirren,Kilmarnock,2.3,3.25,3.1
+2009-01-31,Kayserispor,Sivasspor,2.6,3.25,2.4
+2009-01-31,Kocaelispor,Genclerbirligi,2.75,3.3,2.3
+2009-01-31,Le Havre,Nancy,2.9,3.0,2.6
+2009-01-31,Napoli,Udinese,1.9,3.2,4.5
+2009-01-31,Juventus,Cagliari,1.36,4.5,9.0
+2009-01-31,Auxerre,Lorient,2.6,3.0,2.9
+2009-01-31,Ath Bilbao,Malaga,2.0,3.5,3.6
+2009-01-31,Numancia,Real Madrid,6.5,3.6,1.57
+2009-01-31,Stuttgart,M'gladbach,1.4,4.5,8.0
+2009-01-31,Hoffenheim,Cottbus,1.44,4.5,7.0
+2009-01-31,Hertha,Ein Frankfurt,1.72,3.5,5.0
+2009-01-31,Hannover,Schalke 04,3.0,3.25,2.37
+2009-01-31,FC Koln,Wolfsburg,3.5,3.3,2.1
+2009-01-31,Denizlispor,Galatasaray,4.33,3.5,1.7
+2009-01-31,Burnley,Charlton,1.66,3.6,5.25
+2009-01-31,Club Brugge,Tubize,1.3,5.0,8.5
+2009-01-31,Crystal Palace,Blackpool,1.83,3.4,4.5
+2009-01-31,Valenciennes,Nice,2.6,3.0,2.9
+2009-01-31,Wolves,Watford,1.57,3.6,6.5
+2009-01-31,Southampton,Swansea,3.2,3.4,2.25
+2009-01-31,Sheffield Weds,Birmingham,2.87,3.25,2.5
+2009-01-31,Stoke,Man City,3.25,3.3,2.25
+2009-01-31,Middlesbrough,Blackburn,2.5,3.3,2.87
+2009-01-31,Man United,Everton,1.36,4.5,10.0
+2009-01-31,Hull,West Brom,2.2,3.2,3.5
+2009-01-31,Fulham,Portsmouth,2.0,3.3,4.0
+2009-01-31,Cardiff,Nott'm Forest,1.66,3.6,5.5
+2009-01-31,Aston Villa,Wigan,1.61,3.7,6.0
+2009-01-31,Arsenal,West Ham,1.5,4.2,7.0
+2009-01-31,QPR,Reading,2.75,3.25,2.6
+2009-01-31,Bolton,Tottenham,2.75,3.3,2.62
+2009-01-31,Monaco,Grenoble,2.05,3.1,4.0
+2009-01-31,Dortmund,Leverkusen,2.6,3.25,2.75
+2009-01-31,Ipswich,Plymouth,1.66,3.6,5.5
+2009-01-31,Preston,Sheffield United,2.3,3.4,3.0
+2009-01-31,Willem II,Vitesse,2.0,3.3,3.3
+2009-01-31,NAC Breda,Volendam,1.33,4.33,8.0
+2009-01-31,Derby,Coventry,2.2,3.3,3.25
+2009-01-31,Ajax,Heerenveen,1.5,3.6,6.5
+2009-01-31,Den Haag,Groningen,3.5,3.3,2.0
+2009-02-01,Besiktas,Antalyaspor,1.3,4.33,10.0
+2009-02-01,Bordeaux,Lille,1.83,3.2,4.75
+2009-02-01,Lyon,St Etienne,1.4,4.33,9.0
+2009-02-01,Sochaux,Marseille,3.6,3.1,2.2
+2009-02-01,Inverness C,Celtic,9.0,4.75,1.33
+2009-02-01,Bochum,Karlsruhe,2.0,3.3,3.8
+2009-02-01,Twente,Utrecht,1.44,3.75,7.5
+2009-02-01,Sparta,AZ Alkmaar,7.5,3.6,1.44
+2009-02-01,Werder Bremen,Bielefeld,1.36,4.75,9.0
+2009-02-01,Fenerbahce,Gaziantepspor,1.33,4.2,9.0
+2009-02-01,Bursaspor,Hacettepespor,1.53,3.5,6.0
+2009-02-01,Nijmegen,Feyenoord,2.1,3.25,3.2
+2009-02-01,Graafschap,PSV Eindhoven,7.0,3.75,1.44
+2009-02-01,Lokeren,Genk,2.4,3.25,2.7
+2009-02-01,Charleroi,Gent,2.6,3.25,2.5
+2009-02-01,Eskisehirspor,Buyuksehyr,2.05,3.25,3.25
+2009-02-01,Ankaragucu,Konyaspor,2.0,3.3,3.25
+2009-02-01,Newcastle,Sunderland,2.6,3.2,2.8
+2009-02-01,Siena,Lecce,1.9,3.1,4.5
+2009-02-01,Reggina,Roma,6.0,3.5,1.61
+2009-02-01,Liverpool,Chelsea,2.5,3.1,3.1
+2009-02-01,Lazio,Milan,3.6,3.2,2.1
+2009-02-01,Inter,Torino,1.22,6.0,13.0
+2009-02-01,Genoa,Palermo,1.9,3.2,4.75
+2009-02-01,Chievo,Sampdoria,2.87,2.87,2.75
+2009-02-01,Wehen,Aachen,2.8,3.25,2.4
+2009-02-01,Munich 1860,Freiburg,2.37,3.25,2.8
+2009-02-01,Greuther Furth,Ingolstadt,1.72,3.5,4.75
+2009-02-01,Frankfurt FSV,Ahlen,2.2,3.2,3.2
+2009-02-01,Sp Gijon,Sevilla,3.75,3.25,2.05
+2009-02-01,Valencia,Almeria,1.61,3.6,6.0
+2009-02-01,Atalanta,Catania,2.0,3.1,4.2
+2009-02-01,Hansa Rostock,Duisburg,2.2,3.2,3.2
+2009-02-01,Espanol,Recreativo,2.0,3.4,3.75
+2009-02-01,Santander,Barcelona,7.5,3.75,1.5
+2009-02-01,Osasuna,Mallorca,2.0,3.25,4.0
+2009-02-01,La Coruna,Villarreal,2.5,3.4,2.75
+2009-02-01,Betis,Getafe,2.1,3.4,3.4
+2009-02-01,Ath Madrid,Valladolid,1.53,3.8,7.5
+2009-02-02,Bologna,Fiorentina,3.4,3.1,2.25
+2009-02-02,Kaiserslautern,Mainz,2.2,3.2,3.2
+2009-02-03,Bristol City,Charlton,1.73,3.4,5.25
+2009-02-03,Willem II,Volendam,1.65,3.6,5.5
+2009-02-03,Preston,Plymouth,1.67,3.6,5.5
+2009-02-03,Vitesse,Heerenveen,3.25,3.4,2.15
+2009-02-03,Ajax,Heracles,1.17,6.5,15.0
+2009-02-03,Wolves,Norwich,1.57,3.8,6.0
+2009-02-03,Southampton,Sheffield United,3.25,3.3,2.2
+2009-02-04,AZ Alkmaar,Roda JC,1.25,5.0,9.5
+2009-02-04,Feyenoord,Sparta,1.53,3.6,5.75
+2009-02-04,Groningen,Nijmegen,1.83,3.4,3.9
+2009-02-04,Twente,NAC Breda,1.45,3.8,8.0
+2009-02-04,Utrecht,Graafschap,1.44,3.8,7.0
+2009-02-05,PSV Eindhoven,Den Haag,1.17,6.5,12.0
+2009-02-06,Aachen,Hansa Rostock,1.7,3.6,5.0
+2009-02-06,Freiburg,Osnabruck,1.36,4.5,9.0
+2009-02-06,Koblenz,Frankfurt FSV,2.05,3.3,3.6
+2009-02-06,Bielefeld,Hertha,2.62,3.25,2.65
+2009-02-06,Trabzonspor,Ankaragucu,1.28,5.0,12.0
+2009-02-06,Kortrijk,Standard,5.0,3.75,1.66
+2009-02-07,West Brom,Newcastle,2.25,3.3,3.25
+2009-02-07,Wigan,Fulham,2.0,3.4,3.8
+2009-02-07,Lorient,Monaco,2.15,3.0,3.75
+2009-02-07,Nancy,Auxerre,1.9,3.1,4.33
+2009-02-07,Nantes,Paris SG,3.1,3.1,2.4
+2009-02-07,Milan,Reggina,1.2,5.75,17.0
+2009-02-07,Toulouse,Le Mans,1.8,3.2,5.0
+2009-02-07,Sunderland,Stoke,1.83,3.5,4.5
+2009-02-07,Lecce,Inter,7.0,3.5,1.57
+2009-02-07,Birmingham,Burnley,2.0,3.3,3.75
+2009-02-07,Roda JC,Sparta,1.55,3.75,5.5
+2009-02-07,Heracles,Nijmegen,2.75,3.2,2.4
+2009-02-07,AZ Alkmaar,Willem II,1.2,6.0,10.0
+2009-02-07,Heerenveen,NAC Breda,1.44,3.8,7.0
+2009-02-07,St Etienne,Caen,1.8,3.2,5.0
+2009-02-07,Portsmouth,Liverpool,5.0,3.3,1.8
+2009-02-07,Norwich,Bristol City,2.3,3.25,3.0
+2009-02-07,Everton,Bolton,1.72,3.4,5.5
+2009-02-07,Swansea,Ipswich,2.1,3.3,3.5
+2009-02-07,Sheffield United,Sheffield Weds,1.83,3.4,4.5
+2009-02-07,Sevilla,Betis,1.75,3.5,4.75
+2009-02-07,Ein Frankfurt,FC Koln,2.15,3.3,3.3
+2009-02-07,Karlsruhe,Hamburg,4.0,3.4,1.9
+2009-02-07,Leverkusen,Stuttgart,1.8,3.5,4.5
+2009-02-07,M'gladbach,Hoffenheim,3.4,3.4,2.1
+2009-02-07,Schalke 04,Werder Bremen,2.0,3.4,3.6
+2009-02-07,Wolfsburg,Bochum,1.44,4.0,8.0
+2009-02-07,Reading,Preston,1.61,3.75,5.5
+2009-02-07,Plymouth,Derby,2.2,3.2,3.4
+2009-02-07,Sivasspor,Kocaelispor,1.22,5.25,12.0
+2009-02-07,Hacettepespor,Eskisehirspor,2.7,3.2,2.4
+2009-02-07,Man City,Middlesbrough,1.61,3.75,6.0
+2009-02-07,Galatasaray,Kayserispor,1.36,4.2,7.5
+2009-02-07,Tubize,Mechelen,2.5,3.2,2.62
+2009-02-07,Roeselare,Germinal,3.1,3.2,2.15
+2009-02-07,Gent,Mouscron,1.57,3.5,5.5
+2009-02-07,Genk,Waregem,1.66,3.4,4.75
+2009-02-07,Dender,Club Brugge,4.33,3.4,1.72
+2009-02-07,Blackburn,Aston Villa,2.87,3.3,2.5
+2009-02-07,Nott'm Forest,QPR,2.5,3.3,2.75
+2009-02-07,Coventry,Wolves,3.25,3.3,2.2
+2009-02-07,Blackpool,Doncaster,2.2,3.2,3.4
+2009-02-07,Chelsea,Hull,1.2,6.0,19.0
+2009-02-07,Le Havre,Rennes,4.3,3.0,2.0
+2009-02-07,Lille,Sochaux,1.61,3.5,6.25
+2009-02-07,Real Madrid,Santander,1.4,4.33,8.5
+2009-02-07,Anderlecht,Bergen,1.2,5.5,13.0
+2009-02-08,Villarreal,Numancia,1.5,4.0,7.0
+2009-02-08,Antalyaspor,Denizlispor,1.8,3.5,4.2
+2009-02-08,Marseille,Bordeaux,2.25,2.87,3.3
+2009-02-08,Grenoble,Valenciennes,2.2,3.0,3.3
+2009-02-08,Valladolid,Ath Bilbao,2.1,3.4,3.4
+2009-02-08,Nice,Lyon,3.8,3.0,2.0
+2009-02-08,Recreativo,Ath Madrid,2.87,3.4,2.37
+2009-02-08,Feyenoord,Groningen,2.25,3.2,3.0
+2009-02-08,Mallorca,La Coruna,2.4,3.3,2.87
+2009-02-08,Tottenham,Arsenal,3.0,3.3,2.4
+2009-02-08,Osasuna,Valencia,2.62,3.3,2.62
+2009-02-08,Torino,Chievo,1.85,3.2,4.75
+2009-02-08,Udinese,Bologna,1.72,3.25,5.5
+2009-02-08,St Pauli,Greuther Furth,2.37,3.3,2.7
+2009-02-08,Mainz,Munich 1860,1.6,3.5,5.5
+2009-02-08,Ingolstadt,Oberhausen,1.9,3.3,3.75
+2009-02-08,Cercle Brugge,Charleroi,1.57,3.5,5.5
+2009-02-08,Westerlo,Lokeren,2.0,3.2,3.5
+2009-02-08,Duisburg,Wehen,1.53,3.75,5.75
+2009-02-08,Ahlen,Augsburg,2.5,3.25,2.6
+2009-02-08,Cottbus,Hannover,2.5,3.3,2.75
+2009-02-08,Bayern Munich,Dortmund,1.44,4.0,8.0
+2009-02-08,Genclerbirligi,Bursaspor,2.0,3.2,3.6
+2009-02-08,Gaziantepspor,Ankaraspor,2.25,3.25,2.9
+2009-02-08,West Ham,Man United,6.5,3.75,1.57
+2009-02-08,Barcelona,Sp Gijon,1.16,6.5,17.0
+2009-02-08,Sampdoria,Siena,1.75,3.2,5.5
+2009-02-08,Volendam,PSV Eindhoven,7.5,4.75,1.33
+2009-02-08,Malaga,Almeria,2.05,3.4,3.6
+2009-02-08,Getafe,Espanol,1.9,3.4,4.0
+2009-02-08,Cagliari,Atalanta,2.0,3.1,4.2
+2009-02-08,Catania,Juventus,4.5,3.3,1.85
+2009-02-08,Palermo,Napoli,2.1,3.1,3.8
+2009-02-08,Roma,Genoa,1.75,3.3,5.25
+2009-02-08,Fiorentina,Lazio,1.75,3.2,5.5
+2009-02-08,Vitesse,Ajax,5.0,3.6,1.61
+2009-02-08,Utrecht,Den Haag,1.4,3.8,8.0
+2009-02-08,Konyaspor,Besiktas,4.33,3.5,1.72
+2009-02-08,Buyuksehyr,Fenerbahce,5.75,3.8,1.55
+2009-02-08,Graafschap,Twente,7.0,4.2,1.4
+2009-02-09,Nurnberg,Kaiserslautern ,1.95,3.3,3.6
+2009-02-13,Greuther Furth,Frankfurt FSV,1.44,4.2,7.5
+2009-02-13,Oberhausen,St Pauli,2.5,3.25,2.8
+2009-02-13,Hoffenheim,Leverkusen,2.37,3.4,2.87
+2009-02-13,Willem II,Utrecht,3.0,3.3,2.37
+2009-02-13,Wehen,Koblenz,2.0,3.3,3.75
+2009-02-14,Fenerbahce,Hacettepespor,1.2,6.0,11.0
+2009-02-14,Eskisehirspor,Genclerbirligi,2.2,3.25,3.0
+2009-02-14,Betis,Barcelona,6.5,4.0,1.53
+2009-02-14,Ankaragucu,Gaziantepspor,2.8,3.25,2.37
+2009-02-14,La Coruna,Osasuna,2.05,3.25,3.75
+2009-02-14,Valencia,Malaga,1.73,3.6,4.75
+2009-02-14,Antalyaspor,Galatasaray,5.75,3.6,1.57
+2009-02-14,Charlton,Plymouth,2.3,3.3,3.1
+2009-02-14,Burnley,Wolves,2.62,3.25,2.62
+2009-02-14,Ipswich,Blackpool,1.67,3.5,5.5
+2009-02-14,Mechelen,Gent,2.7,3.3,2.37
+2009-02-14,Rennes,Nancy,1.75,3.2,5.5
+2009-02-14,Valenciennes,Nantes,2.1,3.1,3.8
+2009-02-14,Mouscron,Westerlo,2.4,3.3,2.7
+2009-02-14,Standard,Tubize,1.22,5.75,10.0
+2009-02-14,Dundee United,Inverness C,1.66,3.6,5.5
+2009-02-14,Hearts,Aberdeen,2.3,3.3,3.2
+2009-02-14,Kilmarnock,Hibernian,2.5,3.3,2.8
+2009-02-14,Lokeren,Roeselare,1.66,3.4,5.0
+2009-02-14,Werder Bremen,M'gladbach,1.44,4.5,7.0
+2009-02-14,Hannover,Stuttgart,2.75,3.4,2.5
+2009-02-14,FC Koln,Karlsruhe,1.83,3.4,4.33
+2009-02-14,Ein Frankfurt,Wolfsburg,3.0,3.4,2.3
+2009-02-14,Bochum,Schalke 04,3.5,3.3,2.1
+2009-02-14,Motherwell,Hamilton,2.0,3.3,3.8
+2009-02-14,St Mirren,Falkirk,2.2,3.25,3.4
+2009-02-14,Napoli,Bologna,1.57,3.75,6.0
+2009-02-14,Lazio,Torino,1.67,3.6,5.5
+2009-02-14,Hertha,Bayern Munich,4.0,3.5,1.9
+2009-02-14,Germinal,Cercle Brugge,2.15,3.3,3.1
+2009-02-14,Waregem,Dender,1.57,3.5,5.75
+2009-02-14,Portsmouth,Man City,2.87,3.25,2.5
+2009-02-14,Preston,Norwich,1.8,3.5,4.5
+2009-02-14,Auxerre,Lille,3.2,3.0,2.37
+2009-02-14,Bergen,Kortrijk,2.1,3.3,3.2
+2009-02-14,Caen,Lorient,2.25,3.0,3.5
+2009-02-14,Le Mans,Nice,2.5,3.0,3.0
+2009-02-14,Paris SG,St Etienne,1.7,3.3,6.0
+2009-02-14,Den Haag,Graafschap,2.0,3.25,3.5
+2009-02-14,NAC Breda,Roda JC,2.1,3.25,3.1
+2009-02-14,Bordeaux,Grenoble,1.36,4.5,10.0
+2009-02-14,Doncaster,Sheffield Weds,2.15,3.3,3.5
+2009-02-14,PSV Eindhoven,AZ Alkmaar,2.2,3.2,3.1
+2009-02-14,Twente,Volendam,1.16,6.0,15.0
+2009-02-14,Birmingham,Nott'm Forest,1.75,3.5,4.75
+2009-02-14,Bristol City,Southampton,1.73,3.5,5.0
+2009-02-15,Munich 1860,Ahlen,1.75,3.4,4.33
+2009-02-15,Kaiserslautern,Ingolstadt,1.5,3.75,6.5
+2009-02-15,Augsburg,Duisburg,2.5,3.2,2.62
+2009-02-15,Aachen,Nurnberg,2.37,3.25,2.8
+2009-02-15,Sp Gijon,Real Madrid,5.5,3.75,1.62
+2009-02-15,Atalanta,Roma,3.6,3.25,2.1
+2009-02-15,Cagliari,Lecce,1.83,3.3,4.75
+2009-02-15,Chievo,Catania,2.1,3.2,3.75
+2009-02-15,Genoa,Fiorentina,2.4,3.0,3.2
+2009-02-15,Charleroi,Anderlecht,4.33,3.5,1.72
+2009-02-15,Club Brugge,Genk,1.9,3.25,3.8
+2009-02-15,Numancia,Mallorca,2.3,3.3,3.1
+2009-02-15,Espanol,Sevilla,3.1,3.3,2.3
+2009-02-15,Ath Madrid,Getafe,1.73,3.5,5.0
+2009-02-15,Almeria,Valladolid,2.2,3.4,3.25
+2009-02-15,Ath Bilbao,Recreativo,1.8,3.4,4.5
+2009-02-15,Juventus,Sampdoria,1.5,4.0,7.0
+2009-02-15,Reggina,Palermo,2.5,3.1,2.9
+2009-02-15,Siena,Udinese,2.4,3.1,3.1
+2009-02-15,Osnabruck,Mainz,3.8,3.3,1.9
+2009-02-15,Inter,Milan,2.25,3.1,3.4
+2009-02-15,Santander,Villarreal,2.4,3.3,3.0
+2009-02-15,Hamburg,Bielefeld,1.44,4.2,7.5
+2009-02-15,Dortmund,Cottbus,1.57,3.75,6.5
+2009-02-15,Celtic,Rangers,2.25,3.3,3.2
+2009-02-15,Nijmegen,Heerenveen,2.5,3.25,2.6
+2009-02-15,Sparta,Vitesse,2.6,3.25,2.5
+2009-02-15,Ankaraspor,Buyuksehyr,1.57,3.6,5.75
+2009-02-15,Groningen,Heracles,1.36,4.33,8.5
+2009-02-15,Bursaspor,Sivasspor,3.4,3.3,2.0
+2009-02-15,Denizlispor,Konyaspor,2.1,3.4,3.1
+2009-02-15,Besiktas,Trabzonspor,2.1,3.4,3.1
+2009-02-15,Sochaux,Toulouse,2.5,3.0,3.0
+2009-02-15,Monaco,Marseille,3.2,3.0,2.37
+2009-02-15,Lyon,Le Havre,1.22,5.5,15.0
+2009-02-15,Kocaelispor,Kayserispor,3.4,3.4,2.0
+2009-02-15,Ajax,Feyenoord,1.53,3.6,6.5
+2009-02-16,Hansa Rostock,Freiburg,2.5,3.25,2.6
+2009-02-17,Plymouth,Crystal Palace,2.8,3.3,2.5
+2009-02-17,Le Mans,Lille,2.87,3.0,2.6
+2009-02-17,Sheffield Weds,Barnsley,1.9,3.4,4.0
+2009-02-17,Doncaster,Bristol City,2.4,3.3,2.9
+2009-02-17,Watford,Swansea,2.87,3.4,2.37
+2009-02-17,Valenciennes,Caen,2.1,3.1,3.75
+2009-02-17,Burnley,Coventry,1.83,3.5,4.33
+2009-02-17,Nancy,Nice,2.15,2.87,4.0
+2009-02-18,Ipswich,Nott'm Forest,1.8,3.6,4.33
+2009-02-18,Man United,Fulham,1.25,5.5,13.0
+2009-02-18,Derby,Blackpool,1.83,3.4,4.5
+2009-02-18,Gent,Anderlecht,3.0,3.3,2.2
+2009-02-20,Gaziantepspor,Besiktas,3.2,3.3,2.25
+2009-02-20,Genk,Mouscron,1.4,4.5,8.0
+2009-02-20,Schalke 04,Dortmund,1.85,3.5,4.2
+2009-02-20,Vitesse,Roda JC,1.72,3.6,4.75
+2009-02-20,Freiburg,Augsburg,1.57,3.8,6.0
+2009-02-20,Ingolstadt,Aachen,2.87,3.3,2.4
+2009-02-20,Mainz,Hansa Rostock,1.5,4.0,7.0
+2009-02-21,Reading,Bristol City,1.61,3.75,5.5
+2009-02-21,Swansea,Doncaster,1.8,3.4,4.75
+2009-02-21,Plymouth,Sheffield United,3.5,3.3,2.1
+2009-02-21,Nott'm Forest,Derby,2.5,3.3,2.75
+2009-02-21,Norwich,Burnley,2.75,3.3,2.5
+2009-02-21,Coventry,Birmingham,2.9,3.3,2.37
+2009-02-21,QPR,Ipswich,2.05,3.3,3.6
+2009-02-21,Blackpool,Watford,2.3,3.3,3.1
+2009-02-21,Genclerbirligi,Fenerbahce,4.33,3.6,1.7
+2009-02-21,Den Haag,NAC Breda,2.45,3.3,2.8
+2009-02-21,Kayserispor,Bursaspor,2.1,3.2,3.3
+2009-02-21,Konyaspor,Antalyaspor,2.2,3.2,3.1
+2009-02-21,Trabzonspor,Denizlispor,1.25,5.0,9.5
+2009-02-21,Sheffield Weds,Crystal Palace,2.3,3.3,3.1
+2009-02-21,Southampton,Preston,2.9,3.3,2.37
+2009-02-21,Tubize,Waregem,3.0,3.2,2.2
+2009-02-21,Barnsley,Charlton,2.1,3.3,3.5
+2009-02-21,Roeselare,Bergen,2.1,3.25,3.25
+2009-02-21,Gent,Germinal,1.66,3.4,5.0
+2009-02-21,Dender,Mechelen,2.3,3.2,2.87
+2009-02-21,Cercle Brugge,Lokeren,1.8,3.4,4.0
+2009-02-21,Heracles,AZ Alkmaar,6.0,3.75,1.53
+2009-02-21,Heerenveen,Willem II,1.36,4.0,9.0
+2009-02-21,Groningen,PSV Eindhoven,2.9,3.3,2.25
+2009-02-21,Kortrijk,Charleroi,2.1,3.4,3.1
+2009-02-21,Buyuksehyr,Ankaragucu,2.5,3.2,2.7
+2009-02-21,Grenoble,Paris SG,4.0,3.1,2.05
+2009-02-21,Wolfsburg,Hertha,1.95,3.4,3.8
+2009-02-21,Hearts,St Mirren,1.66,3.75,5.25
+2009-02-21,Barcelona,Espanol,1.22,5.75,13.0
+2009-02-21,Real Madrid,Betis,1.44,4.33,7.0
+2009-02-21,Sevilla,Ath Madrid,2.0,3.3,3.75
+2009-02-21,Villarreal,Sp Gijon,1.57,3.8,6.0
+2009-02-21,Bologna,Inter,5.25,3.25,1.8
+2009-02-21,Le Havre,Auxerre,2.6,3.0,2.87
+2009-02-21,Lorient,Sochaux,2.05,2.9,4.2
+2009-02-21,Nancy,Lyon,4.0,3.0,2.1
+2009-02-21,Nantes,Caen,2.1,3.0,4.0
+2009-02-21,Palermo,Juventus,3.1,3.1,2.4
+2009-02-21,Roma,Siena,1.57,3.6,6.5
+2009-02-21,Arsenal,Sunderland,1.4,4.33,9.0
+2009-02-21,Inverness C,Hibernian,2.5,3.25,2.75
+2009-02-21,Aston Villa,Chelsea,3.3,3.3,2.25
+2009-02-21,Karlsruhe,Ein Frankfurt,2.1,3.3,3.5
+2009-02-21,Cottbus,Werder Bremen,4.33,3.5,1.83
+2009-02-21,Bielefeld,Bochum,2.2,3.3,3.2
+2009-02-21,Bayern Munich,FC Koln,1.25,5.5,12.0
+2009-02-21,Nice,Rennes,2.75,2.87,2.8
+2009-02-21,Toulouse,Valenciennes,1.7,3.25,6.0
+2009-02-21,Bolton,West Ham,2.3,3.3,3.1
+2009-02-21,Man United,Blackburn,1.25,5.5,13.0
+2009-02-21,Middlesbrough,Wigan,2.4,3.25,3.0
+2009-02-21,Stoke,Portsmouth,2.5,3.25,2.87
+2009-02-21,Falkirk,Hamilton,2.2,3.4,3.2
+2009-02-21,Aberdeen,Dundee United,2.2,3.4,3.2
+2009-02-21,Stuttgart,Hoffenheim,2.05,3.3,3.6
+2009-02-21,M'gladbach,Hannover,2.25,3.25,3.2
+2009-02-21,Rangers,Kilmarnock,1.2,6.5,13.0
+2009-02-22,Wolves,Cardiff,2.0,3.3,3.75
+2009-02-22,Getafe,Ath Bilbao,2.1,3.3,3.5
+2009-02-22,Anderlecht,Standard,2.25,3.2,3.0
+2009-02-22,Fulham,West Brom,1.8,3.5,4.75
+2009-02-22,La Coruna,Valencia,2.4,3.25,2.9
+2009-02-22,Mallorca,Santander,2.5,3.25,2.8
+2009-02-22,Osasuna,Numancia,1.72,3.5,5.0
+2009-02-22,Recreativo,Almeria,2.1,3.25,3.6
+2009-02-22,Valladolid,Malaga,2.2,3.25,3.25
+2009-02-22,St Etienne,Bordeaux,3.0,3.0,2.5
+2009-02-22,Marseille,Le Mans,1.44,4.0,8.0
+2009-02-22,Lille,Monaco,1.65,3.4,6.5
+2009-02-22,Ajax,Volendam,1.18,6.0,12.0
+2009-02-22,Graafschap,Feyenoord,3.8,3.3,1.9
+2009-02-22,Sparta,Twente,5.0,3.6,1.61
+2009-02-22,Utrecht,Nijmegen,1.8,3.3,4.2
+2009-02-22,Westerlo,Club Brugge,2.7,3.2,2.45
+2009-02-22,Liverpool,Man City,1.57,3.75,7.0
+2009-02-22,Newcastle,Everton,2.87,3.25,2.5
+2009-02-22,Leverkusen,Hamburg,2.0,3.3,3.75
+2009-02-22,Ahlen,Oberhausen,2.05,3.3,3.6
+2009-02-22,Hacettepespor,Ankaraspor,3.3,3.3,2.05
+2009-02-22,Sivasspor,Eskisehirspor,1.33,4.33,9.0
+2009-02-22,Duisburg,Munich 1860,1.8,3.5,4.5
+2009-02-22,Frankfurt FSV,Osnabruck,1.83,3.4,4.5
+2009-02-22,Koblenz,Greuther Furth,3.3,3.3,2.15
+2009-02-22,Nurnberg,Wehen,1.4,4.33,8.0
+2009-02-22,Galatasaray,Kocaelispor,1.25,5.0,10.0
+2009-02-22,Fiorentina,Chievo,1.4,4.2,9.0
+2009-02-22,Catania,Reggina,1.8,3.2,5.0
+2009-02-22,Milan,Cagliari,1.5,3.8,7.5
+2009-02-22,Napoli,Genoa,2.15,3.1,3.6
+2009-02-22,Sampdoria,Atalanta,2.15,3.1,3.6
+2009-02-22,Torino,Udinese,2.4,3.0,3.2
+2009-02-22,Lecce,Lazio,3.1,3.1,2.4
+2009-02-22,Motherwell,Celtic,6.0,4.0,1.53
+2009-02-23,St Pauli,Kaiserslautern ,2.75,3.3,2.5
+2009-02-23,Hull,Tottenham,3.0,3.3,2.37
+2009-02-24,Crystal Palace,Birmingham,2.6,3.2,2.75
+2009-02-25,Cardiff,QPR,1.83,3.4,4.5
+2009-02-27,Wehen,Freiburg,3.4,3.4,2.1
+2009-02-27,Nurnberg,Mainz,2.3,3.3,3.1
+2009-02-27,Besiktas,Buyuksehyr,1.36,4.5,9.5
+2009-02-27,Hansa Rostock,Ahlen,1.72,3.6,5.0
+2009-02-27,Doncaster,Derby,2.62,3.3,2.62
+2009-02-27,FC Koln,Bielefeld,2.0,3.4,3.75
+2009-02-27,PSV Eindhoven,Heerenveen,1.66,3.75,5.25
+2009-02-27,Mechelen,Genk,3.0,3.4,2.3
+2009-02-28,Willem II,Heracles,2.1,3.2,3.25
+2009-02-28,Roda JC,Graafschap,1.57,3.6,5.5
+2009-02-28,Ein Frankfurt,Schalke 04,3.8,3.4,2.0
+2009-02-28,Dortmund,Hoffenheim,2.37,3.3,3.0
+2009-02-28,Bochum,Cottbus,2.0,3.3,4.0
+2009-02-28,Wolves,Plymouth,1.5,4.0,7.0
+2009-02-28,Watford,Crystal Palace,2.37,3.4,2.87
+2009-02-28,Arsenal,Fulham,1.4,4.33,9.0
+2009-02-28,Hannover,Leverkusen,3.4,3.4,2.1
+2009-02-28,Everton,West Brom,1.5,4.0,7.5
+2009-02-28,Middlesbrough,Liverpool,5.5,3.5,1.72
+2009-02-28,Barnsley,QPR,2.62,3.3,2.62
+2009-02-28,Bristol City,Blackpool,1.66,3.5,5.5
+2009-02-28,Burnley,Sheffield Weds,1.83,3.4,4.5
+2009-02-28,Norwich,Coventry,2.3,3.3,3.1
+2009-02-28,Preston,Ipswich,2.3,3.4,3.0
+2009-02-28,Swansea,Charlton,1.61,3.6,6.0
+2009-02-28,Reading,Nott'm Forest,1.53,3.75,7.0
+2009-02-28,Aberdeen,Kilmarnock,1.66,3.6,5.5
+2009-02-28,Celtic,St Mirren,1.22,6.0,15.0
+2009-02-28,Dundee United,Hearts,2.2,3.3,3.4
+2009-02-28,Chelsea,Wigan,1.28,5.0,13.0
+2009-02-28,Hibernian,Falkirk,2.0,3.25,4.0
+2009-02-28,Inverness C,Motherwell,2.5,3.25,2.8
+2009-02-28,Hertha,M'gladbach,1.57,3.75,6.0
+2009-02-28,Southampton,Cardiff,2.87,3.4,2.37
+2009-02-28,Hamilton,Rangers,7.5,4.2,1.44
+2009-02-28,AZ Alkmaar,Groningen,1.44,4.0,6.5
+2009-02-28,Auxerre,Toulouse,2.5,2.9,3.1
+2009-02-28,Valenciennes,Lille,3.0,3.0,2.5
+2009-02-28,Espanol,Real Madrid,4.5,3.5,1.8
+2009-02-28,Ath Bilbao,Sevilla,2.75,3.25,2.6
+2009-02-28,Charleroi,Bergen,2.0,3.4,3.4
+2009-02-28,Lazio,Bologna,1.66,3.4,6.0
+2009-02-28,Juventus,Napoli,1.6,3.5,6.5
+2009-02-28,Club Brugge,Roeselare,1.36,4.5,6.5
+2009-02-28,Dender,Tubize,1.85,3.3,4.0
+2009-02-28,Germinal,Kortrijk,1.66,3.75,4.75
+2009-02-28,Waregem,Westerlo,2.0,3.25,3.5
+2009-02-28,Mouscron,Anderlecht,5.75,3.75,1.55
+2009-02-28,Nantes,Grenoble,2.15,3.0,3.8
+2009-02-28,Sochaux,Nice,2.25,3.0,3.5
+2009-02-28,Ankaraspor,Genclerbirligi,2.4,3.0,2.9
+2009-02-28,Denizlispor,Gaziantepspor,2.3,3.3,2.8
+2009-02-28,Eskisehirspor,Kayserispor,2.5,3.1,2.7
+2009-02-28,Fenerbahce,Sivasspor,1.9,3.2,3.75
+2009-02-28,Le Mans,Le Havre,1.8,3.2,5.0
+2009-02-28,NAC Breda,Sparta,1.8,3.4,4.2
+2009-03-01,Sampdoria,Milan,3.5,3.0,2.2
+2009-03-01,Paris SG,Nancy,1.6,3.5,6.5
+2009-03-01,Monaco,St Etienne,2.25,3.0,3.5
+2009-03-01,Siena,Genoa,2.75,2.8,2.9
+2009-03-01,Udinese,Lecce,1.72,3.3,5.5
+2009-03-01,Bolton,Newcastle,2.0,3.3,4.0
+2009-03-01,Inter,Roma,1.8,3.25,5.0
+2009-03-01,Augsburg,Koblenz,1.72,3.4,4.5
+2009-03-01,Kaiserslautern,Greuther Furth,1.9,3.25,3.75
+2009-03-01,Hamburg,Wolfsburg,1.9,3.5,4.0
+2009-03-01,Karlsruhe,Stuttgart,3.4,3.4,2.1
+2009-03-01,Werder Bremen,Bayern Munich,3.1,3.3,2.3
+2009-03-01,Munich 1860,St Pauli,1.8,3.3,4.2
+2009-03-01,Oberhausen,Frankfurt FSV,2.1,3.2,3.3
+2009-03-01,Osnabruck,Ingolstadt,1.95,3.2,4.0
+2009-03-01,Bursaspor,Kocaelispor,1.61,3.4,5.5
+2009-03-01,Konyaspor,Galatasaray,4.5,3.4,1.72
+2009-03-01,Atalanta,Chievo,1.83,3.2,5.0
+2009-03-01,West Ham,Man City,2.5,3.25,2.87
+2009-03-01,Hull,Blackburn,2.87,3.25,2.5
+2009-03-01,Aston Villa,Stoke,1.4,4.0,10.0
+2009-03-01,Cagliari,Torino,2.0,3.1,4.2
+2009-03-01,Palermo,Catania,1.83,3.25,4.75
+2009-03-01,Lyon,Rennes,1.7,3.25,6.0
+2009-03-01,Reggina,Fiorentina,3.25,3.0,2.37
+2009-03-01,Bordeaux,Lorient,1.61,3.5,6.25
+2009-03-01,Feyenoord,Vitesse,1.9,3.3,3.8
+2009-03-01,Twente,Den Haag,1.25,5.0,11.0
+2009-03-01,Utrecht,Ajax,3.4,3.4,2.0
+2009-03-01,Volendam,Nijmegen,3.3,3.2,2.1
+2009-03-01,Ankaragucu,Hacettepespor,1.66,3.4,5.0
+2009-03-01,Valencia,Valladolid,1.8,3.4,4.75
+2009-03-01,Sp Gijon,Mallorca,2.3,3.25,3.1
+2009-03-01,Santander,Osasuna,2.4,3.2,3.1
+2009-03-01,Numancia,La Coruna,2.62,3.25,2.62
+2009-03-01,Malaga,Recreativo,1.8,3.5,4.5
+2009-03-01,Betis,Villarreal,2.5,3.25,2.8
+2009-03-01,Ath Madrid,Barcelona,3.75,3.6,1.9
+2009-03-01,Caen,Marseille,3.4,3.2,2.2
+2009-03-01,Antalyaspor,Trabzonspor,3.5,3.2,2.0
+2009-03-01,Sheffield United,Birmingham,2.37,3.25,3.0
+2009-03-01,Almeria,Getafe,2.2,3.25,3.4
+2009-03-01,Lokeren,Gent,2.62,3.25,2.45
+2009-03-01,Standard,Cercle Brugge,1.44,3.75,7.5
+2009-03-02,Aachen,Duisburg,2.2,3.25,3.0
+2009-03-03,Liverpool,Sunderland,1.4,4.33,9.5
+2009-03-03,Charlton,Doncaster,2.5,3.3,2.75
+2009-03-03,Crystal Palace,Wolves,2.8,3.3,2.5
+2009-03-03,Derby,Swansea,2.3,3.3,3.1
+2009-03-03,St Mirren,Aberdeen,3.1,3.3,2.3
+2009-03-03,Falkirk,Dundee United,2.75,3.3,2.5
+2009-03-03,Plymouth,Watford,2.5,3.3,2.8
+2009-03-03,Ipswich,Southampton,1.66,3.75,5.0
+2009-03-03,Blackpool,Burnley,2.8,3.3,2.5
+2009-03-03,Cardiff,Barnsley,1.66,3.6,5.5
+2009-03-03,Portsmouth,Chelsea,6.5,3.75,1.57
+2009-03-03,Sheffield Weds,Reading,2.9,3.3,2.4
+2009-03-03,QPR,Norwich,1.83,3.4,4.5
+2009-03-03,West Brom,Arsenal,6.5,3.75,1.57
+2009-03-03,Nott'm Forest,Preston,2.5,3.3,2.8
+2009-03-04,Blackburn,Everton,2.5,3.25,2.9
+2009-03-04,Fulham,Hull,1.66,3.6,5.75
+2009-03-04,Rangers,Inverness C,1.16,7.0,15.0
+2009-03-04,Kilmarnock,Celtic,7.5,4.2,1.44
+2009-03-04,Hearts,Motherwell,1.9,3.4,4.0
+2009-03-04,Man City,Aston Villa,2.5,3.3,2.87
+2009-03-04,Stoke,Bolton,2.5,3.25,2.9
+2009-03-04,Tottenham,Middlesbrough,1.83,3.5,4.5
+2009-03-04,Wigan,West Ham,2.2,3.3,3.4
+2009-03-04,Coventry,Sheffield United,2.62,3.3,2.62
+2009-03-04,Birmingham,Bristol City,2.0,3.3,3.75
+2009-03-04,Hamilton,Hibernian,2.4,3.2,3.0
+2009-03-04,Newcastle,Man United,7.5,4.0,1.5
+2009-03-06,Bergen,Standard,6.5,3.6,1.57
+2009-03-06,Sparta,Willem II,1.75,3.75,4.5
+2009-03-06,Frankfurt FSV,Kaiserslautern ,2.8,3.3,2.5
+2009-03-06,Koblenz,Osnabruck,1.9,3.4,4.2
+2009-03-06,St Pauli,Hansa Rostock,2.1,3.3,3.6
+2009-03-06,Galatasaray,Bursaspor,1.36,4.5,9.0
+2009-03-06,Schalke 04,FC Koln,1.61,3.6,6.0
+2009-03-07,Nancy,Le Mans,2.0,3.0,4.33
+2009-03-07,Grenoble,Caen,2.3,2.87,3.6
+2009-03-07,Marseille,Valenciennes,1.57,3.6,6.5
+2009-03-07,Lille,Lyon,2.87,2.9,2.7
+2009-03-07,Lorient,Paris SG,3.0,3.25,2.37
+2009-03-07,Cardiff,Doncaster,1.72,3.5,5.0
+2009-03-07,Birmingham,Southampton,1.83,3.4,4.5
+2009-03-07,Buyuksehyr,Denizlispor,2.1,3.2,3.3
+2009-03-07,Gaziantepspor,Antalyaspor,1.9,3.3,3.75
+2009-03-07,Hacettepespor,Besiktas,6.0,3.75,1.53
+2009-03-07,Trabzonspor,Konyaspor,1.4,4.0,8.0
+2009-03-07,Genoa,Inter,2.8,3.1,2.6
+2009-03-07,Roma,Udinese,1.9,3.2,4.33
+2009-03-07,Torino,Juventus,3.5,3.1,2.2
+2009-03-07,Roeselare,Mouscron,1.85,3.6,4.0
+2009-03-07,Kortrijk,Lokeren,2.4,3.1,3.1
+2009-03-07,Gent,Tubize,1.28,5.5,9.5
+2009-03-07,Genk,Dender,1.4,4.5,8.0
+2009-03-07,Sunderland,Tottenham,2.87,3.3,2.5
+2009-03-07,Charleroi,Germinal,2.5,3.25,2.8
+2009-03-07,Barcelona,Ath Bilbao,1.28,5.5,9.5
+2009-03-07,Real Madrid,Ath Madrid,1.72,3.6,4.75
+2009-03-07,Villarreal,Espanol,1.8,3.4,4.75
+2009-03-07,Sheffield Weds,Wolves,3.0,3.25,2.37
+2009-03-07,QPR,Sheffield United,2.5,3.3,2.8
+2009-03-07,Nott'm Forest,Swansea,2.87,3.4,2.37
+2009-03-07,Derby,Bristol City,2.25,3.25,3.2
+2009-03-07,Crystal Palace,Preston,2.25,3.25,3.2
+2009-03-07,Charlton,Watford,2.5,3.2,2.87
+2009-03-07,Nice,Monaco,2.2,2.9,3.75
+2009-03-07,Blackpool,Norwich,2.5,3.25,2.8
+2009-03-07,Anderlecht,Waregem,1.4,4.5,8.0
+2009-03-07,Toulouse,Bordeaux,2.62,3.0,2.87
+2009-03-07,Plymouth,Reading,3.5,3.3,2.1
+2009-03-07,Bayern Munich,Hannover,1.33,5.0,9.0
+2009-03-07,Hoffenheim,Werder Bremen,2.87,3.4,2.37
+2009-03-07,M'gladbach,Hamburg,3.3,3.3,2.2
+2009-03-07,Cottbus,Hertha,2.8,3.4,2.4
+2009-03-07,Wolfsburg,Karlsruhe,1.4,4.5,7.5
+2009-03-07,Stuttgart,Dortmund,1.9,3.4,4.0
+2009-03-07,Heerenveen,Groningen,1.66,3.75,5.0
+2009-03-07,Graafschap,Heracles,2.62,3.3,2.62
+2009-03-07,Twente,PSV Eindhoven,2.37,3.4,2.87
+2009-03-08,Chievo,Cagliari,2.3,3.1,3.3
+2009-03-08,Lecce,Reggina,2.2,3.0,3.6
+2009-03-08,Milan,Atalanta,1.57,3.6,6.5
+2009-03-08,Napoli,Lazio,2.37,3.1,3.2
+2009-03-08,Sivasspor,Ankaraspor,1.53,3.75,6.0
+2009-03-08,Kocaelispor,Eskisehirspor,2.3,3.2,2.9
+2009-03-08,Fiorentina,Palermo,1.66,3.5,5.5
+2009-03-08,Catania,Siena,2.2,3.0,3.6
+2009-03-08,Genclerbirligi,Ankaragucu,2.4,3.2,2.75
+2009-03-08,Kayserispor,Fenerbahce,3.1,3.2,2.2
+2009-03-08,Cercle Brugge,Club Brugge,2.8,3.2,2.37
+2009-03-08,Sevilla,Almeria,1.72,3.6,4.75
+2009-03-08,Recreativo,Valladolid,2.3,3.3,3.1
+2009-03-08,Osasuna,Sp Gijon,1.66,3.4,6.0
+2009-03-08,Numancia,Valencia,3.4,3.4,2.1
+2009-03-08,Mallorca,Betis,2.3,3.25,3.1
+2009-03-08,La Coruna,Santander,2.2,3.2,3.4
+2009-03-08,Getafe,Malaga,2.2,3.3,3.3
+2009-03-08,St Etienne,Nantes,1.83,3.25,4.75
+2009-03-08,Rennes,Auxerre,1.72,3.4,5.25
+2009-03-08,Le Havre,Sochaux,2.8,3.0,2.7
+2009-03-08,Bologna,Sampdoria,2.37,3.2,3.2
+2009-03-08,Westerlo,Mechelen,1.8,3.4,4.2
+2009-03-08,Nijmegen,AZ Alkmaar,4.0,3.5,1.8
+2009-03-08,Leverkusen,Bochum,1.5,4.1,6.5
+2009-03-08,Volendam,Vitesse,3.1,3.4,2.1
+2009-03-08,Roda JC,Utrecht,2.5,3.25,2.6
+2009-03-08,NAC Breda,Feyenoord,2.3,3.3,2.8
+2009-03-08,Den Haag,Ajax,6.5,4.0,1.45
+2009-03-08,Bielefeld,Ein Frankfurt,2.15,3.3,3.4
+2009-03-08,Mainz,Augsburg,1.57,3.6,5.5
+2009-03-08,Greuther Furth,Oberhausen,1.61,3.6,5.0
+2009-03-08,Ingolstadt,Munich 1860,2.8,3.2,2.37
+2009-03-08,Ahlen,Wehen,2.05,3.25,3.3
+2009-03-08,Freiburg,Aachen,1.66,3.5,4.75
+2009-03-09,Duisburg,Nurnberg,2.2,3.3,3.3
+2009-03-10,Swansea,Plymouth,1.66,3.6,5.5
+2009-03-10,Barnsley,Birmingham,2.9,3.3,2.4
+2009-03-10,Norwich,Cardiff,2.9,3.3,2.4
+2009-03-10,Preston,Sheffield Weds,1.9,3.4,4.0
+2009-03-10,Doncaster,QPR,2.4,3.3,2.9
+2009-03-10,Wolves,Ipswich,1.8,3.5,4.5
+2009-03-10,Watford,Nott'm Forest,2.1,3.3,3.5
+2009-03-10,Sheffield United,Blackpool,1.57,3.5,7.0
+2009-03-10,Southampton,Derby,2.3,3.3,3.1
+2009-03-10,Bristol City,Coventry,1.9,3.3,4.2
+2009-03-10,Reading,Charlton,1.44,4.0,8.5
+2009-03-11,Burnley,Crystal Palace,2.1,3.2,3.75
+2009-03-11,Fulham,Blackburn,2.25,3.2,3.4
+2009-03-13,Nurnberg,Ahlen,1.44,4.2,8.0
+2009-03-13,Kaiserslautern,Koblenz,1.75,3.5,4.75
+2009-03-13,Wolfsburg,Schalke 04,2.2,3.3,3.3
+2009-03-13,Fenerbahce,Kocaelispor,1.22,6.0,13.0
+2009-03-13,Mechelen,Anderlecht,4.5,3.6,1.75
+2009-03-13,Munich 1860,Frankfurt FSV,1.91,3.4,4.2
+2009-03-13,Groningen,Roda JC,1.62,3.75,5.75
+2009-03-14,Karlsruhe,Bielefeld,2.1,3.3,3.6
+2009-03-14,Heracles,Volendam,1.91,3.5,4.0
+2009-03-14,Bochum,Bayern Munich,6.0,3.8,1.57
+2009-03-14,Vitesse,NAC Breda,1.95,3.5,3.75
+2009-03-14,Willem II,Twente,6.0,3.8,1.57
+2009-03-14,Ein Frankfurt,Hoffenheim,2.88,3.4,2.38
+2009-03-14,Hannover,Dortmund,2.5,3.25,2.8
+2009-03-14,Ath Bilbao,Real Madrid,3.75,3.4,2.0
+2009-03-14,FC Koln,M'gladbach,2.1,3.25,3.5
+2009-03-14,Hertha,Leverkusen,2.38,3.4,2.88
+2009-03-14,Valencia,Recreativo,1.91,3.4,4.33
+2009-03-14,Juventus,Bologna,1.4,4.2,9.0
+2009-03-14,Hibernian,Hearts,2.6,3.2,2.75
+2009-03-14,Cagliari,Genoa,2.3,3.1,3.3
+2009-03-14,Arsenal,Blackburn,1.44,4.33,8.0
+2009-03-14,Bolton,Fulham,2.1,3.25,3.75
+2009-03-14,Everton,Stoke,1.5,4.0,7.5
+2009-03-14,Hull,Newcastle,2.62,3.25,2.75
+2009-03-14,Man United,Liverpool,1.91,3.3,4.5
+2009-03-14,Middlesbrough,Portsmouth,2.2,3.2,3.5
+2009-03-14,Sunderland,Wigan,2.2,3.2,3.5
+2009-03-14,Burnley,Nott'm Forest,1.83,3.5,4.33
+2009-03-14,Motherwell,Dundee United,2.5,3.4,2.75
+2009-03-14,Doncaster,Birmingham,2.5,3.3,2.8
+2009-03-14,Preston,Coventry,1.85,3.4,4.5
+2009-03-14,Reading,Ipswich,1.73,3.5,5.0
+2009-03-14,Sheffield United,Derby,1.83,3.4,4.5
+2009-03-14,Southampton,QPR,2.25,3.3,3.2
+2009-03-14,Swansea,Crystal Palace,1.8,3.5,4.5
+2009-03-14,Watford,Sheffield Weds,2.1,3.25,3.6
+2009-03-14,Wolves,Charlton,1.5,3.8,7.5
+2009-03-14,Heerenveen,Sparta,1.29,4.5,9.5
+2009-03-14,Aberdeen,Hamilton,1.67,3.6,5.25
+2009-03-14,Norwich,Plymouth,2.0,3.4,3.75
+2009-03-14,Barnsley,Blackpool,2.1,3.3,3.5
+2009-03-14,Inverness C,Kilmarnock,2.1,3.4,3.4
+2009-03-14,Lokeren,Charleroi,2.1,3.25,3.6
+2009-03-14,Nantes,Lorient,2.25,3.0,3.5
+2009-03-14,Monaco,Toulouse,2.7,2.9,2.8
+2009-03-14,Le Mans,Rennes,2.9,2.9,2.62
+2009-03-14,Caen,Lille,3.1,2.9,2.5
+2009-03-14,Bordeaux,Nice,1.67,3.4,6.0
+2009-03-14,Germinal,Bergen,1.44,4.2,7.5
+2009-03-14,Konyaspor,Gaziantepspor,2.3,3.25,2.88
+2009-03-14,Sochaux,Nancy,2.2,3.0,3.6
+2009-03-14,Besiktas,Genclerbirligi,1.44,3.8,7.0
+2009-03-14,Antalyaspor,Buyuksehyr,2.1,3.25,3.25
+2009-03-14,Valenciennes,Le Havre,1.67,3.4,6.0
+2009-03-14,Mouscron,Kortrijk,2.7,3.25,2.62
+2009-03-14,Tubize,Westerlo,4.33,3.6,1.8
+2009-03-14,Waregem,Roeselare,1.75,3.5,4.75
+2009-03-14,Dender,Cercle Brugge,2.88,3.4,2.38
+2009-03-14,Ankaragucu,Sivasspor,3.0,3.25,2.2
+2009-03-15,Inter,Fiorentina,1.73,3.4,5.5
+2009-03-15,Club Brugge,Gent,1.8,3.4,4.0
+2009-03-15,Standard,Genk,1.57,3.5,6.0
+2009-03-15,Lyon,Auxerre,1.4,4.2,10.0
+2009-03-15,Paris SG,Marseille,2.25,3.1,3.4
+2009-03-15,Almeria,Barcelona,5.75,3.8,1.6
+2009-03-15,Betis,Osasuna,2.1,3.3,3.5
+2009-03-15,Espanol,Mallorca,2.1,3.3,3.5
+2009-03-15,Malaga,Sevilla,2.8,3.3,2.5
+2009-03-15,Santander,Numancia,1.8,3.4,4.75
+2009-03-15,Valladolid,Getafe,2.05,3.4,3.6
+2009-03-15,Aston Villa,Tottenham,2.0,3.3,4.0
+2009-03-15,Palermo,Lecce,1.67,3.5,5.5
+2009-03-15,Reggina,Napoli,2.7,3.0,2.8
+2009-03-15,Chelsea,Man City,1.4,4.5,9.0
+2009-03-15,Duisburg,Freiburg,2.25,3.25,2.9
+2009-03-15,Hansa Rostock,Ingolstadt,1.7,3.4,4.75
+2009-03-15,Osnabruck,Greuther Furth,3.0,3.3,2.2
+2009-03-15,Sampdoria,Roma,2.3,3.0,3.4
+2009-03-15,Siena,Milan,3.8,3.1,2.1
+2009-03-15,Udinese,Catania,1.83,3.2,5.0
+2009-03-15,Sp Gijon,La Coruna,2.62,3.2,2.7
+2009-03-15,Augsburg,Oberhausen,1.91,3.25,3.75
+2009-03-15,Ath Madrid,Villarreal,2.05,3.4,3.6
+2009-03-15,Aachen,St Pauli,1.67,3.6,5.0
+2009-03-15,Ajax,Graafschap,1.14,6.5,13.0
+2009-03-15,Eskisehirspor,Bursaspor,2.38,3.2,2.8
+2009-03-15,Den Haag,Nijmegen,2.8,3.3,2.38
+2009-03-15,Feyenoord,PSV Eindhoven,3.0,3.25,2.2
+2009-03-15,Utrecht,AZ Alkmaar,4.0,3.4,1.83
+2009-03-15,Hamburg,Cottbus,1.4,4.33,8.5
+2009-03-15,Werder Bremen,Stuttgart,1.91,3.4,4.0
+2009-03-15,Atalanta,Torino,2.2,3.0,3.6
+2009-03-15,Lazio,Chievo,1.67,3.4,6.0
+2009-03-15,Ankaraspor,Kayserispor,2.2,3.25,3.0
+2009-03-15,Denizlispor,Hacettepespor,1.53,3.5,6.0
+2009-03-15,Bristol City,Cardiff,2.38,3.3,3.0
+2009-03-15,Trabzonspor,Galatasaray,2.62,3.2,2.5
+2009-03-15,Grenoble,St Etienne,2.6,2.9,3.0
+2009-03-16,Wehen,Mainz,4.2,3.3,1.8
+2009-03-16,West Ham,West Brom,1.67,3.6,5.75
+2009-03-17,Barnsley,Crystal Palace,2.6,3.2,2.75
+2009-03-17,Ipswich,Burnley,2.2,3.25,3.3
+2009-03-17,QPR,Swansea,2.75,3.2,2.6
+2009-03-17,Doncaster,Reading,3.0,3.2,2.4
+2009-03-18,Cardiff,Watford,1.72,3.5,5.0
+2009-03-20,M'gladbach,Bochum,2.0,3.4,3.6
+2009-03-20,Kortrijk,Club Brugge,3.75,3.3,2.0
+2009-03-20,Graafschap,Heerenveen,6.0,4.0,1.57
+2009-03-20,Frankfurt FSV,Wehen,1.8,3.5,4.5
+2009-03-20,Bursaspor,Fenerbahce,4.75,3.4,1.75
+2009-03-20,Oberhausen,Osnabruck,2.05,3.3,3.6
+2009-03-20,Koblenz,Hansa Rostock,2.0,3.3,3.75
+2009-03-21,Nott'm Forest,Wolves,3.25,3.3,2.2
+2009-03-21,Ipswich,Watford,1.83,3.5,4.33
+2009-03-21,Derby,Barnsley,1.85,3.4,4.2
+2009-03-21,Crystal Palace,Reading,3.0,3.25,2.37
+2009-03-21,Coventry,Doncaster,2.2,3.3,3.25
+2009-03-21,Plymouth,Burnley,2.9,3.3,2.37
+2009-03-21,Charlton,Preston,2.75,3.3,2.5
+2009-03-21,Catania,Lazio,2.62,3.0,2.87
+2009-03-21,Fulham,Man United,8.0,4.2,1.44
+2009-03-21,Newcastle,Arsenal,5.0,3.6,1.72
+2009-03-21,Blackpool,Southampton,2.5,3.3,2.75
+2009-03-21,Portsmouth,Everton,2.75,3.2,2.62
+2009-03-21,Stoke,Middlesbrough,2.25,3.3,3.3
+2009-03-21,Tottenham,Chelsea,4.5,3.5,1.83
+2009-03-21,West Brom,Bolton,2.4,3.3,3.0
+2009-03-21,Birmingham,Norwich,1.8,3.3,4.75
+2009-03-21,Roma,Juventus,2.87,3.0,2.6
+2009-03-21,Blackburn,West Ham,1.9,3.4,4.33
+2009-03-21,Buyuksehyr,Konyaspor,2.15,3.25,3.4
+2009-03-21,Kilmarnock,Motherwell,2.7,3.25,2.6
+2009-03-21,Nice,Caen,1.95,3.0,4.5
+2009-03-21,Sevilla,Valladolid,1.66,3.6,5.5
+2009-03-21,Bayern Munich,Karlsruhe,1.14,7.5,17.0
+2009-03-21,Bielefeld,Wolfsburg,3.4,3.4,2.1
+2009-03-21,Cottbus,FC Koln,2.3,3.4,3.0
+2009-03-21,Dortmund,Werder Bremen,2.75,3.3,2.5
+2009-03-21,Hoffenheim,Hannover,1.61,3.75,5.5
+2009-03-21,Leverkusen,Ein Frankfurt,1.5,4.0,7.0
+2009-03-21,Rennes,Valenciennes,1.61,3.4,6.5
+2009-03-21,Stuttgart,Hertha,2.2,3.4,3.2
+2009-03-21,PSV Eindhoven,Vitesse,1.33,4.33,9.0
+2009-03-21,Sparta,Heracles,2.0,3.2,3.5
+2009-03-21,Sivasspor,Besiktas,2.6,3.1,2.75
+2009-03-21,Kocaelispor,Ankaraspor,2.35,3.25,3.0
+2009-03-21,Kayserispor,Ankaragucu,2.1,3.25,3.6
+2009-03-21,Hacettepespor,Antalyaspor,2.75,3.1,2.6
+2009-03-21,Gaziantepspor,Trabzonspor,3.1,3.25,2.3
+2009-03-21,Nijmegen,Willem II,1.5,3.75,6.0
+2009-03-21,Westerlo,Dender,1.57,3.75,5.25
+2009-03-21,Villarreal,Ath Bilbao,1.72,3.6,4.75
+2009-03-21,Le Havre,Bordeaux,5.75,3.3,1.7
+2009-03-21,Anderlecht,Germinal,1.4,4.0,7.0
+2009-03-21,Bergen,Lokeren,2.25,3.2,3.0
+2009-03-21,Cercle Brugge,Mouscron,1.57,3.75,5.25
+2009-03-21,Nancy,Monaco,2.15,3.0,3.75
+2009-03-21,Marseille,Nantes,1.45,3.75,8.0
+2009-03-21,Lille,Grenoble,1.5,3.6,8.0
+2009-03-21,Roeselare,Mechelen,2.2,3.3,3.0
+2009-03-21,Auxerre,Le Mans,2.05,3.0,4.0
+2009-03-21,Falkirk,Inverness C,2.3,3.2,3.1
+2009-03-21,Sheffield Weds,Swansea,2.5,3.25,2.8
+2009-03-21,Hibernian,Aberdeen,2.4,3.25,2.9
+2009-03-21,QPR,Bristol City,2.25,3.25,3.2
+2009-03-21,Rangers,Hearts,1.4,4.33,8.0
+2009-03-21,Genk,Tubize,1.22,5.5,11.0
+2009-03-21,Hamilton,St Mirren,2.4,3.25,3.0
+2009-03-22,Liverpool,Aston Villa,1.44,4.2,8.0
+2009-03-22,Man City,Sunderland,1.66,3.6,5.5
+2009-03-22,Wigan,Hull,1.72,3.6,5.0
+2009-03-22,AZ Alkmaar,Feyenoord,1.44,3.75,7.0
+2009-03-22,NAC Breda,Ajax,3.6,3.3,1.9
+2009-03-22,Roda JC,Den Haag,1.83,3.3,4.0
+2009-03-22,Twente,Groningen,1.61,3.5,5.0
+2009-03-22,Volendam,Utrecht,2.5,3.3,2.5
+2009-03-22,Ahlen,Kaiserslautern ,3.1,3.3,2.3
+2009-03-22,Gent,Waregem,1.65,3.6,4.75
+2009-03-22,Charleroi,Standard,4.75,3.5,1.66
+2009-03-22,Toulouse,Paris SG,2.37,2.9,3.0
+2009-03-22,Real Madrid,Almeria,1.3,5.25,9.5
+2009-03-22,Inter,Reggina,1.2,6.0,15.0
+2009-03-22,Lecce,Atalanta,2.3,3.0,3.4
+2009-03-22,Napoli,Milan,3.4,3.1,2.25
+2009-03-22,Torino,Sampdoria,2.3,3.0,3.4
+2009-03-22,Schalke 04,Hamburg,2.15,3.25,3.1
+2009-03-22,Fiorentina,Siena,1.5,3.8,7.5
+2009-03-22,Chievo,Palermo,2.6,3.0,2.87
+2009-03-22,Bologna,Cagliari,2.25,3.1,3.4
+2009-03-22,Genclerbirligi,Denizlispor,2.1,3.2,3.6
+2009-03-22,Galatasaray,Eskisehirspor,1.33,4.75,9.5
+2009-03-22,Santander,Valencia,2.4,3.25,2.9
+2009-03-22,Genoa,Udinese,1.85,3.4,4.33
+2009-03-22,Cardiff,Sheffield United,2.3,3.25,3.1
+2009-03-22,Dundee United,Celtic,5.5,3.6,1.66
+2009-03-22,Lorient,St Etienne,2.37,2.9,3.0
+2009-03-22,Lyon,Sochaux,1.36,4.0,9.0
+2009-03-22,Numancia,Sp Gijon,2.35,3.25,3.0
+2009-03-22,Mallorca,Ath Madrid,3.0,3.4,2.3
+2009-03-22,La Coruna,Betis,2.2,3.3,3.25
+2009-03-22,Getafe,Recreativo,2.0,3.3,3.8
+2009-03-22,Barcelona,Malaga,1.22,6.0,13.0
+2009-03-22,Greuther Furth,Munich 1860,2.0,3.3,3.75
+2009-03-22,Ingolstadt,Duisburg,3.5,3.3,2.1
+2009-03-22,Mainz,Aachen,1.6,3.6,6.0
+2009-03-22,St Pauli,Augsburg,2.05,3.3,3.6
+2009-03-22,Osasuna,Espanol,2.15,3.25,3.4
+2009-03-23,Freiburg,Nurnberg,2.05,3.3,3.6
+2009-04-03,Nijmegen,Twente,3.75,3.5,2.0
+2009-04-03,Augsburg,Ingolstadt,1.85,3.4,4.33
+2009-04-03,Bielefeld,Schalke 04,3.5,3.3,2.1
+2009-04-03,Nurnberg,Koblenz,1.53,3.75,7.0
+2009-04-03,Duisburg,Mainz,2.3,3.3,3.1
+2009-04-04,Waregem,Cercle Brugge,2.0,3.4,3.6
+2009-04-04,Motherwell,Aberdeen,2.3,3.3,3.1
+2009-04-04,Tubize,Roeselare,3.1,3.3,2.3
+2009-04-04,Valladolid,Barcelona,6.0,4.0,1.53
+2009-04-04,Mouscron,Bergen,1.9,3.3,4.2
+2009-04-04,Recreativo,Sevilla,3.6,3.4,2.0
+2009-04-04,Malaga,Real Madrid,4.75,3.6,1.72
+2009-04-04,Dundee United,Hibernian,2.0,3.3,3.75
+2009-04-04,Celtic,Hamilton,1.2,6.0,15.0
+2009-04-04,Dender,Gent,4.75,3.6,1.72
+2009-04-04,Club Brugge,Charleroi,1.5,4.0,7.0
+2009-04-04,Inverness C,St Mirren,2.1,3.3,3.5
+2009-04-04,Betis,Numancia,1.61,3.75,5.5
+2009-04-04,Ath Bilbao,Mallorca,2.0,3.4,3.6
+2009-04-04,Almeria,Villarreal,2.4,3.2,3.0
+2009-04-04,Hearts,Kilmarnock,1.66,3.5,5.5
+2009-04-04,Genk,Westerlo,1.66,3.6,5.25
+2009-04-04,Mechelen,Kortrijk,1.85,3.5,4.2
+2009-04-04,Barnsley,Nott'm Forest,2.2,3.3,3.25
+2009-04-04,Ein Frankfurt,Cottbus,1.85,3.5,4.2
+2009-04-04,Valenciennes,Auxerre,2.3,3.0,3.3
+2009-04-04,Nantes,Lille,3.2,2.9,2.45
+2009-04-04,Monaco,Le Havre,1.53,3.6,7.5
+2009-04-04,Sheffield United,Ipswich,1.9,3.4,4.0
+2009-04-04,QPR,Crystal Palace,2.2,3.25,3.3
+2009-04-04,Bordeaux,Nancy,1.44,4.0,8.0
+2009-04-04,Caen,Toulouse,3.2,2.9,2.45
+2009-04-04,Grenoble,Lorient,2.4,2.87,3.3
+2009-04-04,Le Mans,Lyon,4.0,3.2,1.95
+2009-04-04,Norwich,Sheffield Weds,2.2,3.25,3.3
+2009-04-04,Doncaster,Watford,2.3,3.3,3.1
+2009-04-04,Derby,Burnley,2.62,3.25,2.62
+2009-04-04,Coventry,Reading,3.1,3.3,2.3
+2009-04-04,Bristol City,Preston,2.2,3.3,3.25
+2009-04-04,Blackpool,Plymouth,2.1,3.3,3.6
+2009-04-04,Southampton,Charlton,2.0,3.4,3.8
+2009-04-04,Ankaraspor,Bursaspor,2.4,3.2,3.0
+2009-04-04,Wolfsburg,Bayern Munich,2.6,3.3,2.6
+2009-04-04,Besiktas,Kayserispor,1.44,4.0,8.0
+2009-04-04,Hamburg,Hoffenheim,1.8,3.4,4.5
+2009-04-04,Hertha,Dortmund,2.0,3.3,3.8
+2009-04-04,AZ Alkmaar,Den Haag,1.16,6.5,12.0
+2009-04-04,Heracles,Heerenveen,3.75,3.25,1.9
+2009-04-04,Utrecht,Groningen,2.25,3.25,2.87
+2009-04-04,Arsenal,Man City,1.53,3.75,7.5
+2009-04-04,Bochum,Stuttgart,2.87,3.3,2.4
+2009-04-04,Blackburn,Tottenham,2.62,3.25,2.75
+2009-04-04,Fulham,Liverpool,6.0,3.75,1.61
+2009-04-04,Hull,Portsmouth,2.62,3.25,2.75
+2009-04-04,Newcastle,Chelsea,5.0,3.6,1.72
+2009-04-04,West Brom,Stoke,2.2,3.25,3.4
+2009-04-04,West Ham,Sunderland,2.1,3.2,3.75
+2009-04-04,Konyaspor,Hacettepespor,1.61,3.6,6.0
+2009-04-04,Denizlispor,Sivasspor,3.1,3.2,2.35
+2009-04-04,Bolton,Middlesbrough,2.1,3.3,3.6
+2009-04-04,Sparta,PSV Eindhoven,5.75,3.75,1.53
+2009-04-05,Roda JC,Ajax,5.25,3.6,1.61
+2009-04-05,Espanol,La Coruna,2.4,3.2,3.0
+2009-04-05,Sp Gijon,Santander,2.62,3.25,2.62
+2009-04-05,Cardiff,Swansea,2.1,3.25,3.75
+2009-04-05,Standard,Germinal,1.36,4.33,7.5
+2009-04-05,FC Koln,Leverkusen,3.4,3.4,2.1
+2009-04-05,Karlsruhe,M'gladbach,2.3,3.3,3.1
+2009-04-05,Werder Bremen,Hannover,1.44,4.33,7.0
+2009-04-05,Atalanta,Fiorentina,2.55,3.2,2.8
+2009-04-05,Cagliari,Catania,2.0,3.0,4.33
+2009-04-05,Ath Madrid,Osasuna,1.66,3.6,5.25
+2009-04-05,Juventus,Chievo,1.33,4.75,10.0
+2009-04-05,Palermo,Torino,1.85,3.2,4.75
+2009-04-05,Reggina,Genoa,3.1,3.0,2.45
+2009-04-05,Roma,Bologna,1.5,3.75,7.5
+2009-04-05,Sampdoria,Napoli,2.05,3.0,4.0
+2009-04-05,Siena,Lazio,2.5,3.0,3.0
+2009-04-05,Udinese,Inter,4.75,3.25,1.83
+2009-04-05,Valencia,Getafe,1.85,3.5,4.2
+2009-04-05,Milan,Lecce,1.28,5.25,11.0
+2009-04-05,Vitesse,Graafschap,1.6,3.6,5.25
+2009-04-05,Lokeren,Anderlecht,5.0,3.6,1.6
+2009-04-05,Willem II,NAC Breda,2.75,3.2,2.37
+2009-04-05,Volendam,Feyenoord,3.75,3.25,1.9
+2009-04-05,Falkirk,Rangers,7.5,4.2,1.44
+2009-04-05,Wehen,St Pauli,2.62,3.2,2.62
+2009-04-05,Munich 1860,Osnabruck,1.85,3.4,4.33
+2009-04-05,Kaiserslautern,Oberhausen,1.53,3.75,7.0
+2009-04-05,Hansa Rostock,Frankfurt FSV,1.9,3.4,4.0
+2009-04-05,Man United,Aston Villa,1.4,4.33,9.0
+2009-04-05,Aachen,Greuther Furth,2.3,3.3,3.1
+2009-04-05,Sochaux,Rennes,2.75,2.8,2.87
+2009-04-05,St Etienne,Marseille,3.4,3.0,2.3
+2009-04-05,Trabzonspor,Buyuksehyr,1.44,3.75,7.0
+2009-04-05,Fenerbahce,Eskisehirspor,1.36,4.2,8.0
+2009-04-05,Antalyaspor,Genclerbirligi,2.2,3.2,3.0
+2009-04-05,Ankaragucu,Kocaelispor,2.3,3.2,2.8
+2009-04-05,Paris SG,Nice,1.66,3.4,5.75
+2009-04-05,Everton,Wigan,1.72,3.4,5.5
+2009-04-06,Freiburg,Ahlen,1.33,4.33,9.0
+2009-04-06,Birmingham,Wolves,2.6,3.1,2.87
+2009-04-06,Gaziantepspor,Galatasaray,3.2,3.2,2.1
+2009-04-07,Crystal Palace,Coventry,2.0,3.4,3.75
+2009-04-07,Sheffield United,Barnsley,1.66,3.5,5.5
+2009-04-07,Watford,Southampton,1.83,3.4,4.5
+2009-04-08,Cardiff,Derby,1.8,3.5,4.5
+2009-04-08,Celtic,Falkirk,1.16,6.5,17.0
+2009-04-08,St Mirren,Rangers,7.0,4.33,1.44
+2009-04-09,Greuther Furth,Hansa Rostock,1.83,3.5,4.33
+2009-04-09,Ingolstadt,Wehen,2.1,3.4,3.4
+2009-04-09,Oberhausen,Nurnberg,3.5,3.3,2.1
+2009-04-10,NAC Breda,AZ Alkmaar,5.0,3.75,1.66
+2009-04-10,Reading,Sheffield United,2.2,3.3,3.3
+2009-04-10,Wolves,Southampton,1.57,3.8,6.0
+2009-04-10,Kocaelispor,Besiktas,5.5,3.75,1.61
+2009-04-10,Roeselare,Genk,3.2,3.25,2.25
+2009-04-11,Kilmarnock,Falkirk,2.15,3.4,3.3
+2009-04-11,Nott'm Forest,Bristol City,2.38,3.25,3.0
+2009-04-11,Crystal Palace,Cardiff,2.75,3.25,2.5
+2009-04-11,Charlton,Birmingham,3.6,3.4,2.05
+2009-04-11,Burnley,QPR,1.73,3.6,5.0
+2009-04-11,Barcelona,Recreativo,1.14,7.5,17.0
+2009-04-11,Villarreal,Malaga,2.1,3.3,3.5
+2009-04-11,Den Haag,Sparta,2.1,3.3,3.5
+2009-04-11,Bologna,Siena,2.15,3.0,3.8
+2009-04-11,Chievo,Milan,4.75,3.25,1.83
+2009-04-11,Fiorentina,Cagliari,1.67,3.4,6.0
+2009-04-11,Standard,Lokeren,1.33,4.75,10.0
+2009-04-11,Kortrijk,Dender,2.0,3.3,3.8
+2009-04-11,Germinal,Waregem,1.91,3.5,4.0
+2009-04-11,Charleroi,Mouscron,1.95,3.4,3.8
+2009-04-11,Cercle Brugge,Tubize,1.4,4.5,8.0
+2009-04-11,Plymouth,Coventry,2.25,3.25,3.25
+2009-04-11,Rangers,Motherwell,1.33,5.0,9.0
+2009-04-11,Preston,Blackpool,1.83,3.4,4.5
+2009-04-11,Swansea,Norwich,1.8,3.5,4.5
+2009-04-11,Hearts,Celtic,4.75,3.6,1.73
+2009-04-11,Sivasspor,Antalyaspor,1.44,4.0,8.0
+2009-04-11,Hacettepespor,Trabzonspor,6.5,3.8,1.53
+2009-04-11,Buyuksehyr,Gaziantepspor,2.2,3.2,3.1
+2009-04-11,Bursaspor,Ankaragucu,2.5,3.2,2.8
+2009-04-11,Hamilton,Dundee United,2.88,3.4,2.38
+2009-04-11,Aberdeen,Inverness C,1.83,3.5,4.33
+2009-04-11,Auxerre,Bordeaux,3.4,3.1,2.25
+2009-04-11,Le Havre,Caen,2.62,3.0,2.8
+2009-04-11,Bergen,Mechelen,2.25,3.3,3.2
+2009-04-11,Le Mans,Sochaux,2.6,2.9,3.0
+2009-04-11,Nancy,Valenciennes,2.25,3.0,3.5
+2009-04-11,Nice,Lorient,2.38,3.0,3.25
+2009-04-11,Rennes,St Etienne,1.73,3.3,5.5
+2009-04-11,Watford,Barnsley,2.1,3.3,3.5
+2009-04-11,Sheffield Weds,Derby,2.1,3.25,3.5
+2009-04-11,Graafschap,Nijmegen,2.5,3.1,2.9
+2009-04-11,Ipswich,Doncaster,1.73,3.6,5.0
+2009-04-11,Schalke 04,Karlsruhe,1.3,5.0,11.0
+2009-04-11,Toulouse,Nantes,1.53,3.75,7.0
+2009-04-11,M'gladbach,Wolfsburg,4.0,3.4,1.91
+2009-04-11,Hoffenheim,Bochum,1.67,3.6,5.25
+2009-04-11,Hannover,Hertha,2.5,3.3,2.75
+2009-04-11,Dortmund,FC Koln,1.73,3.5,5.0
+2009-04-11,Chelsea,Bolton,1.25,5.5,15.0
+2009-04-11,Liverpool,Blackburn,1.33,4.75,11.0
+2009-04-11,Middlesbrough,Hull,2.1,3.3,3.75
+2009-04-11,Portsmouth,West Brom,1.73,3.5,5.5
+2009-04-11,Stoke,Newcastle,2.5,3.25,2.88
+2009-04-11,Sunderland,Man United,7.5,4.0,1.5
+2009-04-11,Tottenham,West Ham,1.73,3.5,5.5
+2009-04-11,Cottbus,Bielefeld,2.3,3.25,3.1
+2009-04-11,Bayern Munich,Ein Frankfurt,1.33,5.0,9.0
+2009-04-11,Genoa,Juventus,3.25,3.0,2.38
+2009-04-11,Wigan,Arsenal,5.25,3.5,1.73
+2009-04-11,Inter,Palermo,1.44,4.0,8.5
+2009-04-11,PSV Eindhoven,Utrecht,1.33,4.5,11.0
+2009-04-11,Torino,Catania,2.0,3.0,4.33
+2009-04-11,Napoli,Atalanta,1.83,3.25,4.75
+2009-04-11,Lecce,Sampdoria,2.5,3.0,3.0
+2009-04-11,Lazio,Roma,3.1,3.1,2.4
+2009-04-11,Twente,Roda JC,1.36,4.5,9.0
+2009-04-12,Kayserispor,Denizlispor,2.05,3.2,3.4
+2009-04-12,Heerenveen,Volendam,1.33,4.75,8.5
+2009-04-12,Groningen,Vitesse,1.67,3.5,4.75
+2009-04-12,Genclerbirligi,Konyaspor,1.91,3.2,3.8
+2009-04-12,Galatasaray,Fenerbahce,2.2,3.2,3.1
+2009-04-12,Real Madrid,Valladolid,1.29,5.5,10.0
+2009-04-12,Gent,Westerlo,1.8,3.3,4.2
+2009-04-12,Ahlen,Aachen,3.0,3.3,2.2
+2009-04-12,Reggina,Udinese,2.38,3.1,3.1
+2009-04-12,Leverkusen,Werder Bremen,2.38,3.4,2.9
+2009-04-12,Stuttgart,Hamburg,2.1,3.4,3.4
+2009-04-12,Eskisehirspor,Ankaraspor,2.0,3.2,3.5
+2009-04-12,Anderlecht,Club Brugge,1.67,3.5,5.0
+2009-04-12,Frankfurt FSV,Augsburg,2.1,3.2,3.3
+2009-04-12,Osnabruck,Kaiserslautern ,2.75,3.2,2.4
+2009-04-12,Lille,Paris SG,2.1,3.1,3.75
+2009-04-12,Lyon,Monaco,1.36,4.33,10.0
+2009-04-12,Marseille,Grenoble,1.33,4.5,11.0
+2009-04-12,Osasuna,Ath Bilbao,2.1,3.25,3.6
+2009-04-12,Santander,Betis,2.0,3.4,3.75
+2009-04-12,Sevilla,Getafe,1.53,3.75,7.0
+2009-04-12,Man City,Fulham,1.91,3.4,4.33
+2009-04-12,Numancia,Espanol,2.5,3.25,2.8
+2009-04-12,Aston Villa,Everton,2.2,3.25,3.5
+2009-04-12,Mallorca,Almeria,2.1,3.4,3.4
+2009-04-12,Sp Gijon,Valencia,3.6,3.2,2.1
+2009-04-12,Feyenoord,Heracles,1.4,3.8,8.5
+2009-04-12,Ajax,Willem II,1.2,5.5,13.0
+2009-04-12,St Pauli,Duisburg,2.75,3.3,2.38
+2009-04-12,Koblenz,Munich 1860,2.38,3.3,2.75
+2009-04-12,La Coruna,Ath Madrid,2.5,3.4,2.75
+2009-04-13,Mainz,Freiburg,2.2,3.2,3.1
+2009-04-13,Blackpool,Reading,3.4,3.2,2.2
+2009-04-13,Sheffield United,Nott'm Forest,1.57,3.8,6.0
+2009-04-13,QPR,Sheffield Weds,2.1,3.3,3.5
+2009-04-13,Norwich,Watford,2.0,3.4,3.75
+2009-04-13,Doncaster,Preston,2.37,3.25,3.0
+2009-04-13,Derby,Wolves,3.0,3.4,2.3
+2009-04-13,Coventry,Charlton,2.0,3.4,3.75
+2009-04-13,Cardiff,Burnley,2.1,3.3,3.5
+2009-04-13,Bristol City,Ipswich,2.2,3.25,3.4
+2009-04-13,Birmingham,Plymouth,1.57,3.75,6.0
+2009-04-13,Barnsley,Swansea,2.6,3.25,2.7
+2009-04-13,Southampton,Crystal Palace,2.1,3.3,3.5
+2009-04-13,St Mirren,Hibernian,2.62,3.25,2.62
+2009-04-17,Heracles,NAC Breda,2.45,3.4,2.75
+2009-04-17,Trabzonspor,Genclerbirligi,1.5,3.6,6.5
+2009-04-17,Schalke 04,Cottbus,1.33,4.75,10.0
+2009-04-17,Genk,Gent,2.62,3.3,2.62
+2009-04-17,Hansa Rostock,Oberhausen,1.73,3.6,4.75
+2009-04-17,Augsburg,Osnabruck,1.95,3.4,3.8
+2009-04-17,Mainz,Ahlen,1.29,5.25,9.5
+2009-04-18,Recreativo,Real Madrid,6.0,3.8,1.57
+2009-04-18,Caen,Nancy,2.25,3.0,3.5
+2009-04-18,Waregem,Kortrijk,1.73,3.4,5.0
+2009-04-18,Tubize,Charleroi,4.33,3.5,1.83
+2009-04-18,Mouscron,Standard,6.0,3.75,1.57
+2009-04-18,Motherwell,St Mirren,1.75,3.6,4.5
+2009-04-18,Ath Madrid,Numancia,1.33,4.75,9.5
+2009-04-18,Club Brugge,Bergen,1.29,5.25,9.5
+2009-04-18,Genoa,Lazio,1.75,3.5,4.75
+2009-04-18,Getafe,Barcelona,7.0,4.33,1.44
+2009-04-18,Malaga,Mallorca,2.0,3.4,3.7
+2009-04-18,Mechelen,Cercle Brugge,2.38,3.25,3.0
+2009-04-18,Lokeren,Germinal,2.38,3.25,3.0
+2009-04-18,Bielefeld,Bayern Munich,7.0,4.0,1.5
+2009-04-18,Ein Frankfurt,M'gladbach,2.1,3.3,3.5
+2009-04-18,FC Koln,Stuttgart,3.4,3.4,2.1
+2009-04-18,Valenciennes,Le Mans,2.05,3.0,4.2
+2009-04-18,St Etienne,Lille,2.9,3.0,2.55
+2009-04-18,Sochaux,Auxerre,1.91,3.1,4.5
+2009-04-18,Nantes,Nice,2.15,3.0,3.75
+2009-04-18,Monaco,Rennes,2.7,2.88,2.88
+2009-04-18,Grenoble,Toulouse,3.2,3.0,2.4
+2009-04-18,Celtic,Aberdeen,1.3,5.0,10.0
+2009-04-18,Dundee United,Kilmarnock,1.73,3.6,4.75
+2009-04-18,Falkirk,Hearts,3.2,3.4,2.2
+2009-04-18,Inverness C,Hamilton,2.1,3.4,3.4
+2009-04-18,Bochum,Dortmund,3.1,3.4,2.3
+2009-04-18,Juventus,Inter,2.55,3.1,2.88
+2009-04-18,Ath Bilbao,La Coruna,2.15,3.4,3.3
+2009-04-18,Wolves,QPR,1.53,3.8,6.5
+2009-04-18,Nott'm Forest,Coventry,1.8,3.6,4.33
+2009-04-18,Plymouth,Doncaster,1.83,3.5,4.33
+2009-04-18,Preston,Cardiff,2.8,3.25,2.5
+2009-04-18,Reading,Barnsley,1.53,3.8,6.5
+2009-04-18,Sheffield Weds,Southampton,2.4,3.25,2.9
+2009-04-18,Swansea,Bristol City,1.73,3.5,5.0
+2009-04-18,Watford,Birmingham,3.5,3.3,2.1
+2009-04-18,Wolfsburg,Leverkusen,1.95,3.4,3.8
+2009-04-18,Sunderland,Hull,1.91,3.4,4.2
+2009-04-18,Stoke,Blackburn,2.4,3.25,3.0
+2009-04-18,Portsmouth,Bolton,2.1,3.3,3.6
+2009-04-18,Middlesbrough,Fulham,2.25,3.25,3.3
+2009-04-18,Aston Villa,West Ham,1.67,3.6,5.5
+2009-04-18,Ankaraspor,Fenerbahce,4.0,3.4,1.8
+2009-04-18,Konyaspor,Sivasspor,3.6,3.3,1.91
+2009-04-18,Nijmegen,Roda JC,1.83,3.3,4.0
+2009-04-18,Graafschap,Groningen,2.9,3.3,2.25
+2009-04-18,Feyenoord,Twente,2.4,3.4,2.6
+2009-04-18,AZ Alkmaar,Vitesse,1.2,5.75,11.0
+2009-04-18,Charlton,Blackpool,2.4,3.4,2.8
+2009-04-18,Karlsruhe,Hoffenheim,2.88,3.4,2.4
+2009-04-18,Crystal Palace,Derby,2.3,3.25,3.1
+2009-04-19,Buyuksehyr,Galatasaray,4.0,3.4,1.8
+2009-04-19,Denizlispor,Kocaelispor,1.73,3.5,4.33
+2009-04-19,Gaziantepspor,Hacettepespor,1.33,4.5,8.0
+2009-04-19,Westerlo,Anderlecht,4.5,3.5,1.73
+2009-04-19,Besiktas,Bursaspor,1.44,3.75,7.0
+2009-04-19,Ipswich,Norwich,2.3,3.25,3.0
+2009-04-19,Ankaragucu,Eskisehirspor,2.0,3.25,3.4
+2009-04-19,Aachen,Frankfurt FSV,1.67,3.4,4.75
+2009-04-19,Duisburg,Koblenz,1.5,3.5,6.5
+2009-04-19,Freiburg,Ingolstadt,1.36,4.33,8.5
+2009-04-19,Nurnberg,St Pauli,1.4,4.2,6.5
+2009-04-19,Wehen,Greuther Furth,2.8,3.25,2.3
+2009-04-19,Antalyaspor,Kayserispor,2.3,3.2,2.9
+2009-04-19,Dender,Roeselare,2.38,3.3,2.62
+2009-04-19,Udinese,Fiorentina,2.8,3.1,2.6
+2009-04-19,Hamburg,Hannover,1.44,4.33,7.0
+2009-04-19,Paris SG,Le Havre,1.25,5.25,13.0
+2009-04-19,Lorient,Marseille,4.0,3.2,2.0
+2009-04-19,Bordeaux,Lyon,2.6,3.0,2.88
+2009-04-19,PSV Eindhoven,Ajax,2.25,3.3,2.88
+2009-04-19,Utrecht,Heerenveen,2.4,3.4,2.6
+2009-04-19,Volendam,Sparta,2.2,3.4,2.9
+2009-04-19,Willem II,Den Haag,2.0,3.25,3.5
+2009-04-19,Man City,West Brom,1.57,3.8,6.5
+2009-04-19,Tottenham,Newcastle,1.67,3.6,5.5
+2009-04-19,Hertha,Werder Bremen,2.88,3.4,2.4
+2009-04-19,Atalanta,Reggina,1.62,3.6,6.0
+2009-04-19,Hibernian,Rangers,6.0,3.6,1.62
+2009-04-19,Catania,Sampdoria,2.3,3.0,3.4
+2009-04-19,Milan,Torino,1.33,5.0,9.0
+2009-04-19,Palermo,Bologna,1.73,3.4,5.5
+2009-04-19,Valladolid,Villarreal,2.3,3.4,3.0
+2009-04-19,Valencia,Sevilla,2.1,3.4,3.4
+2009-04-19,Espanol,Santander,2.15,3.25,3.4
+2009-04-19,Cagliari,Napoli,2.55,2.9,3.1
+2009-04-19,Siena,Chievo,2.38,2.62,3.75
+2009-04-19,Betis,Sp Gijon,1.67,3.6,5.25
+2009-04-19,Almeria,Osasuna,2.25,3.25,3.2
+2009-04-19,Roma,Lecce,1.33,4.75,10.0
+2009-04-20,Burnley,Sheffield United,2.62,3.25,2.62
+2009-04-20,Munich 1860,Kaiserslautern ,2.5,3.1,2.6
+2009-04-21,Coventry,Barnsley,2.5,3.25,2.8
+2009-04-21,Charlton,Cardiff,4.0,3.4,1.9
+2009-04-21,Derby,Reading,3.2,3.3,2.25
+2009-04-21,Liverpool,Arsenal,1.72,3.6,5.0
+2009-04-21,Numancia,Ath Bilbao,2.62,3.4,2.6
+2009-04-21,Real Madrid,Getafe,1.25,5.5,12.0
+2009-04-22,Barcelona,Sevilla,1.36,4.75,8.0
+2009-04-22,Betis,Valencia,2.9,3.25,2.4
+2009-04-22,Osasuna,Malaga,2.15,3.3,3.3
+2009-04-22,Chelsea,Everton,1.44,4.2,8.5
+2009-04-22,Man United,Portsmouth,1.25,5.5,13.0
+2009-04-22,La Coruna,Almeria,2.0,3.3,3.75
+2009-04-23,Villarreal,Recreativo,1.65,3.6,5.5
+2009-04-23,Sp Gijon,Espanol,2.65,3.3,2.6
+2009-04-23,Santander,Ath Madrid,2.87,3.3,2.4
+2009-04-23,Mallorca,Valladolid,2.05,3.3,3.6
+2009-04-24,Lyon,Paris SG,1.65,3.4,6.0
+2009-04-24,Hoffenheim,Hertha,2.37,3.4,2.87
+2009-04-24,Germinal,Club Brugge,2.6,3.2,2.75
+2009-04-24,Greuther Furth,Augsburg,1.72,3.5,5.0
+2009-04-24,Sparta,Graafschap,1.83,3.5,4.33
+2009-04-24,St Pauli,Freiburg,3.4,3.25,2.15
+2009-04-24,Ahlen,Duisburg,3.3,3.25,2.2
+2009-04-25,Hacettepespor,Buyuksehyr,5.75,3.5,1.6
+2009-04-25,Sivasspor,Trabzonspor,2.25,3.25,3.0
+2009-04-25,Anderlecht,Dender,1.14,6.0,15.0
+2009-04-25,Bergen,Westerlo,3.4,3.2,2.05
+2009-04-25,Kortrijk,Tubize,1.5,3.8,6.0
+2009-04-25,Lokeren,Mouscron,1.8,3.3,4.2
+2009-04-25,Dortmund,Hamburg,2.2,3.3,3.1
+2009-04-25,West Ham,Chelsea,4.75,3.3,1.85
+2009-04-25,West Brom,Sunderland,2.5,3.3,2.87
+2009-04-25,Fiorentina,Roma,2.4,3.2,3.0
+2009-04-25,Bayern Munich,Schalke 04,1.61,3.75,5.5
+2009-04-25,Heerenveen,Twente,2.5,3.25,2.6
+2009-04-25,Heracles,PSV Eindhoven,5.0,3.6,1.57
+2009-04-25,Nijmegen,NAC Breda,2.1,3.25,3.25
+2009-04-25,Standard,Mechelen,1.18,6.0,13.0
+2009-04-25,Man United,Tottenham,1.44,4.0,9.0
+2009-04-25,Hull,Liverpool,10.0,4.5,1.36
+2009-04-25,Fulham,Stoke,1.75,3.5,5.0
+2009-04-25,Everton,Man City,1.83,3.5,4.5
+2009-04-25,Bolton,Aston Villa,3.1,3.3,2.37
+2009-04-25,Almeria,Numancia,1.66,3.6,5.5
+2009-04-25,Malaga,La Coruna,2.1,3.3,3.5
+2009-04-25,Valencia,Barcelona,4.0,3.4,1.9
+2009-04-25,Chievo,Udinese,2.25,3.1,3.4
+2009-04-25,Fenerbahce,Ankaragucu,1.44,4.0,7.0
+2009-04-25,Charleroi,Waregem,2.1,3.3,3.2
+2009-04-25,Roda JC,Volendam,1.85,3.4,3.8
+2009-04-25,Doncaster,Crystal Palace,2.37,3.2,3.0
+2009-04-25,QPR,Plymouth,2.3,3.25,3.2
+2009-04-25,Derby,Charlton,1.72,3.5,5.0
+2009-04-25,Coventry,Watford,2.3,3.3,3.1
+2009-04-25,Cardiff,Ipswich,1.66,3.5,5.5
+2009-04-25,Bristol City,Sheffield Weds,2.1,3.25,3.6
+2009-04-25,Blackpool,Nott'm Forest,2.6,3.1,2.8
+2009-04-25,Sheffield United,Swansea,2.0,3.4,3.75
+2009-04-25,Barnsley,Wolves,2.4,3.4,2.8
+2009-04-25,Southampton,Burnley,3.5,3.3,2.1
+2009-04-25,Werder Bremen,Bochum,1.5,4.2,7.0
+2009-04-25,Birmingham,Preston,1.8,3.5,4.5
+2009-04-25,Leverkusen,Karlsruhe,1.4,4.5,7.0
+2009-04-25,Hannover,FC Koln,1.9,3.4,4.0
+2009-04-25,Stuttgart,Ein Frankfurt,1.36,4.75,9.0
+2009-04-26,Torino,Siena,1.8,3.2,5.0
+2009-04-26,Sampdoria,Cagliari,2.1,3.2,3.6
+2009-04-26,Reggina,Juventus,4.5,3.4,1.8
+2009-04-26,Napoli,Inter,4.0,3.2,2.0
+2009-04-26,Milan,Palermo,1.5,4.0,7.0
+2009-04-26,Lecce,Catania,1.7,3.4,5.5
+2009-04-26,Lazio,Atalanta,1.8,3.3,4.75
+2009-04-26,Bologna,Genoa,3.4,3.1,2.2
+2009-04-26,Galatasaray,Ankaraspor,1.36,4.33,8.0
+2009-04-26,Eskisehirspor,Besiktas,4.0,3.4,1.83
+2009-04-26,Bursaspor,Denizlispor,1.83,3.4,4.0
+2009-04-26,Den Haag,Feyenoord,3.2,3.3,2.1
+2009-04-26,Vitesse,Utrecht,2.1,3.25,3.25
+2009-04-26,Ath Bilbao,Santander,2.1,3.25,3.6
+2009-04-26,Oberhausen,Munich 1860,2.5,3.2,2.6
+2009-04-26,Koblenz,Aachen,2.37,3.2,2.8
+2009-04-26,Ath Madrid,Sp Gijon,1.4,4.5,8.0
+2009-04-26,Kaiserslautern,Wehen,1.4,4.2,8.0
+2009-04-26,Ingolstadt,Mainz,4.33,3.4,1.75
+2009-04-26,Frankfurt FSV,Nurnberg,3.5,3.2,2.0
+2009-04-26,M'gladbach,Bielefeld,1.9,3.4,4.0
+2009-04-26,Cottbus,Wolfsburg,5.75,3.8,1.6
+2009-04-26,Groningen,Willem II,1.44,3.8,7.5
+2009-04-26,Espanol,Betis,2.2,3.25,3.3
+2009-04-26,Genclerbirligi,Gaziantepspor,1.8,3.4,4.0
+2009-04-26,Kayserispor,Konyaspor,2.0,3.25,3.5
+2009-04-26,Toulouse,Lorient,1.66,3.4,6.0
+2009-04-26,Sochaux,Valenciennes,1.9,3.0,4.75
+2009-04-26,Nice,St Etienne,2.37,3.1,3.1
+2009-04-26,Nancy,Nantes,2.1,3.0,4.0
+2009-04-26,Lille,Marseille,2.6,3.0,2.87
+2009-04-26,Le Mans,Monaco,2.37,3.0,3.25
+2009-04-26,Le Havre,Grenoble,2.9,3.1,2.5
+2009-04-26,Auxerre,Caen,2.1,3.1,3.75
+2009-04-26,Roeselare,Gent,3.2,3.3,2.1
+2009-04-26,Ajax,AZ Alkmaar,1.83,3.3,4.0
+2009-04-26,Cercle Brugge,Genk,2.75,3.25,2.37
+2009-04-26,Recreativo,Mallorca,2.37,3.25,3.0
+2009-04-26,Arsenal,Middlesbrough,1.5,4.2,7.5
+2009-04-26,Blackburn,Wigan,1.9,3.4,4.2
+2009-04-26,Kocaelispor,Antalyaspor,2.5,3.25,2.6
+2009-04-26,Getafe,Villarreal,2.5,3.25,2.8
+2009-04-26,Sevilla,Real Madrid,2.62,3.3,2.6
+2009-04-26,Valladolid,Osasuna,2.1,3.3,3.5
+2009-04-27,Norwich,Reading,2.5,3.3,2.75
+2009-04-27,Newcastle,Portsmouth,2.0,3.5,3.75
+2009-04-27,Osnabruck,Hansa Rostock,2.6,3.1,2.6
+2009-04-29,Rennes,Bordeaux,3.0,3.0,2.5
+2009-05-01,Hansa Rostock,Kaiserslautern ,2.35,3.25,3.1
+2009-05-01,Wehen,Osnabruck,2.4,3.25,2.9
+2009-05-01,Augsburg,Munich 1860,2.2,3.25,3.25
+2009-05-01,Bochum,Hannover,2.0,3.5,3.6
+2009-05-01,Hacettepespor,Galatasaray,8.0,4.5,1.4
+2009-05-01,Club Brugge,Lokeren,1.44,4.2,7.0
+2009-05-02,Villarreal,Sevilla,2.37,3.4,2.87
+2009-05-02,Numancia,Malaga,3.1,3.4,2.25
+2009-05-02,Caen,Le Mans,2.1,3.1,3.75
+2009-05-02,Lorient,Lille,3.0,3.0,2.5
+2009-05-02,Marseille,Toulouse,1.57,3.6,6.5
+2009-05-02,Monaco,Auxerre,2.05,3.1,4.0
+2009-05-02,St Etienne,Nancy,1.83,3.25,5.0
+2009-05-02,Valenciennes,Lyon,4.75,3.3,1.8
+2009-05-02,Grenoble,Nice,2.25,3.0,3.5
+2009-05-02,Real Madrid,Barcelona,2.5,3.4,2.75
+2009-05-02,Gent,Cercle Brugge,1.36,4.33,7.5
+2009-05-02,Dender,Bergen,1.44,4.0,6.5
+2009-05-02,Chelsea,Fulham,1.53,3.8,7.0
+2009-05-02,Westerlo,Roeselare,1.57,3.6,5.5
+2009-05-02,Aberdeen,Celtic,6.0,3.6,1.61
+2009-05-02,Falkirk,Motherwell,2.4,3.3,2.87
+2009-05-02,Hamilton,Kilmarnock,2.3,3.4,3.0
+2009-05-02,Hibernian,Dundee United,2.4,3.4,2.8
+2009-05-02,St Mirren,Inverness C,2.3,3.25,2.87
+2009-05-02,Bayern Munich,M'gladbach,1.28,5.5,9.5
+2009-05-02,Bielefeld,Stuttgart,4.33,3.4,1.85
+2009-05-02,Ein Frankfurt,Dortmund,3.2,3.5,2.15
+2009-05-02,Mouscron,Germinal,2.6,3.25,2.5
+2009-05-02,Trabzonspor,Kayserispor,1.5,3.75,5.75
+2009-05-02,Waregem,Standard,5.5,3.6,1.57
+2009-05-02,Karlsruhe,Cottbus,2.1,3.4,3.4
+2009-05-02,Mechelen,Charleroi,2.3,3.25,2.87
+2009-05-02,Wolfsburg,Hoffenheim,1.44,4.33,7.0
+2009-05-02,Bologna,Reggina,1.8,3.3,4.75
+2009-05-02,Inter,Lazio,1.5,3.8,7.25
+2009-05-02,Man City,Blackburn,2.0,3.3,4.0
+2009-05-02,Middlesbrough,Man United,6.5,3.8,1.57
+2009-05-02,Portsmouth,Arsenal,3.2,3.3,2.3
+2009-05-02,Schalke 04,Leverkusen,1.75,3.6,4.5
+2009-05-02,Tottenham,West Brom,1.5,4.0,7.0
+2009-05-02,Stoke,West Ham,2.37,3.25,3.1
+2009-05-02,Wigan,Bolton,2.1,3.25,3.75
+2009-05-03,Aachen,Oberhausen,1.5,3.8,6.0
+2009-05-03,Ahlen,St Pauli,2.25,3.4,2.8
+2009-05-03,Freiburg,Frankfurt FSV,1.4,4.33,6.5
+2009-05-03,Mainz,Koblenz,1.45,3.8,6.5
+2009-05-03,FC Koln,Werder Bremen,3.3,3.3,2.15
+2009-05-03,Hamburg,Hertha,1.95,3.5,3.75
+2009-05-03,Tubize,Anderlecht,11.0,6.0,1.2
+2009-05-03,Genk,Kortrijk,1.4,4.0,7.5
+2009-05-03,Nurnberg,Ingolstadt,1.33,4.5,8.5
+2009-05-03,Watford,Derby,2.1,3.2,3.6
+2009-05-03,Fiorentina,Torino,1.44,4.0,8.0
+2009-05-03,Osasuna,Recreativo,1.75,3.5,4.75
+2009-05-03,Santander,Almeria,2.25,3.1,3.2
+2009-05-03,Sp Gijon,Ath Bilbao,2.62,3.3,2.62
+2009-05-03,Rangers,Hearts,1.4,4.33,7.0
+2009-05-03,Crystal Palace,Sheffield United,5.0,4.0,1.61
+2009-05-03,Catania,Milan,6.0,3.75,1.57
+2009-05-03,Volendam,Groningen,2.2,3.25,3.0
+2009-05-03,Vitesse,Heracles,1.65,3.5,5.0
+2009-05-03,Utrecht,Feyenoord,2.6,3.2,2.5
+2009-05-03,Twente,AZ Alkmaar,1.75,3.4,4.33
+2009-05-03,Sparta,Ajax,6.0,4.0,1.45
+2009-05-03,Roda JC,Willem II,1.57,3.5,5.75
+2009-05-03,Mallorca,Getafe,2.1,3.3,3.5
+2009-05-03,PSV Eindhoven,Nijmegen,1.25,5.0,9.0
+2009-05-03,Liverpool,Newcastle,1.25,5.5,13.0
+2009-05-03,NAC Breda,Graafschap,1.75,3.5,4.2
+2009-05-03,Heerenveen,Den Haag,1.33,4.5,8.5
+2009-05-03,Wolves,Doncaster,1.61,3.6,6.0
+2009-05-03,Burnley,Bristol City,1.5,4.0,7.0
+2009-05-03,Swansea,Blackpool,1.72,3.5,5.0
+2009-05-03,Sheffield Weds,Cardiff,3.4,3.4,2.1
+2009-05-03,Reading,Birmingham,2.2,3.5,3.1
+2009-05-03,Preston,QPR,1.5,4.0,6.5
+2009-05-03,Plymouth,Barnsley,3.3,2.9,2.37
+2009-05-03,Nott'm Forest,Southampton,1.9,3.4,4.0
+2009-05-03,Ipswich,Coventry,1.57,3.8,6.0
+2009-05-03,Sunderland,Everton,2.5,3.25,2.9
+2009-05-03,La Coruna,Valladolid,1.75,3.5,4.75
+2009-05-03,Charlton,Norwich,3.75,3.6,1.9
+2009-05-03,Betis,Ath Madrid,2.87,3.4,2.37
+2009-05-03,Konyaspor,Kocaelispor,1.8,3.5,4.0
+2009-05-03,Gaziantepspor,Sivasspor,3.8,3.3,1.9
+2009-05-03,Denizlispor,Eskisehirspor,1.9,3.25,3.75
+2009-05-03,Buyuksehyr,Genclerbirligi,2.25,3.3,2.87
+2009-05-03,Besiktas,Fenerbahce,1.83,3.3,4.0
+2009-05-03,Antalyaspor,Bursaspor,2.37,3.2,2.75
+2009-05-03,Ankaragucu,Ankaraspor,1.5,3.75,5.75
+2009-05-03,Bordeaux,Sochaux,1.3,4.75,11.0
+2009-05-03,Espanol,Valencia,2.87,3.4,2.37
+2009-05-03,Nantes,Le Havre,1.57,3.6,6.5
+2009-05-03,Udinese,Atalanta,1.83,3.3,4.75
+2009-05-03,Siena,Napoli,2.15,3.0,3.6
+2009-05-03,Roma,Chievo,1.5,4.0,7.0
+2009-05-03,Palermo,Cagliari,2.0,3.25,4.0
+2009-05-03,Juventus,Lecce,1.36,4.5,9.0
+2009-05-03,Genoa,Sampdoria,2.25,3.1,3.3
+2009-05-03,Paris SG,Rennes,1.8,3.3,4.75
+2009-05-04,Duisburg,Greuther Furth,2.1,3.3,3.2
+2009-05-04,Aston Villa,Hull,1.53,3.8,7.0
+2009-05-07,Dundee United,Aberdeen,2.1,3.3,3.5
+2009-05-07,Hearts,Hibernian,1.67,3.75,5.0
+2009-05-08,Leverkusen,Bielefeld,1.57,4.0,5.75
+2009-05-08,Frankfurt FSV,Duisburg,2.8,3.25,2.5
+2009-05-08,Germinal,Mechelen,1.91,3.5,4.0
+2009-05-08,Kaiserslautern,Augsburg,1.62,3.75,5.75
+2009-05-08,Munich 1860,Hansa Rostock,2.4,3.3,2.9
+2009-05-08,Oberhausen,Wehen,1.57,3.75,6.0
+2009-05-08,Osnabruck,Aachen,2.62,3.3,2.6
+2009-05-09,Bursaspor,Konyaspor,1.53,3.75,6.0
+2009-05-09,Kilmarnock,Falkirk,2.0,3.4,3.6
+2009-05-09,Rangers,Celtic,2.38,3.3,3.0
+2009-05-09,St Mirren,Motherwell,2.3,3.3,3.0
+2009-05-09,Sivasspor,Buyuksehyr,1.3,5.0,8.0
+2009-05-09,Kocaelispor,Trabzonspor,5.0,3.8,1.57
+2009-05-09,Genclerbirligi,Hacettepespor,1.29,5.0,9.0
+2009-05-09,Galatasaray,Ankaragucu,1.55,3.75,5.5
+2009-05-09,Hoffenheim,FC Koln,1.91,3.4,4.0
+2009-05-09,Hertha,Bochum,1.55,3.75,6.5
+2009-05-09,Blackburn,Portsmouth,2.0,3.25,4.0
+2009-05-09,Bolton,Sunderland,2.2,3.25,3.5
+2009-05-09,Everton,Tottenham,2.3,3.3,3.2
+2009-05-09,Fulham,Aston Villa,2.62,3.25,2.75
+2009-05-09,Hull,Stoke,2.1,3.3,3.6
+2009-05-09,West Brom,Wigan,2.4,3.4,2.9
+2009-05-09,West Ham,Liverpool,6.5,3.8,1.57
+2009-05-09,Hannover,Ein Frankfurt,1.91,3.4,4.0
+2009-05-09,Dortmund,Karlsruhe,1.44,4.2,7.5
+2009-05-09,Cottbus,Bayern Munich,6.5,4.5,1.44
+2009-05-09,Fenerbahce,Denizlispor,1.5,4.2,5.5
+2009-05-09,Eskisehirspor,Antalyaspor,1.83,3.4,3.8
+2009-05-09,Ankaraspor,Besiktas,4.5,3.6,1.67
+2009-05-09,Stuttgart,Wolfsburg,2.2,3.4,3.2
+2009-05-09,Standard,Club Brugge,1.44,4.33,7.0
+2009-05-09,Bergen,Tubize,2.05,3.5,3.5
+2009-05-09,Anderlecht,Roeselare,1.14,7.5,19.0
+2009-05-09,Ath Bilbao,Betis,3.0,3.2,2.4
+2009-05-09,Sampdoria,Reggina,2.9,3.3,2.4
+2009-05-09,Cercle Brugge,Westerlo,2.62,3.3,2.62
+2009-05-09,Lazio,Udinese,2.88,3.0,2.6
+2009-05-09,Valencia,Real Madrid,2.3,3.4,3.0
+2009-05-09,Mouscron,Waregem,2.38,3.3,3.0
+2009-05-09,Lokeren,Dender,1.73,3.6,4.75
+2009-05-09,Kortrijk,Gent,4.0,3.75,1.83
+2009-05-09,Charleroi,Genk,2.25,3.3,3.2
+2009-05-09,Sevilla,Mallorca,1.53,3.8,6.5
+2009-05-10,Willem II,PSV Eindhoven,8.5,3.8,1.4
+2009-05-10,M'gladbach,Schalke 04,3.25,3.3,2.2
+2009-05-10,Inverness C,Hamilton,2.2,3.3,3.25
+2009-05-10,Nijmegen,Sparta,1.62,3.5,5.25
+2009-05-10,Graafschap,Volendam,2.1,3.4,3.1
+2009-05-10,Groningen,NAC Breda,1.95,3.5,3.3
+2009-05-10,Almeria,Sp Gijon,2.0,3.4,3.75
+2009-05-10,Feyenoord,Roda JC,1.55,3.75,5.5
+2009-05-10,Den Haag,Vitesse,2.2,3.4,2.88
+2009-05-10,St Pauli,Mainz,3.5,3.25,2.0
+2009-05-10,Koblenz,Freiburg,3.1,3.2,2.2
+2009-05-10,Ingolstadt,Ahlen,2.1,3.3,3.2
+2009-05-10,Greuther Furth,Nurnberg,2.4,3.25,2.7
+2009-05-10,AZ Alkmaar,Heerenveen,1.8,3.5,4.0
+2009-05-10,Heracles,Utrecht,2.15,3.3,3.1
+2009-05-10,Ath Madrid,Espanol,1.73,3.6,4.75
+2009-05-10,Ajax,Twente,1.95,3.4,3.5
+2009-05-10,Kayserispor,Gaziantepspor,2.1,3.1,3.4
+2009-05-10,Barcelona,Villarreal,1.33,4.75,9.0
+2009-05-10,Cagliari,Roma,2.88,3.2,2.5
+2009-05-10,Catania,Fiorentina,4.75,3.4,1.8
+2009-05-10,Chievo,Inter,4.5,3.3,1.85
+2009-05-10,Man United,Man City,1.36,4.75,9.5
+2009-05-10,Arsenal,Chelsea,2.6,3.25,2.8
+2009-05-10,Getafe,Osasuna,2.1,3.25,3.6
+2009-05-10,Lecce,Napoli,1.62,3.75,5.5
+2009-05-10,Milan,Juventus,1.83,3.5,4.33
+2009-05-10,Atalanta,Genoa,3.3,3.1,2.3
+2009-05-10,Malaga,Santander,2.1,3.3,3.5
+2009-05-10,Recreativo,La Coruna,2.5,3.25,2.8
+2009-05-10,Siena,Palermo,3.1,3.1,2.38
+2009-05-10,Valladolid,Numancia,1.8,3.6,4.33
+2009-05-10,Torino,Bologna,1.91,3.25,4.33
+2009-05-10,Werder Bremen,Hamburg,2.38,3.4,2.88
+2009-05-11,Newcastle,Middlesbrough,2.0,3.4,3.8
+2009-05-12,Hansa Rostock,Augsburg,1.66,3.75,5.0
+2009-05-12,Duisburg,Oberhausen,1.55,3.75,6.25
+2009-05-12,Aachen,Kaiserslautern ,2.2,3.25,3.1
+2009-05-12,Lyon,Nantes,1.3,5.0,10.0
+2009-05-12,Wehen,Munich 1860,3.4,3.4,2.1
+2009-05-12,Karlsruhe,Hannover,2.05,3.4,3.5
+2009-05-12,FC Koln,Hertha,4.33,3.5,1.83
+2009-05-12,Wolfsburg,Dortmund,1.95,3.6,3.6
+2009-05-12,Aberdeen,Hearts,2.37,3.25,3.0
+2009-05-12,Celtic,Dundee United,1.3,5.25,10.0
+2009-05-12,Bayern Munich,Leverkusen,1.33,5.0,9.0
+2009-05-13,Rennes,Caen,1.8,3.25,4.75
+2009-05-13,Nice,Marseille,5.0,3.25,1.8
+2009-05-13,Nancy,Lorient,2.25,2.8,3.75
+2009-05-13,Le Mans,Paris SG,3.6,3.0,2.2
+2009-05-13,Le Havre,St Etienne,4.2,3.2,1.95
+2009-05-13,Bielefeld,Hoffenheim,2.2,3.4,3.2
+2009-05-13,Cottbus,M'gladbach,2.3,3.3,3.1
+2009-05-13,Motherwell,Inverness C,2.05,3.4,3.5
+2009-05-13,Kilmarnock,St Mirren,2.1,3.4,3.4
+2009-05-13,Hibernian,Rangers,6.5,3.8,1.53
+2009-05-13,Hamilton,Falkirk,2.2,3.3,3.25
+2009-05-13,Auxerre,Grenoble,1.95,3.1,4.33
+2009-05-13,Valenciennes,Bordeaux,5.5,3.3,1.72
+2009-05-13,Toulouse,Lille,2.2,2.9,3.8
+2009-05-13,Ahlen,Koblenz,2.35,3.4,2.9
+2009-05-13,Wigan,Man United,12.0,5.0,1.3
+2009-05-13,Schalke 04,Stuttgart,2.4,3.4,2.87
+2009-05-13,Hamburg,Bochum,1.44,4.2,7.5
+2009-05-13,Ein Frankfurt,Werder Bremen,2.62,3.3,2.62
+2009-05-13,Sochaux,Monaco,1.72,3.3,5.5
+2009-05-13,Nurnberg,Osnabruck,1.36,4.2,8.0
+2009-05-13,Mainz,Frankfurt FSV,1.4,4.0,7.5
+2009-05-13,Freiburg,Greuther Furth,2.25,3.25,2.9
+2009-05-14,Ingolstadt,St Pauli,2.1,3.4,3.1
+2009-05-15,Mechelen,Lokeren,2.0,3.3,3.8
+2009-05-16,Osasuna,Sevilla,2.88,3.3,2.4
+2009-05-16,Monaco,Valenciennes,2.15,2.88,4.0
+2009-05-16,Lorient,Le Havre,1.62,3.6,6.25
+2009-05-16,Grenoble,Nancy,2.3,2.9,3.5
+2009-05-16,Caen,Sochaux,2.25,3.1,3.3
+2009-05-16,Udinese,Milan,3.6,3.2,2.1
+2009-05-16,Roma,Catania,1.25,5.5,12.0
+2009-05-16,Werder Bremen,Karlsruhe,1.57,3.8,6.0
+2009-05-16,La Coruna,Getafe,1.85,3.5,4.2
+2009-05-16,Tottenham,Man City,1.83,3.5,4.5
+2009-05-16,Newcastle,Fulham,1.91,3.5,4.0
+2009-05-16,Villarreal,Real Madrid,2.25,3.5,3.0
+2009-05-16,Man United,Arsenal,1.67,3.5,6.0
+2009-05-16,Everton,West Ham,1.73,3.6,5.0
+2009-05-16,Paris SG,Auxerre,1.53,3.6,7.5
+2009-05-16,Bordeaux,Le Mans,1.25,5.75,11.0
+2009-05-16,Bolton,Hull,2.2,3.3,3.4
+2009-05-16,Stoke,Wigan,2.2,3.25,3.4
+2009-05-16,Middlesbrough,Aston Villa,2.5,3.4,2.75
+2009-05-16,Leverkusen,M'gladbach,2.0,3.4,3.75
+2009-05-16,Hacettepespor,Sivasspor,7.0,4.2,1.4
+2009-05-16,Bochum,Ein Frankfurt,1.8,3.5,4.5
+2009-05-16,Dortmund,Bielefeld,1.44,4.33,7.0
+2009-05-16,Hamburg,FC Koln,1.25,5.5,12.0
+2009-05-16,Hannover,Wolfsburg,5.5,3.75,1.62
+2009-05-16,Hertha,Schalke 04,1.73,3.75,4.5
+2009-05-16,Hoffenheim,Bayern Munich,7.0,4.0,1.5
+2009-05-16,Stuttgart,Cottbus,1.25,5.5,12.0
+2009-05-16,Dender,Charleroi,1.53,3.8,5.75
+2009-05-16,Genk,Anderlecht,8.0,4.0,1.4
+2009-05-16,Club Brugge,Mouscron,1.44,3.75,7.5
+2009-05-16,Roeselare,Cercle Brugge,2.6,3.25,2.5
+2009-05-16,Gent,Standard,4.33,3.8,1.67
+2009-05-16,Waregem,Bergen,1.33,4.33,8.5
+2009-05-16,Tubize,Germinal,3.75,3.25,1.95
+2009-05-16,Rangers,Aberdeen,1.25,5.5,12.0
+2009-05-16,Westerlo,Kortrijk,1.91,3.6,3.4
+2009-05-16,Hearts,Dundee United,2.25,3.2,3.25
+2009-05-16,Hamilton,Motherwell,2.62,3.2,2.75
+2009-05-16,Falkirk,St Mirren,2.1,3.4,3.4
+2009-05-16,Kilmarnock,Inverness C,2.25,3.2,3.25
+2009-05-16,St Etienne,Toulouse,2.4,3.1,3.1
+2009-05-17,Buyuksehyr,Kayserispor,1.67,3.6,4.75
+2009-05-17,Denizlispor,Ankaraspor,1.75,3.4,4.5
+2009-05-17,Galatasaray,Genclerbirligi,1.33,4.5,8.5
+2009-05-17,Gaziantepspor,Kocaelispor,1.33,4.5,8.5
+2009-05-17,Konyaspor,Eskisehirspor,2.0,3.25,3.5
+2009-05-17,Trabzonspor,Bursaspor,1.8,3.5,4.0
+2009-05-17,Santander,Valladolid,1.8,3.6,4.5
+2009-05-17,Nantes,Rennes,2.2,3.2,3.4
+2009-05-17,Sp Gijon,Malaga,2.4,3.3,2.88
+2009-05-17,Numancia,Recreativo,2.38,3.25,3.0
+2009-05-17,Mallorca,Barcelona,5.25,3.75,1.6
+2009-05-17,Espanol,Ath Bilbao,1.62,3.8,5.5
+2009-05-17,Betis,Almeria,1.6,4.0,5.25
+2009-05-17,Ath Madrid,Valencia,2.2,3.5,3.1
+2009-05-17,Chelsea,Blackburn,1.3,5.0,11.0
+2009-05-17,West Brom,Liverpool,7.0,5.0,1.4
+2009-05-17,Osnabruck,Ahlen,1.5,4.0,5.5
+2009-05-17,Oberhausen,Freiburg,2.7,3.3,2.38
+2009-05-17,Munich 1860,Aachen,2.38,3.3,2.7
+2009-05-17,Koblenz,St Pauli,1.5,3.8,6.0
+2009-05-17,Kaiserslautern,Duisburg,1.53,3.8,5.5
+2009-05-17,Marseille,Lyon,2.3,3.1,3.2
+2009-05-17,Hansa Rostock,Nurnberg,2.38,3.3,2.7
+2009-05-17,Frankfurt FSV,Ingolstadt,1.4,4.0,7.5
+2009-05-17,Bologna,Lecce,1.91,3.25,4.33
+2009-05-17,Fiorentina,Sampdoria,1.33,4.75,9.5
+2009-05-17,Genoa,Chievo,1.62,3.6,6.0
+2009-05-17,Inter,Siena,1.2,6.0,15.0
+2009-05-17,Juventus,Atalanta,1.25,5.5,12.0
+2009-05-17,Napoli,Torino,3.1,3.2,2.3
+2009-05-17,Greuther Furth,Mainz,2.38,3.3,2.7
+2009-05-17,Ankaragucu,Besiktas,6.5,4.0,1.45
+2009-05-17,Hibernian,Celtic,6.5,4.0,1.5
+2009-05-17,Palermo,Lazio,1.57,3.5,7.0
+2009-05-17,Reggina,Cagliari,1.8,3.6,4.5
+2009-05-17,Lille,Nice,1.62,3.5,6.25
+2009-05-17,Augsburg,Wehen,1.4,4.0,7.5
+2009-05-17,Antalyaspor,Fenerbahce,3.5,3.25,2.0
+2009-05-18,Portsmouth,Sunderland,2.1,3.2,3.75
+2009-05-20,Lazio,Reggina,2.5,3.6,2.6
+2009-05-23,Kayserispor,Hacettepespor,1.29,4.75,10.0
+2009-05-23,Schalke 04,Hoffenheim,1.83,3.75,4.0
+2009-05-23,Bordeaux,Monaco,1.25,5.5,13.0
+2009-05-23,Nancy,Marseille,5.5,3.5,1.67
+2009-05-23,Lyon,Caen,1.33,5.0,9.0
+2009-05-23,Le Mans,Grenoble,1.6,3.5,6.5
+2009-05-23,Le Havre,Lille,5.5,4.0,1.57
+2009-05-23,St Mirren,Hamilton,1.91,3.4,4.0
+2009-05-23,Auxerre,St Etienne,2.75,3.3,2.5
+2009-05-23,Nice,Toulouse,3.2,3.25,2.3
+2009-05-23,Wolfsburg,Werder Bremen,1.4,4.5,7.0
+2009-05-23,Ath Bilbao,Ath Madrid,4.0,3.75,1.83
+2009-05-23,Barcelona,Osasuna,2.0,3.5,3.6
+2009-05-23,Getafe,Numancia,1.67,3.75,5.0
+2009-05-23,Malaga,Betis,2.5,3.3,2.75
+2009-05-23,Recreativo,Santander,2.1,3.4,3.4
+2009-05-23,Sevilla,La Coruna,1.67,3.75,5.0
+2009-05-23,Almeria,Espanol,2.8,3.3,2.5
+2009-05-23,Valladolid,Sp Gijon,2.38,3.25,3.0
+2009-05-23,Rennes,Lorient,1.57,3.6,6.5
+2009-05-23,Valenciennes,Paris SG,3.75,3.3,2.0
+2009-05-23,Inverness C,Falkirk,2.2,3.3,3.25
+2009-05-23,Sochaux,Nantes,1.73,3.5,5.0
+2009-05-23,M'gladbach,Dortmund,3.75,3.6,1.91
+2009-05-23,Karlsruhe,Hertha,4.5,4.2,1.67
+2009-05-23,Motherwell,Kilmarnock,2.0,3.3,3.75
+2009-05-23,Ein Frankfurt,Hamburg,5.0,4.2,1.6
+2009-05-23,Cottbus,Leverkusen,2.38,4.0,2.6
+2009-05-23,Bielefeld,Hannover,1.62,4.33,4.75
+2009-05-23,Bayern Munich,Stuttgart,1.67,4.2,4.5
+2009-05-23,FC Koln,Bochum,2.1,3.4,3.4
+2009-05-23,Villarreal,Valencia,2.25,3.5,3.0
+2009-05-24,Aberdeen,Hibernian,1.95,3.4,3.8
+2009-05-24,Wigan,Portsmouth,2.1,3.4,3.5
+2009-05-24,West Ham,Middlesbrough,2.25,3.4,3.2
+2009-05-24,Sunderland,Chelsea,4.0,3.6,1.91
+2009-05-24,Aachen,Augsburg,1.62,3.6,4.5
+2009-05-24,Liverpool,Tottenham,1.53,4.0,6.5
+2009-05-24,Hull,Man United,3.0,3.5,2.3
+2009-05-24,Ahlen,Greuther Furth,2.5,3.25,2.6
+2009-05-24,Dundee United,Rangers,7.0,4.0,1.5
+2009-05-24,Fulham,Everton,2.1,3.3,3.6
+2009-05-24,Ankaragucu,Denizlispor,1.85,3.4,4.0
+2009-05-24,Ankaraspor,Antalyaspor,2.75,3.2,2.4
+2009-05-24,Besiktas,Galatasaray,2.0,3.25,3.5
+2009-05-24,Bursaspor,Gaziantepspor,1.53,3.75,6.0
+2009-05-24,Eskisehirspor,Trabzonspor,3.75,3.3,1.91
+2009-05-24,Fenerbahce,Konyaspor,1.5,3.8,6.0
+2009-05-24,Kocaelispor,Buyuksehyr,6.5,4.0,1.44
+2009-05-24,Sivasspor,Genclerbirligi,1.44,4.0,6.5
+2009-05-24,Celtic,Hearts,1.22,6.5,11.0
+2009-05-24,Blackburn,West Brom,1.83,3.5,4.5
+2009-05-24,Man City,Bolton,1.73,3.6,5.0
+2009-05-24,Arsenal,Stoke,1.33,5.0,10.0
+2009-05-24,Siena,Juventus,8.5,4.33,1.4
+2009-05-24,Torino,Genoa,1.4,4.5,7.5
+2009-05-24,Sampdoria,Udinese,3.1,3.3,2.25
+2009-05-24,Milan,Roma,1.8,3.4,4.75
+2009-05-24,Lecce,Fiorentina,5.0,4.33,1.57
+2009-05-24,Chievo,Bologna,3.2,1.57,6.0
+2009-05-24,Catania,Napoli,2.25,3.0,3.5
+2009-05-24,Cagliari,Inter,3.2,3.2,2.3
+2009-05-24,Atalanta,Palermo,3.25,3.2,2.25
+2009-05-24,Wehen,Hansa Rostock,5.5,4.0,1.53
+2009-05-24,Aston Villa,Newcastle,2.3,3.4,3.1
+2009-05-24,Nurnberg,Munich 1860,1.4,4.33,7.0
+2009-05-24,St Pauli,Frankfurt FSV,2.7,3.1,2.5
+2009-05-24,Real Madrid,Mallorca,1.5,4.33,6.0
+2009-05-24,Ingolstadt,Koblenz,3.6,3.2,2.0
+2009-05-24,Freiburg,Kaiserslautern ,1.73,3.5,4.33
+2009-05-24,Duisburg,Osnabruck,2.5,3.4,2.5
+2009-05-24,Mainz,Oberhausen,1.4,4.0,8.0
+2009-05-29,Gaziantepspor,Eskisehirspor,1.62,3.8,5.25
+2009-05-29,Hacettepespor,Kocaelispor,1.91,3.6,3.75
+2009-05-30,Antalyaspor,Ankaragucu,1.3,5.5,7.0
+2009-05-30,Buyuksehyr,Bursaspor,3.8,3.4,1.85
+2009-05-30,Denizlispor,Besiktas,9.0,4.75,1.33
+2009-05-30,Galatasaray,Sivasspor,2.15,3.4,3.2
+2009-05-30,Genclerbirligi,Kayserispor,1.6,3.3,6.0
+2009-05-30,Toulouse,Lyon,2.25,3.0,3.6
+2009-05-30,St Etienne,Valenciennes,1.45,4.33,6.5
+2009-05-30,Paris SG,Monaco,1.44,4.33,7.0
+2009-05-30,Nice,Le Havre,1.62,3.4,6.5
+2009-05-30,Marseille,Rennes,1.45,4.2,7.5
+2009-05-30,Lorient,Le Mans,2.75,2.38,3.6
+2009-05-30,Valencia,Ath Bilbao,1.36,4.75,8.5
+2009-05-30,Mallorca,Villarreal,3.4,3.3,2.15
+2009-05-30,La Coruna,Barcelona,2.0,3.6,3.4
+2009-05-30,Ath Madrid,Almeria,1.25,5.25,13.0
+2009-05-30,Nantes,Auxerre,2.8,3.0,2.7
+2009-05-30,Konyaspor,Ankaraspor,1.3,5.0,8.0
+2009-05-30,Caen,Bordeaux,4.75,3.5,1.75
+2009-05-30,Lille,Nancy,1.45,4.33,6.5
+2009-05-30,Grenoble,Sochaux,3.2,2.4,3.0
+2009-05-30,Trabzonspor,Fenerbahce,1.75,3.5,4.0
+2009-05-31,Reggina,Siena,2.25,3.0,3.4
+2009-05-31,Roma,Torino,1.65,4.2,4.5
+2009-05-31,Fiorentina,Milan,2.5,3.1,2.88
+2009-05-31,Udinese,Cagliari,1.75,3.6,4.5
+2009-05-31,Bologna,Catania,1.3,4.75,12.0
+2009-05-31,Genoa,Lecce,1.33,4.5,10.0
+2009-05-31,Napoli,Chievo,1.62,3.75,5.5
+2009-05-31,Juventus,Lazio,1.36,4.5,8.0
+2009-05-31,Betis,Valladolid,1.83,3.6,4.2
+2009-05-31,Espanol,Malaga,1.91,3.6,3.8
+2009-05-31,Numancia,Sevilla,4.2,3.6,1.83
+2009-05-31,Osasuna,Real Madrid,1.7,4.0,4.33
+2009-05-31,Santander,Getafe,3.3,3.3,2.15
+2009-05-31,Sp Gijon,Recreativo,1.33,5.0,8.5
+2009-05-31,Palermo,Sampdoria,1.8,3.1,5.0
+2009-05-31,Inter,Atalanta,1.44,4.0,8.0

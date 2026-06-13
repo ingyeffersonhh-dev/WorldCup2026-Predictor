@@ -1,0 +1,4071 @@
+date,home_team,away_team,odds_h,odds_d,odds_a
+2016-07-29,Mechelen,Club Brugge,4.75,3.8,1.7
+2016-07-30,Charleroi,Waasland-Beveren,1.6,3.8,5.75
+2016-07-30,Mouscron,Anderlecht,4.0,3.5,1.91
+2016-07-30,St Truiden,Lokeren,2.5,3.4,2.7
+2016-07-30,Waregem,Eupen,2.0,3.5,3.6
+2016-07-31,Westerlo,Standard,4.75,3.5,1.75
+2016-07-31,Genk,Oostende,1.7,3.75,4.75
+2016-07-31,Kortrijk,Gent,3.5,3.2,2.15
+2016-08-05,Nijmegen,Zwolle,2.75,3.3,2.5
+2016-08-05,Fulham,Newcastle,4.0,3.6,2.0
+2016-08-05,Oostende,Club Brugge,4.0,3.6,1.85
+2016-08-05,Kaiserslautern,Hannover,2.4,3.25,2.9
+2016-08-06,Utrecht,PSV Eindhoven,3.6,3.75,1.91
+2016-08-06,Dresden,Nurnberg,2.6,3.3,2.63
+2016-08-06,Sandhausen,Fortuna Dusseldorf,2.63,3.2,2.7
+2016-08-06,Twente,Excelsior,1.67,3.75,5.0
+2016-08-06,Birmingham,Cardiff,2.38,3.3,3.3
+2016-08-06,Blackburn,Norwich,3.4,3.25,2.38
+2016-08-06,Bristol City,Wigan,2.25,3.3,3.6
+2016-08-06,Derby,Brighton,2.1,3.4,4.0
+2016-08-06,Huddersfield,Brentford,2.2,3.6,3.4
+2016-08-06,Ipswich,Barnsley,2.1,3.4,4.0
+2016-08-06,Nott'm Forest,Burton,2.05,3.4,4.1
+2016-08-06,Reading,Preston,2.25,3.25,3.6
+2016-08-06,Rotherham,Wolves,3.0,3.25,2.6
+2016-08-06,Den Haag,Go Ahead Eagles,1.7,3.5,5.25
+2016-08-06,Waasland-Beveren,Waregem,2.9,3.3,2.4
+2016-08-06,Bochum,Union Berlin,2.2,3.3,3.3
+2016-08-06,Mouscron,Charleroi,2.63,3.4,2.55
+2016-08-06,Eupen,Mechelen,2.3,3.4,3.0
+2016-08-06,Willem II,Vitesse,3.2,3.4,2.2
+2016-08-06,Standard,St Truiden,1.44,4.33,7.0
+2016-08-06,Kilmarnock,Motherwell,2.63,3.3,2.63
+2016-08-06,Partick,Inverness C,2.6,3.2,2.75
+2016-08-06,Rangers,Hamilton,1.36,5.0,7.5
+2016-08-06,Ross County,Dundee,2.25,3.4,3.1
+2016-08-07,Sheffield Weds,Aston Villa,2.05,3.3,3.6
+2016-08-07,Bielefeld,Karlsruhe,2.7,3.1,2.7
+2016-08-07,Lokeren,Westerlo,1.73,3.6,4.75
+2016-08-07,Gent,Genk,1.8,3.6,4.33
+2016-08-07,Hearts,Celtic,5.0,4.0,1.62
+2016-08-07,St Johnstone,Aberdeen,3.6,3.3,2.05
+2016-08-07,QPR,Leeds,2.05,3.3,3.6
+2016-08-07,Anderlecht,Kortrijk,1.5,4.33,6.0
+2016-08-07,Braunschweig,Wurzburger Kickers,2.0,3.4,3.75
+2016-08-07,Sparta Rotterdam,Ajax,5.5,4.0,1.57
+2016-08-07,Roda,Heracles,2.3,3.4,3.0
+2016-08-07,Groningen,Feyenoord,3.75,3.5,1.95
+2016-08-07,AZ Alkmaar,Heerenveen,1.7,3.6,5.0
+2016-08-07,Heidenheim,Erzgebirge Aue,2.15,3.3,3.4
+2016-08-07,Greuther Furth,Munich 1860,2.1,3.3,3.5
+2016-08-08,Stuttgart,St Pauli,1.73,3.6,4.75
+2016-08-12,Brighton,Nott'm Forest,1.8,3.6,5.25
+2016-08-12,St Truiden,Anderlecht,5.5,3.8,1.62
+2016-08-12,Fortuna Dusseldorf,Stuttgart,3.6,3.4,2.0
+2016-08-12,Nurnberg,Heidenheim,1.85,3.6,4.0
+2016-08-12,Rio Ave,Porto,5.75,3.75,1.6
+2016-08-12,Monaco,Guingamp,1.62,3.8,5.25
+2016-08-12,Bastia,Paris SG,13.0,4.75,1.29
+2016-08-12,Heerenveen,Utrecht,2.63,3.6,2.45
+2016-08-12,Erzgebirge Aue,Sandhausen,2.15,3.3,3.4
+2016-08-13,Motherwell,St Johnstone,2.5,3.5,2.63
+2016-08-13,Charleroi,Gent,3.4,3.4,2.1
+2016-08-13,Genk,Waasland-Beveren,1.4,4.75,7.0
+2016-08-13,Mechelen,Kortrijk,2.1,3.5,3.3
+2016-08-13,Inverness C,Ross County,2.3,3.5,2.88
+2016-08-13,Tondela,Benfica,10.0,5.0,1.3
+2016-08-13,Dundee,Rangers,4.75,3.75,1.7
+2016-08-13,Bordeaux,St Etienne,2.5,3.1,3.1
+2016-08-13,Caen,Lorient,2.2,3.25,3.5
+2016-08-13,Dijon,Nantes,2.5,3.1,3.1
+2016-08-13,Metz,Lille,3.4,3.2,2.2
+2016-08-13,Montpellier,Angers,2.1,3.1,4.0
+2016-08-13,Barnsley,Derby,3.9,3.4,2.1
+2016-08-13,Brentford,Ipswich,2.45,3.4,3.1
+2016-08-13,Burton,Bristol City,3.0,3.4,2.5
+2016-08-13,Leeds,Birmingham,2.3,3.3,3.5
+2016-08-13,Newcastle,Huddersfield,1.7,3.75,5.75
+2016-08-13,Norwich,Sheffield Weds,1.95,3.5,4.33
+2016-08-13,Westerlo,Eupen,2.3,3.3,3.0
+2016-08-13,Wigan,Blackburn,2.15,3.4,3.75
+2016-08-13,Wolves,Reading,2.45,3.25,3.2
+2016-08-13,Aberdeen,Hearts,1.95,3.6,3.6
+2016-08-13,Hamilton,Kilmarnock,2.1,3.75,3.1
+2016-08-13,Preston,Fulham,2.25,3.3,3.6
+2016-08-13,Aston Villa,Rotherham,1.75,3.75,5.25
+2016-08-13,Southampton,Watford,1.8,3.75,5.0
+2016-08-13,Zwolle,Sparta Rotterdam,1.7,3.6,5.0
+2016-08-13,Middlesbrough,Stoke,2.38,3.2,3.4
+2016-08-13,Man City,Sunderland,1.25,6.5,15.0
+2016-08-13,Hull,Leicester,4.5,3.6,1.91
+2016-08-13,Everton,Tottenham,3.2,3.4,2.4
+2016-08-13,Crystal Palace,West Brom,2.0,3.3,4.5
+2016-08-13,Vitesse,Den Haag,1.7,3.75,4.75
+2016-08-13,Moreirense,Pacos Ferreira,2.6,3.0,2.9
+2016-08-13,Excelsior,Groningen,2.5,3.4,2.7
+2016-08-13,Burnley,Swansea,2.4,3.3,3.25
+2016-08-13,Karlsruhe,Bochum,2.5,3.2,2.88
+2016-08-13,St Pauli,Braunschweig,2.25,3.4,3.1
+2016-08-13,Sp Lisbon,Maritimo,1.22,5.75,13.0
+2016-08-13,Ajax,Roda,1.22,7.0,10.0
+2016-08-14,Nice,Rennes,2.38,3.1,3.25
+2016-08-14,Cardiff,QPR,2.38,3.3,3.3
+2016-08-14,Bournemouth,Man United,4.75,3.6,1.85
+2016-08-14,Boavista,Arouca,2.9,3.0,2.6
+2016-08-14,Nancy,Lyon,3.5,3.3,2.15
+2016-08-14,Marseille,Toulouse,2.0,3.3,4.0
+2016-08-14,Guimaraes,Sp Braga,3.4,3.2,2.2
+2016-08-14,PSV Eindhoven,AZ Alkmaar,1.4,4.75,7.0
+2016-08-14,Setubal,Belenenses,2.0,3.0,3.8
+2016-08-14,Go Ahead Eagles,Nijmegen,2.2,3.4,3.2
+2016-08-14,Feyenoord,Twente,1.22,6.5,11.0
+2016-08-14,Arsenal,Liverpool,2.4,3.5,3.1
+2016-08-14,Hannover,Greuther Furth,1.8,3.6,4.33
+2016-08-14,Munich 1860,Bielefeld,2.2,3.3,3.3
+2016-08-14,Wurzburger Kickers,Kaiserslautern,2.45,3.25,2.88
+2016-08-14,Club Brugge,Lokeren,1.33,5.25,8.0
+2016-08-14,Oostende,Mouscron,1.67,3.6,5.25
+2016-08-14,Waregem,Standard,2.63,3.6,2.45
+2016-08-14,Heracles,Willem II,1.8,3.6,4.33
+2016-08-15,Estoril,Feirense,2.05,3.1,4.0
+2016-08-15,Chelsea,West Ham,1.65,4.0,6.0
+2016-08-15,Union Berlin,Dresden,2.15,3.4,3.3
+2016-08-16,Burton,Sheffield Weds,3.4,3.3,2.35
+2016-08-16,Aston Villa,Huddersfield,2.0,3.5,4.2
+2016-08-16,Brentford,Nott'm Forest,2.38,3.4,3.25
+2016-08-16,Brighton,Rotherham,1.45,4.5,8.5
+2016-08-16,Leeds,Fulham,2.8,3.4,2.7
+2016-08-16,Norwich,Bristol City,1.83,3.6,5.0
+2016-08-16,Preston,Derby,3.3,3.4,2.35
+2016-08-16,Wigan,Birmingham,2.2,3.4,3.6
+2016-08-16,Wolves,Ipswich,2.15,3.4,3.75
+2016-08-17,Barnsley,QPR,2.75,3.4,2.75
+2016-08-17,Newcastle,Reading,1.7,3.75,5.75
+2016-08-17,Cardiff,Blackburn,2.0,3.4,4.33
+2016-08-19,Man United,Southampton,1.53,4.2,7.5
+2016-08-19,La Coruna,Eibar,1.95,3.4,4.2
+2016-08-19,Dundee,Hamilton,1.95,3.3,3.9
+2016-08-19,Belenenses,Boavista,2.5,3.0,3.1
+2016-08-19,Standard,Charleroi,1.85,3.6,4.0
+2016-08-19,Malaga,Osasuna,1.62,3.75,6.0
+2016-08-19,Excelsior,Den Haag,3.25,3.4,2.15
+2016-08-19,Adanaspor,Bursaspor,4.2,3.6,1.83
+2016-08-19,Lyon,Caen,1.33,4.75,9.5
+2016-08-20,Angers,Nice,2.5,3.0,3.2
+2016-08-20,Stoke,Man City,5.5,3.8,1.73
+2016-08-20,St Johnstone,Celtic,5.75,3.75,1.6
+2016-08-20,Ross County,Kilmarnock,1.75,3.5,4.75
+2016-08-20,Rangers,Motherwell,1.3,5.5,9.0
+2016-08-20,Hearts,Inverness C,1.95,3.4,3.9
+2016-08-20,Aberdeen,Partick,1.57,3.6,6.5
+2016-08-20,Tottenham,Crystal Palace,1.45,4.75,8.0
+2016-08-20,Trabzonspor,Kasimpasa,2.2,3.3,3.3
+2016-08-20,Rizespor,Konyaspor,3.0,3.2,2.4
+2016-08-20,Besiktas,Alanyaspor,1.36,4.75,8.5
+2016-08-20,Watford,Chelsea,5.5,3.8,1.73
+2016-08-20,Swansea,Hull,1.8,3.6,5.25
+2016-08-20,Leicester,Arsenal,2.88,3.6,2.5
+2016-08-20,Burnley,Liverpool,6.5,4.2,1.57
+2016-08-20,Sheffield Weds,Leeds,1.8,3.7,5.0
+2016-08-20,Rotherham,Brentford,2.9,3.4,2.55
+2016-08-20,Reading,Brighton,3.6,3.4,2.2
+2016-08-20,QPR,Preston,2.1,3.3,4.0
+2016-08-20,Nott'm Forest,Wigan,2.45,3.4,3.1
+2016-08-20,Huddersfield,Barnsley,1.95,3.6,4.2
+2016-08-20,Kortrijk,Club Brugge,4.33,3.75,1.75
+2016-08-20,Mouscron,St Truiden,2.25,3.25,3.2
+2016-08-20,Waasland-Beveren,Mechelen,2.4,3.4,2.8
+2016-08-20,Waregem,Oostende,2.3,3.4,3.0
+2016-08-20,Fulham,Cardiff,2.15,3.5,3.6
+2016-08-20,Derby,Aston Villa,2.15,3.4,3.75
+2016-08-20,Bristol City,Newcastle,3.3,3.4,2.35
+2016-08-20,West Brom,Everton,3.0,3.25,2.6
+2016-08-20,Blackburn,Burton,2.35,3.3,3.4
+2016-08-20,Birmingham,Wolves,2.6,3.3,3.0
+2016-08-20,Barcelona,Betis,1.08,11.0,29.0
+2016-08-20,Juventus,Fiorentina,1.5,4.2,7.0
+2016-08-20,Ajax,Willem II,1.25,5.5,12.0
+2016-08-20,Nijmegen,Heerenveen,2.63,3.4,2.55
+2016-08-20,Roda,Vitesse,3.2,3.5,2.15
+2016-08-20,Zwolle,PSV Eindhoven,6.0,4.33,1.5
+2016-08-20,Toulouse,Bordeaux,2.3,3.2,3.25
+2016-08-20,Roma,Udinese,1.44,4.5,7.5
+2016-08-20,Chaves,Tondela,2.1,3.1,3.8
+2016-08-20,Rennes,Nancy,2.1,3.25,3.8
+2016-08-20,Pacos Ferreira,Sp Lisbon,9.0,4.2,1.4
+2016-08-20,Porto,Estoril,1.29,5.5,9.5
+2016-08-20,Nantes,Monaco,2.5,3.0,3.0
+2016-08-20,Lorient,Bastia,1.85,3.5,4.5
+2016-08-20,Lille,Dijon,1.67,3.5,6.0
+2016-08-20,Sevilla,Espanol,1.67,4.0,5.0
+2016-08-20,Granada,Villarreal,2.5,3.2,3.0
+2016-08-20,Maritimo,Guimaraes,2.5,3.1,2.9
+2016-08-21,Chievo,Inter,3.75,3.3,2.1
+2016-08-21,Empoli,Sampdoria,2.3,3.2,3.3
+2016-08-21,Genoa,Cagliari,2.05,3.3,3.8
+2016-08-21,Milan,Torino,1.85,3.5,4.33
+2016-08-21,Utrecht,AZ Alkmaar,2.3,3.5,2.9
+2016-08-21,Pescara,Napoli,7.5,4.5,1.44
+2016-08-21,Ipswich,Norwich,3.5,3.4,2.25
+2016-08-21,West Ham,Bournemouth,1.95,3.75,4.0
+2016-08-21,Groningen,Twente,2.0,3.5,3.6
+2016-08-21,Heracles,Feyenoord,4.33,4.0,1.73
+2016-08-21,Sparta Rotterdam,Go Ahead Eagles,1.73,3.75,4.5
+2016-08-21,Arouca,Nacional,2.05,3.2,3.8
+2016-08-21,Benfica,Setubal,1.17,7.0,15.0
+2016-08-21,Feirense,Moreirense,2.3,3.0,3.4
+2016-08-21,Palermo,Sassuolo,3.0,3.2,2.5
+2016-08-21,Sunderland,Middlesbrough,2.55,3.2,3.1
+2016-08-21,Atalanta,Lazio,3.1,3.25,2.4
+2016-08-21,Gent,Westerlo,1.25,5.5,12.0
+2016-08-21,Buyuksehyr,Fenerbahce,3.25,3.25,2.2
+2016-08-21,Genclerbirligi,Gaziantepspor,1.85,3.5,4.2
+2016-08-21,Kayserispor,Akhisar Belediyespor,2.0,3.3,3.8
+2016-08-21,Sp Gijon,Ath Bilbao,4.0,3.5,1.95
+2016-08-21,Sociedad,Real Madrid,4.75,3.8,1.75
+2016-08-21,Eupen,Anderlecht,4.0,3.5,1.91
+2016-08-21,Bologna,Crotone,1.85,3.5,5.0
+2016-08-21,Antalyaspor,Osmanlispor,2.45,3.3,2.8
+2016-08-21,Ath Madrid,Alaves,1.2,6.5,17.0
+2016-08-21,St Etienne,Montpellier,2.05,3.25,3.75
+2016-08-21,Paris SG,Metz,1.13,8.0,26.0
+2016-08-21,Guingamp,Marseille,2.7,3.1,2.8
+2016-08-21,Lokeren,Genk,2.7,3.3,2.55
+2016-08-22,Sp Braga,Rio Ave,1.57,3.8,6.0
+2016-08-22,Valencia,Las Palmas,1.73,3.75,5.0
+2016-08-22,Galatasaray,Karabukspor,1.62,3.75,5.5
+2016-08-22,Celta,Leganes,1.65,3.75,5.75
+2016-08-26,Burton,Derby,3.4,3.4,2.3
+2016-08-26,Espanol,Malaga,2.3,3.1,3.4
+2016-08-26,Betis,La Coruna,2.2,3.2,3.5
+2016-08-26,Alanyaspor,Antalyaspor,3.1,3.3,2.3
+2016-08-26,Guimaraes,Pacos Ferreira,2.0,3.1,4.2
+2016-08-26,Kilmarnock,Rangers,7.0,4.33,1.44
+2016-08-26,Bayern Munich,Werder Bremen,1.1,10.0,23.0
+2016-08-26,Vitesse,Utrecht,1.91,3.6,3.75
+2016-08-26,Bochum,Hannover,2.4,3.3,2.88
+2016-08-26,Marseille,Lorient,1.75,3.6,5.0
+2016-08-26,Charleroi,Eupen,1.75,3.4,5.0
+2016-08-26,Heidenheim,Wurzburger Kickers,2.05,3.3,3.6
+2016-08-26,Sandhausen,Stuttgart,3.6,3.5,2.0
+2016-08-26,Konyaspor,Besiktas,3.3,3.4,2.15
+2016-08-27,Nancy,Guingamp,2.15,3.25,3.6
+2016-08-27,Nacional,Benfica,8.0,4.5,1.4
+2016-08-27,Estoril,Sp Braga,3.75,3.25,2.05
+2016-08-27,Caen,Bastia,2.1,3.25,3.8
+2016-08-27,Dijon,Lyon,4.33,3.6,1.83
+2016-08-27,Lazio,Juventus,4.75,3.5,1.8
+2016-08-27,Napoli,Milan,1.67,4.0,5.0
+2016-08-27,Eibar,Valencia,2.7,3.2,2.75
+2016-08-27,Leganes,Ath Madrid,8.5,3.6,1.53
+2016-08-27,Osasuna,Sociedad,3.1,3.1,2.5
+2016-08-27,Real Madrid,Celta,1.18,7.0,17.0
+2016-08-27,Hamilton,Ross County,3.0,3.4,2.3
+2016-08-27,Metz,Angers,2.5,3.0,3.2
+2016-08-27,Celtic,Aberdeen,1.44,4.33,7.0
+2016-08-27,Nice,Lille,2.5,3.0,3.0
+2016-08-27,Montpellier,Rennes,2.38,3.1,3.2
+2016-08-27,M'gladbach,Leverkusen,2.3,3.4,3.1
+2016-08-27,Hamburg,Ingolstadt,2.2,3.2,3.5
+2016-08-27,FC Koln,Darmstadt,1.8,3.5,4.75
+2016-08-27,Ein Frankfurt,Schalke 04,3.4,3.3,2.2
+2016-08-27,Dortmund,Mainz,1.36,5.0,8.5
+2016-08-27,Tondela,Belenenses,2.45,3.25,2.88
+2016-08-27,Augsburg,Wolfsburg,2.8,3.25,2.6
+2016-08-27,Wigan,QPR,2.25,3.25,3.4
+2016-08-27,St Truiden,Kortrijk,2.5,3.1,2.9
+2016-08-27,Motherwell,Dundee,2.4,3.5,2.75
+2016-08-27,Chelsea,Burnley,1.25,5.5,15.0
+2016-08-27,Inverness C,St Johnstone,2.63,3.4,2.55
+2016-08-27,Nott'm Forest,Leeds,2.25,3.3,3.3
+2016-08-27,Partick,Hearts,3.4,3.4,2.1
+2016-08-27,Feyenoord,Excelsior,1.18,6.5,15.0
+2016-08-27,Heerenveen,Zwolle,2.0,3.5,3.6
+2016-08-27,Twente,Sparta Rotterdam,1.91,3.75,3.6
+2016-08-27,Willem II,Roda,1.95,3.6,3.6
+2016-08-27,Kasimpasa,Adanaspor,1.67,3.75,5.0
+2016-08-27,Karlsruhe,Munich 1860,2.25,3.2,3.3
+2016-08-27,Greuther Furth,Erzgebirge Aue,2.2,3.3,3.3
+2016-08-27,Lokeren,Mouscron,1.83,3.4,4.5
+2016-08-27,Gaziantepspor,Trabzonspor,3.2,3.25,2.25
+2016-08-27,Akhisar Belediyespor,Galatasaray,2.88,3.2,2.5
+2016-08-27,Westerlo,Mechelen,2.88,3.4,2.35
+2016-08-27,Crystal Palace,Bournemouth,2.3,3.2,3.3
+2016-08-27,Everton,Stoke,1.73,3.6,5.25
+2016-08-27,Cardiff,Reading,2.3,3.4,3.0
+2016-08-27,Leicester,Swansea,1.73,3.6,5.25
+2016-08-27,Huddersfield,Wolves,2.2,3.3,3.3
+2016-08-27,Newcastle,Brighton,2.1,3.4,3.4
+2016-08-27,Hull,Man United,8.0,4.1,1.44
+2016-08-27,Ipswich,Preston,1.95,3.2,4.2
+2016-08-27,Bristol City,Aston Villa,2.7,3.3,2.55
+2016-08-27,Brentford,Sheffield Weds,2.8,3.25,2.5
+2016-08-27,Oostende,Waasland-Beveren,1.55,4.0,5.75
+2016-08-27,Birmingham,Norwich,3.3,3.4,2.15
+2016-08-27,Barnsley,Rotherham,1.85,3.5,4.2
+2016-08-27,Watford,Arsenal,5.0,3.75,1.73
+2016-08-27,Tottenham,Liverpool,2.38,3.4,3.0
+2016-08-27,Southampton,Sunderland,1.57,3.6,6.5
+2016-08-27,Blackburn,Fulham,2.9,3.4,2.38
+2016-08-28,Setubal,Arouca,2.3,3.1,3.3
+2016-08-28,Rio Ave,Feirense,1.91,3.25,4.33
+2016-08-28,Moreirense,Maritimo,2.38,3.2,3.0
+2016-08-28,Boavista,Chaves,2.3,3.0,3.4
+2016-08-28,Bielefeld,Union Berlin,2.4,3.3,2.88
+2016-08-28,Bursaspor,Buyuksehyr,2.1,3.4,3.4
+2016-08-28,Dresden,St Pauli,2.2,3.2,3.4
+2016-08-28,Hoffenheim,RB Leipzig,2.5,3.25,2.9
+2016-08-28,Hertha,Freiburg,2.15,3.3,3.5
+2016-08-28,Fenerbahce,Kayserispor,1.4,4.33,8.5
+2016-08-28,Karabukspor,Rizespor,2.0,3.3,3.8
+2016-08-28,Osmanlispor,Genclerbirligi,1.91,3.4,4.0
+2016-08-28,Braunschweig,Nurnberg,2.25,3.4,3.1
+2016-08-28,Sp Lisbon,Porto,2.1,3.2,3.6
+2016-08-28,Sassuolo,Pescara,1.62,3.75,6.0
+2016-08-28,Crotone,Genoa,4.0,3.4,1.91
+2016-08-28,Udinese,Empoli,2.05,3.4,3.75
+2016-08-28,AZ Alkmaar,Nijmegen,1.33,5.25,8.0
+2016-08-28,Den Haag,Heracles,1.95,3.5,3.75
+2016-08-28,Go Ahead Eagles,Ajax,8.0,4.75,1.36
+2016-08-28,PSV Eindhoven,Groningen,1.18,6.5,15.0
+2016-08-28,Monaco,Paris SG,4.75,3.5,1.8
+2016-08-28,West Brom,Middlesbrough,2.6,3.1,2.9
+2016-08-28,Man City,West Ham,1.25,6.0,11.0
+2016-08-28,Cagliari,Roma,4.75,3.75,1.7
+2016-08-28,Genk,Waregem,1.8,3.6,4.33
+2016-08-28,Club Brugge,Standard,1.5,4.33,6.0
+2016-08-28,Anderlecht,Gent,2.15,3.5,3.2
+2016-08-28,Alaves,Sp Gijon,2.15,3.2,3.75
+2016-08-28,Ath Bilbao,Barcelona,6.5,4.33,1.5
+2016-08-28,Las Palmas,Granada,1.91,3.4,4.33
+2016-08-28,Villarreal,Sevilla,2.5,3.4,2.8
+2016-08-28,St Etienne,Toulouse,2.15,3.25,3.6
+2016-08-28,Torino,Bologna,1.85,3.5,4.5
+2016-08-28,Sampdoria,Atalanta,2.25,3.2,3.4
+2016-08-28,Bordeaux,Nantes,2.05,3.1,4.2
+2016-08-28,Fiorentina,Chievo,1.67,3.75,5.5
+2016-08-28,Inter,Palermo,1.33,4.75,10.0
+2016-08-29,Kaiserslautern,Fortuna Dusseldorf,1.91,3.6,3.75
+2016-09-04,Nacional,Chaves,2.5,3.0,3.0
+2016-09-09,Arouca,Benfica,7.5,4.2,1.45
+2016-09-09,Wurzburger Kickers,Bochum,2.38,3.1,3.1
+2016-09-09,Stuttgart,Heidenheim,1.8,3.5,4.5
+2016-09-09,Erzgebirge Aue,Braunschweig,3.4,3.2,2.2
+2016-09-09,Sociedad,Espanol,2.05,3.4,3.75
+2016-09-09,Waasland-Beveren,Club Brugge,5.0,3.8,1.65
+2016-09-09,Reading,Ipswich,2.15,3.3,3.9
+2016-09-09,Paris SG,St Etienne,1.33,5.25,9.5
+2016-09-09,Schalke 04,Bayern Munich,10.0,5.5,1.3
+2016-09-10,Celtic,Rangers,1.6,4.0,5.25
+2016-09-10,Hearts,Hamilton,1.62,3.75,5.5
+2016-09-10,Partick,St Johnstone,2.7,3.4,2.5
+2016-09-10,Bastia,Toulouse,2.75,3.0,2.75
+2016-09-10,Dundee,Kilmarnock,1.91,3.4,4.0
+2016-09-10,Guingamp,Montpellier,2.3,3.1,3.5
+2016-09-10,Lorient,Nancy,2.38,3.1,3.3
+2016-09-10,Lyon,Bordeaux,1.62,3.8,5.5
+2016-09-10,Aberdeen,Inverness C,1.8,3.6,4.33
+2016-09-10,Wolfsburg,FC Koln,1.85,3.75,4.2
+2016-09-10,Angers,Dijon,2.25,3.1,3.5
+2016-09-10,Buyuksehyr,Kasimpasa,1.73,3.5,5.0
+2016-09-10,Lille,Monaco,2.6,2.9,3.1
+2016-09-10,Besiktas,Karabukspor,1.4,4.5,8.0
+2016-09-10,Arsenal,Southampton,1.57,4.2,6.5
+2016-09-10,Bournemouth,West Brom,2.05,3.25,4.33
+2016-09-10,Derby,Newcastle,2.88,3.2,2.75
+2016-09-10,Fulham,Birmingham,1.91,3.75,4.33
+2016-09-10,Leeds,Huddersfield,2.7,3.25,2.88
+2016-09-10,Norwich,Cardiff,1.62,4.0,6.5
+2016-09-10,Preston,Barnsley,2.3,3.3,3.5
+2016-09-10,QPR,Blackburn,1.8,3.5,5.5
+2016-09-10,Rotherham,Bristol City,3.5,3.4,2.25
+2016-09-10,Sheffield Weds,Wigan,1.91,3.5,4.6
+2016-09-10,Wolves,Burton,1.85,3.6,4.75
+2016-09-10,West Ham,Watford,1.91,3.6,4.5
+2016-09-10,Stoke,Tottenham,4.6,3.75,1.85
+2016-09-10,Middlesbrough,Crystal Palace,2.3,3.2,3.6
+2016-09-10,Man United,Man City,2.38,3.25,3.4
+2016-09-10,Liverpool,Leicester,1.7,4.0,5.5
+2016-09-10,Burnley,Hull,2.45,3.1,3.4
+2016-09-10,Mouscron,Waregem,2.63,3.3,2.6
+2016-09-10,Kortrijk,Westerlo,1.57,3.8,6.0
+2016-09-10,Mechelen,St Truiden,1.91,3.4,4.0
+2016-09-10,Union Berlin,Karlsruhe,2.1,3.3,3.5
+2016-09-10,Zwolle,Utrecht,2.6,3.4,2.6
+2016-09-10,Malaga,Villarreal,2.3,3.1,3.3
+2016-09-10,Celta,Ath Madrid,6.0,3.3,1.73
+2016-09-10,Barcelona,Alaves,1.07,12.0,34.0
+2016-09-10,Heerenveen,Twente,1.75,3.75,4.33
+2016-09-10,Excelsior,Heracles,3.1,3.4,2.25
+2016-09-10,Eupen,Oostende,2.88,3.4,2.38
+2016-09-10,AZ Alkmaar,Willem II,1.44,4.75,6.0
+2016-09-10,Adanaspor,Gaziantepspor,2.3,3.25,3.1
+2016-09-10,Palermo,Napoli,9.0,5.0,1.33
+2016-09-10,Juventus,Sassuolo,1.3,5.0,12.0
+2016-09-10,RB Leipzig,Dortmund,5.25,4.2,1.62
+2016-09-10,Nijmegen,PSV Eindhoven,8.0,5.25,1.33
+2016-09-10,Darmstadt,Ein Frankfurt,3.0,3.3,2.4
+2016-09-10,Porto,Guimaraes,1.36,5.0,7.5
+2016-09-10,Sp Lisbon,Moreirense,1.29,5.0,12.0
+2016-09-10,Leverkusen,Hamburg,1.45,4.5,7.0
+2016-09-10,Ingolstadt,Hertha,2.4,3.1,3.2
+2016-09-10,Kayserispor,Galatasaray,3.3,3.4,2.15
+2016-09-10,Genclerbirligi,Alanyaspor,1.73,3.6,4.75
+2016-09-10,Brighton,Brentford,1.65,4.0,6.0
+2016-09-10,Freiburg,M'gladbach,3.6,3.6,2.0
+2016-09-10,Real Madrid,Osasuna,1.04,15.0,34.0
+2016-09-10,Sevilla,Las Palmas,1.5,4.33,6.0
+2016-09-10,St Pauli,Bielefeld,2.3,3.2,3.1
+2016-09-10,Belenenses,Nacional,2.1,3.1,3.75
+2016-09-10,Ross County,Motherwell,2.0,3.5,3.6
+2016-09-11,Granada,Eibar,2.15,3.25,3.5
+2016-09-11,Werder Bremen,Augsburg,2.3,3.4,3.1
+2016-09-11,Mainz,Hoffenheim,2.0,3.5,3.75
+2016-09-11,Trabzonspor,Osmanlispor,2.15,3.2,3.5
+2016-09-11,Rizespor,Akhisar Belediyespor,2.7,3.25,2.6
+2016-09-11,Fenerbahce,Bursaspor,1.44,4.33,7.0
+2016-09-11,Antalyaspor,Konyaspor,2.63,3.2,2.7
+2016-09-11,Standard,Genk,2.1,3.5,3.25
+2016-09-11,Gent,Lokeren,1.4,4.5,8.0
+2016-09-11,Anderlecht,Charleroi,1.62,4.0,5.0
+2016-09-11,Sp Gijon,Leganes,2.25,3.2,3.4
+2016-09-11,Valencia,Betis,1.65,4.2,5.0
+2016-09-11,La Coruna,Ath Bilbao,3.6,3.25,2.15
+2016-09-11,Nice,Marseille,2.3,3.2,3.4
+2016-09-11,Aston Villa,Nott'm Forest,1.75,3.75,5.25
+2016-09-11,Swansea,Chelsea,5.75,4.0,1.67
+2016-09-11,Sp Braga,Boavista,1.44,4.0,8.0
+2016-09-11,Pacos Ferreira,Estoril,2.0,3.2,4.0
+2016-09-11,Maritimo,Rio Ave,2.5,3.0,3.0
+2016-09-11,Chaves,Setubal,2.5,3.0,3.0
+2016-09-11,Groningen,Sparta Rotterdam,2.25,3.4,3.1
+2016-09-11,Go Ahead Eagles,Roda,2.7,3.5,2.45
+2016-09-11,Feyenoord,Den Haag,1.36,5.25,7.0
+2016-09-11,Ajax,Vitesse,1.5,4.5,5.75
+2016-09-11,Roma,Sampdoria,1.33,5.25,9.0
+2016-09-11,Pescara,Inter,4.75,3.75,1.75
+2016-09-11,Milan,Udinese,1.67,4.0,5.0
+2016-09-11,Chievo,Lazio,3.0,3.2,2.5
+2016-09-11,Bologna,Cagliari,2.1,3.25,3.75
+2016-09-11,Atalanta,Torino,2.6,3.2,2.8
+2016-09-11,Hannover,Dresden,1.8,3.75,4.2
+2016-09-11,Sandhausen,Kaiserslautern,2.9,3.25,2.4
+2016-09-11,Fortuna Dusseldorf,Greuther Furth,2.4,3.25,3.0
+2016-09-11,Rennes,Caen,2.0,3.3,4.0
+2016-09-11,Nantes,Metz,1.73,3.4,5.5
+2016-09-12,Feirense,Tondela,2.38,3.1,3.1
+2016-09-12,Sunderland,Everton,3.8,3.5,2.1
+2016-09-12,Empoli,Crotone,1.57,4.0,6.0
+2016-09-12,Nurnberg,Munich 1860,2.0,3.4,3.75
+2016-09-13,Sheffield Weds,Bristol City,1.95,3.6,4.2
+2016-09-13,Brighton,Huddersfield,1.91,3.5,4.75
+2016-09-13,Derby,Ipswich,1.91,3.6,4.5
+2016-09-13,Fulham,Burton,1.91,3.8,4.2
+2016-09-13,Leeds,Blackburn,2.1,3.4,3.9
+2016-09-13,Norwich,Wigan,1.62,4.2,6.0
+2016-09-13,Preston,Cardiff,2.5,3.1,3.3
+2016-09-13,QPR,Newcastle,3.6,3.3,2.25
+2016-09-13,Wolves,Barnsley,1.95,3.6,4.2
+2016-09-13,Reading,Birmingham,2.15,3.3,3.9
+2016-09-14,Aston Villa,Brentford,1.75,4.0,4.8
+2016-09-14,Rotherham,Nott'm Forest,2.9,3.5,2.55
+2016-09-16,Bursaspor,Kayserispor,2.0,3.5,3.6
+2016-09-16,Utrecht,Groningen,1.57,4.0,5.5
+2016-09-16,Caen,Paris SG,7.0,4.5,1.4
+2016-09-16,Munich 1860,Union Berlin,2.3,3.3,3.1
+2016-09-16,Greuther Furth,Wurzburger Kickers,2.45,3.3,2.8
+2016-09-16,Karabukspor,Antalyaspor,2.1,3.4,3.4
+2016-09-16,Bochum,Nurnberg,1.91,3.6,3.75
+2016-09-16,Charleroi,Mechelen,1.73,3.75,4.5
+2016-09-16,Chelsea,Liverpool,2.25,3.5,3.4
+2016-09-16,FC Koln,Freiburg,1.8,3.6,4.5
+2016-09-16,Sampdoria,Milan,3.1,3.3,2.3
+2016-09-16,Nacional,Maritimo,2.55,3.2,2.8
+2016-09-16,Betis,Granada,1.73,3.75,5.0
+2016-09-17,Lorient,Lille,3.1,3.1,2.5
+2016-09-17,Leicester,Burnley,1.5,4.33,8.0
+2016-09-17,Hull,Arsenal,6.0,4.2,1.6
+2016-09-17,Everton,Middlesbrough,1.67,3.8,6.0
+2016-09-17,Nancy,Nantes,2.6,2.9,3.1
+2016-09-17,Estoril,Moreirense,2.38,3.0,3.25
+2016-09-17,Guimaraes,Belenenses,1.91,3.25,4.33
+2016-09-17,Setubal,Pacos Ferreira,2.4,3.1,3.1
+2016-09-17,Ein Frankfurt,Leverkusen,4.0,3.5,1.95
+2016-09-17,Kilmarnock,Partick,2.9,3.3,2.38
+2016-09-17,Monaco,Rennes,1.73,3.5,5.0
+2016-09-17,Leganes,Barcelona,17.0,7.0,1.18
+2016-09-17,Dortmund,Darmstadt,1.13,9.0,21.0
+2016-09-17,Hoffenheim,Wolfsburg,3.1,3.6,2.25
+2016-09-17,Bayern Munich,Ingolstadt,1.07,12.0,34.0
+2016-09-17,St Johnstone,Hearts,3.0,3.3,2.3
+2016-09-17,Lazio,Pescara,1.5,4.33,6.5
+2016-09-17,Willem II,Excelsior,1.62,4.0,5.0
+2016-09-17,Vitesse,Go Ahead Eagles,1.36,4.75,8.0
+2016-09-17,Twente,Den Haag,2.45,3.6,2.63
+2016-09-17,Roda,Heerenveen,2.75,3.3,2.5
+2016-09-17,Man City,Bournemouth,1.29,6.0,12.0
+2016-09-17,West Brom,West Ham,2.8,3.2,2.8
+2016-09-17,Napoli,Bologna,1.25,6.0,12.0
+2016-09-17,Rangers,Ross County,1.44,4.33,7.0
+2016-09-17,Toulouse,Guingamp,2.0,3.25,4.0
+2016-09-17,M'gladbach,Werder Bremen,1.44,4.5,7.5
+2016-09-17,Hamburg,RB Leipzig,2.75,3.25,2.63
+2016-09-17,Braunschweig,Sandhausen,1.67,3.5,5.5
+2016-09-17,Galatasaray,Rizespor,1.36,4.33,9.5
+2016-09-17,Las Palmas,Malaga,2.3,3.25,3.3
+2016-09-17,Eibar,Sevilla,3.1,3.3,2.35
+2016-09-17,Ath Madrid,Sp Gijon,1.18,6.5,21.0
+2016-09-17,Club Brugge,Eupen,1.33,5.25,8.0
+2016-09-17,St Truiden,Waasland-Beveren,2.0,3.4,3.75
+2016-09-17,Waregem,Kortrijk,1.91,3.6,3.75
+2016-09-17,Westerlo,Mouscron,2.38,3.6,2.75
+2016-09-17,Barnsley,Reading,2.38,3.3,3.3
+2016-09-17,Wigan,Fulham,2.7,3.3,2.88
+2016-09-17,Blackburn,Rotherham,2.1,3.5,3.75
+2016-09-17,Brentford,Preston,2.25,3.3,3.6
+2016-09-17,Bristol City,Derby,2.5,3.3,3.1
+2016-09-17,Birmingham,Sheffield Weds,2.88,3.25,2.7
+2016-09-17,Cardiff,Leeds,2.25,3.3,3.6
+2016-09-17,Heidenheim,Fortuna Dusseldorf,2.2,3.3,3.25
+2016-09-17,Kaiserslautern,Stuttgart,2.7,3.4,2.5
+2016-09-17,Burton,Brighton,4.0,3.4,2.1
+2016-09-17,Alanyaspor,Trabzonspor,3.0,3.2,2.4
+2016-09-17,Dijon,Metz,2.15,3.1,3.75
+2016-09-17,Motherwell,Hamilton,2.15,3.25,3.4
+2016-09-17,Nott'm Forest,Norwich,3.4,3.5,2.25
+2016-09-17,Newcastle,Wolves,1.6,4.0,6.5
+2016-09-17,Ipswich,Aston Villa,2.88,3.25,2.7
+2016-09-17,Huddersfield,QPR,2.05,3.4,4.2
+2016-09-17,Bordeaux,Angers,1.8,3.5,4.75
+2016-09-18,Hertha,Schalke 04,2.5,3.4,2.8
+2016-09-18,Konyaspor,Genclerbirligi,2.0,3.3,3.8
+2016-09-18,Akhisar Belediyespor,Besiktas,3.5,3.4,2.05
+2016-09-18,Cagliari,Atalanta,2.6,3.2,2.8
+2016-09-18,Crotone,Palermo,3.0,3.2,2.5
+2016-09-18,Fiorentina,Roma,2.9,3.5,2.4
+2016-09-18,Inter,Juventus,4.0,3.5,1.95
+2016-09-18,Gaziantepspor,Buyuksehyr,5.0,3.4,1.75
+2016-09-18,Augsburg,Mainz,2.38,3.4,3.0
+2016-09-18,Ath Bilbao,Valencia,1.85,3.6,4.33
+2016-09-18,Torino,Empoli,1.75,3.6,4.75
+2016-09-18,Espanol,Real Madrid,7.5,5.5,1.36
+2016-09-18,Osasuna,Celta,2.9,3.1,2.6
+2016-09-18,Villarreal,Sociedad,1.85,3.5,4.5
+2016-09-18,Karlsruhe,St Pauli,2.2,3.4,3.2
+2016-09-18,Dresden,Erzgebirge Aue,2.0,3.3,3.8
+2016-09-18,Bielefeld,Hannover,2.8,3.4,2.4
+2016-09-18,Tondela,Porto,8.5,4.75,1.36
+2016-09-18,Rio Ave,Sp Lisbon,5.5,4.0,1.57
+2016-09-18,Boavista,Feirense,2.2,3.1,3.5
+2016-09-18,Arouca,Chaves,2.2,3.0,3.6
+2016-09-18,Marseille,Lyon,2.7,3.4,2.6
+2016-09-18,Montpellier,Nice,2.3,3.2,3.3
+2016-09-18,St Etienne,Bastia,1.65,3.6,6.0
+2016-09-18,Zwolle,AZ Alkmaar,3.3,3.6,2.05
+2016-09-18,Sparta Rotterdam,Nijmegen,1.85,3.8,3.8
+2016-09-18,PSV Eindhoven,Feyenoord,1.7,3.75,4.75
+2016-09-18,Heracles,Ajax,4.75,4.0,1.65
+2016-09-18,Genk,Anderlecht,2.5,3.5,2.63
+2016-09-18,Lokeren,Standard,2.63,3.4,2.55
+2016-09-18,Oostende,Gent,3.2,3.6,2.1
+2016-09-18,Udinese,Chievo,2.0,3.25,4.0
+2016-09-18,Sassuolo,Genoa,2.2,3.2,3.5
+2016-09-18,Osmanlispor,Adanaspor,1.5,3.8,7.5
+2016-09-18,Dundee,Aberdeen,3.6,3.5,2.0
+2016-09-18,Tottenham,Sunderland,1.33,5.5,11.0
+2016-09-18,Southampton,Swansea,1.7,3.8,5.75
+2016-09-18,Crystal Palace,Stoke,2.0,3.5,4.2
+2016-09-18,Inverness C,Celtic,10.0,4.75,1.33
+2016-09-18,Watford,Man United,6.0,4.2,1.62
+2016-09-19,Benfica,Sp Braga,1.55,4.0,6.0
+2016-09-19,Alaves,La Coruna,2.3,3.0,3.5
+2016-09-19,Kasimpasa,Fenerbahce,4.75,3.6,1.75
+2016-09-20,Lille,Toulouse,2.05,3.1,4.0
+2016-09-20,Darmstadt,Hoffenheim,3.5,3.5,2.1
+2016-09-20,Freiburg,Hamburg,2.3,3.4,3.1
+2016-09-20,Ingolstadt,Ein Frankfurt,2.25,3.25,3.4
+2016-09-20,Wolfsburg,Dortmund,4.75,3.75,1.75
+2016-09-20,Milan,Lazio,2.15,3.4,3.4
+2016-09-20,Fortuna Dusseldorf,Bochum,2.6,3.3,2.63
+2016-09-20,Paris SG,Dijon,1.11,9.0,23.0
+2016-09-20,Nurnberg,Greuther Furth,2.2,3.4,3.2
+2016-09-20,Sandhausen,Heidenheim,2.8,3.1,2.63
+2016-09-20,Stuttgart,Braunschweig,2.0,3.4,3.75
+2016-09-20,Malaga,Eibar,1.85,3.4,4.75
+2016-09-20,Sevilla,Betis,1.45,4.5,7.0
+2016-09-21,Nantes,St Etienne,2.5,2.9,3.1
+2016-09-21,Metz,Bordeaux,3.2,3.1,2.4
+2016-09-21,Rennes,Marseille,2.3,3.3,3.2
+2016-09-21,Sociedad,Las Palmas,2.0,3.5,3.75
+2016-09-21,Nice,Monaco,3.1,3.2,2.4
+2016-09-21,Guingamp,Lorient,2.05,3.2,4.0
+2016-09-21,Bayern Munich,Hertha,1.14,9.0,17.0
+2016-09-21,Angers,Caen,2.25,3.2,3.4
+2016-09-21,Real Madrid,Villarreal,1.2,7.0,15.0
+2016-09-21,Leverkusen,Augsburg,1.45,4.5,7.0
+2016-09-21,RB Leipzig,M'gladbach,2.38,3.5,3.0
+2016-09-21,Erzgebirge Aue,Bielefeld,2.45,3.1,3.0
+2016-09-21,Hannover,Karlsruhe,1.7,3.75,4.75
+2016-09-21,Kaiserslautern,Dresden,2.25,3.3,3.2
+2016-09-21,Wurzburger Kickers,Union Berlin,2.5,3.25,2.8
+2016-09-21,Werder Bremen,Mainz,3.0,3.5,2.3
+2016-09-21,Schalke 04,FC Koln,2.1,3.4,3.6
+2016-09-21,Bastia,Nancy,2.4,3.0,3.3
+2016-09-21,Granada,Ath Bilbao,4.5,3.5,1.85
+2016-09-21,Lyon,Montpellier,1.57,4.0,6.0
+2016-09-21,Barcelona,Ath Madrid,1.6,4.0,5.5
+2016-09-21,Atalanta,Palermo,1.62,3.75,6.0
+2016-09-21,Bologna,Sampdoria,2.4,3.25,3.1
+2016-09-21,Chievo,Sassuolo,2.4,3.2,3.1
+2016-09-21,Empoli,Inter,4.33,3.3,1.95
+2016-09-21,Genoa,Napoli,4.75,3.75,1.75
+2016-09-21,Juventus,Cagliari,1.17,7.5,17.0
+2016-09-21,Pescara,Torino,3.25,3.25,2.3
+2016-09-21,Celta,Sp Gijon,1.57,4.0,6.0
+2016-09-21,Udinese,Fiorentina,3.25,3.25,2.3
+2016-09-21,Roma,Crotone,1.13,8.5,23.0
+2016-09-22,Osasuna,Espanol,2.88,3.2,2.6
+2016-09-22,La Coruna,Leganes,2.15,3.25,3.6
+2016-09-22,Valencia,Alaves,1.57,3.75,6.0
+2016-09-22,St Pauli,Munich 1860,2.3,3.2,3.1
+2016-09-23,Preston,Wigan,2.5,3.3,3.1
+2016-09-23,Antalyaspor,Akhisar Belediyespor,2.4,3.1,3.1
+2016-09-23,Mouscron,Club Brugge,5.75,4.0,1.57
+2016-09-23,Bochum,Stuttgart,3.2,3.5,2.15
+2016-09-23,Toulouse,Paris SG,7.0,4.2,1.5
+2016-09-23,Greuther Furth,Sandhausen,2.25,3.25,3.2
+2016-09-23,Porto,Boavista,1.18,6.5,15.0
+2016-09-23,Sp Lisbon,Estoril,1.17,6.5,19.0
+2016-09-23,Braunschweig,Fortuna Dusseldorf,1.95,3.3,4.0
+2016-09-23,Betis,Malaga,2.6,3.1,2.9
+2016-09-23,Dortmund,Freiburg,1.18,7.5,15.0
+2016-09-24,Sunderland,Crystal Palace,2.88,3.25,2.7
+2016-09-24,Stoke,West Brom,2.38,3.3,3.3
+2016-09-24,Middlesbrough,Tottenham,3.75,3.5,2.1
+2016-09-24,Man United,Leicester,1.73,3.9,5.25
+2016-09-24,Swansea,Man City,9.0,5.5,1.36
+2016-09-24,Liverpool,Hull,1.22,7.0,15.0
+2016-09-24,Bournemouth,Everton,3.6,3.5,2.15
+2016-09-24,Arsenal,Chelsea,2.4,3.5,3.1
+2016-09-24,Gent,St Truiden,1.3,5.0,10.0
+2016-09-24,Ajax,Zwolle,1.22,6.5,11.0
+2016-09-24,Waasland-Beveren,Lokeren,2.3,3.3,3.1
+2016-09-24,Augsburg,Darmstadt,1.67,3.75,5.5
+2016-09-24,Mechelen,Waregem,2.8,3.4,2.38
+2016-09-24,Mainz,Leverkusen,3.0,3.3,2.4
+2016-09-24,Hamburg,Bayern Munich,13.0,7.0,1.2
+2016-09-24,Inverness C,Dundee,2.0,3.3,3.8
+2016-09-24,Hearts,Ross County,1.75,3.5,4.75
+2016-09-24,Celtic,Kilmarnock,1.14,7.5,19.0
+2016-09-24,AZ Alkmaar,Go Ahead Eagles,1.25,6.0,10.0
+2016-09-24,Montpellier,Metz,1.67,3.6,5.75
+2016-09-24,Monaco,Angers,1.62,3.75,6.0
+2016-09-24,Lorient,Lyon,4.2,3.5,1.91
+2016-09-24,Dijon,Rennes,2.8,3.2,2.6
+2016-09-24,Bordeaux,Caen,1.85,3.6,4.33
+2016-09-24,Bastia,Guingamp,2.4,3.0,3.3
+2016-09-24,Ein Frankfurt,Hertha,2.25,3.2,3.4
+2016-09-24,Den Haag,Heerenveen,2.2,3.4,3.2
+2016-09-24,Groningen,Heracles,2.05,3.4,3.5
+2016-09-24,Palermo,Juventus,11.0,5.5,1.29
+2016-09-24,Napoli,Chievo,1.33,5.0,10.0
+2016-09-24,Sp Gijon,Barcelona,13.0,6.5,1.22
+2016-09-24,Las Palmas,Real Madrid,8.5,5.0,1.36
+2016-09-24,Eibar,Sociedad,2.45,3.2,3.0
+2016-09-24,Ath Bilbao,Sevilla,2.05,3.4,3.75
+2016-09-24,Werder Bremen,Wolfsburg,3.9,3.75,1.91
+2016-09-24,M'gladbach,Ingolstadt,1.8,3.6,4.75
+2016-09-24,Partick,Motherwell,2.1,3.4,3.4
+2016-09-24,Excelsior,PSV Eindhoven,8.5,5.0,1.33
+2016-09-24,Aston Villa,Newcastle,3.1,3.3,2.5
+2016-09-24,Charleroi,Oostende,2.1,3.5,3.25
+2016-09-24,Fulham,Bristol City,2.25,3.4,3.5
+2016-09-24,Sheffield Weds,Nott'm Forest,1.65,4.1,5.75
+2016-09-24,Rotherham,Cardiff,3.2,3.25,2.45
+2016-09-24,Reading,Huddersfield,2.55,3.3,3.0
+2016-09-24,QPR,Birmingham,2.55,3.3,3.0
+2016-09-24,Sp Braga,Setubal,1.5,4.2,6.5
+2016-09-24,Feirense,Nacional,2.5,3.1,2.9
+2016-09-24,Chaves,Benfica,9.0,4.0,1.44
+2016-09-24,Norwich,Burton,1.5,4.5,7.5
+2016-09-24,Leeds,Ipswich,2.5,3.2,3.2
+2016-09-24,Derby,Blackburn,1.65,4.0,6.0
+2016-09-24,Wolves,Brentford,2.3,3.5,3.3
+2016-09-24,Heidenheim,Kaiserslautern,2.38,3.2,3.0
+2016-09-24,Karlsruhe,Erzgebirge Aue,2.4,3.2,3.0
+2016-09-24,Trabzonspor,Konyaspor,2.25,3.25,3.2
+2016-09-24,Buyuksehyr,Osmanlispor,2.05,3.4,3.6
+2016-09-24,Brighton,Barnsley,1.67,4.0,5.75
+2016-09-24,Besiktas,Galatasaray,1.91,3.5,4.0
+2016-09-25,Maritimo,Tondela,2.05,3.25,3.75
+2016-09-25,Fenerbahce,Gaziantepspor,1.2,6.5,13.0
+2016-09-25,Genclerbirligi,Karabukspor,2.05,3.2,3.8
+2016-09-25,St Etienne,Lille,2.3,3.0,3.5
+2016-09-25,Nancy,Nice,2.5,3.1,3.1
+2016-09-25,Marseille,Nantes,2.0,3.1,4.33
+2016-09-25,Moreirense,Guimaraes,2.88,3.1,2.55
+2016-09-25,Fiorentina,Milan,2.3,3.1,3.4
+2016-09-25,Ath Madrid,La Coruna,1.22,5.5,19.0
+2016-09-25,Espanol,Celta,2.25,3.3,3.3
+2016-09-25,Leganes,Valencia,2.8,3.2,2.6
+2016-09-25,Twente,Vitesse,3.2,3.5,2.15
+2016-09-25,Nijmegen,Willem II,2.5,3.3,2.75
+2016-09-25,Feyenoord,Roda,1.2,6.0,15.0
+2016-09-25,West Ham,Southampton,2.8,3.3,2.75
+2016-09-25,Utrecht,Sparta Rotterdam,1.8,3.6,4.33
+2016-09-25,Pacos Ferreira,Rio Ave,2.88,3.1,2.55
+2016-09-25,Torino,Roma,3.75,3.5,2.0
+2016-09-25,Hoffenheim,Schalke 04,2.7,3.4,2.6
+2016-09-25,Standard,Eupen,1.62,3.75,5.5
+2016-09-25,Hamilton,St Johnstone,2.9,3.3,2.38
+2016-09-25,Aberdeen,Rangers,2.88,3.2,2.45
+2016-09-25,Bursaspor,Kasimpasa,1.65,3.5,5.75
+2016-09-25,Dresden,Wurzburger Kickers,2.38,3.2,3.0
+2016-09-25,Bielefeld,Nurnberg,2.2,3.4,3.2
+2016-09-25,Sassuolo,Udinese,2.05,3.3,3.8
+2016-09-25,Kortrijk,Genk,2.6,3.2,2.7
+2016-09-25,Genoa,Pescara,1.65,4.0,5.25
+2016-09-25,Anderlecht,Westerlo,1.2,6.5,13.0
+2016-09-25,Kayserispor,Rizespor,1.73,3.5,5.0
+2016-09-25,Inter,Bologna,1.45,4.2,8.5
+2016-09-25,Lazio,Empoli,1.44,4.2,8.5
+2016-09-25,FC Koln,RB Leipzig,2.3,3.3,3.2
+2016-09-25,Munich 1860,Hannover,2.75,3.3,2.5
+2016-09-25,Villarreal,Osasuna,1.4,4.33,9.5
+2016-09-26,Belenenses,Arouca,2.25,3.1,3.4
+2016-09-26,Cagliari,Sampdoria,2.2,3.2,3.5
+2016-09-26,Alaves,Granada,2.1,3.3,3.75
+2016-09-26,Adanaspor,Alanyaspor,2.75,3.3,2.5
+2016-09-26,Crotone,Atalanta,4.5,3.3,1.91
+2016-09-26,Union Berlin,St Pauli,2.1,3.4,3.4
+2016-09-26,Burnley,Watford,2.9,3.2,2.7
+2016-09-27,Nott'm Forest,Fulham,2.5,3.6,2.9
+2016-09-27,Ipswich,Brighton,3.9,3.3,2.15
+2016-09-27,Huddersfield,Rotherham,1.57,4.2,6.5
+2016-09-27,Cardiff,Derby,2.9,3.3,2.63
+2016-09-27,Burton,QPR,2.75,3.3,2.8
+2016-09-27,Bristol City,Leeds,2.1,3.5,3.75
+2016-09-27,Wigan,Wolves,2.6,3.4,2.9
+2016-09-27,Brentford,Reading,2.4,3.4,3.2
+2016-09-27,Birmingham,Preston,2.25,3.3,3.6
+2016-09-27,Barnsley,Aston Villa,3.25,3.4,2.35
+2016-09-27,Blackburn,Sheffield Weds,3.25,3.4,2.35
+2016-09-28,Newcastle,Norwich,2.1,3.5,3.8
+2016-09-30,Zwolle,Den Haag,2.3,3.4,3.0
+2016-09-30,RB Leipzig,Augsburg,1.65,3.75,5.75
+2016-09-30,Motherwell,Hearts,4.0,3.6,1.85
+2016-09-30,Oostende,St Truiden,1.62,3.7,5.5
+2016-09-30,Rennes,Guingamp,2.05,3.2,4.0
+2016-09-30,Nurnberg,Union Berlin,2.2,3.5,3.1
+2016-09-30,Erzgebirge Aue,Bochum,2.38,3.3,2.9
+2016-09-30,Tondela,Pacos Ferreira,2.5,3.0,3.0
+2016-09-30,Akhisar Belediyespor,Genclerbirligi,2.45,3.2,2.88
+2016-09-30,Everton,Crystal Palace,1.73,4.0,5.0
+2016-09-30,Sociedad,Betis,1.8,3.5,4.75
+2016-09-30,Sandhausen,Dresden,2.38,3.2,3.0
+2016-10-01,Rotherham,Newcastle,6.5,4.4,1.55
+2016-10-01,Reading,Derby,2.9,3.25,2.7
+2016-10-01,Preston,Aston Villa,3.5,3.4,2.25
+2016-10-01,Udinese,Lazio,3.0,3.3,2.4
+2016-10-01,Karabukspor,Trabzonspor,2.7,3.1,2.7
+2016-10-01,Kasimpasa,Kayserispor,2.63,3.4,2.55
+2016-10-01,Rizespor,Besiktas,7.0,4.0,1.5
+2016-10-01,Go Ahead Eagles,Excelsior,2.3,3.4,3.0
+2016-10-01,Brentford,Wigan,2.0,3.6,4.0
+2016-10-01,Birmingham,Blackburn,2.05,3.5,4.0
+2016-10-01,Fulham,QPR,2.05,3.5,4.0
+2016-10-01,Ipswich,Huddersfield,2.75,3.2,2.88
+2016-10-01,Leeds,Barnsley,2.2,3.4,3.6
+2016-10-01,Fortuna Dusseldorf,Karlsruhe,2.1,3.3,3.5
+2016-10-01,Hannover,St Pauli,1.8,3.5,4.5
+2016-10-01,Lokeren,Kortrijk,2.4,3.3,2.9
+2016-10-01,Sheffield Weds,Brighton,2.38,3.3,3.3
+2016-10-01,Waregem,Charleroi,2.0,3.5,3.6
+2016-10-01,Westerlo,Waasland-Beveren,2.7,3.3,2.55
+2016-10-01,Bristol City,Nott'm Forest,1.95,3.8,4.0
+2016-10-01,Burton,Cardiff,2.5,3.4,3.0
+2016-10-01,Guimaraes,Sp Lisbon,5.25,3.6,1.67
+2016-10-01,Eupen,Mouscron,1.95,3.5,3.75
+2016-10-01,Dijon,Montpellier,2.6,3.0,3.0
+2016-10-01,Caen,Toulouse,2.5,3.1,3.0
+2016-10-01,Leverkusen,Dortmund,3.8,3.6,1.95
+2016-10-01,Watford,Bournemouth,2.38,3.3,3.3
+2016-10-01,Swansea,Liverpool,8.0,4.75,1.45
+2016-10-01,Sunderland,West Brom,2.5,3.25,3.2
+2016-10-01,Hull,Chelsea,7.5,4.5,1.5
+2016-10-01,Pescara,Chievo,2.55,3.2,2.9
+2016-10-01,Lille,Nancy,1.85,3.2,5.0
+2016-10-01,Vitesse,Groningen,1.62,4.33,4.75
+2016-10-01,Heerenveen,PSV Eindhoven,4.75,4.33,1.62
+2016-10-01,Granada,Leganes,2.45,3.3,3.0
+2016-10-01,La Coruna,Sp Gijon,1.95,3.4,4.2
+2016-10-01,Osasuna,Las Palmas,2.6,3.2,2.8
+2016-10-01,Sevilla,Alaves,1.44,4.33,8.0
+2016-10-01,Gaziantepspor,Bursaspor,3.75,3.4,2.0
+2016-10-01,Rio Ave,Estoril,1.85,3.4,4.33
+2016-10-01,Chaves,Belenenses,2.2,3.1,3.5
+2016-10-01,Roda,Nijmegen,2.05,3.3,3.6
+2016-10-01,Wolves,Norwich,3.0,3.4,2.5
+2016-10-01,Metz,Monaco,4.5,3.6,1.8
+2016-10-01,Paris SG,Bordeaux,1.25,5.75,13.0
+2016-10-01,Ingolstadt,Hoffenheim,2.05,3.4,3.75
+2016-10-01,Hertha,Hamburg,2.0,3.25,4.2
+2016-10-01,Freiburg,Ein Frankfurt,2.3,3.3,3.2
+2016-10-01,Darmstadt,Werder Bremen,3.1,3.4,2.3
+2016-10-01,Nacional,Porto,8.5,4.75,1.36
+2016-10-01,Bayern Munich,FC Koln,1.17,7.0,19.0
+2016-10-01,West Ham,Middlesbrough,2.25,3.4,3.5
+2016-10-01,Ross County,St Johnstone,2.4,3.5,2.75
+2016-10-01,Nantes,Bastia,1.95,3.2,4.5
+2016-10-01,Rangers,Partick,1.33,5.0,8.5
+2016-10-01,Dundee,Celtic,12.0,6.0,1.22
+2016-10-01,Hamilton,Inverness C,2.88,3.5,2.3
+2016-10-01,Kilmarnock,Aberdeen,5.75,4.2,1.53
+2016-10-02,Man United,Stoke,1.33,5.75,10.0
+2016-10-02,Burnley,Arsenal,9.0,5.0,1.4
+2016-10-02,Alanyaspor,Buyuksehyr,3.5,3.3,2.1
+2016-10-02,Galatasaray,Antalyaspor,1.4,4.5,7.5
+2016-10-02,Konyaspor,Adanaspor,1.5,3.75,7.5
+2016-10-02,Leicester,Southampton,2.25,3.4,3.5
+2016-10-02,Tottenham,Man City,3.0,3.5,2.5
+2016-10-02,Osmanlispor,Fenerbahce,2.9,3.25,2.4
+2016-10-02,Bologna,Genoa,2.2,3.1,3.6
+2016-10-02,Lyon,St Etienne,1.73,3.6,5.0
+2016-10-02,Angers,Marseille,2.63,3.0,3.0
+2016-10-02,Celta,Barcelona,8.0,4.75,1.4
+2016-10-02,Espanol,Villarreal,2.88,3.1,2.63
+2016-10-02,Malaga,Ath Bilbao,2.45,3.0,3.3
+2016-10-02,Arouca,Sp Braga,3.5,3.3,2.1
+2016-10-02,Benfica,Feirense,1.14,7.5,19.0
+2016-10-02,Boavista,Moreirense,2.4,3.1,3.1
+2016-10-02,Atalanta,Napoli,6.0,4.0,1.55
+2016-10-02,Setubal,Maritimo,2.1,3.2,3.6
+2016-10-02,Wolfsburg,Mainz,1.85,3.6,4.33
+2016-10-02,Schalke 04,M'gladbach,2.2,3.4,3.3
+2016-10-02,Heracles,Twente,2.05,3.4,3.5
+2016-10-02,Sparta Rotterdam,AZ Alkmaar,3.0,3.5,2.25
+2016-10-02,Willem II,Feyenoord,6.0,4.33,1.5
+2016-10-02,Wurzburger Kickers,Munich 1860,2.3,3.25,3.1
+2016-10-02,Kaiserslautern,Bielefeld,2.05,3.4,3.5
+2016-10-02,Heidenheim,Braunschweig,2.7,3.25,2.55
+2016-10-02,Ajax,Utrecht,1.33,5.0,8.5
+2016-10-02,Nice,Lorient,1.8,3.5,4.75
+2016-10-02,Real Madrid,Eibar,1.08,11.0,26.0
+2016-10-02,Roma,Inter,2.0,3.5,3.8
+2016-10-02,Club Brugge,Gent,2.1,3.4,3.4
+2016-10-02,Valencia,Ath Madrid,4.5,3.5,1.85
+2016-10-02,Torino,Fiorentina,2.4,3.2,3.1
+2016-10-02,Sampdoria,Palermo,1.65,3.75,5.5
+2016-10-02,Genk,Mechelen,1.62,3.8,5.5
+2016-10-02,Standard,Anderlecht,2.7,3.5,2.45
+2016-10-02,Milan,Sassuolo,1.62,3.8,6.0
+2016-10-02,Empoli,Juventus,10.0,5.0,1.3
+2016-10-02,Cagliari,Crotone,1.44,4.33,8.0
+2016-10-03,Stuttgart,Greuther Furth,1.67,3.8,5.0
+2016-10-14,St Pauli,Erzgebirge Aue,1.8,3.6,4.33
+2016-10-14,Bielefeld,Wurzburger Kickers,2.45,3.1,3.0
+2016-10-14,Las Palmas,Espanol,1.95,3.4,4.2
+2016-10-14,Toulouse,Monaco,3.0,3.2,2.5
+2016-10-14,Bochum,Sandhausen,2.0,3.4,3.75
+2016-10-14,Cardiff,Bristol City,2.88,3.25,2.7
+2016-10-14,Dortmund,Hertha,1.33,5.25,9.0
+2016-10-14,Nott'm Forest,Birmingham,2.6,3.4,2.88
+2016-10-14,Nice,Lyon,2.9,3.4,2.38
+2016-10-14,Inverness C,Rangers,4.33,3.4,1.85
+2016-10-14,Charleroi,Club Brugge,3.1,3.5,2.2
+2016-10-15,Kortrijk,Standard,2.7,3.25,2.6
+2016-10-15,Aston Villa,Wolves,2.0,3.5,4.2
+2016-10-15,Barnsley,Fulham,2.5,3.4,3.0
+2016-10-15,Blackburn,Ipswich,2.55,3.25,3.1
+2016-10-15,Brighton,Preston,1.6,4.0,6.5
+2016-10-15,Guingamp,Lille,2.45,3.1,3.1
+2016-10-15,Adanaspor,Karabukspor,2.88,3.4,2.38
+2016-10-15,Norwich,Rotherham,1.36,5.25,9.5
+2016-10-15,QPR,Reading,2.5,3.2,3.2
+2016-10-15,Groningen,Heerenveen,2.5,3.4,2.7
+2016-10-15,AZ Alkmaar,Vitesse,1.95,3.5,3.8
+2016-10-15,Lorient,Nantes,2.5,3.2,3.0
+2016-10-15,Montpellier,Caen,1.85,3.4,4.5
+2016-10-15,Nancy,Paris SG,10.0,5.0,1.33
+2016-10-15,Waasland-Beveren,Eupen,2.3,3.5,2.9
+2016-10-15,St Truiden,Westerlo,1.62,3.8,5.5
+2016-10-15,Mouscron,Genk,3.8,3.4,1.95
+2016-10-15,Wigan,Burton,2.1,3.5,3.75
+2016-10-15,Bastia,Angers,2.5,2.8,3.25
+2016-10-15,Juventus,Udinese,1.2,7.0,13.0
+2016-10-15,West Brom,Tottenham,5.5,3.8,1.73
+2016-10-15,Hearts,Dundee,1.44,4.2,7.5
+2016-10-15,Celtic,Motherwell,1.13,8.0,19.0
+2016-10-15,Aberdeen,Ross County,1.5,4.0,7.0
+2016-10-15,M'gladbach,Hamburg,1.67,3.8,5.25
+2016-10-15,Hoffenheim,Freiburg,2.05,3.6,3.5
+2016-10-15,FC Koln,Ingolstadt,1.8,3.5,4.75
+2016-10-15,Ein Frankfurt,Bayern Munich,13.0,6.0,1.25
+2016-10-15,Augsburg,Schalke 04,3.1,3.4,2.3
+2016-10-15,Greuther Furth,Heidenheim,2.25,3.25,3.2
+2016-10-15,Dresden,Stuttgart,3.6,3.5,2.0
+2016-10-15,Ath Madrid,Granada,1.13,10.0,17.0
+2016-10-15,Barcelona,La Coruna,1.1,10.0,26.0
+2016-10-15,Betis,Real Madrid,8.0,5.25,1.36
+2016-10-15,Leganes,Sevilla,3.4,3.2,2.25
+2016-10-15,Kayserispor,Besiktas,4.33,4.0,1.7
+2016-10-15,Kasimpasa,Gaziantepspor,1.91,3.6,3.8
+2016-10-15,Genclerbirligi,Galatasaray,3.0,3.4,2.3
+2016-10-15,Partick,Hamilton,2.05,3.4,3.5
+2016-10-15,St Johnstone,Kilmarnock,1.5,4.33,6.0
+2016-10-15,Werder Bremen,Leverkusen,4.75,4.2,1.67
+2016-10-15,Newcastle,Brentford,1.57,4.33,6.5
+2016-10-15,PSV Eindhoven,Heracles,1.18,7.0,13.0
+2016-10-15,Pescara,Sampdoria,2.38,3.3,3.1
+2016-10-15,Napoli,Roma,2.0,3.5,3.8
+2016-10-15,Derby,Leeds,1.83,3.6,5.0
+2016-10-15,Arsenal,Swansea,1.29,6.5,11.0
+2016-10-15,Bournemouth,Hull,1.85,3.5,5.0
+2016-10-15,Chelsea,Leicester,1.57,4.5,6.0
+2016-10-15,Utrecht,Go Ahead Eagles,1.44,4.33,7.0
+2016-10-15,Sparta Rotterdam,Willem II,2.05,3.5,3.4
+2016-10-15,Man City,Everton,1.5,4.75,7.0
+2016-10-15,Crystal Palace,West Ham,2.15,3.5,3.6
+2016-10-15,Stoke,Sunderland,2.0,3.6,4.0
+2016-10-16,Alaves,Malaga,2.6,3.0,3.0
+2016-10-16,Huddersfield,Sheffield Weds,2.63,3.3,2.9
+2016-10-16,Inter,Cagliari,1.4,4.75,8.5
+2016-10-16,Lazio,Bologna,1.5,4.0,7.5
+2016-10-16,Sassuolo,Crotone,1.4,4.5,8.5
+2016-10-16,Ath Bilbao,Sociedad,1.83,3.6,4.4
+2016-10-16,Gent,Waregem,1.55,4.0,5.75
+2016-10-16,Anderlecht,Lokeren,1.4,4.75,7.0
+2016-10-16,Fenerbahce,Alanyaspor,1.25,6.0,10.0
+2016-10-16,Buyuksehyr,Konyaspor,1.91,3.4,4.0
+2016-10-16,Bursaspor,Osmanlispor,2.88,3.3,2.4
+2016-10-16,Mechelen,Oostende,2.4,3.4,2.8
+2016-10-16,Karlsruhe,Nurnberg,2.5,3.25,2.8
+2016-10-16,Munich 1860,Fortuna Dusseldorf,2.25,3.2,3.2
+2016-10-16,Union Berlin,Hannover,2.6,3.3,2.63
+2016-10-16,Wolfsburg,RB Leipzig,2.4,3.3,3.0
+2016-10-16,Mainz,Darmstadt,1.5,4.0,7.5
+2016-10-16,Middlesbrough,Watford,2.25,3.3,3.6
+2016-10-16,Excelsior,Roda,2.2,3.4,3.2
+2016-10-16,Fiorentina,Atalanta,1.75,3.6,5.0
+2016-10-16,Chievo,Milan,2.8,3.0,2.75
+2016-10-16,Genoa,Empoli,1.75,3.6,5.0
+2016-10-16,Twente,Zwolle,2.0,3.6,3.5
+2016-10-16,Nijmegen,Feyenoord,7.0,4.75,1.4
+2016-10-16,Den Haag,Ajax,7.5,4.1,1.45
+2016-10-16,St Etienne,Dijon,1.73,3.6,5.0
+2016-10-16,Marseille,Metz,1.44,4.33,7.5
+2016-10-16,Rennes,Bordeaux,2.38,3.3,3.1
+2016-10-16,Sp Gijon,Valencia,3.6,3.4,2.1
+2016-10-16,Southampton,Burnley,1.4,4.8,9.5
+2016-10-16,Trabzonspor,Akhisar Belediyespor,2.0,3.4,3.75
+2016-10-16,Villarreal,Celta,1.85,3.4,4.75
+2016-10-17,Palermo,Torino,3.8,3.5,2.0
+2016-10-17,Eibar,Osasuna,1.7,3.6,5.0
+2016-10-17,Liverpool,Man United,2.2,3.5,3.5
+2016-10-17,Antalyaspor,Rizespor,2.0,3.3,3.8
+2016-10-17,Braunschweig,Kaiserslautern,1.85,3.6,4.0
+2016-10-18,Leeds,Wigan,2.1,3.3,4.0
+2016-10-18,Fulham,Norwich,3.0,3.5,2.45
+2016-10-18,Birmingham,Rotherham,1.65,4.0,6.0
+2016-10-18,Ipswich,Burton,2.05,3.3,4.2
+2016-10-18,QPR,Bristol City,2.8,3.4,2.7
+2016-10-18,Derby,Brentford,1.91,3.6,4.5
+2016-10-18,Blackburn,Nott'm Forest,2.6,3.4,2.9
+2016-10-18,Brighton,Wolves,1.91,3.6,4.5
+2016-10-18,Reading,Aston Villa,2.7,3.2,2.9
+2016-10-18,Barnsley,Newcastle,6.0,4.0,1.65
+2016-10-19,Cardiff,Sheffield Weds,3.1,3.3,2.5
+2016-10-19,Preston,Huddersfield,2.75,3.2,2.9
+2016-10-21,Fortuna Dusseldorf,Bielefeld,2.0,3.4,3.8
+2016-10-21,Burton,Birmingham,2.8,3.25,2.75
+2016-10-21,Wurzburger Kickers,Karlsruhe,2.05,3.0,4.2
+2016-10-21,Stuttgart,Munich 1860,1.57,4.0,5.5
+2016-10-21,Oostende,Kortrijk,1.85,3.6,4.0
+2016-10-21,Maritimo,Boavista,2.0,3.2,4.0
+2016-10-21,Gaziantepspor,Kayserispor,2.38,3.4,2.88
+2016-10-21,Rizespor,Genclerbirligi,3.1,3.3,2.3
+2016-10-21,Pacos Ferreira,Nacional,2.15,3.25,3.4
+2016-10-21,Excelsior,Zwolle,2.38,3.25,3.0
+2016-10-21,Monaco,Montpellier,1.67,3.75,5.5
+2016-10-21,Osasuna,Betis,2.4,3.2,3.1
+2016-10-21,Hamburg,Ein Frankfurt,2.45,3.25,3.0
+2016-10-22,Akhisar Belediyespor,Adanaspor,1.62,3.4,6.5
+2016-10-22,Alanyaspor,Bursaspor,2.3,3.3,3.1
+2016-10-22,Galatasaray,Trabzonspor,1.57,4.0,5.5
+2016-10-22,Valencia,Barcelona,7.0,5.25,1.4
+2016-10-22,Sp Lisbon,Tondela,1.18,6.5,15.0
+2016-10-22,Granada,Sp Gijon,2.1,3.4,3.6
+2016-10-22,Sandhausen,St Pauli,2.25,3.2,3.3
+2016-10-22,Heidenheim,Dresden,2.15,3.4,3.3
+2016-10-22,Feirense,Setubal,2.45,3.2,2.9
+2016-10-22,Porto,Arouca,1.18,6.5,15.0
+2016-10-22,Sociedad,Alaves,1.67,3.75,5.5
+2016-10-22,Espanol,Eibar,2.05,3.4,3.8
+2016-10-22,Bournemouth,Tottenham,4.2,3.6,1.95
+2016-10-22,Brentford,Barnsley,1.85,3.75,4.5
+2016-10-22,PSV Eindhoven,Sparta Rotterdam,1.17,7.0,15.0
+2016-10-22,Sampdoria,Genoa,3.1,3.25,2.4
+2016-10-22,Milan,Juventus,4.5,3.7,1.8
+2016-10-22,Inverness C,Kilmarnock,1.53,4.0,6.0
+2016-10-22,Partick,Ross County,2.15,3.5,3.2
+2016-10-22,Go Ahead Eagles,Twente,3.0,3.4,2.3
+2016-10-22,Angers,Toulouse,2.5,3.1,3.1
+2016-10-22,Bordeaux,Nancy,1.8,3.4,5.0
+2016-10-22,Dijon,Lorient,2.15,3.3,3.6
+2016-10-22,Lille,Bastia,1.73,3.4,5.25
+2016-10-22,Lyon,Guingamp,1.53,4.1,6.5
+2016-10-22,Nantes,Rennes,2.25,3.1,3.6
+2016-10-22,Westerlo,Charleroi,3.8,3.8,1.85
+2016-10-22,Waregem,Lokeren,1.73,3.8,4.5
+2016-10-22,Mechelen,Mouscron,1.91,3.8,3.6
+2016-10-22,West Ham,Sunderland,1.67,4.0,5.75
+2016-10-22,Swansea,Watford,2.38,3.3,3.3
+2016-10-22,Liverpool,West Brom,1.29,6.0,13.0
+2016-10-22,Leicester,Crystal Palace,2.05,3.5,3.9
+2016-10-22,Hull,Stoke,3.1,3.3,2.5
+2016-10-22,Burnley,Everton,6.0,3.8,1.67
+2016-10-22,Aston Villa,Fulham,2.15,3.5,3.6
+2016-10-22,Willem II,Utrecht,2.7,3.4,2.5
+2016-10-22,Roda,Den Haag,2.45,3.5,2.7
+2016-10-22,Bristol City,Blackburn,1.8,3.8,4.75
+2016-10-22,Bayern Munich,M'gladbach,1.2,7.5,12.0
+2016-10-22,Darmstadt,Wolfsburg,4.5,3.6,1.8
+2016-10-22,Freiburg,Augsburg,2.1,3.3,3.7
+2016-10-22,Hertha,FC Koln,2.5,3.2,3.0
+2016-10-22,Ingolstadt,Dortmund,6.0,4.2,1.53
+2016-10-22,Leverkusen,Hoffenheim,1.5,4.33,6.0
+2016-10-22,Wigan,Brighton,3.2,3.4,2.4
+2016-10-22,Wolves,Leeds,2.15,3.6,3.5
+2016-10-22,Rotherham,Reading,3.5,3.4,2.25
+2016-10-22,Nott'm Forest,Cardiff,2.4,3.6,3.0
+2016-10-22,Norwich,Preston,1.62,4.0,6.5
+2016-10-22,Newcastle,Ipswich,1.45,4.33,8.5
+2016-10-22,Huddersfield,Derby,2.8,3.1,2.9
+2016-10-22,Arsenal,Middlesbrough,1.25,6.5,15.0
+2016-10-22,Sheffield Weds,QPR,1.8,3.8,4.75
+2016-10-23,Eupen,Gent,4.5,3.8,1.73
+2016-10-23,Club Brugge,Anderlecht,2.1,3.6,3.25
+2016-10-23,Genk,St Truiden,1.62,4.2,4.75
+2016-10-23,Heerenveen,Heracles,1.62,4.2,4.75
+2016-10-23,Sevilla,Ath Madrid,4.0,3.5,1.95
+2016-10-23,Villarreal,Las Palmas,1.67,3.8,5.25
+2016-10-23,Nijmegen,Vitesse,4.0,3.6,1.85
+2016-10-23,Chelsea,Man United,2.15,3.4,3.8
+2016-10-23,Man City,Southampton,1.5,4.5,7.5
+2016-10-23,Moreirense,Rio Ave,3.0,3.2,2.4
+2016-10-23,Estoril,Guimaraes,3.1,3.2,2.35
+2016-10-23,Belenenses,Benfica,7.5,4.2,1.44
+2016-10-23,RB Leipzig,Werder Bremen,1.5,4.0,7.0
+2016-10-23,Schalke 04,Mainz,1.95,3.6,3.8
+2016-10-23,Feyenoord,Ajax,2.3,3.5,2.88
+2016-10-23,Groningen,AZ Alkmaar,3.4,3.6,2.05
+2016-10-23,Standard,Waasland-Beveren,1.45,4.5,6.5
+2016-10-23,Celta,La Coruna,1.7,3.6,5.5
+2016-10-23,Malaga,Leganes,1.85,3.3,4.75
+2016-10-23,Paris SG,Marseille,1.29,5.5,11.0
+2016-10-23,Empoli,Chievo,2.55,3.0,3.1
+2016-10-23,Braunschweig,Greuther Furth,1.73,3.6,4.75
+2016-10-23,Erzgebirge Aue,Union Berlin,3.1,3.25,2.3
+2016-10-23,Nurnberg,Hannover,2.45,3.25,2.88
+2016-10-23,Metz,Nice,3.75,3.4,2.05
+2016-10-23,Crotone,Napoli,15.0,6.0,1.22
+2016-10-23,Cagliari,Fiorentina,3.0,3.3,2.4
+2016-10-23,Bologna,Sassuolo,2.5,3.2,3.0
+2016-10-23,Atalanta,Inter,3.3,3.4,2.2
+2016-10-23,St Johnstone,Dundee,1.83,3.75,4.0
+2016-10-23,Roma,Palermo,1.18,7.0,17.0
+2016-10-23,Karabukspor,Buyuksehyr,2.9,3.5,2.3
+2016-10-23,Udinese,Pescara,1.85,3.5,4.5
+2016-10-23,Torino,Lazio,2.2,3.3,3.4
+2016-10-23,Besiktas,Antalyaspor,1.36,4.75,8.0
+2016-10-23,Real Madrid,Ath Bilbao,1.2,7.0,13.0
+2016-10-23,Osmanlispor,Kasimpasa,1.53,4.0,6.0
+2016-10-23,Caen,St Etienne,2.55,3.1,2.88
+2016-10-24,Sp Braga,Chaves,1.62,3.8,5.5
+2016-10-24,Konyaspor,Fenerbahce,4.0,3.3,1.95
+2016-10-24,Kaiserslautern,Bochum,2.4,3.25,2.9
+2016-10-25,Lokeren,Oostende,2.5,3.3,2.75
+2016-10-25,Genoa,Milan,2.75,3.25,2.6
+2016-10-25,Hamilton,Aberdeen,5.25,4.2,1.57
+2016-10-26,St Truiden,Waregem,2.7,3.4,2.5
+2016-10-26,Kortrijk,Eupen,1.7,4.0,4.33
+2016-10-26,Napoli,Empoli,1.29,5.5,11.0
+2016-10-26,Anderlecht,Mechelen,1.44,4.5,6.5
+2016-10-26,Lazio,Cagliari,1.44,4.5,7.5
+2016-10-26,Sassuolo,Roma,4.2,3.5,1.91
+2016-10-26,Juventus,Sampdoria,1.17,7.5,17.0
+2016-10-26,Inter,Torino,2.0,3.5,3.75
+2016-10-26,Fiorentina,Crotone,1.22,6.0,15.0
+2016-10-26,Chievo,Bologna,2.1,3.1,4.0
+2016-10-26,Pescara,Atalanta,2.9,3.25,2.5
+2016-10-26,Charleroi,Genk,2.45,3.4,2.75
+2016-10-26,Motherwell,Inverness C,3.0,3.25,2.38
+2016-10-26,Ross County,Celtic,11.0,5.75,1.25
+2016-10-26,Dundee,Partick,2.5,3.3,2.75
+2016-10-26,Club Brugge,Westerlo,1.22,6.0,12.0
+2016-10-26,Rangers,St Johnstone,1.55,4.0,5.75
+2016-10-26,Kilmarnock,Hearts,6.5,4.1,1.5
+2016-10-27,Waasland-Beveren,Mouscron,1.95,3.3,4.0
+2016-10-27,Gent,Standard,1.75,3.75,4.5
+2016-10-27,Palermo,Udinese,2.9,3.25,2.5
+2016-10-28,M'gladbach,Ein Frankfurt,1.85,3.5,4.5
+2016-10-28,Lille,Paris SG,6.5,4.0,1.55
+2016-10-28,Twente,Roda,1.53,4.0,6.0
+2016-10-28,Bielefeld,Sandhausen,2.5,3.2,2.88
+2016-10-28,Nacional,Sp Lisbon,7.5,4.5,1.4
+2016-10-28,Genclerbirligi,Besiktas,3.4,3.4,2.1
+2016-10-28,Leganes,Sociedad,2.63,3.1,2.88
+2016-10-28,QPR,Brentford,2.8,3.25,2.8
+2016-10-28,Munich 1860,Erzgebirge Aue,2.2,3.3,3.25
+2016-10-28,Benfica,Pacos Ferreira,1.2,6.0,15.0
+2016-10-28,Dresden,Braunschweig,2.88,3.3,2.4
+2016-10-29,Ajax,Excelsior,1.14,8.0,15.0
+2016-10-29,Motherwell,Ross County,2.38,3.5,2.8
+2016-10-29,Inverness C,Hearts,2.88,3.4,2.38
+2016-10-29,Hamilton,Dundee,2.2,3.3,3.25
+2016-10-29,Aberdeen,Celtic,5.0,4.0,1.62
+2016-10-29,Union Berlin,Fortuna Dusseldorf,2.05,3.3,3.6
+2016-10-29,Greuther Furth,Kaiserslautern,2.25,3.4,3.1
+2016-10-29,Guingamp,Angers,2.3,3.2,3.3
+2016-10-29,Lorient,Montpellier,2.3,3.1,3.4
+2016-10-29,Nancy,Caen,2.15,3.1,3.8
+2016-10-29,St Etienne,Monaco,2.75,3.0,2.8
+2016-10-29,Toulouse,Lyon,2.8,3.25,2.6
+2016-10-29,Willem II,Groningen,2.1,3.5,3.3
+2016-10-29,Vitesse,PSV Eindhoven,4.2,3.7,1.8
+2016-10-29,Heracles,Sparta Rotterdam,2.05,3.4,3.5
+2016-10-29,Werder Bremen,Freiburg,2.3,3.5,3.0
+2016-10-29,Wolfsburg,Leverkusen,2.7,3.4,2.6
+2016-10-29,Bastia,Dijon,2.3,3.1,3.4
+2016-10-29,Bologna,Fiorentina,3.25,3.25,2.3
+2016-10-29,Dortmund,Schalke 04,1.57,4.33,5.5
+2016-10-29,Sunderland,Arsenal,9.0,5.0,1.4
+2016-10-29,Leeds,Burton,2.1,3.4,3.9
+2016-10-29,Ipswich,Rotherham,1.8,3.7,5.0
+2016-10-29,Fulham,Huddersfield,2.4,3.4,3.2
+2016-10-29,Derby,Sheffield Weds,2.5,3.2,3.2
+2016-10-29,Cardiff,Wigan,2.1,3.4,3.9
+2016-10-29,Brighton,Norwich,2.4,3.3,3.3
+2016-10-29,Blackburn,Wolves,3.2,3.3,2.45
+2016-10-29,Barnsley,Bristol City,3.2,3.4,2.38
+2016-10-29,Preston,Newcastle,5.5,3.8,1.73
+2016-10-29,Genk,Westerlo,1.33,5.0,8.5
+2016-10-29,Waregem,Club Brugge,3.0,3.4,2.3
+2016-10-29,Juventus,Napoli,1.8,3.5,4.75
+2016-10-29,Crystal Palace,Liverpool,5.25,4.0,1.7
+2016-10-29,Man United,Burnley,1.2,7.0,19.0
+2016-10-29,Gaziantepspor,Osmanlispor,3.8,3.3,2.0
+2016-10-29,Bursaspor,Konyaspor,2.15,3.1,3.6
+2016-10-29,Adanaspor,Galatasaray,5.75,4.0,1.55
+2016-10-29,Middlesbrough,Bournemouth,2.5,3.2,3.2
+2016-10-29,St Truiden,Charleroi,2.4,3.4,2.8
+2016-10-29,Reading,Nott'm Forest,2.05,3.5,4.0
+2016-10-29,Alaves,Real Madrid,13.0,6.5,1.22
+2016-10-29,Tottenham,Leicester,1.62,4.2,6.0
+2016-10-29,Mainz,Ingolstadt,2.1,3.3,3.75
+2016-10-29,St Johnstone,Partick,1.85,3.5,4.2
+2016-10-29,Darmstadt,RB Leipzig,6.0,3.8,1.62
+2016-10-29,Augsburg,Bayern Munich,15.0,6.5,1.2
+2016-10-29,Sp Gijon,Sevilla,3.8,3.6,1.95
+2016-10-29,Barcelona,Granada,1.05,17.0,34.0
+2016-10-29,Eupen,Lokeren,2.0,3.75,3.4
+2016-10-29,Ath Madrid,Malaga,1.22,6.0,15.0
+2016-10-29,West Brom,Man City,8.0,4.75,1.44
+2016-10-29,Watford,Hull,1.75,3.75,5.25
+2016-10-29,Boavista,Estoril,2.15,3.1,3.6
+2016-10-29,Setubal,Porto,9.0,5.75,1.29
+2016-10-29,Tondela,Moreirense,2.3,3.1,3.2
+2016-10-29,Rangers,Kilmarnock,1.33,5.5,7.5
+2016-10-30,Eibar,Villarreal,3.0,3.2,2.5
+2016-10-30,Southampton,Chelsea,3.2,3.4,2.4
+2016-10-30,Everton,West Ham,1.8,3.8,4.75
+2016-10-30,Zwolle,Go Ahead Eagles,1.67,4.0,4.75
+2016-10-30,Den Haag,AZ Alkmaar,3.4,3.4,2.1
+2016-10-30,Utrecht,Nijmegen,1.53,3.8,6.5
+2016-10-30,Las Palmas,Celta,2.3,3.3,3.2
+2016-10-30,Feyenoord,Heerenveen,1.44,4.5,6.5
+2016-10-30,Ath Bilbao,Osasuna,1.36,5.0,8.5
+2016-10-30,Marseille,Bordeaux,2.1,3.2,3.8
+2016-10-30,Trabzonspor,Rizespor,1.65,3.6,5.5
+2016-10-30,Fenerbahce,Karabukspor,1.4,4.75,7.0
+2016-10-30,Atalanta,Genoa,2.3,3.2,3.3
+2016-10-30,Crotone,Chievo,3.5,3.2,2.2
+2016-10-30,Empoli,Roma,6.0,4.2,1.55
+2016-10-30,Lazio,Sassuolo,1.67,3.75,5.5
+2016-10-30,Nice,Nantes,1.91,3.3,4.5
+2016-10-30,Arouca,Maritimo,2.45,3.1,3.0
+2016-10-30,Mechelen,Gent,4.0,3.5,1.91
+2016-10-30,Mouscron,Kortrijk,2.75,3.4,2.45
+2016-10-30,Oostende,Standard,2.5,3.4,2.7
+2016-10-30,Waasland-Beveren,Anderlecht,4.33,3.8,1.75
+2016-10-30,Rio Ave,Guimaraes,2.6,3.25,2.7
+2016-10-30,Sp Braga,Belenenses,1.53,3.8,6.5
+2016-10-30,Buyuksehyr,Akhisar Belediyespor,1.55,3.6,7.0
+2016-10-30,Birmingham,Aston Villa,2.9,3.3,2.63
+2016-10-30,Rennes,Metz,1.57,4.0,6.0
+2016-10-30,FC Koln,Hamburg,1.57,3.8,6.5
+2016-10-30,Hoffenheim,Hertha,2.25,3.4,3.2
+2016-10-30,Betis,Espanol,2.25,3.25,3.4
+2016-10-30,Karlsruhe,Stuttgart,3.5,3.4,2.05
+2016-10-30,Hannover,Wurzburger Kickers,1.75,3.5,4.75
+2016-10-30,Bochum,Heidenheim,2.15,3.5,3.2
+2016-10-30,Milan,Pescara,1.4,4.75,8.0
+2016-10-30,Sampdoria,Inter,3.6,3.5,2.05
+2016-10-31,Chaves,Feirense,1.91,3.25,4.33
+2016-10-31,St Pauli,Nurnberg,2.63,3.3,2.6
+2016-10-31,Stoke,Swansea,2.05,3.6,3.8
+2016-10-31,La Coruna,Valencia,2.88,3.2,2.55
+2016-10-31,Kayserispor,Antalyaspor,2.05,3.3,3.6
+2016-10-31,Cagliari,Palermo,1.73,3.5,5.0
+2016-10-31,Kasimpasa,Alanyaspor,2.1,3.25,3.5
+2016-10-31,Udinese,Torino,2.88,3.25,2.45
+2016-11-04,Partick,Aberdeen,4.33,3.6,1.8
+2016-11-04,Erzgebirge Aue,Nurnberg,3.1,3.5,2.2
+2016-11-04,Fortuna Dusseldorf,Dresden,2.25,3.3,3.2
+2016-11-04,Brentford,Fulham,2.3,3.6,3.2
+2016-11-04,Kortrijk,Charleroi,2.3,3.4,3.0
+2016-11-04,Heidenheim,Karlsruhe,2.15,3.1,3.6
+2016-11-04,Montpellier,Marseille,2.55,3.2,2.88
+2016-11-04,Galatasaray,Buyuksehyr,2.1,3.4,3.4
+2016-11-04,Sparta Rotterdam,Heerenveen,3.2,3.4,2.2
+2016-11-04,Malaga,Sp Gijon,1.73,3.6,5.25
+2016-11-04,Guimaraes,Nacional,1.57,3.8,6.0
+2016-11-04,Hertha,M'gladbach,2.5,3.2,3.0
+2016-11-05,Pacos Ferreira,Chaves,2.38,3.1,3.1
+2016-11-05,Feirense,Belenenses,2.63,3.1,2.75
+2016-11-05,Leverkusen,Darmstadt,1.25,5.75,13.0
+2016-11-05,Bayern Munich,Hoffenheim,1.17,8.0,15.0
+2016-11-05,Ingolstadt,Augsburg,2.1,3.3,3.75
+2016-11-05,Hamburg,Dortmund,8.0,4.25,1.45
+2016-11-05,Freiburg,Wolfsburg,2.6,3.3,2.75
+2016-11-05,Rio Ave,Boavista,1.85,3.3,4.5
+2016-11-05,Estoril,Tondela,2.2,3.2,3.4
+2016-11-05,Ein Frankfurt,FC Koln,2.6,3.1,2.9
+2016-11-05,Celtic,Inverness C,1.17,7.0,15.0
+2016-11-05,Sociedad,Ath Madrid,5.75,3.6,1.67
+2016-11-05,Bordeaux,Lorient,1.75,3.5,5.0
+2016-11-05,Angers,Lille,2.4,3.0,3.3
+2016-11-05,Napoli,Lazio,1.67,4.0,5.0
+2016-11-05,Karabukspor,Bursaspor,2.25,3.2,3.3
+2016-11-05,Besiktas,Trabzonspor,1.44,4.33,7.0
+2016-11-05,Antalyaspor,Genclerbirligi,2.6,3.0,2.9
+2016-11-05,Alanyaspor,Gaziantepspor,1.95,3.0,4.5
+2016-11-05,Torino,Cagliari,1.55,4.33,5.75
+2016-11-05,Wolves,Derby,2.7,3.25,2.9
+2016-11-05,Wigan,Reading,2.6,3.1,3.1
+2016-11-05,Lyon,Bastia,1.44,4.2,8.5
+2016-11-05,Sheffield Weds,Ipswich,1.75,3.6,5.75
+2016-11-05,Nott'm Forest,QPR,2.25,3.5,3.4
+2016-11-05,Norwich,Leeds,1.85,3.8,4.5
+2016-11-05,Newcastle,Cardiff,1.44,4.75,8.0
+2016-11-05,Huddersfield,Birmingham,2.25,3.3,3.6
+2016-11-05,Burton,Barnsley,2.2,3.5,3.5
+2016-11-05,Bristol City,Brighton,3.0,3.4,2.5
+2016-11-05,Aston Villa,Blackburn,1.67,3.8,6.0
+2016-11-05,Eupen,St Truiden,2.2,3.3,3.25
+2016-11-05,Lokeren,Mechelen,2.1,3.5,3.25
+2016-11-05,Westerlo,Waregem,4.33,3.6,1.8
+2016-11-05,Rotherham,Preston,3.1,3.5,2.38
+2016-11-05,Monaco,Nancy,1.5,4.0,7.5
+2016-11-05,Dijon,Guingamp,2.5,3.0,3.2
+2016-11-05,West Ham,Stoke,2.0,3.6,4.0
+2016-11-05,Osasuna,Alaves,2.25,3.2,3.4
+2016-11-05,Las Palmas,Eibar,1.91,3.5,4.0
+2016-11-05,Granada,La Coruna,2.6,3.2,2.8
+2016-11-05,Zwolle,Roda,1.67,3.8,5.0
+2016-11-05,PSV Eindhoven,Twente,1.22,6.5,11.0
+2016-11-05,Nijmegen,Groningen,2.4,3.4,2.8
+2016-11-05,Nantes,Toulouse,2.3,3.0,3.5
+2016-11-05,Den Haag,Willem II,2.1,3.5,3.3
+2016-11-05,Kaiserslautern,Union Berlin,2.63,3.1,2.75
+2016-11-05,Dundee,Motherwell,2.38,3.4,2.88
+2016-11-05,Man City,Middlesbrough,1.22,7.0,15.0
+2016-11-05,Chelsea,Everton,1.53,4.33,7.0
+2016-11-05,Burnley,Crystal Palace,3.3,3.3,2.38
+2016-11-05,Greuther Furth,Bochum,2.3,3.4,3.0
+2016-11-05,Kilmarnock,Hamilton,2.7,3.4,2.5
+2016-11-05,Bournemouth,Sunderland,1.65,4.2,5.5
+2016-11-05,Hearts,St Johnstone,1.8,3.6,4.33
+2016-11-06,Espanol,Ath Bilbao,3.0,3.2,2.5
+2016-11-06,Sevilla,Barcelona,5.25,4.2,1.62
+2016-11-06,Porto,Benfica,2.1,3.4,3.4
+2016-11-06,Moreirense,Setubal,2.2,3.1,3.5
+2016-11-06,Maritimo,Sp Braga,3.4,3.2,2.2
+2016-11-06,Celta,Valencia,2.25,3.4,3.2
+2016-11-06,Chievo,Juventus,9.0,4.0,1.44
+2016-11-06,Fiorentina,Sampdoria,1.57,3.8,6.5
+2016-11-06,Genoa,Udinese,1.85,3.6,4.33
+2016-11-06,Real Madrid,Leganes,1.07,13.0,23.0
+2016-11-06,Villarreal,Betis,1.5,4.2,7.0
+2016-11-06,Sp Lisbon,Arouca,1.2,6.5,13.0
+2016-11-06,Sandhausen,Munich 1860,2.1,3.4,3.4
+2016-11-06,Vitesse,Heracles,1.55,4.2,5.5
+2016-11-06,Utrecht,Excelsior,1.44,4.2,7.5
+2016-11-06,Go Ahead Eagles,Feyenoord,9.0,5.0,1.33
+2016-11-06,Braunschweig,Hannover,2.25,3.4,3.1
+2016-11-06,Ross County,Rangers,5.0,3.8,1.65
+2016-11-06,Arsenal,Tottenham,1.95,3.6,4.2
+2016-11-06,Hull,Southampton,5.75,3.8,1.7
+2016-11-06,Leicester,West Brom,1.8,3.6,5.25
+2016-11-06,Liverpool,Watford,1.29,6.0,12.0
+2016-11-06,Swansea,Man United,5.0,4.0,1.73
+2016-11-06,Paris SG,Rennes,1.22,6.5,13.0
+2016-11-06,Metz,St Etienne,3.8,3.2,2.1
+2016-11-06,Caen,Nice,3.25,3.25,2.3
+2016-11-06,Konyaspor,Kasimpasa,1.85,3.3,4.5
+2016-11-06,Akhisar Belediyespor,Fenerbahce,6.5,3.75,1.55
+2016-11-06,Anderlecht,Oostende,1.45,4.5,6.5
+2016-11-06,Club Brugge,Genk,1.65,3.6,5.5
+2016-11-06,Gent,Waasland-Beveren,1.36,5.0,7.5
+2016-11-06,Standard,Mouscron,1.44,4.2,7.5
+2016-11-06,Osmanlispor,Kayserispor,1.62,3.6,6.0
+2016-11-06,Rizespor,Adanaspor,1.73,3.4,5.25
+2016-11-06,AZ Alkmaar,Ajax,3.6,3.75,1.91
+2016-11-06,Pescara,Empoli,2.4,3.2,3.1
+2016-11-06,Inter,Crotone,1.25,5.75,13.0
+2016-11-06,Palermo,Milan,5.5,3.75,1.67
+2016-11-06,Schalke 04,Werder Bremen,1.53,4.33,6.0
+2016-11-06,Roma,Bologna,1.25,6.0,12.0
+2016-11-06,Sassuolo,Atalanta,2.5,3.2,3.0
+2016-11-06,RB Leipzig,Mainz,1.57,3.8,6.5
+2016-11-06,Stuttgart,Bielefeld,1.62,3.8,5.5
+2016-11-07,Wurzburger Kickers,St Pauli,2.05,3.3,3.6
+2016-11-18,Betis,Las Palmas,2.35,3.4,3.1
+2016-11-18,Bielefeld,Heidenheim,2.63,3.1,2.75
+2016-11-18,St Truiden,Club Brugge,4.0,3.6,1.85
+2016-11-18,Bochum,Braunschweig,2.9,3.4,2.35
+2016-11-18,Brighton,Aston Villa,1.91,3.4,4.75
+2016-11-18,Nurnberg,Wurzburger Kickers,2.0,3.3,3.75
+2016-11-18,Lille,Lyon,3.1,3.1,2.45
+2016-11-18,Leverkusen,RB Leipzig,2.3,3.4,3.1
+2016-11-18,Kilmarnock,Celtic,15.0,8.0,1.14
+2016-11-18,Lorient,Monaco,4.33,3.6,1.8
+2016-11-19,Sunderland,Hull,2.15,3.4,3.8
+2016-11-19,Stoke,Bournemouth,2.3,3.4,3.4
+2016-11-19,Bursaspor,Akhisar Belediyespor,1.85,3.5,4.2
+2016-11-19,Southampton,Liverpool,3.4,3.6,2.2
+2016-11-19,Man United,Arsenal,2.6,3.4,2.9
+2016-11-19,Everton,Swansea,1.6,4.33,6.0
+2016-11-19,Crystal Palace,Man City,6.5,4.5,1.53
+2016-11-19,Chievo,Cagliari,1.91,3.5,4.2
+2016-11-19,Juventus,Pescara,1.14,8.0,19.0
+2016-11-19,Udinese,Napoli,4.75,3.75,1.75
+2016-11-19,Osmanlispor,Alanyaspor,1.62,3.8,5.5
+2016-11-19,Gaziantepspor,Konyaspor,2.6,3.1,2.8
+2016-11-19,Adanaspor,Besiktas,8.5,4.6,1.36
+2016-11-19,Augsburg,Hertha,2.7,3.2,2.75
+2016-11-19,Wolfsburg,Schalke 04,2.4,3.5,2.9
+2016-11-19,Ath Madrid,Real Madrid,2.5,3.3,2.9
+2016-11-19,Heerenveen,Vitesse,2.05,3.5,3.4
+2016-11-19,Groningen,Den Haag,1.91,3.6,3.8
+2016-11-19,Excelsior,Sparta Rotterdam,2.75,3.4,2.45
+2016-11-19,Inverness C,Aberdeen,3.75,3.4,2.0
+2016-11-19,Motherwell,Partick,2.75,3.2,2.6
+2016-11-19,Rangers,Dundee,1.36,5.0,7.5
+2016-11-19,St Johnstone,Ross County,1.83,3.6,4.1
+2016-11-19,Toulouse,Metz,1.5,4.2,7.0
+2016-11-19,Rennes,Angers,2.25,3.0,3.5
+2016-11-19,Paris SG,Nantes,1.2,6.5,15.0
+2016-11-19,Nancy,Dijon,2.1,3.1,4.0
+2016-11-19,Bastia,Montpellier,2.8,3.0,2.8
+2016-11-19,Heracles,Go Ahead Eagles,1.6,4.0,5.25
+2016-11-19,Reading,Burton,2.05,3.5,4.0
+2016-11-19,Preston,Wolves,2.5,3.3,3.1
+2016-11-19,Ipswich,Nott'm Forest,2.1,3.5,3.75
+2016-11-19,Fulham,Sheffield Weds,2.4,3.4,3.2
+2016-11-19,Derby,Rotherham,1.44,4.75,8.0
+2016-11-19,Cardiff,Huddersfield,2.5,3.25,3.2
+2016-11-19,Blackburn,Brentford,2.7,3.3,2.88
+2016-11-19,Birmingham,Bristol City,2.4,3.4,3.2
+2016-11-19,Barnsley,Wigan,2.5,3.4,3.0
+2016-11-19,Genk,Eupen,1.5,4.33,6.0
+2016-11-19,Mouscron,Gent,5.5,3.75,1.62
+2016-11-19,Oostende,Westerlo,1.4,4.75,7.0
+2016-11-19,Waasland-Beveren,Kortrijk,2.7,2.9,2.88
+2016-11-19,QPR,Norwich,3.4,3.4,2.3
+2016-11-19,Willem II,PSV Eindhoven,7.0,4.75,1.4
+2016-11-19,Tottenham,West Ham,1.5,4.5,7.5
+2016-11-19,Hannover,Erzgebirge Aue,1.55,4.0,6.0
+2016-11-19,Mainz,Freiburg,2.1,3.5,3.5
+2016-11-19,M'gladbach,FC Koln,2.2,3.3,3.4
+2016-11-19,Watford,Leicester,2.8,3.3,2.75
+2016-11-19,Barcelona,Malaga,1.13,9.0,21.0
+2016-11-19,Eibar,Celta,2.38,3.25,3.1
+2016-11-19,La Coruna,Sevilla,3.3,3.4,2.2
+2016-11-19,Darmstadt,Ingolstadt,3.0,3.1,2.55
+2016-11-19,Dortmund,Bayern Munich,3.4,3.6,2.1
+2016-11-19,Karlsruhe,Sandhausen,2.38,3.25,3.0
+2016-11-20,Marseille,Caen,1.7,3.75,5.0
+2016-11-20,Empoli,Fiorentina,3.9,3.4,2.0
+2016-11-20,Leeds,Newcastle,4.0,3.3,2.1
+2016-11-20,Union Berlin,Stuttgart,2.6,3.2,2.7
+2016-11-20,St Pauli,Fortuna Dusseldorf,2.38,3.25,3.0
+2016-11-20,Lazio,Genoa,1.7,3.8,5.0
+2016-11-20,Valencia,Granada,1.33,5.5,8.5
+2016-11-20,Sp Gijon,Sociedad,3.4,3.3,2.2
+2016-11-20,Ath Bilbao,Villarreal,2.15,3.3,3.5
+2016-11-20,Alaves,Espanol,2.5,3.1,3.1
+2016-11-20,Charleroi,Lokeren,1.8,3.5,4.5
+2016-11-20,Mechelen,Standard,3.3,3.25,2.2
+2016-11-20,Waregem,Anderlecht,3.1,3.25,2.3
+2016-11-20,Middlesbrough,Chelsea,7.0,4.0,1.57
+2016-11-20,Dresden,Greuther Furth,2.0,3.3,3.75
+2016-11-20,St Etienne,Nice,2.1,3.4,3.6
+2016-11-20,Guingamp,Bordeaux,2.45,3.2,3.0
+2016-11-20,Feyenoord,Zwolle,1.25,5.75,11.0
+2016-11-20,Twente,Utrecht,2.2,3.5,3.1
+2016-11-20,Roda,AZ Alkmaar,4.75,3.6,1.73
+2016-11-20,Kasimpasa,Karabukspor,2.25,3.2,3.25
+2016-11-20,Ajax,Nijmegen,1.17,7.0,15.0
+2016-11-20,Crotone,Torino,5.0,3.75,1.73
+2016-11-20,Bologna,Palermo,1.75,3.6,5.0
+2016-11-20,Fenerbahce,Galatasaray,1.7,3.6,5.0
+2016-11-20,Kayserispor,Genclerbirligi,2.45,3.0,3.1
+2016-11-20,Milan,Inter,2.8,3.2,2.6
+2016-11-20,Atalanta,Roma,4.0,3.5,1.95
+2016-11-20,Werder Bremen,Ein Frankfurt,2.7,3.5,2.55
+2016-11-20,Hoffenheim,Hamburg,1.62,4.0,5.5
+2016-11-20,Sampdoria,Sassuolo,2.05,3.4,3.75
+2016-11-21,Trabzonspor,Antalyaspor,1.73,3.5,5.0
+2016-11-21,West Brom,Burnley,1.95,3.4,4.5
+2016-11-21,Buyuksehyr,Rizespor,1.45,4.33,7.0
+2016-11-21,Hamilton,Hearts,4.33,3.6,1.8
+2016-11-21,Leganes,Osasuna,1.85,3.5,4.5
+2016-11-21,Munich 1860,Kaiserslautern,2.25,3.4,3.1
+2016-11-25,Freiburg,RB Leipzig,3.8,3.6,1.95
+2016-11-25,Rennes,Toulouse,2.4,3.1,3.1
+2016-11-25,Setubal,Rio Ave,2.88,3.1,2.5
+2016-11-25,Barnsley,Nott'm Forest,2.45,3.5,3.0
+2016-11-25,Fortuna Dusseldorf,Hannover,3.0,3.2,2.38
+2016-11-25,Alanyaspor,Kayserispor,2.1,3.4,3.4
+2016-11-25,Galatasaray,Bursaspor,1.7,3.8,4.75
+2016-11-25,Club Brugge,Mechelen,1.33,4.75,10.0
+2016-11-25,Greuther Furth,Bielefeld,2.45,3.1,3.0
+2016-11-25,Wurzburger Kickers,Erzgebirge Aue,1.95,3.2,4.2
+2016-11-25,Go Ahead Eagles,Willem II,2.8,3.25,2.5
+2016-11-25,Eibar,Betis,1.95,3.4,4.2
+2016-11-26,Waasland-Beveren,Charleroi,3.1,3.2,2.3
+2016-11-26,Bayern Munich,Leverkusen,1.29,6.0,10.0
+2016-11-26,Ein Frankfurt,Dortmund,4.75,4.2,1.65
+2016-11-26,FC Koln,Augsburg,1.75,3.5,5.25
+2016-11-26,Hamburg,Werder Bremen,2.38,3.4,3.0
+2016-11-26,Ingolstadt,Wolfsburg,2.9,3.3,2.5
+2016-11-26,M'gladbach,Hoffenheim,2.0,3.6,3.75
+2016-11-26,Lokeren,St Truiden,2.0,3.4,3.75
+2016-11-26,Torino,Chievo,1.73,3.6,5.25
+2016-11-26,Eupen,Westerlo,1.62,3.8,5.5
+2016-11-26,Empoli,Milan,3.8,3.3,2.05
+2016-11-26,Chelsea,Tottenham,1.75,3.8,5.25
+2016-11-26,Ipswich,QPR,2.4,3.2,3.4
+2016-11-26,Newcastle,Blackburn,1.36,5.0,11.0
+2016-11-26,Preston,Burton,2.15,3.4,3.75
+2016-11-26,Reading,Bristol City,2.4,3.4,3.2
+2016-11-26,Rotherham,Leeds,3.9,3.5,2.05
+2016-11-26,Wolves,Sheffield Weds,2.75,3.2,2.88
+2016-11-26,Nijmegen,Twente,3.0,3.5,2.25
+2016-11-26,Derby,Norwich,2.15,3.4,3.75
+2016-11-26,PSV Eindhoven,Den Haag,1.17,7.0,15.0
+2016-11-26,Zwolle,Groningen,2.2,3.4,3.2
+2016-11-26,Sevilla,Valencia,1.73,3.75,5.0
+2016-11-26,Real Madrid,Sp Gijon,1.06,13.0,34.0
+2016-11-26,Malaga,La Coruna,2.0,3.25,4.2
+2016-11-26,Espanol,Leganes,1.85,3.4,4.75
+2016-11-26,Nacional,Estoril,2.25,3.2,3.3
+2016-11-26,Chaves,Maritimo,2.25,3.0,3.5
+2016-11-26,Vitesse,Excelsior,1.4,4.5,7.5
+2016-11-26,Boavista,Sp Lisbon,9.0,5.0,1.33
+2016-11-26,Brighton,Fulham,1.95,3.5,4.33
+2016-11-26,Burnley,Man City,9.0,6.0,1.33
+2016-11-26,Akhisar Belediyespor,Kasimpasa,2.25,3.1,3.4
+2016-11-26,Antalyaspor,Adanaspor,1.57,3.6,6.5
+2016-11-26,Besiktas,Buyuksehyr,1.75,3.6,4.75
+2016-11-26,Karabukspor,Gaziantepspor,1.95,3.1,4.33
+2016-11-26,Dresden,Bochum,2.15,3.4,3.25
+2016-11-26,Heidenheim,St Pauli,2.0,3.3,3.8
+2016-11-26,Dundee,Inverness C,2.6,3.25,2.7
+2016-11-26,Brentford,Birmingham,2.2,3.4,3.6
+2016-11-26,Hearts,Motherwell,1.53,4.33,5.5
+2016-11-26,Ross County,Hamilton,2.05,3.3,3.6
+2016-11-26,Nantes,Lille,2.25,3.0,3.6
+2016-11-26,Montpellier,Nancy,1.91,3.4,4.2
+2016-11-26,Monaco,Marseille,1.67,3.75,5.5
+2016-11-26,Metz,Lorient,2.7,3.25,2.7
+2016-11-26,Caen,Guingamp,2.38,3.1,3.3
+2016-11-26,Bordeaux,Dijon,1.73,3.6,5.25
+2016-11-26,Partick,Rangers,4.75,3.6,1.73
+2016-11-26,Belenenses,Porto,10.0,5.25,1.29
+2016-11-26,Aston Villa,Cardiff,1.83,3.6,5.0
+2016-11-26,Hull,West Brom,3.1,3.2,2.6
+2016-11-26,Leicester,Middlesbrough,1.91,3.6,4.5
+2016-11-26,Swansea,Crystal Palace,2.63,3.4,2.88
+2016-11-26,Liverpool,Sunderland,1.17,8.5,19.0
+2016-11-27,AZ Alkmaar,Heracles,1.57,4.0,5.5
+2016-11-27,Celta,Granada,1.53,4.0,7.0
+2016-11-27,Osasuna,Ath Madrid,11.0,5.25,1.3
+2016-11-27,Sociedad,Barcelona,7.0,4.75,1.44
+2016-11-27,Villarreal,Alaves,1.5,4.0,7.5
+2016-11-27,Angers,St Etienne,2.5,3.0,3.2
+2016-11-27,Lyon,Paris SG,3.6,3.4,2.1
+2016-11-27,Nice,Bastia,1.62,3.75,6.0
+2016-11-27,Watford,Stoke,2.4,3.3,3.3
+2016-11-27,Arsenal,Bournemouth,1.4,5.0,9.0
+2016-11-27,Man United,West Ham,1.45,4.75,8.0
+2016-11-27,Braunschweig,Munich 1860,1.73,3.6,4.75
+2016-11-27,Kaiserslautern,Karlsruhe,2.15,3.0,3.75
+2016-11-27,Sandhausen,Union Berlin,2.5,3.1,2.9
+2016-11-27,Hertha,Mainz,2.0,3.5,3.8
+2016-11-27,Schalke 04,Darmstadt,1.33,5.0,10.0
+2016-11-27,Heerenveen,Ajax,4.2,3.75,1.8
+2016-11-27,Sparta Rotterdam,Roda,1.73,3.75,4.5
+2016-11-27,Utrecht,Feyenoord,3.5,3.6,2.0
+2016-11-27,Roma,Pescara,1.2,7.5,12.0
+2016-11-27,Palermo,Lazio,5.5,4.0,1.62
+2016-11-27,Southampton,Everton,2.2,3.4,3.6
+2016-11-27,Rizespor,Fenerbahce,7.0,3.75,1.53
+2016-11-27,Arouca,Pacos Ferreira,2.25,3.1,3.4
+2016-11-27,Genclerbirligi,Trabzonspor,2.0,3.25,3.9
+2016-11-27,Crotone,Sampdoria,3.3,3.4,2.2
+2016-11-27,Cagliari,Udinese,2.38,3.4,3.0
+2016-11-27,Bologna,Atalanta,3.0,3.2,2.5
+2016-11-27,Benfica,Moreirense,1.17,7.0,15.0
+2016-11-27,Tondela,Guimaraes,3.4,3.25,2.15
+2016-11-27,Genoa,Juventus,6.0,3.75,1.62
+2016-11-27,Standard,Waregem,1.95,3.5,3.75
+2016-11-27,Oostende,Genk,2.1,3.6,3.2
+2016-11-27,Gent,Kortrijk,1.44,4.33,7.0
+2016-11-27,Anderlecht,Mouscron,1.25,6.0,10.0
+2016-11-28,Konyaspor,Osmanlispor,2.6,3.0,2.9
+2016-11-28,Sp Braga,Feirense,1.5,4.0,7.0
+2016-11-28,Stuttgart,Nurnberg,1.83,3.5,4.2
+2016-11-28,Huddersfield,Wigan,2.0,3.2,4.0
+2016-11-28,Inter,Fiorentina,2.0,3.4,3.9
+2016-11-28,Las Palmas,Ath Bilbao,2.5,3.4,2.8
+2016-11-28,Napoli,Sassuolo,1.25,6.0,12.0
+2016-11-29,Lille,Caen,1.8,3.4,5.0
+2016-11-29,Lorient,Rennes,2.38,3.25,3.1
+2016-11-29,Dijon,Monaco,5.5,4.0,1.62
+2016-11-30,Guingamp,Nice,2.45,3.2,3.0
+2016-11-30,Bastia,Bordeaux,2.9,3.0,2.7
+2016-11-30,Paris SG,Angers,1.2,7.0,15.0
+2016-11-30,St Etienne,Marseille,2.15,3.25,3.6
+2016-11-30,Toulouse,Montpellier,2.05,3.4,3.75
+2016-11-30,Nancy,Metz,1.91,3.5,4.2
+2016-11-30,Hearts,Rangers,2.88,3.4,2.38
+2016-11-30,Nantes,Lyon,3.75,3.25,2.1
+2016-12-01,QPR,Wolves,2.38,3.2,3.0
+2016-12-02,Hannover,Heidenheim,1.73,3.75,4.5
+2016-12-02,Mechelen,Eupen,1.85,3.6,4.0
+2016-12-02,Heracles,Nijmegen,1.95,3.5,3.75
+2016-12-02,Mainz,Bayern Munich,10.0,5.75,1.29
+2016-12-02,Napoli,Inter,1.75,3.75,4.75
+2016-12-02,Maritimo,Benfica,9.5,4.5,1.36
+2016-12-02,Nott'm Forest,Newcastle,4.75,3.75,1.83
+2016-12-02,Karlsruhe,Greuther Furth,2.3,3.2,3.2
+2016-12-02,St Pauli,Kaiserslautern,2.75,3.2,2.6
+2016-12-02,Caen,Dijon,2.1,3.3,3.6
+2016-12-03,Vitesse,Zwolle,1.65,4.0,4.75
+2016-12-03,Go Ahead Eagles,Heerenveen,4.33,3.4,1.85
+2016-12-03,Excelsior,AZ Alkmaar,5.25,3.6,1.67
+2016-12-03,Hamilton,Partick,2.75,3.3,2.5
+2016-12-03,Angers,Lorient,2.0,3.3,4.0
+2016-12-03,Bordeaux,Lille,2.15,3.1,3.8
+2016-12-03,Crystal Palace,Southampton,3.5,3.3,2.3
+2016-12-03,Monaco,Bastia,1.36,4.5,11.0
+2016-12-03,Montpellier,Paris SG,6.5,4.2,1.53
+2016-12-03,Man City,Chelsea,2.15,3.6,3.6
+2016-12-03,Guingamp,Nantes,2.1,3.25,3.75
+2016-12-03,West Brom,Watford,2.2,3.3,3.75
+2016-12-03,Wigan,Derby,3.5,3.3,2.3
+2016-12-03,Tottenham,Swansea,1.36,5.5,9.0
+2016-12-03,Sunderland,Leicester,3.4,3.4,2.3
+2016-12-03,Stoke,Burnley,1.62,4.0,6.5
+2016-12-03,Kilmarnock,Dundee,2.88,3.3,2.4
+2016-12-03,Motherwell,Celtic,15.0,6.0,1.2
+2016-12-03,Rangers,Aberdeen,2.15,3.4,3.25
+2016-12-03,Ross County,Hearts,3.75,3.5,1.95
+2016-12-03,Birmingham,Barnsley,2.0,3.75,3.8
+2016-12-03,Blackburn,Huddersfield,2.7,3.25,2.9
+2016-12-03,Bristol City,Ipswich,2.1,3.4,3.9
+2016-12-03,Burton,Rotherham,1.8,3.75,5.0
+2016-12-03,Cardiff,Brighton,3.1,3.3,2.5
+2016-12-03,Fulham,Reading,2.0,3.7,3.9
+2016-12-03,Leeds,Aston Villa,2.75,3.2,2.88
+2016-12-03,Club Brugge,Oostende,1.5,4.0,6.5
+2016-12-03,St Truiden,Mouscron,1.8,3.4,4.75
+2016-12-03,St Johnstone,Inverness C,2.0,3.3,3.75
+2016-12-03,Westerlo,Gent,7.5,4.2,1.44
+2016-12-03,Juventus,Atalanta,1.4,4.5,9.0
+2016-12-03,Norwich,Brentford,1.91,3.75,4.33
+2016-12-03,Sheffield Weds,Preston,1.8,3.6,5.25
+2016-12-03,West Ham,Arsenal,4.75,4.2,1.75
+2016-12-03,Waregem,Waasland-Beveren,1.44,4.33,7.0
+2016-12-03,Roda,PSV Eindhoven,11.0,5.0,1.29
+2016-12-03,Barcelona,Real Madrid,1.85,4.2,4.2
+2016-12-03,Hoffenheim,FC Koln,2.1,3.4,3.6
+2016-12-03,Dortmund,M'gladbach,1.5,4.5,6.5
+2016-12-03,Fenerbahce,Besiktas,1.85,3.6,4.0
+2016-12-03,Buyuksehyr,Antalyaspor,1.5,4.2,6.25
+2016-12-03,Leganes,Villarreal,3.8,2.9,2.25
+2016-12-03,Werder Bremen,Ingolstadt,2.5,3.3,2.9
+2016-12-03,Wolfsburg,Hertha,2.1,3.2,3.8
+2016-12-03,Ath Madrid,Espanol,1.22,6.0,15.0
+2016-12-03,Granada,Sevilla,4.75,3.5,1.8
+2016-12-03,Leverkusen,Freiburg,1.5,4.2,7.0
+2016-12-03,RB Leipzig,Schalke 04,2.0,3.3,4.0
+2016-12-03,Munich 1860,Dresden,2.7,3.2,2.63
+2016-12-03,Nurnberg,Sandhausen,1.91,3.4,4.0
+2016-12-03,Rio Ave,Tondela,1.75,3.4,5.0
+2016-12-03,Porto,Sp Braga,1.36,4.75,8.0
+2016-12-03,Sp Lisbon,Setubal,1.2,6.0,15.0
+2016-12-04,Milan,Crotone,1.33,5.0,10.0
+2016-12-04,Bielefeld,Bochum,2.3,3.25,3.1
+2016-12-04,Osmanlispor,Karabukspor,1.75,3.5,4.75
+2016-12-04,Kasimpasa,Galatasaray,3.8,3.6,1.91
+2016-12-04,Den Haag,Utrecht,3.2,3.3,2.25
+2016-12-04,Feyenoord,Sparta Rotterdam,1.3,5.0,11.0
+2016-12-04,Gaziantepspor,Akhisar Belediyespor,2.4,3.1,3.1
+2016-12-04,Sassuolo,Empoli,1.83,3.4,4.75
+2016-12-04,Sampdoria,Torino,2.75,3.25,2.63
+2016-12-04,Pescara,Cagliari,2.38,3.4,3.0
+2016-12-04,Fiorentina,Palermo,1.29,5.5,11.0
+2016-12-04,Erzgebirge Aue,Stuttgart,4.2,3.5,1.85
+2016-12-04,Lazio,Roma,2.9,3.4,2.4
+2016-12-04,Willem II,Twente,2.63,3.25,2.63
+2016-12-04,Wurzburger Kickers,Fortuna Dusseldorf,2.25,3.25,3.2
+2016-12-04,Marseille,Nancy,1.8,3.4,5.0
+2016-12-04,Nice,Toulouse,2.1,3.2,3.8
+2016-12-04,Valencia,Malaga,1.75,3.6,5.0
+2016-12-04,Everton,Man United,3.6,3.5,2.15
+2016-12-04,Kortrijk,Anderlecht,3.8,3.3,2.0
+2016-12-04,Genk,Lokeren,1.57,3.75,6.0
+2016-12-04,Bournemouth,Liverpool,5.0,4.0,1.75
+2016-12-04,Charleroi,Standard,2.8,3.2,2.55
+2016-12-04,Ajax,Groningen,1.22,5.75,13.0
+2016-12-04,Estoril,Belenenses,2.38,3.1,3.1
+2016-12-04,Guimaraes,Chaves,1.85,3.3,4.5
+2016-12-04,Sp Gijon,Osasuna,2.0,3.3,4.0
+2016-12-04,Feirense,Arouca,2.45,3.0,3.1
+2016-12-04,Darmstadt,Hamburg,2.7,3.1,2.8
+2016-12-04,Rennes,St Etienne,2.4,3.0,3.3
+2016-12-04,Alanyaspor,Konyaspor,2.6,3.2,2.75
+2016-12-04,Augsburg,Ein Frankfurt,2.8,3.0,2.75
+2016-12-04,Adanaspor,Genclerbirligi,4.33,3.5,1.83
+2016-12-04,Betis,Celta,2.38,3.25,3.1
+2016-12-04,Ath Bilbao,Eibar,1.85,3.4,4.75
+2016-12-04,Moreirense,Nacional,2.25,3.1,3.4
+2016-12-04,Alaves,Las Palmas,2.5,3.2,3.0
+2016-12-05,Union Berlin,Braunschweig,2.4,3.2,3.0
+2016-12-05,Kayserispor,Trabzonspor,2.3,3.25,3.1
+2016-12-05,Bursaspor,Rizespor,1.67,3.6,5.25
+2016-12-05,Udinese,Bologna,2.0,3.2,4.2
+2016-12-05,Chievo,Genoa,2.5,3.1,3.1
+2016-12-05,Pacos Ferreira,Boavista,2.2,3.0,3.6
+2016-12-05,La Coruna,Sociedad,3.1,3.1,2.5
+2016-12-05,Middlesbrough,Hull,1.83,3.5,5.25
+2016-12-06,Aberdeen,Kilmarnock,1.3,5.25,9.5
+2016-12-09,Heidenheim,Union Berlin,2.6,3.2,2.75
+2016-12-09,Partick,Celtic,11.0,5.75,1.25
+2016-12-09,Trabzonspor,Adanaspor,1.4,4.5,7.5
+2016-12-09,Malaga,Granada,1.6,4.0,5.75
+2016-12-09,Lokeren,Waregem,2.55,3.3,2.7
+2016-12-09,Brighton,Leeds,1.85,3.5,5.0
+2016-12-09,Fortuna Dusseldorf,Nurnberg,2.88,3.4,2.38
+2016-12-09,Dresden,Karlsruhe,1.67,3.75,5.0
+2016-12-09,Ein Frankfurt,Hoffenheim,2.4,3.3,3.0
+2016-12-09,Groningen,Roda,1.55,3.8,5.5
+2016-12-09,Setubal,Estoril,2.0,3.3,3.8
+2016-12-10,Mouscron,Mechelen,2.63,3.3,2.6
+2016-12-10,Belenenses,Maritimo,2.38,3.0,3.25
+2016-12-10,Dundee,Ross County,2.4,3.6,2.7
+2016-12-10,Chaves,Moreirense,2.1,3.1,3.8
+2016-12-10,Crotone,Pescara,2.63,3.25,2.8
+2016-12-10,Sampdoria,Lazio,3.0,3.4,2.38
+2016-12-10,Rangers,Hearts,1.8,3.6,4.33
+2016-12-10,Motherwell,Kilmarnock,1.95,3.4,3.9
+2016-12-10,Inverness C,Hamilton,2.05,3.8,3.2
+2016-12-10,Aberdeen,St Johnstone,1.62,3.9,5.25
+2016-12-10,Boavista,Guimaraes,3.4,3.0,2.3
+2016-12-10,Bochum,Munich 1860,2.1,3.4,3.4
+2016-12-10,Osasuna,Barcelona,15.0,7.5,1.18
+2016-12-10,Wolves,Fulham,2.88,3.4,2.63
+2016-12-10,Las Palmas,Leganes,1.8,3.5,4.75
+2016-12-10,PSV Eindhoven,Go Ahead Eagles,1.13,8.5,16.0
+2016-12-10,Nijmegen,Den Haag,2.0,3.4,3.6
+2016-12-10,Heerenveen,Excelsior,1.45,4.33,7.0
+2016-12-10,Bastia,Metz,1.83,3.4,4.75
+2016-12-10,Bordeaux,Monaco,3.75,3.3,2.1
+2016-12-10,Dijon,Marseille,3.2,3.25,2.3
+2016-12-10,Lille,Montpellier,2.0,3.1,4.33
+2016-12-10,Nancy,Angers,2.5,2.9,3.25
+2016-12-10,Toulouse,Lorient,2.0,3.3,4.0
+2016-12-10,Kortrijk,St Truiden,1.91,3.5,4.0
+2016-12-10,Bayern Munich,Wolfsburg,1.17,7.5,17.0
+2016-12-10,FC Koln,Dortmund,5.5,4.33,1.57
+2016-12-10,Freiburg,Darmstadt,1.67,3.75,5.5
+2016-12-10,Hamburg,Augsburg,2.3,3.2,3.25
+2016-12-10,Hertha,Werder Bremen,1.73,3.75,5.0
+2016-12-10,Ingolstadt,RB Leipzig,4.33,3.75,1.8
+2016-12-10,Kaiserslautern,Erzgebirge Aue,1.8,3.4,4.75
+2016-12-10,Rotherham,QPR,3.4,3.4,2.3
+2016-12-10,Reading,Sheffield Weds,2.8,3.3,2.75
+2016-12-10,Zwolle,Willem II,2.2,3.25,3.3
+2016-12-10,Newcastle,Birmingham,1.45,4.75,8.0
+2016-12-10,Real Madrid,La Coruna,1.17,8.0,15.0
+2016-12-10,Sociedad,Valencia,1.91,3.75,3.8
+2016-12-10,Arsenal,Stoke,1.35,5.5,9.5
+2016-12-10,Burnley,Bournemouth,3.5,3.5,2.2
+2016-12-10,Hull,Crystal Palace,3.5,3.3,2.3
+2016-12-10,Leicester,Man City,5.25,4.0,1.7
+2016-12-10,Swansea,Sunderland,2.15,3.5,3.6
+2016-12-10,Watford,Everton,3.1,3.4,2.45
+2016-12-10,Preston,Blackburn,2.1,3.4,4.0
+2016-12-10,Besiktas,Bursaspor,1.45,4.33,7.0
+2016-12-10,Eupen,Charleroi,2.9,3.3,2.38
+2016-12-10,Brentford,Burton,2.05,3.6,3.8
+2016-12-10,Ipswich,Cardiff,2.4,3.2,3.4
+2016-12-10,Rizespor,Kasimpasa,2.3,3.2,3.1
+2016-12-10,Aston Villa,Wigan,1.73,3.75,5.5
+2016-12-10,Barnsley,Norwich,3.4,3.6,2.2
+2016-12-10,Genclerbirligi,Buyuksehyr,2.9,3.2,2.45
+2016-12-10,Huddersfield,Bristol City,2.25,3.4,3.5
+2016-12-11,Braunschweig,Bielefeld,1.75,3.75,4.5
+2016-12-11,Greuther Furth,St Pauli,2.0,3.5,3.6
+2016-12-11,Sandhausen,Wurzburger Kickers,2.3,3.1,3.3
+2016-12-11,Lyon,Rennes,1.57,3.75,7.0
+2016-12-11,Karabukspor,Alanyaspor,1.91,3.4,4.0
+2016-12-11,Galatasaray,Gaziantepspor,1.33,5.0,8.5
+2016-12-11,Akhisar Belediyespor,Osmanlispor,3.0,3.2,2.38
+2016-12-11,Paris SG,Nice,1.36,5.0,8.5
+2016-12-11,Konyaspor,Kayserispor,1.91,3.3,4.2
+2016-12-11,St Etienne,Guingamp,2.0,3.25,4.2
+2016-12-11,Atalanta,Udinese,1.75,3.6,5.0
+2016-12-11,Gent,Oostende,1.57,3.8,6.0
+2016-12-11,Sparta Rotterdam,Vitesse,3.2,3.4,2.2
+2016-12-11,AZ Alkmaar,Feyenoord,3.1,3.5,2.2
+2016-12-11,M'gladbach,Mainz,1.67,4.0,5.0
+2016-12-11,Schalke 04,Leverkusen,2.3,3.3,3.2
+2016-12-11,Liverpool,West Ham,1.3,6.0,11.0
+2016-12-11,Bologna,Empoli,2.1,3.25,3.8
+2016-12-11,Twente,Ajax,5.0,4.0,1.62
+2016-12-11,Cagliari,Napoli,6.0,4.33,1.53
+2016-12-11,Palermo,Chievo,2.9,3.1,2.6
+2016-12-11,Torino,Juventus,4.33,3.6,1.85
+2016-12-11,Southampton,Middlesbrough,1.7,3.7,6.0
+2016-12-11,Man United,Tottenham,2.2,3.4,3.6
+2016-12-11,Anderlecht,Club Brugge,2.25,3.4,3.1
+2016-12-11,Derby,Nott'm Forest,1.73,3.6,4.75
+2016-12-11,Inter,Genoa,1.67,3.75,5.5
+2016-12-11,Utrecht,Heracles,1.62,3.8,5.5
+2016-12-11,Chelsea,West Brom,1.25,6.25,15.0
+2016-12-11,Espanol,Sp Gijon,1.73,3.75,5.0
+2016-12-11,Eibar,Alaves,1.83,3.6,4.5
+2016-12-11,Celta,Sevilla,2.75,3.3,2.63
+2016-12-11,Betis,Ath Bilbao,3.1,3.25,2.38
+2016-12-11,Standard,Westerlo,1.25,6.0,10.0
+2016-12-11,Benfica,Sp Lisbon,2.2,3.1,3.5
+2016-12-11,Feirense,Porto,10.0,5.25,1.29
+2016-12-11,Nacional,Tondela,2.05,3.2,3.8
+2016-12-11,Sp Braga,Pacos Ferreira,1.6,3.5,6.5
+2016-12-12,Villarreal,Ath Madrid,4.5,3.5,1.85
+2016-12-12,Fiorentina,Sassuolo,1.62,4.0,5.5
+2016-12-12,Arouca,Rio Ave,2.6,3.0,2.88
+2016-12-12,Roma,Milan,1.62,4.2,5.25
+2016-12-12,Antalyaspor,Fenerbahce,5.25,3.5,1.7
+2016-12-12,Stuttgart,Hannover,2.1,3.5,3.3
+2016-12-13,Bournemouth,Leicester,2.4,3.4,3.2
+2016-12-13,Birmingham,Ipswich,2.38,3.2,3.4
+2016-12-13,Blackburn,Brighton,4.2,3.5,2.0
+2016-12-13,Bristol City,Brentford,2.1,3.75,3.5
+2016-12-13,Burton,Huddersfield,2.9,3.3,2.63
+2016-12-13,Cardiff,Wolves,2.4,3.4,3.2
+2016-12-13,Fulham,Rotherham,1.44,5.0,7.5
+2016-12-13,Leeds,Reading,2.2,3.4,3.6
+2016-12-13,Norwich,Aston Villa,2.38,3.3,3.3
+2016-12-13,Sheffield Weds,Barnsley,1.73,3.75,5.5
+2016-12-13,Celtic,Hamilton,1.1,9.0,21.0
+2016-12-13,Everton,Arsenal,4.2,3.75,1.91
+2016-12-14,Nott'm Forest,Preston,2.4,3.4,3.2
+2016-12-14,QPR,Derby,3.75,3.5,2.1
+2016-12-14,Wigan,Newcastle,5.75,4.0,1.67
+2016-12-14,Tottenham,Hull,1.22,7.0,15.0
+2016-12-14,Sunderland,Chelsea,10.0,5.75,1.33
+2016-12-14,Man City,Watford,1.29,6.5,11.0
+2016-12-14,Middlesbrough,Liverpool,6.0,4.33,1.6
+2016-12-14,Crystal Palace,Man United,5.25,4.0,1.7
+2016-12-14,Stoke,Southampton,3.1,3.3,2.5
+2016-12-14,West Brom,Swansea,2.05,3.5,4.0
+2016-12-14,West Ham,Burnley,1.67,4.0,5.75
+2016-12-15,Genoa,Fiorentina,2.6,3.2,2.8
+2016-12-15,Porto,Maritimo,1.2,6.0,15.0
+2016-12-16,Alaves,Betis,2.3,3.1,3.4
+2016-12-16,Hoffenheim,Dortmund,3.8,4.0,1.85
+2016-12-16,Erzgebirge Aue,Fortuna Dusseldorf,2.6,3.2,2.7
+2016-12-16,Munich 1860,Heidenheim,3.0,3.2,2.4
+2016-12-16,Union Berlin,Greuther Furth,1.67,3.6,5.25
+2016-12-16,Hamilton,Rangers,5.75,4.2,1.53
+2016-12-16,Angers,Nantes,2.4,3.0,3.2
+2016-12-16,Norwich,Huddersfield,1.85,3.7,4.6
+2016-12-16,Pacos Ferreira,Belenenses,2.45,3.1,3.0
+2016-12-16,Willem II,Heerenveen,2.88,3.4,2.38
+2016-12-17,Moreirense,Arouca,2.15,3.1,3.6
+2016-12-17,Sunderland,Watford,2.63,3.3,2.9
+2016-12-17,Sevilla,Malaga,1.5,4.1,6.5
+2016-12-17,Sp Gijon,Villarreal,3.25,3.3,2.2
+2016-12-17,Kasimpasa,Besiktas,7.0,4.33,1.45
+2016-12-17,Buyuksehyr,Trabzonspor,1.75,3.75,4.33
+2016-12-17,Celtic,Dundee,1.13,8.0,21.0
+2016-12-17,Wolfsburg,Ein Frankfurt,2.5,3.2,3.0
+2016-12-17,Twente,AZ Alkmaar,2.45,3.3,2.8
+2016-12-17,St Pauli,Bochum,2.5,3.1,2.9
+2016-12-17,Karlsruhe,Braunschweig,3.4,3.2,2.2
+2016-12-17,St Truiden,Gent,4.33,3.5,1.83
+2016-12-17,Empoli,Cagliari,2.05,3.25,3.75
+2016-12-17,Oostende,Waregem,2.0,3.6,3.5
+2016-12-17,Hearts,Partick,1.67,3.75,5.0
+2016-12-17,Werder Bremen,FC Koln,2.6,3.4,2.7
+2016-12-17,Schalke 04,Freiburg,1.67,4.0,5.0
+2016-12-17,RB Leipzig,Hertha,1.62,3.8,6.0
+2016-12-17,Mainz,Hamburg,1.91,3.6,4.0
+2016-12-17,Augsburg,M'gladbach,3.2,3.1,2.4
+2016-12-17,Charleroi,Mouscron,1.44,4.33,7.0
+2016-12-17,Kilmarnock,Inverness C,2.88,3.3,2.4
+2016-12-17,Ross County,Aberdeen,4.75,3.5,1.75
+2016-12-17,St Johnstone,Motherwell,1.75,3.6,4.6
+2016-12-17,Roda,Utrecht,3.75,3.6,1.91
+2016-12-17,Mechelen,Waasland-Beveren,1.75,3.6,4.6
+2016-12-17,Granada,Sociedad,3.75,3.4,2.0
+2016-12-17,Westerlo,Lokeren,3.2,3.4,2.2
+2016-12-17,Feyenoord,Vitesse,1.44,4.2,7.5
+2016-12-17,Nott'm Forest,Wolves,2.6,3.5,2.8
+2016-12-17,Leeds,Brentford,2.25,3.5,3.4
+2016-12-17,Fulham,Derby,2.3,3.5,3.3
+2016-12-17,Cardiff,Barnsley,2.15,3.5,3.6
+2016-12-17,Burton,Newcastle,6.0,4.0,1.65
+2016-12-17,Bristol City,Preston,2.2,3.5,3.5
+2016-12-17,Blackburn,Reading,2.63,3.4,2.88
+2016-12-17,Birmingham,Brighton,3.9,3.3,2.15
+2016-12-17,Middlesbrough,Swansea,2.1,3.4,4.0
+2016-12-17,Milan,Atalanta,1.95,3.4,3.9
+2016-12-17,Crystal Palace,Chelsea,6.5,4.2,1.57
+2016-12-17,Stoke,Leicester,2.6,3.4,2.9
+2016-12-17,Estoril,Benfica,13.0,5.75,1.22
+2016-12-17,West Ham,Hull,1.62,4.1,6.0
+2016-12-17,West Brom,Man United,5.75,3.8,1.7
+2016-12-17,Juventus,Roma,1.7,3.6,5.0
+2016-12-17,Wigan,Ipswich,2.45,3.2,3.3
+2016-12-17,Sheffield Weds,Rotherham,1.36,5.25,10.0
+2016-12-17,Toulouse,Nancy,1.91,3.2,4.33
+2016-12-17,Rennes,Bastia,1.8,3.4,4.75
+2016-12-17,Guingamp,Paris SG,7.0,4.33,1.44
+2016-12-17,Lorient,St Etienne,2.4,3.2,3.0
+2016-12-17,Montpellier,Bordeaux,2.25,3.3,3.2
+2016-12-17,Ath Madrid,Las Palmas,1.29,5.5,9.5
+2016-12-18,Den Haag,Sparta Rotterdam,2.38,3.3,2.9
+2016-12-18,Man City,Arsenal,2.15,3.6,3.5
+2016-12-18,Club Brugge,Kortrijk,1.36,4.75,8.0
+2016-12-18,Anderlecht,Eupen,1.25,6.0,10.0
+2016-12-18,La Coruna,Osasuna,1.57,3.75,6.0
+2016-12-18,Leganes,Eibar,2.55,3.1,2.88
+2016-12-18,Genk,Standard,2.38,3.3,2.9
+2016-12-18,Heracles,Zwolle,2.0,3.4,3.75
+2016-12-18,Groningen,Go Ahead Eagles,1.5,4.0,7.0
+2016-12-18,Bournemouth,Southampton,3.0,3.3,2.6
+2016-12-18,Excelsior,Nijmegen,2.4,3.25,2.9
+2016-12-18,Barcelona,Espanol,1.1,10.0,26.0
+2016-12-18,Ajax,PSV Eindhoven,2.0,3.6,3.5
+2016-12-18,Sassuolo,Inter,3.4,3.6,2.05
+2016-12-18,Caen,Metz,1.75,3.5,4.75
+2016-12-18,Sp Lisbon,Sp Braga,1.44,4.0,8.0
+2016-12-18,Rio Ave,Nacional,1.85,3.3,4.5
+2016-12-18,Guimaraes,Setubal,1.67,3.6,5.5
+2016-12-18,Genoa,Palermo,1.57,3.75,6.0
+2016-12-18,Lazio,Fiorentina,2.0,3.4,3.75
+2016-12-18,QPR,Aston Villa,3.5,3.3,2.3
+2016-12-18,Tottenham,Burnley,1.22,7.0,15.0
+2016-12-18,Marseille,Lille,2.05,3.2,3.75
+2016-12-18,Monaco,Lyon,1.83,3.75,4.0
+2016-12-18,Nice,Dijon,1.53,4.2,5.75
+2016-12-18,Osmanlispor,Galatasaray,2.5,3.2,2.8
+2016-12-18,Karabukspor,Konyaspor,2.3,3.2,3.2
+2016-12-18,Gaziantepspor,Rizespor,2.6,3.2,2.75
+2016-12-18,Alanyaspor,Akhisar Belediyespor,2.2,3.2,3.4
+2016-12-18,Adanaspor,Kayserispor,3.1,3.3,2.3
+2016-12-18,Napoli,Torino,1.45,4.2,7.5
+2016-12-18,Leverkusen,Ingolstadt,1.55,4.0,6.25
+2016-12-18,Darmstadt,Bayern Munich,19.0,8.0,1.14
+2016-12-18,Pescara,Bologna,2.4,3.0,3.2
+2016-12-18,Wurzburger Kickers,Stuttgart,3.3,3.6,2.05
+2016-12-18,Hannover,Sandhausen,1.6,3.8,5.75
+2016-12-18,Bielefeld,Dresden,2.6,3.1,2.8
+2016-12-18,Udinese,Crotone,1.57,3.8,6.0
+2016-12-18,Tondela,Boavista,2.4,3.0,3.2
+2016-12-18,Chievo,Sampdoria,2.2,3.25,3.3
+2016-12-19,Everton,Liverpool,4.2,3.6,1.95
+2016-12-19,Maritimo,Feirense,1.67,3.75,5.0
+2016-12-19,Bursaspor,Antalyaspor,2.05,3.4,3.6
+2016-12-19,Fenerbahce,Genclerbirligi,1.44,4.2,7.5
+2016-12-19,Ath Bilbao,Celta,1.83,3.5,4.33
+2016-12-19,Porto,Chaves,1.17,7.5,14.0
+2016-12-19,Nurnberg,Kaiserslautern,1.95,3.5,3.8
+2016-12-20,Atalanta,Empoli,1.53,3.9,7.0
+2016-12-20,Celtic,Partick,1.14,8.0,15.0
+2016-12-20,Mouscron,Westerlo,1.75,3.8,4.33
+2016-12-20,Waasland-Beveren,St Truiden,2.5,3.2,2.88
+2016-12-20,Mechelen,Charleroi,2.38,3.3,2.9
+2016-12-20,Dortmund,Augsburg,1.3,5.5,10.0
+2016-12-20,M'gladbach,Wolfsburg,1.95,3.5,4.0
+2016-12-20,Hamburg,Schalke 04,3.3,3.25,2.3
+2016-12-20,Ein Frankfurt,Mainz,2.0,3.4,3.9
+2016-12-21,Inter,Lazio,2.15,3.5,3.3
+2016-12-21,Benfica,Rio Ave,1.2,6.0,15.0
+2016-12-21,Bordeaux,Nice,2.7,3.1,2.8
+2016-12-21,Dijon,Toulouse,2.5,3.2,3.0
+2016-12-21,Lille,Rennes,2.05,3.2,4.0
+2016-12-21,Lyon,Angers,1.44,4.5,7.5
+2016-12-21,Metz,Guingamp,3.4,3.1,2.3
+2016-12-21,Monaco,Caen,1.25,6.0,12.0
+2016-12-21,Nantes,Montpellier,2.25,3.2,3.4
+2016-12-21,Bastia,Marseille,3.2,3.1,2.4
+2016-12-21,St Etienne,Nancy,2.0,3.1,4.33
+2016-12-21,Kortrijk,Oostende,2.63,3.3,2.6
+2016-12-21,Paris SG,Lorient,1.18,7.5,15.0
+2016-12-21,Eupen,Club Brugge,5.5,4.33,1.53
+2016-12-21,Waregem,Genk,2.15,3.3,3.4
+2016-12-21,Standard,Lokeren,1.45,4.33,7.0
+2016-12-21,Hoffenheim,Werder Bremen,1.62,4.0,5.5
+2016-12-21,Hertha,Darmstadt,1.57,3.9,6.25
+2016-12-21,FC Koln,Leverkusen,2.75,3.3,2.6
+2016-12-21,Bayern Munich,RB Leipzig,1.36,5.25,8.0
+2016-12-21,Ingolstadt,Freiburg,2.1,3.3,3.75
+2016-12-22,Roma,Chievo,1.33,5.5,8.0
+2016-12-22,Palermo,Pescara,2.2,3.3,3.4
+2016-12-22,Feirense,Pacos Ferreira,3.0,3.2,2.4
+2016-12-22,Fiorentina,Napoli,3.5,3.5,2.1
+2016-12-22,Cagliari,Sassuolo,2.5,3.4,2.8
+2016-12-22,Belenenses,Sp Lisbon,8.5,4.75,1.36
+2016-12-22,Chaves,Estoril,2.05,3.1,4.0
+2016-12-22,Nacional,Boavista,2.0,3.4,3.75
+2016-12-22,Torino,Genoa,1.83,3.6,4.5
+2016-12-22,Sampdoria,Udinese,2.2,3.4,3.3
+2016-12-22,Gent,Anderlecht,2.45,3.3,2.8
+2016-12-22,Sp Braga,Moreirense,1.53,4.0,6.0
+2016-12-23,Arouca,Guimaraes,3.0,3.2,2.38
+2016-12-23,Setubal,Tondela,2.05,3.2,3.75
+2016-12-23,Kilmarnock,St Johnstone,3.6,3.2,2.1
+2016-12-23,Motherwell,Aberdeen,5.25,3.6,1.67
+2016-12-23,Ross County,Partick,2.25,3.3,3.2
+2016-12-23,Dundee,Hearts,3.8,3.4,1.95
+2016-12-24,Hamilton,Celtic,13.0,6.5,1.2
+2016-12-24,Besiktas,Gaziantepspor,1.2,6.5,13.0
+2016-12-24,Rangers,Inverness C,1.4,4.5,7.5
+2016-12-24,Adanaspor,Buyuksehyr,6.0,4.0,1.53
+2016-12-25,Akhisar Belediyespor,Konyaspor,2.5,3.1,2.9
+2016-12-25,Antalyaspor,Kasimpasa,1.95,3.5,3.75
+2016-12-25,Galatasaray,Alanyaspor,1.44,4.5,6.5
+2016-12-25,Kayserispor,Karabukspor,2.38,3.2,3.0
+2016-12-25,Rizespor,Osmanlispor,3.5,3.4,2.05
+2016-12-26,Huddersfield,Nott'm Forest,1.67,3.8,5.0
+2016-12-26,Barnsley,Blackburn,2.1,3.5,3.3
+2016-12-26,Aston Villa,Burton,1.62,3.75,5.5
+2016-12-26,Arsenal,West Brom,1.33,5.5,8.5
+2016-12-26,Hull,Man City,10.0,5.5,1.3
+2016-12-26,Chelsea,Bournemouth,1.36,5.0,8.5
+2016-12-26,Ipswich,Fulham,3.0,3.4,2.3
+2016-12-26,Leicester,Everton,2.5,3.3,2.9
+2016-12-26,Man United,Sunderland,1.22,6.5,13.0
+2016-12-26,Burnley,Middlesbrough,2.9,3.1,2.6
+2016-12-26,Newcastle,Sheffield Weds,1.57,4.0,5.5
+2016-12-26,Rotherham,Wigan,2.88,3.4,2.38
+2016-12-26,Reading,Norwich,2.75,3.3,2.5
+2016-12-26,Swansea,West Ham,2.63,3.2,2.8
+2016-12-26,Wolves,Bristol City,2.2,3.4,3.2
+2016-12-26,Westerlo,Kortrijk,3.1,3.3,2.3
+2016-12-26,Waregem,Mechelen,1.67,3.8,5.0
+2016-12-26,Oostende,Eupen,1.4,4.75,7.0
+2016-12-26,Lokeren,Waasland-Beveren,1.75,3.75,4.33
+2016-12-26,Club Brugge,Mouscron,1.17,7.5,13.0
+2016-12-26,Charleroi,Anderlecht,3.75,3.4,2.0
+2016-12-26,Trabzonspor,Fenerbahce,3.8,3.6,1.91
+2016-12-26,Genclerbirligi,Bursaspor,2.05,3.4,3.5
+2016-12-26,Preston,Leeds,2.38,3.2,3.0
+2016-12-26,Watford,Crystal Palace,2.5,3.3,2.9
+2016-12-26,Brentford,Cardiff,2.15,3.4,3.3
+2016-12-27,St Truiden,Standard,3.1,3.25,2.3
+2016-12-27,Genk,Gent,2.63,3.25,2.63
+2016-12-27,Brighton,QPR,1.5,4.33,8.0
+2016-12-27,Aberdeen,Hamilton,1.33,4.75,10.0
+2016-12-27,Hearts,Kilmarnock,1.44,4.2,7.5
+2016-12-27,Liverpool,Stoke,1.3,5.5,10.0
+2016-12-27,Derby,Birmingham,1.73,3.75,5.5
+2016-12-28,St Johnstone,Rangers,4.0,3.4,1.91
+2016-12-28,Southampton,Tottenham,2.8,3.25,2.6
+2016-12-28,Inverness C,Motherwell,2.05,3.5,3.4
+2016-12-28,Celtic,Ross County,1.13,8.5,17.0
+2016-12-28,Partick,Dundee,2.05,3.3,3.6
+2016-12-29,Rotherham,Burton,3.0,3.4,2.3
+2016-12-29,Aston Villa,Leeds,1.91,3.4,4.0
+2016-12-30,Hearts,Aberdeen,2.6,3.4,2.6
+2016-12-30,Hull,Everton,4.33,3.5,1.95
+2016-12-30,Newcastle,Nott'm Forest,1.35,5.5,10.0
+2016-12-30,Ipswich,Bristol City,2.75,3.3,2.8
+2016-12-31,Derby,Wigan,1.57,4.0,7.0
+2016-12-31,Brentford,Norwich,2.7,3.5,2.7
+2016-12-31,Swansea,Bournemouth,2.9,3.4,2.6
+2016-12-31,Huddersfield,Blackburn,1.75,3.9,5.0
+2016-12-31,Preston,Sheffield Weds,3.0,3.25,2.6
+2016-12-31,Barnsley,Birmingham,2.3,3.5,3.25
+2016-12-31,Southampton,West Brom,1.75,3.7,5.5
+2016-12-31,Liverpool,Man City,2.35,3.6,3.1
+2016-12-31,Wolves,QPR,1.75,3.9,5.0
+2016-12-31,Dundee,St Johnstone,3.1,3.3,2.3
+2016-12-31,Hamilton,Motherwell,2.55,3.3,2.7
+2016-12-31,Partick,Kilmarnock,1.8,3.4,4.75
+2016-12-31,Rangers,Celtic,4.5,3.75,1.75
+2016-12-31,Ross County,Inverness C,2.35,3.2,3.0
+2016-12-31,Burnley,Sunderland,2.4,3.25,3.3
+2016-12-31,Man United,Middlesbrough,1.25,6.0,16.0
+2016-12-31,Leicester,West Ham,2.1,3.6,3.7
+2016-12-31,Chelsea,Stoke,1.25,6.5,14.0
+2017-01-01,Watford,Tottenham,5.5,3.75,1.62
+2017-01-01,Arsenal,Crystal Palace,1.29,5.5,9.5
+2017-01-02,Fulham,Brighton,2.6,3.4,2.88
+2017-01-02,Leeds,Rotherham,1.45,4.6,8.5
+2017-01-02,Sheffield Weds,Wolves,1.91,3.6,4.4
+2017-01-02,Norwich,Derby,2.4,3.4,3.2
+2017-01-02,Nott'm Forest,Barnsley,2.38,3.5,3.1
+2017-01-02,Burton,Preston,2.5,3.4,3.0
+2017-01-02,QPR,Ipswich,2.6,3.3,3.0
+2017-01-02,Wigan,Huddersfield,3.25,3.4,2.38
+2017-01-02,Cardiff,Aston Villa,2.8,3.3,2.75
+2017-01-02,Bristol City,Reading,2.2,3.5,3.5
+2017-01-02,Middlesbrough,Leicester,2.75,3.2,2.88
+2017-01-02,Birmingham,Brentford,2.5,3.4,3.0
+2017-01-02,West Ham,Man United,6.0,4.0,1.65
+2017-01-02,West Brom,Hull,1.75,3.7,5.5
+2017-01-02,Sunderland,Liverpool,11.0,5.5,1.33
+2017-01-02,Man City,Burnley,1.17,8.5,19.0
+2017-01-02,Everton,Southampton,2.2,3.4,3.6
+2017-01-02,Blackburn,Newcastle,5.75,4.0,1.65
+2017-01-03,Bournemouth,Arsenal,4.33,3.4,1.85
+2017-01-03,Crystal Palace,Swansea,1.75,3.5,4.75
+2017-01-03,Stoke,Watford,1.8,3.5,4.5
+2017-01-04,Tottenham,Chelsea,2.63,3.25,2.63
+2017-01-06,Espanol,La Coruna,2.05,3.3,3.8
+2017-01-07,Las Palmas,Sp Gijon,1.67,3.75,5.5
+2017-01-07,Estoril,Maritimo,2.88,3.0,2.63
+2017-01-07,Eibar,Ath Madrid,5.5,3.5,1.73
+2017-01-07,Real Madrid,Granada,1.07,13.0,26.0
+2017-01-07,Pacos Ferreira,Porto,8.0,4.75,1.36
+2017-01-07,Napoli,Sampdoria,1.29,5.5,10.0
+2017-01-07,Nacional,Sp Braga,3.5,3.3,2.1
+2017-01-07,Empoli,Palermo,2.05,3.3,3.8
+2017-01-07,Guimaraes,Benfica,5.5,3.75,1.62
+2017-01-07,Sociedad,Sevilla,2.25,3.4,3.2
+2017-01-08,Chievo,Atalanta,2.75,3.2,2.7
+2017-01-08,Genoa,Roma,3.8,3.6,1.95
+2017-01-08,Juventus,Bologna,1.18,7.0,17.0
+2017-01-08,Lazio,Crotone,1.29,5.25,12.0
+2017-01-08,Milan,Cagliari,1.4,4.75,8.0
+2017-01-08,Sassuolo,Torino,2.7,3.4,2.6
+2017-01-08,Udinese,Inter,3.75,3.5,2.0
+2017-01-08,Ath Bilbao,Alaves,1.53,3.8,7.5
+2017-01-08,Sp Lisbon,Feirense,1.17,7.0,15.0
+2017-01-08,Tondela,Arouca,2.4,3.1,3.1
+2017-01-08,Villarreal,Barcelona,6.0,4.33,1.53
+2017-01-08,Celta,Malaga,1.85,3.6,4.33
+2017-01-08,Betis,Leganes,2.1,3.25,3.75
+2017-01-08,Boavista,Setubal,2.3,3.1,3.3
+2017-01-08,Rio Ave,Chaves,1.85,3.1,5.0
+2017-01-09,Moreirense,Belenenses,2.3,3.5,2.88
+2017-01-09,Osasuna,Valencia,4.0,3.5,1.95
+2017-01-12,Reading,QPR,1.75,3.7,4.5
+2017-01-13,Go Ahead Eagles,AZ Alkmaar,5.0,4.0,1.62
+2017-01-13,Arouca,Estoril,1.83,3.25,4.75
+2017-01-13,Bursaspor,Trabzonspor,2.4,3.3,2.9
+2017-01-13,Lille,St Etienne,2.05,3.1,4.2
+2017-01-13,Leeds,Derby,2.63,3.1,3.1
+2017-01-14,Preston,Brighton,3.6,3.3,2.25
+2017-01-14,Barcelona,Las Palmas,1.1,11.0,26.0
+2017-01-14,Ath Madrid,Betis,1.2,6.5,17.0
+2017-01-14,West Ham,Crystal Palace,2.38,3.4,3.2
+2017-01-14,Watford,Middlesbrough,2.5,3.2,3.2
+2017-01-14,Tottenham,West Brom,1.33,5.5,11.0
+2017-01-14,Leicester,Chelsea,6.0,4.1,1.62
+2017-01-14,Sunderland,Stoke,3.1,3.3,2.5
+2017-01-14,La Coruna,Villarreal,2.7,3.1,2.8
+2017-01-14,Lorient,Guingamp,2.45,3.2,3.0
+2017-01-14,Montpellier,Dijon,1.8,3.5,4.75
+2017-01-14,Nancy,Bastia,1.95,3.1,4.75
+2017-01-14,Swansea,Arsenal,7.0,4.75,1.5
+2017-01-14,Crotone,Bologna,3.0,3.0,2.6
+2017-01-14,Sheffield Weds,Huddersfield,2.25,3.2,3.7
+2017-01-14,Wolves,Aston Villa,2.55,3.3,3.0
+2017-01-14,Rennes,Paris SG,7.0,4.0,1.53
+2017-01-14,Rotherham,Norwich,5.0,4.0,1.75
+2017-01-14,Ipswich,Blackburn,2.3,3.3,3.5
+2017-01-14,Fulham,Barnsley,1.62,4.5,5.5
+2017-01-14,Burton,Wigan,2.3,3.3,3.5
+2017-01-14,Bristol City,Cardiff,2.3,3.4,3.4
+2017-01-14,Brentford,Newcastle,4.0,3.6,2.0
+2017-01-14,Birmingham,Nott'm Forest,2.1,3.5,3.8
+2017-01-14,Setubal,Nacional,2.2,3.1,3.5
+2017-01-14,Feirense,Guimaraes,3.6,3.2,2.1
+2017-01-14,Chaves,Sp Lisbon,6.5,3.6,1.57
+2017-01-14,Benfica,Boavista,1.14,7.5,17.0
+2017-01-14,Leganes,Ath Bilbao,3.25,3.1,2.38
+2017-01-14,Toulouse,Nantes,2.05,3.1,4.1
+2017-01-14,Angers,Bordeaux,2.8,3.0,2.75
+2017-01-14,Karabukspor,Akhisar Belediyespor,2.3,3.1,3.3
+2017-01-14,Heerenveen,Den Haag,1.5,4.33,6.0
+2017-01-14,Heracles,Groningen,2.4,3.4,2.8
+2017-01-14,PSV Eindhoven,Excelsior,1.17,7.0,15.0
+2017-01-14,Sparta Rotterdam,Utrecht,3.2,3.4,2.2
+2017-01-14,Burnley,Southampton,3.6,3.4,2.2
+2017-01-14,Inter,Chievo,1.44,4.33,8.0
+2017-01-14,Hull,Bournemouth,3.3,3.5,2.3
+2017-01-14,Konyaspor,Galatasaray,2.63,3.25,2.63
+2017-01-14,Buyuksehyr,Kayserispor,1.4,4.33,8.5
+2017-01-14,Alanyaspor,Rizespor,2.15,3.3,3.4
+2017-01-15,Celta,Alaves,1.7,3.75,5.25
+2017-01-15,Granada,Osasuna,2.05,3.4,3.8
+2017-01-15,Sassuolo,Palermo,1.73,3.6,5.25
+2017-01-15,Nice,Metz,1.5,4.2,7.0
+2017-01-15,Marseille,Monaco,3.0,3.3,2.4
+2017-01-15,Sp Gijon,Eibar,2.9,3.1,2.6
+2017-01-15,Valencia,Espanol,1.91,3.6,4.0
+2017-01-15,Porto,Moreirense,1.2,6.5,13.0
+2017-01-15,Maritimo,Pacos Ferreira,2.05,3.2,3.75
+2017-01-15,Belenenses,Rio Ave,2.63,3.1,2.75
+2017-01-15,Sevilla,Real Madrid,3.6,3.8,1.95
+2017-01-15,Fenerbahce,Adanaspor,1.17,7.0,15.0
+2017-01-15,Udinese,Roma,4.2,3.5,1.91
+2017-01-15,Kasimpasa,Genclerbirligi,2.63,3.2,2.7
+2017-01-15,Caen,Lyon,4.75,3.75,1.75
+2017-01-15,Sampdoria,Empoli,1.75,3.5,5.25
+2017-01-15,Napoli,Pescara,1.14,8.0,19.0
+2017-01-15,Lazio,Atalanta,2.0,3.4,3.9
+2017-01-15,Gaziantepspor,Antalyaspor,3.25,3.2,2.25
+2017-01-15,Willem II,Nijmegen,1.85,3.4,4.33
+2017-01-15,Zwolle,Ajax,11.0,4.5,1.33
+2017-01-15,Man United,Liverpool,2.15,3.4,3.75
+2017-01-15,Roda,Feyenoord,7.5,5.0,1.36
+2017-01-15,Everton,Man City,4.5,4.0,1.8
+2017-01-15,Cagliari,Genoa,2.8,3.4,2.5
+2017-01-15,Fiorentina,Juventus,4.75,3.4,1.83
+2017-01-15,Vitesse,Twente,2.0,3.8,3.4
+2017-01-16,Torino,Milan,2.38,3.3,3.1
+2017-01-16,Osmanlispor,Besiktas,3.1,3.2,2.3
+2017-01-16,Sp Braga,Tondela,1.44,4.2,7.5
+2017-01-16,Malaga,Sociedad,2.4,3.3,3.0
+2017-01-18,Nantes,Caen,2.0,3.4,4.0
+2017-01-20,Brighton,Sheffield Weds,1.85,3.4,5.25
+2017-01-20,Freiburg,Bayern Munich,13.0,6.5,1.22
+2017-01-20,Twente,Heracles,1.62,3.9,5.25
+2017-01-20,Bastia,Nice,3.0,3.1,2.55
+2017-01-20,Gent,Charleroi,1.62,3.75,5.5
+2017-01-20,Las Palmas,La Coruna,2.25,3.3,3.3
+2017-01-20,Pacos Ferreira,Moreirense,2.4,3.0,3.2
+2017-01-21,Schalke 04,Ingolstadt,1.8,3.6,4.75
+2017-01-21,Werder Bremen,Dortmund,6.0,4.33,1.53
+2017-01-21,Wolfsburg,Hamburg,1.85,3.6,4.33
+2017-01-21,Real Madrid,Malaga,1.13,10.0,17.0
+2017-01-21,RB Leipzig,Ein Frankfurt,1.62,3.8,6.0
+2017-01-21,Milan,Napoli,4.0,3.3,2.0
+2017-01-21,Chievo,Fiorentina,3.4,3.25,2.25
+2017-01-21,Alaves,Leganes,2.2,3.1,3.6
+2017-01-21,Espanol,Granada,1.57,4.0,6.0
+2017-01-21,Augsburg,Hoffenheim,2.8,3.3,2.6
+2017-01-21,Bournemouth,Watford,1.83,3.75,4.75
+2017-01-21,Eupen,Genk,3.5,3.4,2.05
+2017-01-21,Middlesbrough,West Ham,2.5,3.2,3.25
+2017-01-21,Stoke,Man United,6.0,4.2,1.6
+2017-01-21,West Brom,Sunderland,1.7,3.8,5.75
+2017-01-21,Groningen,Vitesse,2.25,3.3,3.2
+2017-01-21,Feyenoord,Willem II,1.25,5.5,12.0
+2017-01-21,Den Haag,Zwolle,2.3,3.4,3.0
+2017-01-21,AZ Alkmaar,Sparta Rotterdam,1.44,4.5,6.5
+2017-01-21,Konyaspor,Rizespor,1.91,3.4,4.0
+2017-01-21,Karabukspor,Galatasaray,3.75,3.4,2.0
+2017-01-21,Bursaspor,Adanaspor,1.55,4.33,5.25
+2017-01-21,Akhisar Belediyespor,Kayserispor,1.91,3.4,4.0
+2017-01-21,Bordeaux,Toulouse,2.1,3.25,3.8
+2017-01-21,Dijon,Lille,3.0,3.1,2.55
+2017-01-21,Guingamp,Rennes,2.3,3.1,3.4
+2017-01-21,Metz,Montpellier,3.1,3.2,2.4
+2017-01-21,Nantes,Paris SG,10.0,4.33,1.4
+2017-01-21,Kortrijk,Waregem,3.1,3.4,2.25
+2017-01-21,Villarreal,Valencia,1.85,3.6,4.33
+2017-01-21,Mouscron,Lokeren,3.0,3.25,2.38
+2017-01-21,Wigan,Brentford,2.7,3.3,2.88
+2017-01-21,Crystal Palace,Everton,3.25,3.4,2.38
+2017-01-21,Liverpool,Swansea,1.22,7.0,15.0
+2017-01-21,Arouca,Boavista,2.1,3.2,3.6
+2017-01-21,Maritimo,Sp Lisbon,5.25,3.6,1.67
+2017-01-21,Porto,Rio Ave,1.25,5.5,12.0
+2017-01-21,Man City,Tottenham,2.15,3.5,3.6
+2017-01-21,Darmstadt,M'gladbach,4.0,3.6,1.91
+2017-01-21,Aston Villa,Preston,2.2,3.3,3.8
+2017-01-21,Waasland-Beveren,Oostende,3.1,3.4,2.25
+2017-01-21,Barnsley,Leeds,3.5,3.4,2.25
+2017-01-21,Cardiff,Burton,1.85,3.6,4.75
+2017-01-21,Derby,Reading,1.95,3.5,4.33
+2017-01-21,Huddersfield,Ipswich,1.75,3.6,5.75
+2017-01-21,Newcastle,Rotherham,1.29,6.0,12.0
+2017-01-21,Norwich,Wolves,2.1,3.5,3.8
+2017-01-21,Nott'm Forest,Bristol City,2.63,3.5,2.8
+2017-01-21,QPR,Fulham,3.8,3.5,2.1
+2017-01-21,Blackburn,Birmingham,2.5,3.4,3.0
+2017-01-22,Arsenal,Burnley,1.2,7.5,17.0
+2017-01-22,Monaco,Lorient,1.33,5.0,10.0
+2017-01-22,Sociedad,Celta,1.95,3.6,3.8
+2017-01-22,Empoli,Udinese,2.6,3.2,2.8
+2017-01-22,Excelsior,Go Ahead Eagles,2.2,3.25,3.3
+2017-01-22,Nijmegen,Roda,2.1,3.5,3.3
+2017-01-22,PSV Eindhoven,Heerenveen,1.33,5.0,8.5
+2017-01-22,Utrecht,Ajax,4.75,3.6,1.73
+2017-01-22,Chelsea,Hull,1.18,8.0,19.0
+2017-01-22,Osasuna,Sevilla,6.0,4.33,1.53
+2017-01-22,Eibar,Barcelona,9.5,6.0,1.29
+2017-01-22,Betis,Sp Gijon,1.73,3.6,5.25
+2017-01-22,Ath Bilbao,Ath Madrid,4.0,3.2,2.05
+2017-01-22,Lyon,Marseille,1.73,3.75,5.0
+2017-01-22,Roma,Cagliari,1.25,6.5,11.0
+2017-01-22,Pescara,Sassuolo,2.9,3.3,2.5
+2017-01-22,Palermo,Inter,6.5,4.0,1.55
+2017-01-22,Juventus,Lazio,1.5,4.2,7.0
+2017-01-22,Genoa,Crotone,1.57,4.0,6.0
+2017-01-22,Bologna,Torino,2.9,3.3,2.5
+2017-01-22,Southampton,Leicester,1.83,3.5,5.25
+2017-01-22,Atalanta,Sampdoria,1.67,3.75,5.5
+2017-01-22,Mainz,FC Koln,2.4,3.3,3.0
+2017-01-22,Benfica,Tondela,1.11,9.0,19.0
+2017-01-22,Feirense,Estoril,2.25,3.0,3.5
+2017-01-22,Fenerbahce,Buyuksehyr,1.95,3.5,3.75
+2017-01-22,Kasimpasa,Trabzonspor,2.8,3.3,2.45
+2017-01-22,Osmanlispor,Antalyaspor,1.7,3.6,5.0
+2017-01-22,St Etienne,Angers,1.85,3.4,4.75
+2017-01-22,Belenenses,Setubal,2.1,3.1,3.75
+2017-01-22,Sp Braga,Guimaraes,1.91,3.4,4.0
+2017-01-22,Standard,Club Brugge,2.8,3.3,2.45
+2017-01-22,Leverkusen,Hertha,1.67,3.7,5.5
+2017-01-22,Anderlecht,St Truiden,1.29,5.5,9.5
+2017-01-22,Mechelen,Westerlo,1.5,4.2,6.25
+2017-01-23,Chaves,Nacional,2.0,3.1,4.2
+2017-01-23,Alanyaspor,Besiktas,6.5,4.5,1.44
+2017-01-24,Genk,Kortrijk,1.53,4.2,5.75
+2017-01-24,Waregem,Mouscron,1.44,4.2,7.5
+2017-01-24,Reading,Fulham,3.1,3.6,2.38
+2017-01-24,Oostende,Charleroi,1.8,3.5,4.5
+2017-01-24,Brighton,Cardiff,1.65,3.9,6.0
+2017-01-25,Celtic,St Johnstone,1.22,6.5,11.0
+2017-01-25,Leeds,Nott'm Forest,1.75,3.9,5.0
+2017-01-25,Westerlo,Anderlecht,7.0,4.33,1.44
+2017-01-25,St Truiden,Mechelen,2.05,3.5,3.4
+2017-01-25,Lokeren,Gent,3.25,3.5,2.1
+2017-01-25,Club Brugge,Waasland-Beveren,1.22,6.0,9.0
+2017-01-26,Eupen,Standard,4.2,3.6,1.83
+2017-01-27,Union Berlin,Bochum,2.05,3.5,3.4
+2017-01-27,Munich 1860,Greuther Furth,2.2,3.25,3.3
+2017-01-27,Marseille,Montpellier,1.67,3.75,5.5
+2017-01-27,Charleroi,Waregem,2.4,3.3,2.88
+2017-01-27,Fortuna Dusseldorf,Sandhausen,2.3,3.1,3.25
+2017-01-27,Boavista,Belenenses,2.3,3.0,3.4
+2017-01-27,Osasuna,Malaga,2.88,3.3,2.5
+2017-01-27,Aberdeen,Dundee,1.36,4.75,8.0
+2017-01-27,Schalke 04,Ein Frankfurt,1.73,3.6,5.25
+2017-01-27,Willem II,Sparta Rotterdam,2.25,3.3,3.2
+2017-01-28,Sp Lisbon,Pacos Ferreira,1.25,5.75,11.0
+2017-01-28,Motherwell,Rangers,5.25,4.2,1.57
+2017-01-28,St Johnstone,Hamilton,1.57,3.75,6.0
+2017-01-28,Kortrijk,Lokeren,2.25,3.6,2.9
+2017-01-28,Rennes,Nantes,2.2,3.1,3.6
+2017-01-28,Mechelen,Genk,2.75,3.5,2.4
+2017-01-28,St Truiden,Oostende,2.7,3.5,2.45
+2017-01-28,Waasland-Beveren,Westerlo,1.8,3.8,4.0
+2017-01-28,Wolfsburg,Augsburg,1.95,3.5,4.0
+2017-01-28,Werder Bremen,Bayern Munich,15.0,6.5,1.2
+2017-01-28,RB Leipzig,Hoffenheim,1.73,3.75,4.8
+2017-01-28,Tondela,Chaves,2.75,3.25,2.55
+2017-01-28,Bastia,Caen,2.25,3.1,3.5
+2017-01-28,Nacional,Arouca,2.25,3.1,3.4
+2017-01-28,Ingolstadt,Hamburg,2.2,3.2,3.6
+2017-01-28,Darmstadt,FC Koln,3.6,3.3,2.15
+2017-01-28,Erzgebirge Aue,Heidenheim,2.75,3.1,2.63
+2017-01-28,Wurzburger Kickers,Braunschweig,2.63,3.2,2.7
+2017-01-28,Go Ahead Eagles,Utrecht,4.33,3.5,1.83
+2017-01-28,Heracles,PSV Eindhoven,7.0,4.75,1.4
+2017-01-28,Guimaraes,Maritimo,2.0,3.4,3.75
+2017-01-28,Estoril,Porto,11.0,5.75,1.25
+2017-01-28,Leverkusen,M'gladbach,1.85,3.6,4.33
+2017-01-28,Inverness C,Partick,2.45,3.4,2.75
+2017-01-28,Kilmarnock,Ross County,3.2,3.4,2.2
+2017-01-28,Roda,Excelsior,2.05,3.3,3.6
+2017-01-28,Lyon,Lille,1.45,4.33,7.5
+2017-01-28,Lorient,Dijon,2.05,3.5,3.6
+2017-01-28,Inter,Pescara,1.2,7.0,13.0
+2017-01-28,Lazio,Chievo,1.5,4.0,7.5
+2017-01-28,Villarreal,Granada,1.36,4.75,9.5
+2017-01-28,Leganes,Celta,2.3,3.1,3.4
+2017-01-28,Eibar,La Coruna,2.1,3.25,3.75
+2017-01-28,Alaves,Ath Madrid,6.0,3.6,1.62
+2017-01-28,Galatasaray,Akhisar Belediyespor,1.45,4.33,7.0
+2017-01-28,Rizespor,Karabukspor,2.38,3.25,3.0
+2017-01-28,Antalyaspor,Alanyaspor,1.62,4.0,5.0
+2017-01-28,Angers,Metz,2.0,3.2,4.2
+2017-01-28,Nancy,Bordeaux,2.63,3.0,3.0
+2017-01-28,Reading,Cardiff,2.2,3.4,3.6
+2017-01-28,QPR,Burton,2.1,3.4,3.9
+2017-01-28,Preston,Ipswich,1.95,3.5,4.33
+2017-01-28,Norwich,Birmingham,1.73,4.0,5.0
+2017-01-28,Rotherham,Barnsley,3.0,3.5,2.45
+2017-01-29,Real Madrid,Sociedad,1.25,6.5,10.0
+2017-01-29,Espanol,Sevilla,3.3,3.4,2.2
+2017-01-29,Kayserispor,Fenerbahce,5.5,4.0,1.57
+2017-01-29,Genclerbirligi,Osmanlispor,2.45,3.25,2.9
+2017-01-29,Gent,Club Brugge,2.6,3.4,2.6
+2017-01-29,Betis,Barcelona,12.0,6.0,1.25
+2017-01-29,Mouscron,Eupen,2.2,3.6,3.0
+2017-01-29,Trabzonspor,Gaziantepspor,1.45,4.2,7.5
+2017-01-29,Anderlecht,Standard,1.73,3.6,4.75
+2017-01-29,Buyuksehyr,Bursaspor,1.44,4.33,7.0
+2017-01-29,Ath Bilbao,Sp Gijon,1.36,4.75,9.5
+2017-01-29,Zwolle,Twente,2.6,3.4,2.6
+2017-01-29,Karlsruhe,Bielefeld,2.3,3.1,3.25
+2017-01-29,Cagliari,Bologna,2.45,3.25,3.0
+2017-01-29,Crotone,Empoli,2.38,3.1,3.25
+2017-01-29,Fiorentina,Genoa,1.62,4.0,5.5
+2017-01-29,Napoli,Palermo,1.13,9.0,21.0
+2017-01-29,Sampdoria,Roma,4.75,3.8,1.75
+2017-01-29,Sassuolo,Juventus,6.5,4.33,1.5
+2017-01-29,Torino,Atalanta,2.4,3.25,3.1
+2017-01-29,Udinese,Milan,3.2,3.3,2.3
+2017-01-29,Nurnberg,Dresden,2.45,3.3,2.8
+2017-01-29,Heerenveen,Groningen,1.95,3.75,3.5
+2017-01-29,Feyenoord,Nijmegen,1.2,6.0,15.0
+2017-01-29,St Pauli,Stuttgart,3.4,3.5,2.05
+2017-01-29,Freiburg,Hertha,2.5,3.25,2.9
+2017-01-29,Celtic,Hearts,1.29,5.5,10.0
+2017-01-29,Nice,Guingamp,1.95,3.4,4.2
+2017-01-29,Paris SG,Monaco,1.67,4.0,5.0
+2017-01-29,Vitesse,AZ Alkmaar,2.38,3.4,2.88
+2017-01-29,Toulouse,St Etienne,2.3,3.0,3.6
+2017-01-29,Mainz,Dortmund,5.25,4.2,1.62
+2017-01-29,Ajax,Den Haag,1.14,7.5,17.0
+2017-01-30,Las Palmas,Valencia,2.5,3.4,2.8
+2017-01-30,Besiktas,Konyaspor,1.36,4.75,8.0
+2017-01-30,Hannover,Kaiserslautern,1.75,3.6,4.6
+2017-01-30,Adanaspor,Kasimpasa,2.55,3.3,2.7
+2017-01-30,Setubal,Benfica,8.5,5.0,1.33
+2017-01-31,Nott'm Forest,Rotherham,1.75,4.0,4.75
+2017-01-31,Birmingham,Reading,2.63,3.4,2.88
+2017-01-31,Brentford,Aston Villa,2.8,3.3,2.75
+2017-01-31,Ipswich,Derby,3.1,3.25,2.5
+2017-01-31,Barnsley,Wolves,3.0,3.4,2.5
+2017-01-31,Arsenal,Watford,1.22,7.0,15.0
+2017-01-31,Bristol City,Sheffield Weds,2.88,3.4,2.63
+2017-01-31,Burnley,Leicester,2.9,3.25,2.7
+2017-01-31,Hamilton,Inverness C,2.7,3.2,2.6
+2017-01-31,Liverpool,Chelsea,2.65,3.25,2.9
+2017-01-31,Ross County,Motherwell,2.0,3.4,3.75
+2017-01-31,Cardiff,Preston,2.4,3.4,3.2
+2017-01-31,Bournemouth,Crystal Palace,2.05,3.5,3.9
+2017-01-31,Swansea,Southampton,3.4,3.4,2.3
+2017-01-31,Sunderland,Tottenham,9.5,5.25,1.36
+2017-01-31,Middlesbrough,West Brom,2.7,3.1,3.0
+2017-02-01,Celtic,Aberdeen,1.36,4.75,8.5
+2017-02-01,Hearts,Rangers,2.8,3.4,2.4
+2017-02-01,Partick,St Johnstone,2.63,3.25,2.63
+2017-02-01,West Ham,Man City,6.0,4.5,1.57
+2017-02-01,Stoke,Everton,2.88,3.4,2.63
+2017-02-01,Man United,Hull,1.2,7.5,17.0
+2017-02-01,Pescara,Fiorentina,4.5,3.6,1.83
+2017-02-01,Newcastle,QPR,1.4,5.0,9.0
+2017-02-01,Burton,Fulham,3.8,3.8,2.0
+2017-02-01,Blackburn,Leeds,3.0,3.4,2.5
+2017-02-02,Huddersfield,Brighton,2.7,3.2,2.6
+2017-02-02,Moreirense,Feirense,2.1,3.25,3.5
+2017-02-02,Rio Ave,Sp Braga,2.38,3.1,3.1
+2017-02-03,Hamburg,Leverkusen,3.1,3.3,2.35
+2017-02-03,Pacos Ferreira,Guimaraes,3.6,3.2,2.1
+2017-02-03,Kaiserslautern,Wurzburger Kickers,2.25,3.0,3.5
+2017-02-03,Lokeren,Anderlecht,4.5,3.6,1.75
+2017-02-03,Den Haag,Vitesse,4.0,3.6,1.85
+2017-02-03,Metz,Marseille,4.33,3.6,1.85
+2017-02-03,Greuther Furth,Hannover,3.9,3.5,1.91
+2017-02-03,Wigan,Sheffield Weds,3.2,3.1,2.55
+2017-02-03,Bielefeld,Munich 1860,2.1,3.3,3.5
+2017-02-04,Dortmund,RB Leipzig,1.67,3.8,5.25
+2017-02-04,Hamilton,Kilmarnock,2.1,3.3,3.5
+2017-02-04,AZ Alkmaar,PSV Eindhoven,4.0,3.75,1.83
+2017-02-04,Groningen,Excelsior,1.5,4.0,6.5
+2017-02-04,Nijmegen,Go Ahead Eagles,1.83,3.5,4.33
+2017-02-04,Willem II,Heracles,1.95,3.3,4.0
+2017-02-04,Aberdeen,Partick,1.5,4.33,6.0
+2017-02-04,Inverness C,Dundee,2.15,3.3,3.4
+2017-02-04,Watford,Burnley,2.15,3.3,3.9
+2017-02-04,West Brom,Stoke,2.3,3.25,3.5
+2017-02-04,FC Koln,Wolfsburg,2.05,3.4,3.75
+2017-02-04,Tottenham,Middlesbrough,1.29,6.0,13.0
+2017-02-04,Southampton,West Ham,1.85,3.75,4.5
+2017-02-04,Hull,Liverpool,8.0,4.75,1.45
+2017-02-04,Everton,Bournemouth,1.7,4.0,5.25
+2017-02-04,Crystal Palace,Sunderland,1.7,3.9,5.5
+2017-02-04,Motherwell,Hearts,4.0,3.4,1.91
+2017-02-04,Barnsley,Preston,2.9,3.3,2.63
+2017-02-04,M'gladbach,Freiburg,1.73,3.8,4.75
+2017-02-04,Hoffenheim,Mainz,1.8,3.8,4.33
+2017-02-04,Hertha,Ingolstadt,2.15,3.1,3.8
+2017-02-04,Bayern Munich,Schalke 04,1.2,7.5,13.0
+2017-02-04,Chelsea,Arsenal,1.95,3.6,4.2
+2017-02-04,Malaga,Espanol,2.1,3.4,3.6
+2017-02-04,Bologna,Napoli,7.5,4.5,1.44
+2017-02-04,Bristol City,Rotherham,1.62,4.33,5.75
+2017-02-04,Burton,Wolves,3.4,3.3,2.35
+2017-02-04,Chaves,Boavista,2.2,3.1,3.5
+2017-02-04,Porto,Sp Lisbon,2.0,3.6,3.5
+2017-02-04,Sandhausen,Erzgebirge Aue,2.0,3.2,4.0
+2017-02-04,Heidenheim,Nurnberg,2.15,3.3,3.4
+2017-02-04,Rangers,Ross County,1.4,4.5,7.5
+2017-02-04,Cardiff,Norwich,3.0,3.4,2.5
+2017-02-04,Ipswich,Reading,2.88,3.25,2.7
+2017-02-04,Newcastle,Derby,1.83,3.7,4.75
+2017-02-04,Nott'm Forest,Aston Villa,3.0,3.25,2.63
+2017-02-04,Montpellier,Bastia,1.8,3.6,4.5
+2017-02-04,Monaco,Nice,1.53,4.0,6.5
+2017-02-04,Lille,Lorient,1.73,3.8,4.75
+2017-02-04,Eupen,Waasland-Beveren,2.25,3.4,3.1
+2017-02-04,Ath Madrid,Leganes,1.29,5.0,15.0
+2017-02-04,Guingamp,Caen,1.95,3.5,4.0
+2017-02-04,Dijon,Paris SG,11.0,5.5,1.3
+2017-02-04,Bordeaux,Rennes,1.91,3.4,4.33
+2017-02-04,Standard,Kortrijk,1.36,4.75,8.5
+2017-02-04,Valencia,Eibar,1.91,3.6,4.0
+2017-02-04,Oostende,Mechelen,1.8,3.75,4.2
+2017-02-04,Genk,Mouscron,1.5,4.2,6.5
+2017-02-04,Barcelona,Ath Bilbao,1.22,6.5,13.0
+2017-02-04,Blackburn,QPR,2.35,3.4,3.25
+2017-02-04,Birmingham,Fulham,3.8,3.5,2.1
+2017-02-05,Westerlo,St Truiden,3.4,3.4,2.1
+2017-02-05,Waregem,Gent,3.0,3.2,2.38
+2017-02-05,Club Brugge,Charleroi,1.4,4.5,7.5
+2017-02-05,Benfica,Nacional,1.17,7.0,15.0
+2017-02-05,Belenenses,Tondela,1.95,3.3,4.0
+2017-02-05,Leicester,Man United,5.75,4.0,1.65
+2017-02-05,Man City,Swansea,1.22,7.0,15.0
+2017-02-05,Pescara,Lazio,6.0,3.9,1.57
+2017-02-05,Palermo,Crotone,2.3,3.25,3.3
+2017-02-05,Milan,Sampdoria,1.67,4.0,5.0
+2017-02-05,Juventus,Inter,1.57,4.0,6.5
+2017-02-05,Empoli,Torino,3.6,3.3,2.15
+2017-02-05,Chievo,Udinese,2.38,3.2,3.2
+2017-02-05,Atalanta,Cagliari,1.44,4.33,8.0
+2017-02-05,Arouca,Setubal,2.2,3.1,3.5
+2017-02-05,Genoa,Sassuolo,2.05,3.4,3.75
+2017-02-05,Augsburg,Werder Bremen,2.1,3.5,3.5
+2017-02-05,Sparta Rotterdam,Zwolle,2.0,3.5,3.6
+2017-02-05,Brentford,Brighton,3.3,3.3,2.38
+2017-02-05,Dresden,Union Berlin,2.15,3.5,3.2
+2017-02-05,Braunschweig,St Pauli,1.8,3.5,4.5
+2017-02-05,Toulouse,Angers,2.1,3.2,3.8
+2017-02-05,St Etienne,Lyon,3.6,3.4,2.1
+2017-02-05,St Johnstone,Celtic,7.0,4.33,1.44
+2017-02-05,Bochum,Karlsruhe,2.0,3.5,3.6
+2017-02-05,Nantes,Nancy,2.05,3.1,4.2
+2017-02-05,Ein Frankfurt,Darmstadt,1.55,3.8,7.0
+2017-02-05,Huddersfield,Leeds,2.3,3.25,3.5
+2017-02-05,Sociedad,Osasuna,1.3,5.25,11.0
+2017-02-05,Sp Gijon,Alaves,2.2,3.3,3.4
+2017-02-05,Utrecht,Heerenveen,1.95,3.4,3.8
+2017-02-05,Twente,Feyenoord,5.0,3.8,1.65
+2017-02-05,Sevilla,Villarreal,1.6,3.8,6.0
+2017-02-05,Roda,Ajax,10.0,5.0,1.3
+2017-02-06,Feirense,Rio Ave,3.0,3.2,2.4
+2017-02-06,Maritimo,Moreirense,2.0,3.2,4.0
+2017-02-06,Sp Braga,Estoril,1.44,4.0,8.0
+2017-02-06,Stuttgart,Fortuna Dusseldorf,1.62,3.75,5.5
+2017-02-06,Granada,Las Palmas,3.0,3.4,2.38
+2017-02-07,Montpellier,Monaco,4.6,3.8,1.75
+2017-02-07,Waasland-Beveren,Genk,3.1,3.3,2.3
+2017-02-07,Wigan,Norwich,3.3,3.25,2.4
+2017-02-07,Roma,Fiorentina,1.62,4.0,5.5
+2017-02-07,Caen,Bordeaux,2.5,3.2,3.0
+2017-02-07,Paris SG,Lille,1.2,6.5,15.0
+2017-02-08,Bologna,Milan,3.4,3.25,2.25
+2017-02-08,Crotone,Juventus,13.0,6.0,1.22
+2017-02-08,Nice,St Etienne,2.05,3.4,3.8
+2017-02-08,Angers,Rennes,2.5,3.0,3.2
+2017-02-08,Lorient,Toulouse,2.3,3.2,3.3
+2017-02-08,Marseille,Guingamp,1.7,3.75,5.25
+2017-02-08,Metz,Dijon,2.5,3.2,3.0
+2017-02-08,Lyon,Nancy,1.4,4.75,8.0
+2017-02-10,Napoli,Genoa,1.29,5.75,10.0
+2017-02-10,Erzgebirge Aue,Greuther Furth,2.25,3.1,3.4
+2017-02-10,Sheffield Weds,Birmingham,1.83,3.6,5.0
+2017-02-10,Bordeaux,Paris SG,5.5,4.0,1.62
+2017-02-10,Espanol,Sociedad,2.8,3.2,2.63
+2017-02-10,Fortuna Dusseldorf,Kaiserslautern,2.5,3.0,3.0
+2017-02-10,St Truiden,Genk,2.5,3.3,2.75
+2017-02-10,Nurnberg,Braunschweig,2.4,3.2,3.0
+2017-02-10,Zwolle,Nijmegen,1.73,3.7,4.6
+2017-02-10,Mainz,Augsburg,2.1,3.25,3.8
+2017-02-10,Benfica,Arouca,1.18,6.5,15.0
+2017-02-10,Karabukspor,Besiktas,5.0,3.6,1.7
+2017-02-11,Stoke,Crystal Palace,2.15,3.3,3.9
+2017-02-11,Osmanlispor,Trabzonspor,2.0,3.3,3.75
+2017-02-11,Bursaspor,Fenerbahce,4.33,3.6,1.8
+2017-02-11,Alanyaspor,Genclerbirligi,2.8,3.25,2.5
+2017-02-11,Werder Bremen,M'gladbach,2.88,3.5,2.4
+2017-02-11,Wolves,Newcastle,3.6,3.4,2.2
+2017-02-11,RB Leipzig,Hamburg,1.5,4.2,7.0
+2017-02-11,Dijon,Caen,2.38,3.3,3.1
+2017-02-11,Leverkusen,Ein Frankfurt,1.91,3.5,4.2
+2017-02-11,Ingolstadt,Bayern Munich,8.5,5.0,1.36
+2017-02-11,Darmstadt,Dortmund,9.0,5.0,1.36
+2017-02-11,Rotherham,Blackburn,3.0,3.4,2.5
+2017-02-11,Reading,Barnsley,1.91,3.6,4.5
+2017-02-11,QPR,Huddersfield,3.5,3.4,2.25
+2017-02-11,Schalke 04,Hertha,1.85,3.5,4.5
+2017-02-11,Guingamp,Lyon,3.7,3.6,2.0
+2017-02-11,Monaco,Metz,1.22,6.5,13.0
+2017-02-11,Sunderland,Southampton,3.9,3.4,2.1
+2017-02-11,Preston,Brentford,2.25,3.5,3.4
+2017-02-11,West Ham,West Brom,2.25,3.3,3.6
+2017-02-11,Dundee,Kilmarnock,2.1,3.3,3.5
+2017-02-11,Wurzburger Kickers,Heidenheim,2.3,3.0,3.4
+2017-02-11,Munich 1860,Karlsruhe,2.38,3.1,3.1
+2017-02-11,Estoril,Pacos Ferreira,2.38,3.1,3.1
+2017-02-11,Guimaraes,Porto,6.5,3.8,1.53
+2017-02-11,Setubal,Chaves,2.4,3.0,3.2
+2017-02-11,Middlesbrough,Everton,3.9,3.3,2.15
+2017-02-11,Tondela,Feirense,2.25,3.0,3.5
+2017-02-11,Man United,Watford,1.25,6.5,14.0
+2017-02-11,Liverpool,Tottenham,2.3,3.4,3.4
+2017-02-11,Arsenal,Hull,1.29,6.0,13.0
+2017-02-11,Kortrijk,Mechelen,2.4,3.25,2.9
+2017-02-11,Mouscron,Oostende,3.1,3.5,2.2
+2017-02-11,Toulouse,Bastia,1.83,3.3,5.0
+2017-02-11,Nancy,Montpellier,2.5,3.1,3.1
+2017-02-11,Lille,Angers,1.91,3.2,4.75
+2017-02-11,Norwich,Nott'm Forest,1.73,3.9,5.25
+2017-02-11,Heracles,Roda,2.0,3.5,3.6
+2017-02-11,Fulham,Wigan,1.62,4.2,6.0
+2017-02-11,Charleroi,Westerlo,1.53,4.0,6.0
+2017-02-11,Osasuna,Real Madrid,13.0,6.5,1.22
+2017-02-11,Leeds,Cardiff,1.95,3.4,4.5
+2017-02-11,Betis,Valencia,2.5,3.25,2.9
+2017-02-11,Vitesse,Willem II,1.57,4.0,5.75
+2017-02-11,Feyenoord,Groningen,1.25,6.0,10.0
+2017-02-11,Ath Bilbao,La Coruna,1.67,3.6,5.75
+2017-02-11,Alaves,Barcelona,10.0,5.5,1.3
+2017-02-11,Go Ahead Eagles,Den Haag,2.25,3.5,3.0
+2017-02-11,Fiorentina,Udinese,1.67,3.8,5.25
+2017-02-11,Derby,Bristol City,1.85,3.7,4.75
+2017-02-11,Brighton,Burton,1.5,4.33,8.0
+2017-02-11,Aston Villa,Ipswich,1.83,3.6,5.0
+2017-02-11,Gent,Eupen,1.3,5.25,9.5
+2017-02-12,Torino,Pescara,1.36,5.0,8.5
+2017-02-12,Heerenveen,AZ Alkmaar,2.25,3.5,3.0
+2017-02-12,Swansea,Leicester,2.4,3.3,3.25
+2017-02-12,Nantes,Marseille,3.25,3.1,2.38
+2017-02-12,Rennes,Nice,2.63,3.1,2.88
+2017-02-12,St Etienne,Lorient,1.91,3.5,4.2
+2017-02-12,Burnley,Chelsea,9.0,5.0,1.4
+2017-02-12,Ath Madrid,Celta,1.4,4.5,8.5
+2017-02-12,Moreirense,Sp Lisbon,6.5,3.75,1.55
+2017-02-12,Boavista,Sp Braga,3.0,3.0,2.5
+2017-02-12,Waasland-Beveren,Standard,3.75,3.6,1.91
+2017-02-12,Sassuolo,Chievo,1.91,3.4,4.33
+2017-02-12,Union Berlin,Bielefeld,1.8,3.6,4.33
+2017-02-12,Stuttgart,Sandhausen,1.62,3.75,5.5
+2017-02-12,St Pauli,Dresden,3.0,3.25,2.38
+2017-02-12,Villarreal,Malaga,1.8,3.5,4.75
+2017-02-12,Leganes,Sp Gijon,1.83,3.4,4.75
+2017-02-12,Las Palmas,Sevilla,3.3,3.6,2.1
+2017-02-12,Nacional,Belenenses,2.38,3.0,3.2
+2017-02-12,Lokeren,Club Brugge,4.75,3.6,1.73
+2017-02-12,Sampdoria,Bologna,1.91,3.5,4.2
+2017-02-12,Inter,Empoli,1.33,5.0,10.0
+2017-02-12,Ajax,Sparta Rotterdam,1.17,7.0,15.0
+2017-02-12,Palermo,Atalanta,5.0,3.6,1.75
+2017-02-12,Freiburg,FC Koln,2.7,3.1,2.8
+2017-02-12,Wolfsburg,Hoffenheim,2.5,3.4,2.8
+2017-02-12,Akhisar Belediyespor,Rizespor,2.05,3.4,3.5
+2017-02-12,Galatasaray,Kayserispor,1.5,4.33,6.0
+2017-02-12,Kasimpasa,Buyuksehyr,4.33,3.6,1.8
+2017-02-12,Excelsior,Twente,3.2,3.4,2.2
+2017-02-12,Anderlecht,Waregem,1.5,4.33,6.0
+2017-02-12,PSV Eindhoven,Utrecht,1.3,5.0,10.0
+2017-02-12,Konyaspor,Antalyaspor,2.45,3.25,2.88
+2017-02-12,Crotone,Roma,8.5,5.0,1.36
+2017-02-12,Cagliari,Juventus,10.0,5.0,1.33
+2017-02-13,Eibar,Granada,1.55,4.2,6.0
+2017-02-13,Hannover,Bochum,1.62,3.8,5.5
+2017-02-13,Lazio,Milan,1.7,3.8,5.0
+2017-02-13,Gaziantepspor,Adanaspor,2.38,3.25,3.0
+2017-02-13,Bournemouth,Man City,7.5,5.0,1.44
+2017-02-13,Rio Ave,Maritimo,2.05,3.2,3.8
+2017-02-14,Preston,Birmingham,2.05,3.5,4.0
+2017-02-14,Wolves,Wigan,2.05,3.5,4.0
+2017-02-14,Sheffield Weds,Blackburn,1.62,3.8,7.0
+2017-02-14,Aston Villa,Barnsley,1.83,3.75,4.75
+2017-02-14,Rotherham,Huddersfield,5.0,4.0,1.73
+2017-02-14,Reading,Brentford,2.15,3.75,3.4
+2017-02-14,Norwich,Newcastle,2.8,3.3,2.75
+2017-02-14,Leeds,Bristol City,2.1,3.5,3.75
+2017-02-14,Fulham,Nott'm Forest,1.57,4.4,6.25
+2017-02-14,Derby,Cardiff,2.1,3.3,4.0
+2017-02-14,Brighton,Ipswich,1.53,4.0,8.0
+2017-02-15,Aberdeen,Motherwell,1.33,5.0,8.5
+2017-02-17,Heidenheim,Stuttgart,3.1,3.25,2.3
+2017-02-17,Kaiserslautern,Sandhausen,2.2,3.1,3.5
+2017-02-17,Braunschweig,Erzgebirge Aue,1.57,3.6,6.5
+2017-02-17,Juventus,Palermo,1.14,8.0,21.0
+2017-02-17,Granada,Betis,3.0,3.2,2.5
+2017-02-17,Porto,Tondela,1.13,7.5,23.0
+2017-02-17,Bastia,Monaco,7.0,4.2,1.5
+2017-02-17,Roda,Go Ahead Eagles,2.0,3.3,3.75
+2017-02-17,Kayserispor,Bursaspor,2.1,3.2,3.6
+2017-02-17,Westerlo,Club Brugge,8.5,4.6,1.36
+2017-02-17,Augsburg,Leverkusen,3.25,3.25,2.25
+2017-02-18,Greuther Furth,Fortuna Dusseldorf,2.38,3.2,3.0
+2017-02-18,Feirense,Boavista,2.63,2.88,3.0
+2017-02-18,PSV Eindhoven,Nijmegen,1.14,8.0,15.0
+2017-02-18,Twente,Heerenveen,2.2,3.4,3.2
+2017-02-18,Utrecht,Zwolle,1.67,3.75,5.0
+2017-02-18,Bochum,Wurzburger Kickers,2.25,3.1,3.4
+2017-02-18,La Coruna,Alaves,2.0,3.1,4.2
+2017-02-18,Real Madrid,Espanol,1.14,8.0,21.0
+2017-02-18,Sevilla,Eibar,1.45,4.5,7.0
+2017-02-18,Chaves,Arouca,2.05,3.1,4.0
+2017-02-18,Moreirense,Estoril,2.1,3.1,3.8
+2017-02-18,Sp Lisbon,Rio Ave,1.36,4.75,8.5
+2017-02-18,Sp Gijon,Ath Madrid,7.5,4.0,1.5
+2017-02-18,Rizespor,Galatasaray,4.0,3.6,1.85
+2017-02-18,Buyuksehyr,Gaziantepspor,1.3,5.0,10.0
+2017-02-18,Antalyaspor,Karabukspor,2.05,3.2,3.8
+2017-02-18,Heracles,Excelsior,1.91,3.5,4.0
+2017-02-18,Partick,Hamilton,1.75,3.5,4.75
+2017-02-18,Ross County,St Johnstone,2.9,3.3,2.4
+2017-02-18,Celtic,Motherwell,1.07,10.0,29.0
+2017-02-18,Hamburg,Freiburg,2.05,3.4,3.75
+2017-02-18,Hertha,Bayern Munich,10.0,4.33,1.36
+2017-02-18,Hoffenheim,Darmstadt,1.45,4.5,7.5
+2017-02-18,Mainz,Werder Bremen,1.95,3.5,4.0
+2017-02-18,Eupen,Kortrijk,1.95,3.5,3.75
+2017-02-18,Mechelen,Lokeren,1.95,3.5,3.75
+2017-02-18,Mouscron,Waasland-Beveren,2.2,3.2,3.4
+2017-02-18,Hearts,Inverness C,1.53,4.0,6.0
+2017-02-18,Metz,Nantes,3.25,3.0,2.45
+2017-02-18,Marseille,Rennes,1.67,3.75,5.5
+2017-02-18,Ein Frankfurt,Ingolstadt,2.05,3.1,4.2
+2017-02-18,Lorient,Nice,2.9,3.25,2.5
+2017-02-18,Angers,Nancy,2.05,3.1,4.2
+2017-02-18,Empoli,Lazio,5.5,3.75,1.67
+2017-02-18,Atalanta,Crotone,1.25,5.5,15.0
+2017-02-18,Wigan,Preston,2.5,3.3,2.75
+2017-02-18,Nott'm Forest,Sheffield Weds,2.9,3.3,2.38
+2017-02-18,Ipswich,Leeds,2.9,3.25,2.4
+2017-02-18,Cardiff,Rotherham,1.5,4.0,7.0
+2017-02-18,Burton,Norwich,3.75,3.4,2.0
+2017-02-18,Birmingham,QPR,2.35,3.2,3.0
+2017-02-18,Barnsley,Brighton,3.6,3.5,2.0
+2017-02-18,Caen,Lille,2.5,3.0,3.2
+2017-02-18,Dortmund,Wolfsburg,1.44,4.5,7.5
+2017-02-18,Waregem,St Truiden,1.75,3.4,5.0
+2017-02-19,Paris SG,Toulouse,1.2,6.5,15.0
+2017-02-19,Sociedad,Villarreal,1.95,3.3,4.2
+2017-02-19,Celta,Osasuna,1.57,4.2,5.5
+2017-02-19,Adanaspor,Osmanlispor,3.4,3.2,2.2
+2017-02-19,Genk,Charleroi,1.75,3.6,4.75
+2017-02-19,Oostende,Anderlecht,3.5,3.6,2.0
+2017-02-19,Standard,Gent,2.15,3.5,3.2
+2017-02-19,Besiktas,Akhisar Belediyespor,1.36,4.75,8.0
+2017-02-19,Fenerbahce,Kasimpasa,1.36,4.5,9.0
+2017-02-19,Barcelona,Leganes,1.07,11.0,41.0
+2017-02-19,Chievo,Napoli,8.5,4.2,1.44
+2017-02-19,Montpellier,St Etienne,2.25,3.2,3.4
+2017-02-19,Lyon,Dijon,1.36,4.75,9.5
+2017-02-19,Bordeaux,Guingamp,1.91,3.5,4.2
+2017-02-19,Sp Braga,Benfica,5.0,3.5,1.73
+2017-02-19,Pacos Ferreira,Setubal,2.4,3.0,3.2
+2017-02-19,Belenenses,Guimaraes,3.3,2.9,2.38
+2017-02-19,Pescara,Genoa,3.5,3.4,2.1
+2017-02-19,Milan,Fiorentina,2.15,3.3,3.5
+2017-02-19,FC Koln,Schalke 04,2.5,3.1,3.1
+2017-02-19,Genclerbirligi,Konyaspor,2.05,3.2,3.8
+2017-02-19,Udinese,Sassuolo,2.1,3.3,3.7
+2017-02-19,Sampdoria,Cagliari,1.67,3.75,5.5
+2017-02-19,Roma,Torino,1.44,4.5,7.5
+2017-02-19,Dundee,Rangers,5.5,3.8,1.62
+2017-02-19,Kilmarnock,Aberdeen,7.0,4.33,1.44
+2017-02-19,Bielefeld,St Pauli,2.38,3.2,3.0
+2017-02-19,M'gladbach,RB Leipzig,2.6,3.2,2.8
+2017-02-19,Dresden,Hannover,2.45,3.2,2.9
+2017-02-19,Sparta Rotterdam,Groningen,2.75,3.1,2.63
+2017-02-19,Vitesse,Ajax,5.25,3.6,1.67
+2017-02-19,Willem II,AZ Alkmaar,3.4,3.2,2.2
+2017-02-19,Karlsruhe,Union Berlin,2.75,3.2,2.6
+2017-02-19,Valencia,Ath Bilbao,2.3,3.25,3.25
+2017-02-19,Den Haag,Feyenoord,9.5,5.5,1.29
+2017-02-19,Bologna,Inter,4.75,3.5,1.8
+2017-02-20,Maritimo,Nacional,1.83,3.4,4.5
+2017-02-20,Malaga,Las Palmas,1.95,3.5,4.0
+2017-02-20,Newcastle,Aston Villa,1.57,3.8,6.0
+2017-02-20,Trabzonspor,Alanyaspor,1.6,3.8,5.75
+2017-02-20,Munich 1860,Nurnberg,2.5,3.2,2.8
+2017-02-21,Huddersfield,Reading,1.85,3.75,4.5
+2017-02-21,Derby,Burton,1.8,3.6,5.25
+2017-02-21,QPR,Wigan,2.3,3.25,3.6
+2017-02-21,Caen,Nancy,2.15,3.2,3.75
+2017-02-21,Sheffield Weds,Brentford,1.85,3.75,4.5
+2017-02-22,Bristol City,Fulham,3.2,3.4,2.38
+2017-02-22,Valencia,Real Madrid,6.0,4.33,1.53
+2017-02-24,Club Brugge,Waregem,1.36,4.5,9.5
+2017-02-24,Den Haag,Twente,3.5,3.4,2.05
+2017-02-24,Rizespor,Kayserispor,2.1,3.2,3.6
+2017-02-24,Sandhausen,Braunschweig,2.5,3.0,3.0
+2017-02-24,Union Berlin,Munich 1860,1.75,3.6,4.6
+2017-02-24,Wurzburger Kickers,Greuther Furth,2.15,3.1,3.6
+2017-02-24,Kasimpasa,Bursaspor,1.95,3.4,3.9
+2017-02-24,Nice,Montpellier,2.05,3.3,3.8
+2017-02-24,Guimaraes,Moreirense,1.75,3.5,4.75
+2017-02-24,Benfica,Chaves,1.18,6.5,15.0
+2017-02-24,Nantes,Dijon,1.73,3.6,5.25
+2017-02-24,Las Palmas,Sociedad,2.6,3.4,2.7
+2017-02-24,Wolves,Birmingham,1.91,3.5,4.6
+2017-02-24,Inverness C,Rangers,4.0,3.75,1.83
+2017-02-24,Wolfsburg,Werder Bremen,1.91,3.5,4.2
+2017-02-24,Burton,Blackburn,2.4,3.25,3.3
+2017-02-25,Angers,Bastia,1.85,3.2,5.0
+2017-02-25,Guingamp,Monaco,5.0,3.75,1.73
+2017-02-25,Estoril,Sp Lisbon,8.0,4.5,1.4
+2017-02-25,Nancy,Toulouse,2.7,3.0,2.88
+2017-02-25,Rennes,Lorient,2.05,3.4,3.75
+2017-02-25,Fortuna Dusseldorf,Heidenheim,2.55,3.1,2.88
+2017-02-25,Hannover,Bielefeld,1.57,4.0,5.5
+2017-02-25,Rio Ave,Pacos Ferreira,1.85,3.2,4.75
+2017-02-25,Lille,Bordeaux,2.4,3.1,3.25
+2017-02-25,Tondela,Maritimo,2.8,2.88,2.75
+2017-02-25,Leganes,La Coruna,2.4,3.1,3.2
+2017-02-25,Watford,West Ham,2.63,3.3,2.9
+2017-02-25,Preston,QPR,2.1,3.4,3.9
+2017-02-25,Wigan,Nott'm Forest,2.2,3.3,3.75
+2017-02-25,Westerlo,Oostende,3.5,3.4,2.05
+2017-02-25,Kortrijk,Waasland-Beveren,2.05,3.4,3.6
+2017-02-25,Charleroi,St Truiden,1.67,3.75,5.0
+2017-02-25,Aberdeen,Ross County,1.4,4.75,7.0
+2017-02-25,Celtic,Hamilton,1.08,10.0,23.0
+2017-02-25,Motherwell,Dundee,2.6,3.4,2.63
+2017-02-25,Partick,Hearts,2.8,3.4,2.4
+2017-02-25,St Johnstone,Kilmarnock,1.62,4.0,5.0
+2017-02-25,West Brom,Bournemouth,2.1,3.4,4.0
+2017-02-25,Konyaspor,Trabzonspor,2.9,3.1,2.5
+2017-02-25,Newcastle,Bristol City,1.5,4.33,8.0
+2017-02-25,Alanyaspor,Adanaspor,1.95,3.5,3.8
+2017-02-25,Excelsior,Willem II,2.45,3.2,2.88
+2017-02-25,Groningen,Utrecht,2.7,3.2,2.63
+2017-02-25,Heerenveen,Roda,1.53,4.0,6.0
+2017-02-25,Nijmegen,Sparta Rotterdam,2.45,3.3,2.8
+2017-02-25,Bayern Munich,Hamburg,1.14,8.5,19.0
+2017-02-25,Darmstadt,Augsburg,2.8,3.25,2.6
+2017-02-25,Freiburg,Dortmund,5.75,4.2,1.57
+2017-02-25,Hertha,Ein Frankfurt,2.05,3.2,4.0
+2017-02-25,Leverkusen,Mainz,1.73,3.8,4.75
+2017-02-25,RB Leipzig,FC Koln,1.67,3.75,5.5
+2017-02-25,Napoli,Atalanta,1.57,4.0,6.0
+2017-02-25,Juventus,Empoli,1.14,8.5,19.0
+2017-02-25,Akhisar Belediyespor,Antalyaspor,2.45,3.25,2.88
+2017-02-25,Leeds,Sheffield Weds,2.55,3.2,3.1
+2017-02-25,Lokeren,Eupen,1.95,3.5,3.75
+2017-02-25,Brighton,Reading,1.67,3.8,6.0
+2017-02-25,Brentford,Rotherham,1.5,4.5,7.5
+2017-02-25,Barnsley,Huddersfield,3.6,3.6,2.15
+2017-02-25,Crystal Palace,Middlesbrough,2.1,3.2,4.2
+2017-02-25,Chelsea,Swansea,1.25,6.5,15.0
+2017-02-25,Hull,Burnley,2.15,3.3,3.9
+2017-02-25,Everton,Sunderland,1.4,5.25,8.5
+2017-02-25,Eibar,Malaga,2.05,3.4,3.8
+2017-02-25,Betis,Sevilla,3.8,3.4,2.05
+2017-02-25,Cardiff,Fulham,2.8,3.4,2.7
+2017-02-25,Alaves,Valencia,2.63,3.1,2.88
+2017-02-25,Aston Villa,Derby,2.4,3.3,3.25
+2017-02-26,Ingolstadt,M'gladbach,2.7,3.1,2.8
+2017-02-26,Boavista,Porto,9.5,4.5,1.36
+2017-02-26,Nacional,Feirense,2.05,3.0,4.2
+2017-02-26,Setubal,Sp Braga,3.25,2.9,2.4
+2017-02-26,AZ Alkmaar,Zwolle,1.67,3.75,5.0
+2017-02-26,Feyenoord,PSV Eindhoven,2.35,3.4,2.88
+2017-02-26,Villarreal,Real Madrid,5.5,3.75,1.67
+2017-02-26,Tottenham,Stoke,1.44,5.0,7.5
+2017-02-26,Ajax,Heracles,1.17,7.5,13.0
+2017-02-26,Stuttgart,Kaiserslautern,1.7,3.6,5.0
+2017-02-26,Nurnberg,Bochum,2.2,3.3,3.3
+2017-02-26,Erzgebirge Aue,Dresden,3.3,3.1,2.3
+2017-02-26,Osmanlispor,Buyuksehyr,2.5,3.2,2.8
+2017-02-26,Karabukspor,Genclerbirligi,2.3,3.2,2.9
+2017-02-26,Gaziantepspor,Fenerbahce,4.75,3.6,1.73
+2017-02-26,Go Ahead Eagles,Vitesse,3.75,3.5,1.95
+2017-02-26,St Etienne,Caen,1.75,3.4,5.25
+2017-02-26,Schalke 04,Hoffenheim,2.05,3.4,3.8
+2017-02-26,Gent,Mouscron,1.3,5.25,9.5
+2017-02-26,Palermo,Sampdoria,3.2,3.1,2.4
+2017-02-26,Sassuolo,Milan,2.88,3.3,2.55
+2017-02-26,Standard,Mechelen,1.6,4.0,5.25
+2017-02-26,Crotone,Cagliari,2.5,3.3,2.88
+2017-02-26,Chievo,Pescara,1.83,3.6,4.5
+2017-02-26,Genoa,Bologna,2.0,3.3,4.2
+2017-02-26,Lazio,Udinese,1.44,4.5,7.5
+2017-02-26,Anderlecht,Genk,1.55,4.0,6.0
+2017-02-26,Ath Madrid,Barcelona,3.0,3.4,2.38
+2017-02-26,Espanol,Osasuna,1.67,3.8,5.5
+2017-02-26,Sp Gijon,Celta,2.63,3.4,2.63
+2017-02-26,Lyon,Metz,1.22,7.0,12.0
+2017-02-26,Inter,Roma,2.5,3.4,2.8
+2017-02-26,Norwich,Ipswich,1.75,3.75,5.25
+2017-02-26,Ath Bilbao,Granada,1.44,4.5,7.5
+2017-02-26,Marseille,Paris SG,5.5,3.75,1.67
+2017-02-27,Fiorentina,Torino,1.85,3.75,4.2
+2017-02-27,Galatasaray,Besiktas,2.88,3.3,2.4
+2017-02-27,St Pauli,Karlsruhe,2.0,3.2,4.0
+2017-02-27,Leicester,Liverpool,5.5,4.2,1.65
+2017-02-27,Arouca,Belenenses,2.3,2.88,3.5
+2017-02-28,Brighton,Newcastle,2.55,3.2,3.1
+2017-02-28,Hamilton,Aberdeen,7.0,4.0,1.5
+2017-02-28,Blackburn,Derby,3.1,3.2,2.55
+2017-02-28,Aston Villa,Bristol City,2.05,3.4,4.1
+2017-02-28,Sociedad,Eibar,1.85,3.5,4.5
+2017-02-28,Malaga,Betis,1.95,3.5,4.0
+2017-02-28,Valencia,Leganes,1.75,3.6,5.0
+2017-03-01,Real Madrid,Las Palmas,1.13,9.0,21.0
+2017-03-01,Granada,Alaves,2.63,3.2,2.8
+2017-03-01,Celta,Espanol,1.91,3.4,4.33
+2017-03-01,Barcelona,Sp Gijon,1.05,15.0,41.0
+2017-03-01,Osasuna,Villarreal,3.8,3.4,2.05
+2017-03-01,Dundee,Partick,2.8,3.2,2.5
+2017-03-01,Rangers,St Johnstone,1.62,3.8,5.5
+2017-03-01,Bastia,Nantes,3.3,2.9,2.5
+2017-03-01,Hearts,Ross County,1.67,3.8,5.0
+2017-03-01,Inverness C,Celtic,12.0,5.5,1.25
+2017-03-02,Sevilla,Ath Bilbao,1.67,3.8,5.25
+2017-03-02,La Coruna,Ath Madrid,5.5,3.75,1.65
+2017-03-03,Birmingham,Leeds,3.2,3.3,2.45
+2017-03-03,Augsburg,RB Leipzig,4.2,3.5,1.91
+2017-03-03,Bordeaux,Lyon,3.2,3.4,2.25
+2017-03-03,Trabzonspor,Karabukspor,1.8,3.6,4.33
+2017-03-03,Betis,Sociedad,2.6,3.2,2.88
+2017-03-03,Dresden,Kaiserslautern,2.0,3.4,3.7
+2017-03-03,Heerenveen,Go Ahead Eagles,1.4,4.5,7.5
+2017-03-03,Union Berlin,Wurzburger Kickers,1.83,3.5,4.0
+2017-03-03,Bochum,Fortuna Dusseldorf,2.25,3.2,3.25
+2017-03-03,Moreirense,Boavista,2.38,2.88,3.4
+2017-03-04,Zwolle,Vitesse,2.6,3.25,2.7
+2017-03-04,Bursaspor,Gaziantepspor,1.91,3.5,3.9
+2017-03-04,Waregem,Westerlo,1.45,4.33,6.75
+2017-03-04,Waasland-Beveren,Gent,6.0,3.6,1.6
+2017-03-04,St Truiden,Eupen,1.91,3.6,3.75
+2017-03-04,Oostende,Lokeren,1.5,4.2,6.0
+2017-03-04,Mouscron,Standard,2.88,3.5,2.3
+2017-03-04,Charleroi,Kortrijk,1.53,4.0,6.0
+2017-03-04,Genk,Club Brugge,2.88,3.3,2.4
+2017-03-04,Sp Braga,Arouca,1.6,3.5,6.5
+2017-03-04,Porto,Nacional,1.13,8.0,19.0
+2017-03-04,Feirense,Benfica,8.0,4.75,1.36
+2017-03-04,PSV Eindhoven,Roda,1.13,8.0,19.0
+2017-03-04,Twente,Willem II,1.8,3.4,4.75
+2017-03-04,Mechelen,Anderlecht,3.75,3.6,1.95
+2017-03-04,Besiktas,Rizespor,1.3,5.0,10.0
+2017-03-04,Sampdoria,Pescara,1.67,4.2,4.75
+2017-03-04,Sheffield Weds,Norwich,2.4,3.4,3.2
+2017-03-04,Karlsruhe,Hannover,3.4,3.5,2.05
+2017-03-04,Munich 1860,St Pauli,2.3,3.1,3.25
+2017-03-04,Paris SG,Nancy,1.14,8.0,21.0
+2017-03-04,Bristol City,Burton,1.95,3.4,4.5
+2017-03-04,Derby,Barnsley,1.8,3.7,5.0
+2017-03-04,Fulham,Preston,1.8,3.8,4.75
+2017-03-04,Ipswich,Brentford,2.38,3.4,3.2
+2017-03-04,Nott'm Forest,Brighton,4.33,3.5,1.95
+2017-03-04,QPR,Cardiff,2.7,3.3,2.88
+2017-03-04,Reading,Wolves,2.3,3.4,3.4
+2017-03-04,Rotherham,Aston Villa,5.0,3.75,1.8
+2017-03-04,Dortmund,Leverkusen,1.5,4.33,6.5
+2017-03-04,Blackburn,Wigan,2.38,3.2,3.4
+2017-03-04,FC Koln,Bayern Munich,8.5,4.75,1.4
+2017-03-04,Mainz,Wolfsburg,2.25,3.4,3.2
+2017-03-04,M'gladbach,Schalke 04,2.3,3.3,3.2
+2017-03-04,Werder Bremen,Darmstadt,1.67,4.0,5.0
+2017-03-04,West Brom,Crystal Palace,2.2,3.3,3.8
+2017-03-04,Watford,Southampton,3.6,3.4,2.2
+2017-03-04,Swansea,Burnley,2.0,3.5,4.2
+2017-03-04,Stoke,Middlesbrough,1.95,3.4,4.5
+2017-03-04,Man United,Bournemouth,1.25,6.5,15.0
+2017-03-04,Liverpool,Arsenal,2.15,3.6,3.6
+2017-03-04,Leicester,Hull,1.85,3.6,4.75
+2017-03-04,Roma,Napoli,2.05,3.5,3.6
+2017-03-04,Milan,Chievo,1.57,4.0,6.25
+2017-03-04,Hoffenheim,Ingolstadt,1.75,3.75,4.75
+2017-03-04,Montpellier,Guingamp,2.0,3.5,3.8
+2017-03-04,Huddersfield,Newcastle,3.0,3.25,2.63
+2017-03-04,Dijon,Nice,3.25,3.4,2.2
+2017-03-04,Caen,Angers,2.38,3.1,3.3
+2017-03-04,Bastia,St Etienne,3.3,3.1,2.38
+2017-03-04,Kilmarnock,Motherwell,2.15,3.5,3.2
+2017-03-04,Eibar,Real Madrid,5.0,4.0,1.67
+2017-03-04,Leganes,Granada,1.8,3.4,5.0
+2017-03-04,Villarreal,Espanol,1.73,3.6,5.25
+2017-03-04,Barcelona,Celta,1.13,8.5,23.0
+2017-03-04,Metz,Rennes,3.2,3.0,2.5
+2017-03-05,Sp Lisbon,Guimaraes,1.44,4.33,7.0
+2017-03-05,Empoli,Genoa,2.63,3.0,3.0
+2017-03-05,Torino,Palermo,1.5,4.2,7.0
+2017-03-05,Udinese,Juventus,7.5,4.0,1.5
+2017-03-05,Kayserispor,Kasimpasa,2.15,3.4,3.3
+2017-03-05,Fenerbahce,Osmanlispor,1.83,3.6,4.2
+2017-03-05,Hamburg,Hertha,2.45,3.2,3.0
+2017-03-05,Las Palmas,Osasuna,1.57,4.0,6.0
+2017-03-05,Ein Frankfurt,Freiburg,2.1,3.5,3.5
+2017-03-05,Tottenham,Everton,1.67,4.2,5.25
+2017-03-05,Sunderland,Man City,11.0,6.5,1.29
+2017-03-05,Ath Madrid,Valencia,1.44,4.5,7.5
+2017-03-05,Ath Bilbao,Malaga,1.75,3.6,5.0
+2017-03-05,Sp Gijon,La Coruna,2.6,3.2,2.88
+2017-03-05,Maritimo,Setubal,2.05,3.1,4.0
+2017-03-05,Pacos Ferreira,Tondela,1.95,3.3,4.0
+2017-03-05,Monaco,Nantes,1.4,5.0,7.5
+2017-03-05,Adanaspor,Konyaspor,2.9,3.25,2.45
+2017-03-05,Atalanta,Fiorentina,1.91,3.6,4.0
+2017-03-05,Bielefeld,Erzgebirge Aue,2.1,3.3,3.5
+2017-03-05,Greuther Furth,Nurnberg,2.38,3.25,3.0
+2017-03-05,Heidenheim,Sandhausen,2.25,3.0,3.5
+2017-03-05,Bologna,Lazio,4.33,3.75,1.8
+2017-03-05,Lorient,Marseille,3.1,3.4,2.25
+2017-03-05,Utrecht,Den Haag,1.4,4.2,9.0
+2017-03-05,Belenenses,Chaves,2.3,2.88,3.5
+2017-03-05,Toulouse,Lille,2.05,3.3,4.0
+2017-03-05,Buyuksehyr,Alanyaspor,1.45,4.33,7.0
+2017-03-05,Sparta Rotterdam,Feyenoord,9.0,4.8,1.33
+2017-03-05,Nijmegen,Heracles,2.4,3.3,2.88
+2017-03-05,Cagliari,Inter,6.0,4.0,1.57
+2017-03-05,Groningen,Ajax,8.0,4.0,1.45
+2017-03-05,AZ Alkmaar,Excelsior,1.4,4.5,8.0
+2017-03-05,Crotone,Sassuolo,3.4,3.25,2.25
+2017-03-06,West Ham,Chelsea,6.0,4.1,1.62
+2017-03-06,Braunschweig,Stuttgart,2.88,3.3,2.4
+2017-03-06,Estoril,Rio Ave,3.1,3.0,2.45
+2017-03-06,Genclerbirligi,Akhisar Belediyespor,2.2,3.1,3.5
+2017-03-06,Alaves,Sevilla,4.1,3.4,1.95
+2017-03-06,Antalyaspor,Galatasaray,3.1,3.4,2.25
+2017-03-07,Fulham,Leeds,1.83,3.9,4.5
+2017-03-07,Huddersfield,Aston Villa,1.91,3.4,4.75
+2017-03-07,QPR,Barnsley,2.05,3.6,3.8
+2017-03-07,Derby,Preston,2.0,3.5,4.2
+2017-03-07,Blackburn,Cardiff,2.75,3.25,2.8
+2017-03-07,Birmingham,Wigan,2.1,3.3,4.0
+2017-03-07,Nott'm Forest,Brentford,2.7,3.5,2.7
+2017-03-07,Bristol City,Norwich,2.95,3.5,2.5
+2017-03-07,Ipswich,Wolves,2.8,3.25,2.75
+2017-03-07,Reading,Newcastle,4.0,3.6,2.0
+2017-03-07,Rotherham,Brighton,8.5,4.5,1.45
+2017-03-07,Sheffield Weds,Burton,1.73,3.6,6.0
+2017-03-08,La Coruna,Betis,2.15,3.2,3.7
+2017-03-08,Man City,Stoke,1.25,6.5,15.0
+2017-03-10,Marseille,Angers,1.67,3.75,5.5
+2017-03-10,Alanyaspor,Fenerbahce,4.0,3.5,1.91
+2017-03-10,Nice,Caen,1.67,3.6,5.75
+2017-03-10,Stuttgart,Bochum,1.5,4.0,6.5
+2017-03-10,Vitesse,Sparta Rotterdam,1.7,3.8,4.6
+2017-03-10,Leverkusen,Werder Bremen,1.5,4.33,6.5
+2017-03-10,Arouca,Porto,13.0,5.25,1.25
+2017-03-10,St Pauli,Union Berlin,2.4,3.2,3.0
+2017-03-10,Erzgebirge Aue,Karlsruhe,2.5,3.1,2.9
+2017-03-10,Espanol,Las Palmas,2.2,3.4,3.3
+2017-03-10,Juventus,Milan,1.4,4.5,9.0
+2017-03-10,Brighton,Derby,1.8,3.6,5.25
+2017-03-11,Hull,Swansea,2.55,3.3,3.0
+2017-03-11,Everton,West Brom,1.67,3.8,6.0
+2017-03-11,Bournemouth,West Ham,2.6,3.5,2.8
+2017-03-11,Granada,Ath Madrid,7.5,4.0,1.5
+2017-03-11,Malaga,Alaves,2.0,3.3,4.0
+2017-03-11,Sevilla,Leganes,1.36,4.75,8.0
+2017-03-11,Genoa,Sampdoria,2.63,3.2,2.8
+2017-03-11,Den Haag,Nijmegen,2.1,3.4,3.4
+2017-03-11,Excelsior,Heerenveen,3.3,3.6,2.05
+2017-03-11,Go Ahead Eagles,PSV Eindhoven,10.0,5.25,1.29
+2017-03-11,Heracles,Utrecht,3.4,3.4,2.1
+2017-03-11,Hannover,Munich 1860,1.7,4.0,4.5
+2017-03-11,Wurzburger Kickers,Dresden,2.63,3.2,2.7
+2017-03-11,Valencia,Sp Gijon,1.5,4.33,6.5
+2017-03-11,Ross County,Kilmarnock,1.91,3.5,4.0
+2017-03-11,St Johnstone,Dundee,1.91,3.5,4.0
+2017-03-11,Hearts,Hamilton,1.62,4.0,5.0
+2017-03-11,Barnsley,Ipswich,2.38,3.4,3.2
+2017-03-11,Aston Villa,Sheffield Weds,2.5,3.3,3.1
+2017-03-11,RB Leipzig,Wolfsburg,1.62,3.8,6.0
+2017-03-11,Norwich,Blackburn,1.75,3.75,5.25
+2017-03-11,Hertha,Dortmund,5.25,4.0,1.65
+2017-03-11,Freiburg,Hoffenheim,3.0,3.4,2.38
+2017-03-11,Darmstadt,Mainz,3.5,3.25,2.2
+2017-03-11,Bayern Munich,Ein Frankfurt,1.13,9.0,21.0
+2017-03-11,Tondela,Sp Lisbon,9.0,5.0,1.33
+2017-03-11,Setubal,Feirense,2.0,3.2,4.0
+2017-03-11,Chaves,Sp Braga,3.4,3.1,2.25
+2017-03-11,Wolves,Rotherham,1.4,5.0,9.0
+2017-03-11,Partick,Inverness C,1.95,3.5,3.8
+2017-03-11,Gaziantepspor,Kasimpasa,2.25,3.1,3.3
+2017-03-11,Karabukspor,Adanaspor,1.62,3.6,6.0
+2017-03-11,Osmanlispor,Bursaspor,1.57,3.8,6.0
+2017-03-11,Leeds,QPR,2.0,3.5,4.2
+2017-03-11,Wigan,Bristol City,2.5,3.3,3.1
+2017-03-11,Preston,Reading,2.3,3.4,3.4
+2017-03-11,Brentford,Huddersfield,2.7,3.4,2.75
+2017-03-11,Burton,Nott'm Forest,2.4,3.3,3.3
+2017-03-11,Ingolstadt,FC Koln,2.5,3.1,3.1
+2017-03-11,Newcastle,Fulham,1.85,3.8,4.5
+2017-03-11,Nancy,Lille,2.6,3.1,2.9
+2017-03-11,Montpellier,Nantes,2.1,3.25,3.8
+2017-03-11,Cardiff,Birmingham,1.85,3.6,4.75
+2017-03-11,Monaco,Bordeaux,1.45,4.5,7.5
+2017-03-11,Galatasaray,Genclerbirligi,1.65,3.5,5.75
+2017-03-11,Aberdeen,Motherwell,1.3,5.25,9.5
+2017-03-11,Guingamp,Bastia,1.73,3.6,5.25
+2017-03-11,Rennes,Dijon,1.8,3.5,4.75
+2017-03-12,Rizespor,Antalyaspor,2.5,3.3,2.8
+2017-03-12,Guimaraes,Estoril,1.57,3.75,6.0
+2017-03-12,Kaiserslautern,Heidenheim,2.3,3.2,3.1
+2017-03-12,Nurnberg,Bielefeld,2.1,3.5,3.3
+2017-03-12,Sandhausen,Greuther Furth,2.15,3.4,3.3
+2017-03-12,Feyenoord,AZ Alkmaar,1.4,4.5,8.0
+2017-03-12,Roda,Groningen,3.0,3.5,2.25
+2017-03-12,Willem II,Zwolle,2.3,3.1,3.2
+2017-03-12,Liverpool,Burnley,1.25,6.5,14.0
+2017-03-12,Celtic,Rangers,1.33,5.25,8.5
+2017-03-12,Eupen,Waregem,2.55,3.4,2.45
+2017-03-12,Rio Ave,Moreirense,1.85,3.5,4.2
+2017-03-12,Club Brugge,St Truiden,1.17,6.5,12.0
+2017-03-12,Besiktas,Kayserispor,1.36,4.75,8.5
+2017-03-12,Konyaspor,Buyuksehyr,3.3,3.2,2.25
+2017-03-12,Anderlecht,Waasland-Beveren,1.18,6.0,12.0
+2017-03-12,St Etienne,Metz,1.62,3.8,6.0
+2017-03-12,Lyon,Toulouse,1.44,4.5,7.5
+2017-03-12,Schalke 04,Augsburg,1.75,3.5,5.25
+2017-03-12,Lokeren,Charleroi,3.6,3.3,1.95
+2017-03-12,Inter,Atalanta,1.85,3.6,4.5
+2017-03-12,Napoli,Crotone,1.14,8.0,21.0
+2017-03-12,Kortrijk,Mouscron,2.75,3.4,2.3
+2017-03-12,Gent,Mechelen,1.53,4.33,4.75
+2017-03-12,Ajax,Twente,1.29,5.5,9.5
+2017-03-12,Hamburg,M'gladbach,2.75,3.3,2.6
+2017-03-12,Celta,Villarreal,2.75,3.2,2.75
+2017-03-12,Fiorentina,Cagliari,1.44,4.75,7.0
+2017-03-12,La Coruna,Barcelona,13.0,6.5,1.22
+2017-03-12,Sociedad,Ath Bilbao,2.1,3.3,3.5
+2017-03-12,Standard,Oostende,1.95,3.4,3.5
+2017-03-12,Westerlo,Genk,2.9,3.3,2.25
+2017-03-12,Boavista,Maritimo,2.3,3.0,3.4
+2017-03-12,Palermo,Roma,8.0,4.75,1.4
+2017-03-12,Pescara,Udinese,2.9,3.5,2.4
+2017-03-12,Sassuolo,Bologna,1.91,3.5,4.2
+2017-03-12,Lorient,Paris SG,9.5,5.25,1.33
+2017-03-12,Real Madrid,Betis,1.13,9.0,21.0
+2017-03-12,Chievo,Empoli,2.05,3.25,4.0
+2017-03-13,Nacional,Pacos Ferreira,2.3,3.0,3.4
+2017-03-13,Benfica,Belenenses,1.18,6.5,15.0
+2017-03-13,Fortuna Dusseldorf,Braunschweig,2.6,3.25,2.7
+2017-03-13,Lazio,Torino,1.57,4.2,5.75
+2017-03-13,Akhisar Belediyespor,Trabzonspor,2.88,3.2,2.5
+2017-03-13,Osasuna,Eibar,3.6,3.4,2.1
+2017-03-14,Brentford,Wolves,2.3,3.5,3.25
+2017-03-14,Fulham,Blackburn,1.55,4.33,6.5
+2017-03-17,Roda,Twente,3.0,3.2,2.38
+2017-03-17,Estoril,Boavista,3.5,3.0,2.25
+2017-03-17,Lille,Marseille,3.1,3.2,2.38
+2017-03-17,Metz,Bastia,1.8,3.4,4.75
+2017-03-17,Fenerbahce,Konyaspor,1.44,4.2,7.5
+2017-03-17,Sheffield Weds,Reading,1.91,3.5,4.6
+2017-03-17,Las Palmas,Villarreal,2.55,3.4,2.75
+2017-03-17,Dortmund,Ingolstadt,1.3,5.5,10.5
+2017-03-17,Bielefeld,Kaiserslautern,2.6,3.1,2.8
+2017-03-17,Braunschweig,Heidenheim,2.1,3.2,3.6
+2017-03-17,Munich 1860,Wurzburger Kickers,2.3,3.0,3.4
+2017-03-17,Bristol City,Huddersfield,3.25,3.3,2.4
+2017-03-18,Birmingham,Newcastle,5.0,3.9,1.75
+2017-03-18,Blackburn,Preston,2.55,3.3,3.0
+2017-03-18,Wigan,Aston Villa,3.3,3.1,2.5
+2017-03-18,QPR,Rotherham,1.5,4.75,7.0
+2017-03-18,Nott'm Forest,Derby,3.1,3.4,2.45
+2017-03-18,Norwich,Barnsley,1.67,4.2,5.25
+2017-03-18,Leeds,Brighton,3.3,3.3,2.4
+2017-03-18,Burton,Brentford,2.63,3.3,2.9
+2017-03-18,St Pauli,Hannover,2.45,3.2,2.9
+2017-03-18,Stoke,Chelsea,6.5,4.0,1.62
+2017-03-18,Belenenses,Sp Braga,3.3,2.88,2.4
+2017-03-18,Moreirense,Tondela,2.0,2.9,4.5
+2017-03-18,Pacos Ferreira,Benfica,11.0,5.0,1.3
+2017-03-18,Sp Lisbon,Nacional,1.18,6.5,15.0
+2017-03-18,Wolfsburg,Darmstadt,1.5,4.0,7.5
+2017-03-18,Werder Bremen,RB Leipzig,3.5,3.6,2.05
+2017-03-18,Hoffenheim,Leverkusen,2.15,3.6,3.3
+2017-03-18,FC Koln,Hertha,2.38,3.2,3.2
+2017-03-18,Ein Frankfurt,Hamburg,2.2,3.2,3.5
+2017-03-18,Augsburg,Freiburg,2.4,3.3,3.0
+2017-03-18,Milan,Genoa,1.7,3.8,5.0
+2017-03-18,Torino,Inter,3.7,3.75,1.95
+2017-03-18,Greuther Furth,Stuttgart,4.0,3.3,1.95
+2017-03-18,Fulham,Wolves,1.8,3.8,4.75
+2017-03-18,Sparta Rotterdam,Heracles,2.05,3.4,3.5
+2017-03-18,PSV Eindhoven,Vitesse,1.3,5.25,9.5
+2017-03-18,Nijmegen,Utrecht,3.5,3.4,2.05
+2017-03-18,Groningen,Willem II,1.91,3.4,4.0
+2017-03-18,West Ham,Leicester,2.3,3.5,3.3
+2017-03-18,West Brom,Arsenal,5.25,4.0,1.73
+2017-03-18,Sunderland,Burnley,2.55,3.3,3.0
+2017-03-18,Everton,Hull,1.53,4.33,7.0
+2017-03-18,Crystal Palace,Watford,1.91,3.5,4.75
+2017-03-18,Cardiff,Ipswich,1.85,3.6,4.75
+2017-03-18,Alaves,Sociedad,2.55,3.2,2.9
+2017-03-18,Nantes,Nice,2.4,3.1,3.25
+2017-03-18,Toulouse,Rennes,2.2,3.0,3.75
+2017-03-18,Angers,Guingamp,2.2,3.1,3.6
+2017-03-18,Aberdeen,Hearts,1.73,3.5,5.0
+2017-03-18,Inverness C,Ross County,2.55,3.4,2.63
+2017-03-18,Kilmarnock,Partick,2.88,3.3,2.45
+2017-03-18,Adanaspor,Akhisar Belediyespor,2.7,3.2,2.6
+2017-03-18,Nancy,Lorient,2.15,3.3,3.6
+2017-03-18,Kayserispor,Gaziantepspor,1.83,3.5,4.33
+2017-03-18,Kasimpasa,Osmanlispor,2.7,3.4,2.5
+2017-03-18,Bournemouth,Swansea,2.15,3.5,3.6
+2017-03-18,Motherwell,St Johnstone,3.5,3.4,2.05
+2017-03-18,Rangers,Hamilton,1.3,5.25,9.5
+2017-03-18,Eibar,Espanol,1.91,3.5,4.2
+2017-03-18,Betis,Osasuna,1.44,4.33,8.0
+2017-03-18,Ath Bilbao,Real Madrid,5.0,4.0,1.67
+2017-03-18,Trabzonspor,Galatasaray,2.2,3.4,3.2
+2017-03-18,Bordeaux,Montpellier,2.0,3.5,3.8
+2017-03-19,Heerenveen,Feyenoord,5.25,3.75,1.65
+2017-03-19,Go Ahead Eagles,Zwolle,3.1,3.3,2.3
+2017-03-19,M'gladbach,Bayern Munich,8.0,4.75,1.4
+2017-03-19,Mainz,Schalke 04,2.63,3.5,2.63
+2017-03-19,Dijon,St Etienne,3.0,3.1,2.55
+2017-03-19,Excelsior,Ajax,11.0,5.75,1.25
+2017-03-19,Paris SG,Lyon,1.44,4.75,6.75
+2017-03-19,Bochum,Erzgebirge Aue,1.95,3.3,4.0
+2017-03-19,Dresden,Sandhausen,1.91,3.25,4.2
+2017-03-19,Karlsruhe,Fortuna Dusseldorf,2.3,3.0,3.4
+2017-03-19,Antalyaspor,Besiktas,4.33,3.6,1.8
+2017-03-19,Bursaspor,Alanyaspor,2.05,3.6,3.3
+2017-03-19,Buyuksehyr,Karabukspor,1.62,3.8,5.5
+2017-03-19,Genclerbirligi,Rizespor,1.85,3.3,4.5
+2017-03-19,Caen,Monaco,5.25,3.8,1.67
+2017-03-19,AZ Alkmaar,Den Haag,1.4,4.5,7.5
+2017-03-19,Dundee,Celtic,15.0,6.5,1.18
+2017-03-19,Leganes,Malaga,2.4,3.0,3.3
+2017-03-19,Guimaraes,Rio Ave,2.2,3.0,3.6
+2017-03-19,Feirense,Chaves,2.45,2.9,3.2
+2017-03-19,Barcelona,Valencia,1.13,9.5,19.0
+2017-03-19,La Coruna,Celta,2.2,3.3,3.4
+2017-03-19,Sp Gijon,Granada,2.0,3.5,3.8
+2017-03-19,Atalanta,Pescara,1.25,6.0,12.0
+2017-03-19,Bologna,Chievo,2.3,3.1,3.4
+2017-03-19,Porto,Setubal,1.17,7.0,15.0
+2017-03-19,Cagliari,Lazio,6.0,4.2,1.55
+2017-03-19,Crotone,Fiorentina,5.5,3.75,1.67
+2017-03-19,Maritimo,Arouca,1.91,3.1,4.5
+2017-03-19,Roma,Sassuolo,1.22,6.0,15.0
+2017-03-19,Sampdoria,Juventus,7.0,4.0,1.53
+2017-03-19,Udinese,Palermo,1.62,3.8,6.0
+2017-03-19,Ath Madrid,Sevilla,1.67,3.8,5.25
+2017-03-19,Man City,Liverpool,2.0,3.75,3.8
+2017-03-19,Middlesbrough,Man United,6.0,3.7,1.7
+2017-03-19,Tottenham,Southampton,1.73,3.8,5.5
+2017-03-19,Empoli,Napoli,11.0,5.5,1.29
+2017-03-20,Union Berlin,Nurnberg,1.75,3.5,4.75
+2017-03-31,Chaves,Pacos Ferreira,2.05,3.1,4.0
+2017-03-31,Guingamp,Nancy,1.8,3.6,4.75
+2017-03-31,Derby,QPR,1.91,3.5,4.6
+2017-03-31,Dundee,Aberdeen,6.0,4.0,1.55
+2017-03-31,Espanol,Betis,2.3,3.2,3.3
+2017-03-31,Hertha,Hoffenheim,2.9,3.1,2.6
+2017-03-31,Erzgebirge Aue,St Pauli,2.55,3.1,2.88
+2017-03-31,Fortuna Dusseldorf,Munich 1860,2.15,3.2,3.5
+2017-03-31,Nacional,Guimaraes,3.2,3.2,2.3
+2017-03-31,Nurnberg,Karlsruhe,1.83,3.4,4.5
+2017-04-01,Boavista,Rio Ave,2.63,2.88,2.9
+2017-04-01,Benfica,Porto,2.45,3.1,3.0
+2017-04-01,Tondela,Estoril,2.25,3.0,3.5
+2017-04-01,Inverness C,Kilmarnock,2.0,3.5,3.6
+2017-04-01,Sandhausen,Bochum,2.1,3.1,3.75
+2017-04-01,Partick,Ross County,2.0,3.6,3.5
+2017-04-01,Rangers,Motherwell,1.25,5.5,12.0
+2017-04-01,Sassuolo,Lazio,4.5,3.75,1.8
+2017-04-01,Roma,Empoli,1.17,7.5,17.0
+2017-04-01,Hamilton,St Johnstone,3.1,3.5,2.2
+2017-04-01,Akhisar Belediyespor,Buyuksehyr,3.8,3.2,2.05
+2017-04-01,Wurzburger Kickers,Bielefeld,2.05,3.3,3.6
+2017-04-01,Schalke 04,Dortmund,3.75,3.6,2.0
+2017-04-01,Hamburg,FC Koln,2.38,3.2,3.2
+2017-04-01,Freiburg,Werder Bremen,2.25,3.5,3.2
+2017-04-01,Ein Frankfurt,M'gladbach,2.5,3.3,2.9
+2017-04-01,Bayern Munich,Augsburg,1.1,10.0,26.0
+2017-04-01,Bastia,Lille,3.4,3.0,2.38
+2017-04-01,Marseille,Dijon,1.4,4.75,8.0
+2017-04-01,RB Leipzig,Darmstadt,1.36,5.0,9.0
+2017-04-01,Alanyaspor,Kasimpasa,2.1,3.5,3.3
+2017-04-01,Hannover,Union Berlin,2.25,3.3,3.2
+2017-04-01,Karabukspor,Fenerbahce,3.6,3.2,2.1
+2017-04-01,Reading,Leeds,2.63,3.3,2.9
+2017-04-01,Preston,Nott'm Forest,1.95,3.6,4.2
+2017-04-01,Newcastle,Wigan,1.4,4.75,10.0
+2017-04-01,Ipswich,Birmingham,2.45,3.25,3.2
+2017-04-01,Huddersfield,Burton,1.62,3.9,6.5
+2017-04-01,Brighton,Blackburn,1.6,4.2,6.0
+2017-04-01,Brentford,Bristol City,2.3,3.75,3.1
+2017-04-01,Barnsley,Sheffield Weds,3.2,3.4,2.38
+2017-04-01,Southampton,Bournemouth,1.65,4.0,6.0
+2017-04-01,Antalyaspor,Kayserispor,2.1,3.4,3.4
+2017-04-01,Chelsea,Crystal Palace,1.3,5.75,12.0
+2017-04-01,Hull,West Ham,2.45,3.4,3.1
+2017-04-01,Leicester,Stoke,2.05,3.5,4.0
+2017-04-01,Zwolle,Excelsior,1.67,4.0,4.75
+2017-04-01,Utrecht,Willem II,1.62,3.75,5.5
+2017-04-01,Sparta Rotterdam,PSV Eindhoven,9.5,4.75,1.33
+2017-04-01,Heracles,Heerenveen,2.9,3.6,2.25
+2017-04-01,AZ Alkmaar,Groningen,1.62,3.8,5.5
+2017-04-01,Aston Villa,Norwich,2.35,3.25,3.4
+2017-04-01,Villarreal,Eibar,1.85,3.6,4.33
+2017-04-01,Sociedad,Leganes,1.75,3.4,5.5
+2017-04-01,Osasuna,Ath Bilbao,6.0,4.0,1.57
+2017-04-01,Malaga,Ath Madrid,5.25,3.5,1.75
+2017-04-01,Liverpool,Everton,1.73,3.9,5.25
+2017-04-01,Watford,Sunderland,1.85,3.6,4.75
+2017-04-01,Rotherham,Fulham,8.0,5.25,1.4
+2017-04-01,Wolves,Cardiff,2.2,3.4,3.6
+2017-04-01,Man United,West Brom,1.36,5.0,11.0
+2017-04-01,Burnley,Tottenham,5.75,3.8,1.7
+2017-04-02,Rizespor,Trabzonspor,3.0,3.4,2.3
+2017-04-02,Vitesse,Nijmegen,1.44,4.2,7.5
+2017-04-02,Twente,Go Ahead Eagles,1.45,4.5,6.5
+2017-04-02,Den Haag,Roda,2.2,3.4,3.2
+2017-04-02,Ajax,Feyenoord,1.91,3.5,3.9
+2017-04-02,Lorient,Caen,2.2,3.4,3.3
+2017-04-02,Osmanlispor,Gaziantepspor,1.62,3.6,5.75
+2017-04-02,Konyaspor,Bursaspor,1.75,3.4,5.0
+2017-04-02,Besiktas,Genclerbirligi,1.44,4.33,7.0
+2017-04-02,Torino,Udinese,1.85,3.75,4.2
+2017-04-02,Pescara,Milan,6.0,4.33,1.53
+2017-04-02,Palermo,Cagliari,2.25,3.4,3.25
+2017-04-02,Napoli,Juventus,2.38,3.3,3.1
+2017-04-02,Genoa,Atalanta,3.8,3.4,2.05
+2017-04-02,Fiorentina,Bologna,1.5,4.2,7.0
+2017-04-02,Chievo,Crotone,1.85,3.5,4.5
+2017-04-02,Valencia,La Coruna,1.85,3.4,4.75
+2017-04-02,Sevilla,Sp Gijon,1.33,5.5,8.5
+2017-04-02,Real Madrid,Alaves,1.11,10.0,19.0
+2017-04-02,Granada,Barcelona,13.0,7.5,1.2
+2017-04-02,Hearts,Celtic,6.5,4.5,1.44
+2017-04-02,Swansea,Middlesbrough,2.0,3.4,4.33
+2017-04-02,Arsenal,Man City,3.1,3.75,2.3
+2017-04-02,Sp Braga,Maritimo,1.73,3.4,5.25
+2017-04-02,Setubal,Moreirense,2.25,3.0,3.5
+2017-04-02,Ingolstadt,Mainz,2.1,3.3,3.8
+2017-04-02,Kaiserslautern,Braunschweig,2.75,3.1,2.63
+2017-04-02,Heidenheim,Greuther Furth,2.1,3.2,3.6
+2017-04-02,Arouca,Sp Lisbon,8.0,4.0,1.44
+2017-04-02,Leverkusen,Wolfsburg,1.8,3.75,4.5
+2017-04-02,Belenenses,Feirense,2.0,3.2,4.0
+2017-04-02,Stuttgart,Dresden,1.85,3.75,4.0
+2017-04-02,Rennes,Lyon,4.2,3.75,1.85
+2017-04-02,Nice,Bordeaux,2.25,3.3,3.3
+2017-04-02,Montpellier,Toulouse,2.1,3.4,3.6
+2017-04-02,Nantes,Angers,2.15,3.3,3.6
+2017-04-03,Galatasaray,Adanaspor,1.36,5.0,7.5
+2017-04-03,Celta,Las Palmas,1.95,3.5,3.8
+2017-04-03,Inter,Sampdoria,1.33,5.5,9.0
+2017-04-04,Brentford,Leeds,2.45,3.5,3.0
+2017-04-04,Karlsruhe,Wurzburger Kickers,2.75,2.88,2.8
+2017-04-04,Hannover,Nurnberg,1.62,3.8,5.5
+2017-04-04,Brighton,Birmingham,1.57,4.0,7.0
+2017-04-04,Leicester,Sunderland,1.45,4.5,8.5
+2017-04-04,Aberdeen,Inverness C,1.25,5.5,12.0
+2017-04-04,Ross County,Dundee,1.95,3.6,3.75
+2017-04-04,Man United,Everton,1.57,4.2,6.5
+2017-04-04,Derby,Fulham,2.45,3.5,3.0
+2017-04-04,Ipswich,Wigan,2.5,3.1,3.3
+2017-04-04,Watford,West Brom,2.5,3.2,3.2
+2017-04-04,Burnley,Stoke,2.5,3.1,3.3
+2017-04-04,Barnsley,Cardiff,2.8,3.5,2.6
+2017-04-04,Wolves,Nott'm Forest,1.83,3.75,4.6
+2017-04-04,Reading,Blackburn,2.35,3.25,3.4
+2017-04-04,Ath Bilbao,Espanol,1.5,4.2,7.0
+2017-04-04,Rotherham,Sheffield Weds,7.0,4.0,1.57
+2017-04-04,Bielefeld,Fortuna Dusseldorf,2.5,3.1,2.9
+2017-04-04,Ath Madrid,Sociedad,1.36,4.75,9.5
+2017-04-04,Betis,Villarreal,2.75,3.2,2.7
+2017-04-04,St Pauli,Sandhausen,2.0,3.3,3.75
+2017-04-04,Heerenveen,Sparta Rotterdam,1.73,3.7,4.6
+2017-04-04,Excelsior,Utrecht,3.5,3.6,2.0
+2017-04-04,Dortmund,Hamburg,1.29,5.75,10.0
+2017-04-04,FC Koln,Ein Frankfurt,2.35,3.2,3.2
+2017-04-04,Hoffenheim,Bayern Munich,6.0,4.6,1.5
+2017-04-04,Werder Bremen,Schalke 04,3.0,3.5,2.3
+2017-04-04,Aston Villa,QPR,1.8,3.6,5.25
+2017-04-04,Preston,Bristol City,2.2,3.5,3.5
+2017-04-05,Augsburg,Ingolstadt,2.7,3.1,2.8
+2017-04-05,Wolfsburg,Freiburg,1.73,3.75,5.0
+2017-04-05,M'gladbach,Hertha,1.83,3.5,4.5
+2017-04-05,Mainz,RB Leipzig,3.4,3.4,2.15
+2017-04-05,Darmstadt,Leverkusen,5.0,3.8,1.7
+2017-04-05,Metz,Lyon,6.0,4.0,1.57
+2017-04-05,Huddersfield,Norwich,2.1,3.6,3.7
+2017-04-05,Newcastle,Burton,1.44,4.75,8.5
+2017-04-05,Kilmarnock,Rangers,5.5,4.0,1.57
+2017-04-05,Celtic,Partick,1.17,7.5,13.0
+2017-04-05,Motherwell,Hamilton,2.45,3.4,2.75
+2017-04-05,Arsenal,West Ham,1.4,5.25,8.0
+2017-04-05,St Johnstone,Hearts,2.88,3.5,2.3
+2017-04-05,Bochum,Kaiserslautern,2.2,3.2,3.4
+2017-04-05,La Coruna,Granada,1.55,4.0,6.5
+2017-04-05,Chelsea,Man City,2.4,3.5,3.1
+2017-04-05,Hull,Middlesbrough,2.05,3.3,4.2
+2017-04-05,Liverpool,Bournemouth,1.36,5.25,9.5
+2017-04-05,Southampton,Crystal Palace,1.83,3.7,4.75
+2017-04-05,Swansea,Tottenham,5.0,4.0,1.73
+2017-04-05,Greuther Furth,Braunschweig,2.8,3.1,2.6
+2017-04-05,Munich 1860,Stuttgart,3.3,3.2,2.25
+2017-04-05,Union Berlin,Erzgebirge Aue,1.57,4.0,5.75
+2017-04-05,Sp Gijon,Malaga,2.8,3.25,2.6
+2017-04-05,Leganes,Real Madrid,8.0,5.25,1.33
+2017-04-05,Dresden,Heidenheim,1.85,3.4,4.33
+2017-04-05,Barcelona,Sevilla,1.22,7.0,11.0
+2017-04-05,Heracles,Vitesse,3.5,3.3,2.1
+2017-04-05,Groningen,Nijmegen,1.67,3.6,5.5
+2017-04-05,Feyenoord,Go Ahead Eagles,1.13,8.5,17.0
+2017-04-05,Ajax,AZ Alkmaar,1.3,5.0,10.0
+2017-04-05,Alaves,Osasuna,1.44,4.5,7.0
+2017-04-05,Willem II,Den Haag,1.85,3.5,4.2
+2017-04-06,Eibar,Las Palmas,1.85,3.75,4.2
+2017-04-06,Valencia,Celta,2.0,3.5,3.75
+2017-04-06,Roda,Zwolle,2.9,3.3,2.4
+2017-04-06,Twente,PSV Eindhoven,6.0,4.33,1.5
+2017-04-07,QPR,Brighton,3.8,3.5,2.1
+2017-04-07,Lille,Nice,2.63,3.0,3.0
+2017-04-07,Nurnberg,St Pauli,2.4,3.25,2.9
+2017-04-07,Sandhausen,Bielefeld,2.45,3.3,2.8
+2017-04-07,Wurzburger Kickers,Hannover,3.25,3.2,2.25
+2017-04-07,Ein Frankfurt,Werder Bremen,2.0,3.5,3.8
+2017-04-07,Villarreal,Ath Bilbao,2.15,3.2,3.6
+2017-04-07,Sparta Rotterdam,Excelsior,1.95,3.5,3.8
+2017-04-07,Feirense,Sp Braga,3.6,3.1,2.2
+2017-04-07,Bursaspor,Karabukspor,2.15,3.3,3.4
+2017-04-08,Bayern Munich,Dortmund,1.62,4.0,5.5
+2017-04-08,FC Koln,M'gladbach,2.63,3.2,2.8
+2017-04-08,Freiburg,Mainz,2.38,3.4,3.0
+2017-04-08,Hamburg,Hoffenheim,3.5,3.5,2.1
+2017-04-08,RB Leipzig,Leverkusen,1.91,3.6,4.0
+2017-04-08,Bournemouth,Chelsea,6.5,4.0,1.6
+2017-04-08,Lyon,Lorient,1.29,6.0,9.5
+2017-04-08,Middlesbrough,Burnley,2.45,3.1,3.4
+2017-04-08,Stoke,Liverpool,4.0,3.75,1.95
+2017-04-08,Tottenham,Watford,1.25,6.5,15.0
+2017-04-08,Dijon,Bastia,1.95,3.3,4.2
+2017-04-08,West Ham,Swansea,2.1,3.6,3.7
+2017-04-08,Kaiserslautern,Greuther Furth,2.25,3.2,3.2
+2017-04-08,Heidenheim,Bochum,2.1,3.2,3.6
+2017-04-08,Sevilla,La Coruna,1.5,4.33,6.5
+2017-04-08,Real Madrid,Ath Madrid,1.8,3.8,4.33
+2017-04-08,Malaga,Barcelona,8.0,5.25,1.36
+2017-04-08,Espanol,Alaves,2.1,3.1,3.8
+2017-04-08,Caen,Montpellier,2.38,3.25,3.1
+2017-04-08,Nancy,Rennes,2.8,3.0,2.8
+2017-04-08,Man City,Hull,1.2,7.5,17.0
+2017-04-08,West Brom,Southampton,3.0,3.3,2.55
+2017-04-08,Bordeaux,Metz,1.45,4.2,8.0
+2017-04-08,Gaziantepspor,Alanyaspor,2.38,3.2,3.0
+2017-04-08,Go Ahead Eagles,Heracles,2.9,3.25,2.4
+2017-04-08,Partick,Motherwell,1.73,3.6,4.75
+2017-04-08,Inverness C,St Johnstone,2.63,3.25,2.63
+2017-04-08,Hearts,Dundee,1.53,3.8,6.5
+2017-04-08,Hamilton,Ross County,2.55,3.3,2.7
+2017-04-08,Pacos Ferreira,Arouca,2.15,3.1,3.6
+2017-04-08,Schalke 04,Wolfsburg,2.0,3.5,3.75
+2017-04-08,Porto,Belenenses,1.13,8.0,19.0
+2017-04-08,Sp Lisbon,Boavista,1.33,5.0,9.0
+2017-04-08,Atalanta,Sassuolo,1.45,4.5,7.0
+2017-04-08,Empoli,Pescara,1.83,3.75,4.2
+2017-04-08,Juventus,Chievo,1.25,6.0,12.0
+2017-04-08,Birmingham,Derby,3.2,3.4,2.38
+2017-04-08,Vitesse,Heerenveen,2.05,3.4,3.5
+2017-04-08,Blackburn,Barnsley,2.15,3.5,3.6
+2017-04-08,Burton,Aston Villa,3.3,3.3,2.38
+2017-04-08,Cardiff,Brentford,2.25,3.6,3.3
+2017-04-08,Fulham,Ipswich,1.55,4.2,7.0
+2017-04-08,Leeds,Preston,2.3,3.4,3.4
+2017-04-08,Norwich,Reading,1.95,3.8,4.0
+2017-04-08,Nott'm Forest,Huddersfield,3.5,3.4,2.25
+2017-04-08,Sheffield Weds,Newcastle,3.2,3.3,2.45
+2017-04-08,Wigan,Rotherham,1.53,4.33,7.0
+2017-04-08,Den Haag,Groningen,2.8,3.5,2.35
+2017-04-08,Celtic,Kilmarnock,1.13,8.5,17.0
+2017-04-08,Angers,Monaco,4.8,3.8,1.73
+2017-04-08,Trabzonspor,Besiktas,2.88,3.3,2.4
+2017-04-08,Genclerbirligi,Antalyaspor,2.05,3.3,3.6
+2017-04-08,Bristol City,Wolves,2.63,3.4,2.88
+2017-04-08,Nijmegen,Ajax,13.0,5.25,1.25
+2017-04-09,Paris SG,Guingamp,1.14,8.0,19.0
+2017-04-09,Stuttgart,Karlsruhe,1.45,4.33,7.0
+2017-04-09,PSV Eindhoven,Willem II,1.17,7.5,13.0
+2017-04-09,St Etienne,Nantes,2.05,3.2,4.0
+2017-04-09,Utrecht,Twente,1.91,3.5,4.0
+2017-04-09,Zwolle,Feyenoord,6.5,4.1,1.5
+2017-04-09,Erzgebirge Aue,Munich 1860,2.38,3.1,3.1
+2017-04-09,Fortuna Dusseldorf,Union Berlin,2.8,3.2,2.5
+2017-04-09,Sunderland,Man United,10.0,5.25,1.36
+2017-04-09,Everton,Leicester,1.75,3.9,5.0
+2017-04-09,Kayserispor,Osmanlispor,2.45,3.25,2.88
+2017-04-09,Fenerbahce,Akhisar Belediyespor,1.36,4.33,10.0
+2017-04-09,AZ Alkmaar,Roda,1.4,4.5,7.5
+2017-04-09,Adanaspor,Rizespor,2.5,3.25,2.8
+2017-04-09,Toulouse,Marseille,3.0,3.2,2.5
+2017-04-09,Moreirense,Benfica,8.5,4.75,1.36
+2017-04-09,Ingolstadt,Darmstadt,1.5,4.0,7.5
+2017-04-09,Osasuna,Leganes,3.8,3.3,2.05
+2017-04-09,Las Palmas,Betis,2.1,3.5,3.5
+2017-04-09,Granada,Valencia,3.5,3.4,2.1
+2017-04-09,Udinese,Genoa,1.8,3.7,4.5
+2017-04-09,Sampdoria,Fiorentina,3.0,3.5,2.3
+2017-04-09,Hertha,Augsburg,1.75,3.5,5.25
+2017-04-09,Lazio,Napoli,2.7,3.6,2.5
+2017-04-09,Milan,Palermo,1.25,6.0,12.0
+2017-04-09,Cagliari,Torino,3.0,3.5,2.3
+2017-04-09,Bologna,Roma,7.0,4.75,1.44
+2017-04-09,Aberdeen,Rangers,2.0,3.4,3.75
+2017-04-09,Estoril,Nacional,2.45,3.1,3.0
+2017-04-09,Celta,Eibar,2.25,3.4,3.25
+2017-04-09,Guimaraes,Tondela,1.44,4.0,8.0
+2017-04-09,Rio Ave,Setubal,1.83,3.4,4.5
+2017-04-09,Crotone,Inter,10.0,5.0,1.33
+2017-04-10,Kasimpasa,Konyaspor,2.1,3.25,3.6
+2017-04-10,Buyuksehyr,Galatasaray,2.15,3.3,3.4
+2017-04-10,Sociedad,Sp Gijon,1.44,4.75,7.0
+2017-04-10,Maritimo,Chaves,1.95,3.1,4.33
+2017-04-10,Braunschweig,Dresden,2.25,3.1,3.4
+2017-04-10,Crystal Palace,Arsenal,4.5,3.9,1.83
+2017-04-12,Gaziantepspor,Genclerbirligi,3.1,3.1,2.4
+2017-04-13,Wigan,Barnsley,2.15,3.5,3.6
+2017-04-14,Bristol City,QPR,2.05,3.6,3.8
+2017-04-14,Rotherham,Birmingham,4.0,3.6,2.0
+2017-04-14,Sheffield Weds,Cardiff,1.91,3.6,4.5
+2017-04-14,Wolves,Brighton,3.0,3.4,2.5
+2017-04-14,Newcastle,Leeds,1.67,4.0,5.75
+2017-04-14,Huddersfield,Preston,1.85,3.6,4.75
+2017-04-14,Burton,Ipswich,2.25,3.4,3.5
+2017-04-14,Brentford,Derby,2.8,3.5,2.63
+2017-04-14,Ath Bilbao,Las Palmas,1.44,4.5,7.5
+2017-04-14,Nott'm Forest,Blackburn,2.3,3.4,3.4
+2017-04-14,Heracles,AZ Alkmaar,3.25,3.4,2.15
+2017-04-14,Norwich,Fulham,2.45,3.75,2.88
+2017-04-14,Kilmarnock,Hearts,4.0,3.4,1.91
+2017-04-14,Setubal,Sp Lisbon,7.5,4.2,1.45
+2017-04-14,Boavista,Pacos Ferreira,2.15,2.9,4.0
+2017-04-14,Angers,Paris SG,11.0,5.5,1.3
+2017-04-14,Benfica,Maritimo,1.2,6.5,13.0
+2017-04-14,Belenenses,Estoril,2.05,3.2,3.75
+2017-04-15,Motherwell,Inverness C,2.4,3.25,3.0
+2017-04-15,Sp Braga,Porto,7.0,4.0,1.5
+2017-04-15,Chaves,Guimaraes,3.0,3.1,2.45
+2017-04-15,Arouca,Feirense,2.05,3.1,4.0
+2017-04-15,Southampton,Man City,4.33,4.0,1.73
+2017-04-15,Watford,Swansea,2.4,3.3,2.9
+2017-04-15,Wolfsburg,Ingolstadt,2.0,3.3,3.75
+2017-04-15,Fiorentina,Empoli,1.33,5.0,9.0
+2017-04-15,Cagliari,Chievo,2.2,3.3,3.3
+2017-04-15,Rennes,Lille,2.3,3.1,3.25
+2017-04-15,Nice,Nancy,1.65,3.6,5.5
+2017-04-15,Montpellier,Lorient,1.91,3.5,4.0
+2017-04-15,Monaco,Dijon,1.22,6.5,11.0
+2017-04-15,Tondela,Rio Ave,4.0,3.3,1.95
+2017-04-15,Metz,Caen,2.38,3.25,3.0
+2017-04-15,Guingamp,Toulouse,2.1,3.3,3.5
+2017-04-15,Roda,Sparta Rotterdam,2.3,3.25,3.1
+2017-04-15,Excelsior,Vitesse,3.6,3.3,2.05
+2017-04-15,Den Haag,PSV Eindhoven,15.0,5.0,1.25
+2017-04-15,St Johnstone,Aberdeen,5.5,3.75,1.62
+2017-04-15,Rangers,Partick,1.6,3.75,5.75
+2017-04-15,Dundee,Hamilton,2.2,3.3,3.3
+2017-04-15,Twente,Nijmegen,1.5,4.1,6.5
+2017-04-15,Everton,Burnley,1.4,4.5,8.0
+2017-04-15,Tottenham,Bournemouth,1.25,6.0,10.0
+2017-04-15,Torino,Crotone,1.53,4.0,6.0
+2017-04-15,Sassuolo,Sampdoria,2.1,3.5,3.3
+2017-04-15,Roma,Atalanta,1.5,4.33,6.0
+2017-04-15,Pescara,Juventus,9.0,5.75,1.29
+2017-04-15,Palermo,Bologna,2.55,3.2,2.8
+2017-04-15,Aston Villa,Reading,1.85,3.6,4.75
+2017-04-15,Napoli,Udinese,1.22,6.0,13.0
+2017-04-15,Inter,Milan,2.0,3.4,3.75
+2017-04-15,Genoa,Lazio,5.0,3.75,1.67
+2017-04-15,Hannover,Braunschweig,2.05,3.4,3.6
+2017-04-15,Sp Gijon,Real Madrid,6.5,5.0,1.4
+2017-04-15,La Coruna,Malaga,2.25,3.2,3.25
+2017-04-15,Barcelona,Sociedad,1.17,6.5,17.0
+2017-04-15,Ath Madrid,Osasuna,1.14,8.0,15.0
+2017-04-15,Dortmund,Ein Frankfurt,1.44,4.33,7.0
+2017-04-15,Hoffenheim,M'gladbach,2.0,3.5,3.6
+2017-04-15,Leverkusen,Bayern Munich,4.75,4.2,1.62
+2017-04-15,Stoke,Hull,1.95,3.3,4.0
+2017-04-15,Mainz,Hertha,2.25,3.2,3.3
+2017-04-15,RB Leipzig,Freiburg,1.44,4.33,7.0
+2017-04-15,Crystal Palace,Leicester,1.73,3.6,4.75
+2017-04-15,Augsburg,FC Koln,2.8,3.2,2.55
+2017-04-15,Sunderland,West Ham,3.3,3.25,2.2
+2017-04-15,Nurnberg,Erzgebirge Aue,2.38,3.1,3.1
+2017-04-16,Granada,Celta,2.8,3.3,2.45
+2017-04-16,Betis,Eibar,2.7,3.2,2.63
+2017-04-16,Union Berlin,Kaiserslautern,1.85,3.4,4.33
+2017-04-16,Karlsruhe,Heidenheim,2.4,3.25,2.9
+2017-04-16,Munich 1860,Sandhausen,2.0,3.3,3.75
+2017-04-16,St Pauli,Wurzburger Kickers,2.0,3.3,3.8
+2017-04-16,Man United,Chelsea,2.55,3.2,2.8
+2017-04-16,Dresden,Fortuna Dusseldorf,1.91,3.6,3.8
+2017-04-16,Leganes,Espanol,2.0,3.2,4.0
+2017-04-16,Valencia,Sevilla,2.55,3.2,2.75
+2017-04-16,Willem II,Go Ahead Eagles,1.8,3.6,4.33
+2017-04-16,Ajax,Heerenveen,1.2,6.5,13.0
+2017-04-16,Groningen,Zwolle,1.95,3.5,3.8
+2017-04-16,Feyenoord,Utrecht,1.44,4.5,6.5
+2017-04-16,Bastia,Lyon,5.5,4.0,1.57
+2017-04-16,Werder Bremen,Hamburg,2.25,3.4,3.1
+2017-04-16,Darmstadt,Schalke 04,5.75,3.8,1.6
+2017-04-16,Nantes,Bordeaux,2.5,3.2,2.88
+2017-04-16,Marseille,St Etienne,1.8,3.5,4.5
+2017-04-16,Bochum,Greuther Furth,2.25,3.2,3.25
+2017-04-16,West Brom,Liverpool,4.0,3.8,1.8
+2017-04-16,Ross County,Celtic,9.0,5.0,1.33
+2017-04-17,Bielefeld,Stuttgart,3.5,3.4,2.05
+2017-04-17,Preston,Norwich,2.5,3.75,2.8
+2017-04-17,Birmingham,Burton,2.25,3.4,3.5
+2017-04-17,Barnsley,Brentford,3.0,3.4,2.5
+2017-04-17,Middlesbrough,Arsenal,7.0,4.0,1.5
+2017-04-17,Nacional,Moreirense,2.15,3.2,3.5
+2017-04-17,Alaves,Villarreal,3.0,3.0,2.55
+2017-04-17,Reading,Rotherham,1.4,4.75,10.0
+2017-04-17,Leeds,Wolves,2.1,3.3,4.0
+2017-04-17,QPR,Sheffield Weds,3.6,3.4,2.2
+2017-04-17,Fulham,Aston Villa,1.83,4.0,4.33
+2017-04-17,Derby,Huddersfield,2.5,3.4,3.0
+2017-04-17,Cardiff,Nott'm Forest,2.3,3.5,3.25
+2017-04-17,Brighton,Wigan,1.53,4.2,7.5
+2017-04-17,Blackburn,Bristol City,2.4,3.6,3.0
+2017-04-17,Ipswich,Newcastle,5.25,3.6,1.8
+2017-04-18,Metz,Paris SG,17.0,7.5,1.17
+2017-04-21,FC Koln,Hoffenheim,3.0,3.4,2.38
+2017-04-21,Nancy,Marseille,3.75,3.4,2.05
+2017-04-21,Sevilla,Granada,1.17,8.0,15.0
+2017-04-21,Heerenveen,Willem II,1.62,3.75,5.5
+2017-04-21,Karabukspor,Kasimpasa,2.15,3.4,3.25
+2017-04-21,Rio Ave,Arouca,1.55,3.75,6.5
+2017-04-21,Fortuna Dusseldorf,St Pauli,2.3,3.1,3.2
+2017-04-21,Greuther Furth,Dresden,2.45,3.4,2.75
+2017-04-21,Kaiserslautern,Munich 1860,2.45,3.0,3.1
+2017-04-21,Norwich,Brighton,2.45,3.6,2.95
+2017-04-21,Konyaspor,Gaziantepspor,1.91,3.3,4.2
+2017-04-22,AZ Alkmaar,Twente,1.65,3.8,5.0
+2017-04-22,Go Ahead Eagles,Groningen,3.3,3.5,2.1
+2017-04-22,Espanol,Ath Madrid,5.0,3.6,1.75
+2017-04-22,Zwolle,Heracles,1.8,4.0,3.8
+2017-04-22,Malaga,Valencia,2.2,3.4,3.3
+2017-04-22,Nijmegen,Excelsior,2.38,3.4,2.88
+2017-04-22,Lorient,Metz,1.73,4.0,4.5
+2017-04-22,Villarreal,Leganes,1.67,3.6,5.75
+2017-04-22,Bordeaux,Bastia,1.36,5.25,8.0
+2017-04-22,Caen,Nantes,2.5,3.25,2.9
+2017-04-22,Dijon,Angers,2.2,3.3,3.4
+2017-04-22,Lille,Guingamp,1.95,3.5,4.0
+2017-04-22,Alanyaspor,Osmanlispor,2.38,3.5,2.8
+2017-04-22,Antalyaspor,Trabzonspor,3.0,3.1,2.45
+2017-04-22,Genclerbirligi,Kayserispor,2.05,3.2,3.8
+2017-04-22,Rizespor,Buyuksehyr,4.0,3.2,2.0
+2017-04-22,Erzgebirge Aue,Hannover,3.6,3.25,2.1
+2017-04-22,Osasuna,Sp Gijon,2.5,3.4,2.8
+2017-04-22,Bournemouth,Middlesbrough,1.85,3.75,4.5
+2017-04-22,Heidenheim,Bielefeld,2.3,3.5,2.9
+2017-04-22,Swansea,Stoke,2.2,3.4,3.6
+2017-04-22,Paris SG,Montpellier,1.17,8.0,15.0
+2017-04-22,Brentford,QPR,2.05,3.9,3.6
+2017-04-22,Bristol City,Barnsley,1.73,4.0,5.0
+2017-04-22,Burton,Leeds,3.0,3.4,2.5
+2017-04-22,Huddersfield,Fulham,2.38,3.5,3.1
+2017-04-22,Nott'm Forest,Reading,2.3,3.6,3.2
+2017-04-22,Rotherham,Ipswich,3.9,3.6,2.05
+2017-04-22,Sheffield Weds,Derby,1.85,3.6,4.75
+2017-04-22,Wigan,Cardiff,2.25,3.4,3.5
+2017-04-22,Wolves,Blackburn,2.2,3.5,3.5
+2017-04-22,Bayern Munich,Mainz,1.18,7.0,17.0
+2017-04-22,Ein Frankfurt,Augsburg,1.75,3.6,5.0
+2017-04-22,Hull,Watford,1.91,3.7,4.33
+2017-04-22,Hertha,Wolfsburg,2.5,3.3,2.9
+2017-04-22,Hamburg,Darmstadt,1.4,4.75,8.0
+2017-04-22,M'gladbach,Dortmund,3.5,3.7,2.05
+2017-04-22,Atalanta,Bologna,1.36,5.0,8.5
+2017-04-22,Fiorentina,Inter,2.7,3.4,2.63
+2017-04-22,Estoril,Setubal,2.38,3.0,3.2
+2017-04-22,Maritimo,Belenenses,1.8,3.5,4.5
+2017-04-22,Sp Lisbon,Benfica,2.75,3.1,2.63
+2017-04-22,Tondela,Nacional,2.45,3.25,2.9
+2017-04-22,West Ham,Everton,3.3,3.6,2.25
+2017-04-22,Ingolstadt,Werder Bremen,2.2,3.5,3.2
+2017-04-23,Burnley,Man United,5.75,4.0,1.67
+2017-04-23,Liverpool,Crystal Palace,1.5,4.75,7.0
+2017-04-23,Pacos Ferreira,Sp Braga,3.1,3.25,2.3
+2017-04-23,Galatasaray,Fenerbahce,2.63,3.1,2.75
+2017-04-23,Akhisar Belediyespor,Bursaspor,2.0,3.2,4.0
+2017-04-23,Guimaraes,Boavista,1.5,3.7,8.0
+2017-04-23,Porto,Feirense,1.13,8.0,21.0
+2017-04-23,Braunschweig,Bochum,1.73,3.6,4.75
+2017-04-23,Lyon,Monaco,2.6,3.6,2.6
+2017-04-23,Wurzburger Kickers,Nurnberg,2.2,3.2,3.4
+2017-04-23,Sampdoria,Crotone,1.91,3.5,4.2
+2017-04-23,Sassuolo,Napoli,9.5,4.75,1.36
+2017-04-23,Udinese,Cagliari,1.85,3.5,4.5
+2017-04-23,Juventus,Genoa,1.18,7.0,17.0
+2017-04-23,Aston Villa,Birmingham,1.95,3.5,4.33
+2017-04-23,PSV Eindhoven,Ajax,2.15,3.5,3.2
+2017-04-23,Chievo,Torino,3.0,3.5,2.25
+2017-04-23,St Etienne,Rennes,2.1,3.1,4.0
+2017-04-23,Celta,Betis,2.05,3.4,3.75
+2017-04-23,Las Palmas,Alaves,2.0,3.5,3.8
+2017-04-23,Real Madrid,Barcelona,2.05,4.0,3.2
+2017-04-23,Sociedad,La Coruna,1.57,4.0,6.0
+2017-04-23,Milan,Empoli,1.36,4.75,9.5
+2017-04-23,Lazio,Palermo,1.14,8.0,21.0
+2017-04-23,Freiburg,Leverkusen,3.4,3.6,2.1
+2017-04-23,Sparta Rotterdam,Den Haag,2.05,3.4,3.5
+2017-04-23,Utrecht,Roda,1.5,4.33,6.0
+2017-04-23,Vitesse,Feyenoord,5.5,3.75,1.62
+2017-04-23,Sandhausen,Karlsruhe,2.1,3.4,3.4
+2017-04-23,Schalke 04,RB Leipzig,3.0,3.5,2.3
+2017-04-23,Toulouse,Nice,2.6,3.2,2.88
+2017-04-24,Stuttgart,Union Berlin,1.8,3.6,4.33
+2017-04-24,Besiktas,Adanaspor,1.17,6.5,17.0
+2017-04-24,Newcastle,Preston,1.45,4.75,8.0
+2017-04-24,Pescara,Roma,11.0,6.5,1.22
+2017-04-24,Moreirense,Chaves,2.1,3.1,3.75
+2017-04-24,Eibar,Ath Bilbao,2.6,3.3,2.75
+2017-04-25,Chelsea,Southampton,1.45,4.6,8.5
+2017-04-25,Sp Gijon,Espanol,2.05,3.4,3.6
+2017-04-25,Granada,Malaga,3.9,3.5,1.95
+2017-04-25,Wolves,Huddersfield,3.0,3.4,2.5
+2017-04-25,Ath Madrid,Villarreal,1.4,4.1,9.0
+2017-04-26,Valencia,Sociedad,2.6,3.4,2.7
+2017-04-26,Arsenal,Leicester,1.6,4.5,5.75
+2017-04-26,Barcelona,Osasuna,1.02,17.0,34.0
+2017-04-26,Crystal Palace,Tottenham,5.5,4.2,1.65
+2017-04-26,Middlesbrough,Sunderland,2.3,3.4,3.4
+2017-04-26,La Coruna,Real Madrid,8.0,4.75,1.4
+2017-04-26,Leganes,Las Palmas,1.73,3.6,4.75
+2017-04-27,Alaves,Eibar,2.75,3.2,2.7
+2017-04-27,Ath Bilbao,Betis,1.4,4.5,9.0
+2017-04-27,Sevilla,Celta,1.33,5.5,8.0
+2017-04-27,Man City,Man United,1.91,3.75,4.2
+2017-04-28,Leverkusen,Schalke 04,2.1,3.5,3.5
+2017-04-28,Gaziantepspor,Karabukspor,2.05,3.4,3.5
+2017-04-28,Villarreal,Sp Gijon,1.4,4.75,8.0
+2017-04-28,Atalanta,Juventus,3.75,3.4,2.05
+2017-04-28,Ross County,Inverness C,1.91,3.6,3.75
+2017-04-28,Setubal,Guimaraes,3.6,3.25,2.1
+2017-04-28,Bochum,Dresden,2.3,3.3,3.1
+2017-04-28,St Pauli,Heidenheim,1.91,3.3,4.2
+2017-04-28,Union Berlin,Sandhausen,1.62,3.75,5.5
+2017-04-28,Angers,Lyon,3.3,3.4,2.2
+2017-04-28,Cardiff,Newcastle,3.6,3.8,2.05
+2017-04-29,Nantes,Lorient,2.05,3.4,3.75
+2017-04-29,Montpellier,Lille,2.15,3.3,3.6
+2017-04-29,Monaco,Toulouse,1.22,6.5,13.0
+2017-04-29,Metz,Nancy,2.63,3.1,2.9
+2017-04-29,Guingamp,St Etienne,2.4,3.1,3.2
+2017-04-29,Bastia,Rennes,3.6,3.2,2.2
+2017-04-29,West Brom,Leicester,2.4,3.5,2.75
+2017-04-29,Crystal Palace,Burnley,1.75,3.5,4.75
+2017-04-29,Trabzonspor,Genclerbirligi,1.57,4.0,5.5
+2017-04-29,Stoke,West Ham,2.0,3.5,3.6
+2017-04-29,Southampton,Hull,1.6,3.75,5.75
+2017-04-29,Nacional,Rio Ave,3.1,3.2,2.3
+2017-04-29,Chaves,Porto,9.0,4.5,1.36
+2017-04-29,Kayserispor,Alanyaspor,2.0,3.5,3.6
+2017-04-29,Boavista,Tondela,2.4,3.0,3.2
+2017-04-29,Benfica,Estoril,1.14,7.5,19.0
+2017-04-29,Sunderland,Bournemouth,3.0,3.4,2.3
+2017-04-29,Wolfsburg,Bayern Munich,8.0,4.75,1.4
+2017-04-29,Torino,Sampdoria,1.62,4.2,5.25
+2017-04-29,Leeds,Norwich,2.1,3.5,3.3
+2017-04-29,Rangers,Celtic,4.75,4.0,1.67
+2017-04-29,Motherwell,Dundee,2.2,3.3,3.3
+2017-04-29,Espanol,Barcelona,15.0,7.5,1.18
+2017-04-29,Reading,Wigan,1.91,3.4,4.0
+2017-04-29,QPR,Nott'm Forest,2.6,3.4,2.6
+2017-04-29,Preston,Rotherham,1.45,4.5,6.5
+2017-04-29,Hearts,Partick,1.91,3.4,4.0
+2017-04-29,Aberdeen,St Johnstone,1.44,4.0,8.5
+2017-04-29,Ipswich,Sheffield Weds,3.8,3.3,2.0
+2017-04-29,Derby,Wolves,1.91,3.6,3.8
+2017-04-29,Brighton,Bristol City,1.55,4.2,5.5
+2017-04-29,Blackburn,Aston Villa,2.15,3.4,3.25
+2017-04-29,Birmingham,Huddersfield,2.45,3.4,2.75
+2017-04-29,Barnsley,Burton,2.25,3.3,3.2
+2017-04-29,Werder Bremen,Hertha,2.05,3.5,3.6
+2017-04-29,Karlsruhe,Kaiserslautern,3.6,3.2,2.1
+2017-04-29,Fulham,Brentford,1.5,4.33,6.0
+2017-04-29,Las Palmas,Ath Madrid,5.25,3.6,1.73
+2017-04-29,Bielefeld,Greuther Furth,2.0,3.5,3.6
+2017-04-29,Sociedad,Granada,1.17,7.5,17.0
+2017-04-29,Real Madrid,Valencia,1.17,9.0,13.0
+2017-04-29,Mainz,M'gladbach,2.2,3.4,3.3
+2017-04-29,Dortmund,FC Koln,1.29,5.75,10.0
+2017-04-29,Darmstadt,Freiburg,3.3,3.3,2.25
+2017-04-29,Nurnberg,Stuttgart,4.0,3.4,1.91
+2017-04-29,RB Leipzig,Ingolstadt,1.45,4.5,7.0
+2017-04-29,Hamilton,Kilmarnock,2.25,3.4,3.1
+2017-04-30,Feirense,Maritimo,2.75,3.0,2.7
+2017-04-30,Belenenses,Pacos Ferreira,2.2,3.2,3.4
+2017-04-30,Palermo,Fiorentina,8.0,4.75,1.4
+2017-04-30,Arouca,Moreirense,2.5,3.0,3.0
+2017-04-30,Roma,Lazio,1.85,3.75,4.2
+2017-04-30,Erzgebirge Aue,Wurzburger Kickers,2.3,3.0,3.4
+2017-04-30,Hannover,Fortuna Dusseldorf,1.53,4.0,6.25
+2017-04-30,Munich 1860,Braunschweig,2.63,3.2,2.7
+2017-04-30,Everton,Chelsea,3.5,3.6,2.0
+2017-04-30,Man United,Swansea,1.36,4.75,8.0
+2017-04-30,Middlesbrough,Man City,13.0,5.25,1.25
+2017-04-30,Tottenham,Arsenal,1.85,3.75,4.0
+2017-04-30,Sp Braga,Sp Lisbon,3.6,3.3,2.05
+2017-04-30,Augsburg,Hamburg,2.5,3.3,2.9
+2017-04-30,Adanaspor,Antalyaspor,3.2,3.3,2.25
+2017-04-30,Hoffenheim,Ein Frankfurt,1.57,4.0,6.0
+2017-04-30,Nice,Paris SG,6.0,4.33,1.53
+2017-04-30,Dijon,Bordeaux,3.4,3.4,2.2
+2017-04-30,Caen,Marseille,3.6,3.4,2.1
+2017-04-30,Inter,Napoli,3.1,3.4,2.3
+2017-04-30,Genoa,Chievo,1.67,3.75,5.5
+2017-04-30,Empoli,Sassuolo,2.1,3.4,3.6
+2017-04-30,Crotone,Milan,4.0,3.5,1.95
+2017-04-30,Osasuna,La Coruna,3.9,3.6,1.95
+2017-04-30,Eibar,Leganes,2.1,3.3,3.75
+2017-04-30,Celta,Ath Bilbao,4.5,3.7,1.8
+2017-04-30,Betis,Alaves,2.1,3.2,3.8
+2017-04-30,Kasimpasa,Akhisar Belediyespor,1.91,3.5,4.0
+2017-04-30,Fenerbahce,Rizespor,1.36,4.75,8.5
+2017-04-30,Buyuksehyr,Besiktas,3.4,3.5,2.05
+2017-04-30,Bologna,Udinese,2.38,3.3,3.0
+2017-04-30,Cagliari,Pescara,1.62,4.2,5.25
+2017-05-01,Osmanlispor,Konyaspor,1.65,3.8,5.25
+2017-05-01,Watford,Liverpool,5.75,4.5,1.5
+2017-05-01,Bursaspor,Galatasaray,3.75,3.4,2.0
+2017-05-01,Malaga,Sevilla,4.0,3.6,1.91
+2017-05-05,Heidenheim,Hannover,4.75,3.75,1.7
+2017-05-05,Dresden,Munich 1860,2.45,3.25,2.88
+2017-05-05,Kaiserslautern,St Pauli,2.7,2.8,3.0
+2017-05-05,Moreirense,Sp Braga,2.8,3.1,2.6
+2017-05-05,Antalyaspor,Buyuksehyr,3.3,3.5,2.1
+2017-05-05,Sevilla,Sociedad,1.62,4.0,5.5
+2017-05-05,FC Koln,Werder Bremen,2.55,3.5,2.7
+2017-05-05,West Ham,Tottenham,8.5,5.25,1.4
+2017-05-05,St Etienne,Bordeaux,2.7,3.1,2.8
+2017-05-06,Swansea,Everton,2.8,3.5,2.63
+2017-05-06,Man City,Crystal Palace,1.29,6.5,11.0
+2017-05-06,Granada,Real Madrid,21.0,9.0,1.13
+2017-05-06,Hull,Sunderland,1.44,4.75,8.0
+2017-05-06,Burnley,West Brom,2.25,3.3,3.6
+2017-05-06,Bournemouth,Stoke,2.25,3.6,3.3
+2017-05-06,Sp Gijon,Las Palmas,1.5,4.75,5.5
+2017-05-06,Toulouse,Caen,2.2,3.3,3.4
+2017-05-06,Barcelona,Villarreal,1.14,8.5,17.0
+2017-05-06,Ath Madrid,Eibar,1.3,5.25,11.0
+2017-05-06,Celtic,St Johnstone,1.2,6.5,13.0
+2017-05-06,Inverness C,Hamilton,2.15,3.25,3.4
+2017-05-06,Kilmarnock,Dundee,2.15,3.3,3.4
+2017-05-06,Motherwell,Ross County,2.63,3.4,2.55
+2017-05-06,Leicester,Watford,1.57,4.2,6.5
+2017-05-06,Paris SG,Bastia,1.13,9.0,21.0
+2017-05-06,Guingamp,Dijon,2.15,3.4,3.4
+2017-05-06,Lorient,Angers,2.25,3.4,3.25
+2017-05-06,Ingolstadt,Leverkusen,2.38,3.5,2.9
+2017-05-06,M'gladbach,Augsburg,1.73,3.8,4.75
+2017-05-06,Dortmund,Hoffenheim,1.5,4.75,5.75
+2017-05-06,Bayern Munich,Darmstadt,1.07,13.0,26.0
+2017-05-06,Nancy,Monaco,7.0,4.5,1.45
+2017-05-06,Galatasaray,Kasimpasa,1.44,4.33,7.0
+2017-05-06,Genclerbirligi,Adanaspor,1.5,4.33,6.0
+2017-05-06,Hertha,RB Leipzig,3.5,3.5,2.1
+2017-05-06,Trabzonspor,Kayserispor,1.62,3.75,5.5
+2017-05-06,Boavista,Nacional,2.2,3.2,3.4
+2017-05-06,Maritimo,Porto,7.5,4.2,1.44
+2017-05-06,Pacos Ferreira,Feirense,2.05,3.1,4.0
+2017-05-06,Lille,Metz,1.67,4.0,5.0
+2017-05-06,Juventus,Torino,1.5,4.33,7.0
+2017-05-06,Napoli,Cagliari,1.13,9.0,21.0
+2017-05-06,Konyaspor,Alanyaspor,2.0,3.3,3.75
+2017-05-06,Ein Frankfurt,Wolfsburg,2.6,3.4,2.7
+2017-05-06,Sandhausen,Nurnberg,2.4,3.0,3.2
+2017-05-06,Fortuna Dusseldorf,Wurzburger Kickers,2.05,3.1,3.9
+2017-05-07,Wolves,Preston,2.05,3.7,3.7
+2017-05-07,Wigan,Leeds,3.1,3.5,2.4
+2017-05-07,Sheffield Weds,Fulham,2.45,3.4,3.1
+2017-05-07,Rotherham,Derby,5.25,3.75,1.75
+2017-05-07,Valencia,Osasuna,1.22,6.5,13.0
+2017-05-07,Nott'm Forest,Ipswich,1.62,4.1,6.0
+2017-05-07,Newcastle,Barnsley,1.25,6.25,15.0
+2017-05-07,Huddersfield,Cardiff,2.2,3.5,3.5
+2017-05-07,Burton,Reading,2.3,3.6,3.2
+2017-05-07,Bristol City,Birmingham,2.65,3.7,2.63
+2017-05-07,Brentford,Blackburn,2.5,3.9,2.7
+2017-05-07,Udinese,Atalanta,4.5,3.7,1.8
+2017-05-07,Norwich,QPR,1.67,4.2,5.25
+2017-05-07,Sassuolo,Fiorentina,3.1,3.6,2.2
+2017-05-07,Malaga,Celta,1.4,4.5,7.5
+2017-05-07,Utrecht,Vitesse,2.0,3.5,3.6
+2017-05-07,Lyon,Nantes,1.67,4.0,5.0
+2017-05-07,Marseille,Nice,1.95,3.5,3.75
+2017-05-07,Alaves,Ath Bilbao,4.75,3.5,1.8
+2017-05-07,La Coruna,Espanol,2.0,3.4,4.0
+2017-05-07,Freiburg,Schalke 04,3.3,3.5,2.15
+2017-05-07,Hamburg,Mainz,2.38,3.4,3.0
+2017-05-07,Zwolle,Heerenveen,2.38,3.5,2.8
+2017-05-07,Rennes,Montpellier,2.3,3.25,3.1
+2017-05-07,Excelsior,Feyenoord,11.0,6.5,1.22
+2017-05-07,Groningen,PSV Eindhoven,7.5,4.5,1.4
+2017-05-07,Heracles,Den Haag,1.83,3.75,4.0
+2017-05-07,Nijmegen,AZ Alkmaar,3.9,3.5,1.91
+2017-05-07,Roda,Willem II,1.73,3.6,4.75
+2017-05-07,Sparta Rotterdam,Twente,2.4,3.4,2.8
+2017-05-07,Ajax,Go Ahead Eagles,1.08,10.0,22.0
+2017-05-07,Milan,Roma,3.25,3.8,2.1
+2017-05-07,Pescara,Crotone,5.0,4.4,1.6
+2017-05-07,Rio Ave,Benfica,7.0,4.0,1.5
+2017-05-07,Tondela,Setubal,1.91,3.3,4.2
+2017-05-07,Sp Lisbon,Belenenses,1.22,6.0,12.0
+2017-05-07,Arsenal,Man United,1.91,3.7,4.33
+2017-05-07,Stuttgart,Erzgebirge Aue,1.4,4.5,7.5
+2017-05-07,Guimaraes,Arouca,1.4,4.33,8.5
+2017-05-07,Bochum,Bielefeld,2.45,3.4,2.75
+2017-05-07,Lazio,Sampdoria,1.22,6.5,13.0
+2017-05-07,Besiktas,Fenerbahce,1.8,3.6,4.33
+2017-05-07,Partick,Rangers,3.5,3.4,2.05
+2017-05-07,Liverpool,Southampton,1.62,4.2,6.0
+2017-05-07,Greuther Furth,Karlsruhe,1.6,3.6,6.0
+2017-05-07,Aston Villa,Brighton,3.7,3.6,2.1
+2017-05-07,Chievo,Palermo,1.67,4.0,5.0
+2017-05-07,Empoli,Bologna,1.7,3.8,5.0
+2017-05-07,Genoa,Inter,4.75,3.8,1.75
+2017-05-07,Hearts,Aberdeen,3.3,3.4,2.15
+2017-05-07,Rizespor,Bursaspor,1.8,3.6,4.33
+2017-05-08,Karabukspor,Osmanlispor,2.63,3.4,2.55
+2017-05-08,Akhisar Belediyespor,Gaziantepspor,2.0,3.4,3.75
+2017-05-08,Leganes,Betis,1.65,3.8,5.75
+2017-05-08,Chelsea,Middlesbrough,1.17,9.0,19.0
+2017-05-08,Estoril,Chaves,2.2,3.2,3.4
+2017-05-08,Braunschweig,Union Berlin,2.2,3.1,3.5
+2017-05-10,Southampton,Arsenal,3.6,3.8,2.05
+2017-05-12,West Brom,Chelsea,10.0,5.25,1.36
+2017-05-12,Belenenses,Moreirense,3.2,3.2,2.3
+2017-05-12,Kayserispor,Konyaspor,1.44,4.5,6.5
+2017-05-12,Aberdeen,Celtic,4.75,3.6,1.73
+2017-05-12,Kasimpasa,Rizespor,2.8,3.7,2.3
+2017-05-12,Everton,Watford,1.5,4.5,7.5
+2017-05-13,Adanaspor,Trabzonspor,5.5,3.8,1.62
+2017-05-13,Fenerbahce,Antalyaspor,1.53,4.33,5.5
+2017-05-13,Hamilton,Motherwell,2.4,3.25,2.9
+2017-05-13,Dundee,Ross County,2.6,3.25,2.7
+2017-05-13,St Johnstone,Partick,2.3,3.4,3.0
+2017-05-13,Buyuksehyr,Genclerbirligi,1.3,4.75,12.0
+2017-05-13,Osasuna,Granada,1.8,3.8,4.33
+2017-05-13,Darmstadt,Hertha,3.5,3.4,2.15
+2017-05-13,Sunderland,Swansea,4.2,3.8,1.91
+2017-05-13,Stoke,Arsenal,4.75,4.1,1.75
+2017-05-13,Middlesbrough,Southampton,4.0,3.6,2.0
+2017-05-13,Man City,Leicester,1.25,7.0,12.0
+2017-05-13,Bournemouth,Burnley,1.91,3.75,4.2
+2017-05-13,Augsburg,Dortmund,6.0,4.6,1.5
+2017-05-13,Feirense,Sp Lisbon,6.75,4.0,1.5
+2017-05-13,Benfica,Guimaraes,1.25,5.25,13.0
+2017-05-13,Arouca,Tondela,2.3,3.1,3.25
+2017-05-13,Wolfsburg,M'gladbach,1.95,3.6,4.0
+2017-05-13,Werder Bremen,Hoffenheim,2.63,3.6,2.55
+2017-05-13,Schalke 04,Hamburg,2.05,3.75,3.5
+2017-05-13,RB Leipzig,Bayern Munich,3.75,3.7,1.95
+2017-05-13,Rangers,Hearts,1.83,3.5,4.2
+2017-05-13,Leverkusen,FC Koln,2.1,3.5,3.5
+2017-05-13,Espanol,Valencia,2.4,3.3,3.0
+2017-05-13,Mainz,Ein Frankfurt,1.7,3.8,5.0
+2017-05-13,Freiburg,Ingolstadt,2.38,3.5,2.9
+2017-05-13,Kilmarnock,Inverness C,2.3,3.25,3.1
+2017-05-13,Fiorentina,Lazio,1.95,3.8,3.6
+2017-05-13,Atalanta,Milan,2.05,3.5,3.6
+2017-05-14,Las Palmas,Barcelona,26.0,11.0,1.08
+2017-05-14,Bastia,Lorient,3.2,3.2,2.3
+2017-05-14,Bordeaux,Marseille,2.45,3.4,2.88
+2017-05-14,Caen,Rennes,1.8,3.6,4.6
+2017-05-14,Dijon,Nancy,2.0,3.5,3.75
+2017-05-14,Metz,Toulouse,2.6,3.25,2.8
+2017-05-14,Monaco,Lille,1.17,8.0,15.0
+2017-05-14,Montpellier,Lyon,3.1,3.6,2.25
+2017-05-14,Nantes,Guingamp,2.05,3.5,3.6
+2017-05-14,Nice,Angers,1.73,3.6,5.25
+2017-05-14,St Etienne,Paris SG,9.0,5.0,1.33
+2017-05-14,Villarreal,La Coruna,1.5,4.33,6.5
+2017-05-14,Gaziantepspor,Galatasaray,4.0,3.75,1.83
+2017-05-14,Alanyaspor,Karabukspor,1.75,3.75,4.5
+2017-05-14,Alaves,Celta,1.8,3.4,5.0
+2017-05-14,Ath Bilbao,Leganes,1.44,4.2,8.5
+2017-05-14,Sociedad,Malaga,1.53,4.1,6.5
+2017-05-14,Betis,Ath Madrid,7.0,3.75,1.57
+2017-05-14,Eibar,Sp Gijon,2.0,3.75,3.5
+2017-05-14,Real Madrid,Sevilla,1.17,8.0,15.0
+2017-05-14,Osmanlispor,Akhisar Belediyespor,1.91,3.4,4.0
+2017-05-14,Vitesse,Roda,1.8,3.75,4.2
+2017-05-14,Hannover,Stuttgart,2.45,3.1,3.0
+2017-05-14,Nurnberg,Fortuna Dusseldorf,3.0,3.2,2.38
+2017-05-14,St Pauli,Greuther Furth,1.85,3.4,4.33
+2017-05-14,Union Berlin,Heidenheim,1.44,4.2,7.5
+2017-05-14,Wurzburger Kickers,Sandhausen,2.0,3.2,4.0
+2017-05-14,Inter,Sassuolo,1.44,4.75,6.75
+2017-05-14,Willem II,Ajax,13.0,7.0,1.18
+2017-05-14,Twente,Groningen,2.1,3.8,3.1
+2017-05-14,PSV Eindhoven,Zwolle,1.18,7.0,13.0
+2017-05-14,Heerenveen,Nijmegen,1.5,4.33,6.0
+2017-05-14,Go Ahead Eagles,Sparta Rotterdam,5.0,3.8,1.67
+2017-05-14,Torino,Napoli,6.0,4.5,1.5
+2017-05-14,Sampdoria,Chievo,1.8,3.8,4.33
+2017-05-14,Roma,Juventus,2.5,3.4,2.88
+2017-05-14,Palermo,Genoa,5.0,4.0,1.67
+2017-05-14,AZ Alkmaar,Utrecht,1.4,4.75,7.0
+2017-05-14,Munich 1860,Bochum,1.62,3.75,5.75
+2017-05-14,Karlsruhe,Dresden,3.1,3.1,2.38
+2017-05-14,Feyenoord,Heracles,1.18,7.0,13.0
+2017-05-14,Erzgebirge Aue,Kaiserslautern,2.3,3.1,3.2
+2017-05-14,Bielefeld,Braunschweig,2.75,3.2,2.6
+2017-05-14,Sp Braga,Nacional,1.3,5.5,9.5
+2017-05-14,Crotone,Udinese,1.8,3.5,4.75
+2017-05-14,Cagliari,Empoli,2.9,3.7,2.3
+2017-05-14,Bologna,Pescara,1.5,4.2,6.5
+2017-05-14,Crystal Palace,Hull,2.1,3.6,3.75
+2017-05-14,Tottenham,Man United,1.73,3.9,5.25
+2017-05-14,West Ham,Liverpool,5.25,4.0,1.7
+2017-05-14,Den Haag,Excelsior,2.25,3.5,3.0
+2017-05-14,Porto,Pacos Ferreira,1.14,8.0,15.0
+2017-05-14,Maritimo,Estoril,1.67,3.6,5.25
+2017-05-14,Chaves,Rio Ave,3.3,3.25,2.2
+2017-05-15,Chelsea,Watford,1.25,6.75,13.0
+2017-05-15,Bursaspor,Besiktas,13.0,5.25,1.25
+2017-05-15,Setubal,Boavista,2.45,3.1,3.0
+2017-05-16,Man City,West Brom,1.14,9.0,23.0
+2017-05-16,Arsenal,Sunderland,1.09,13.0,29.0
+2017-05-16,Motherwell,Kilmarnock,1.85,3.6,4.0
+2017-05-16,Ross County,Hamilton,2.25,3.3,3.2
+2017-05-17,Celta,Real Madrid,13.0,7.0,1.2
+2017-05-17,Monaco,St Etienne,1.2,7.0,13.0
+2017-05-17,Rangers,Aberdeen,2.4,3.4,2.8
+2017-05-17,Dundee,Inverness C,2.38,3.3,2.9
+2017-05-17,St Johnstone,Hearts,2.38,3.3,2.9
+2017-05-17,Southampton,Man United,2.75,3.3,2.8
+2017-05-18,Partick,Celtic,9.0,5.75,1.29
+2017-05-18,Leicester,Tottenham,4.5,3.8,1.85
+2017-05-19,Galatasaray,Osmanlispor,1.4,4.5,6.5
+2017-05-19,Granada,Espanol,4.5,4.0,1.73
+2017-05-20,Inverness C,Motherwell,1.65,3.75,5.25
+2017-05-20,Kilmarnock,Ross County,2.63,3.25,2.63
+2017-05-20,Dortmund,Werder Bremen,1.2,7.5,12.0
+2017-05-20,Bayern Munich,Freiburg,1.17,8.0,15.0
+2017-05-20,Rizespor,Gaziantepspor,1.62,4.0,5.0
+2017-05-20,Hamilton,Dundee,1.73,3.6,4.75
+2017-05-20,Ein Frankfurt,RB Leipzig,4.0,3.6,1.91
+2017-05-20,Hoffenheim,Augsburg,1.36,5.0,8.5
+2017-05-20,Hamburg,Wolfsburg,2.6,3.4,2.7
+2017-05-20,Hertha,Leverkusen,2.05,3.4,3.8
+2017-05-20,Ingolstadt,Schalke 04,2.63,3.5,2.6
+2017-05-20,M'gladbach,Darmstadt,1.33,5.5,8.5
+2017-05-20,Rio Ave,Belenenses,1.5,4.0,7.0
+2017-05-20,Pacos Ferreira,Maritimo,3.0,3.0,2.5
+2017-05-20,Nacional,Setubal,2.45,3.1,3.0
+2017-05-20,Guimaraes,Feirense,1.62,3.6,6.0
+2017-05-20,FC Koln,Mainz,1.62,4.0,5.5
+2017-05-20,Angers,Montpellier,2.1,3.5,3.5
+2017-05-20,Napoli,Fiorentina,1.25,6.5,10.0
+2017-05-20,Lille,Nantes,2.5,3.3,2.9
+2017-05-20,Antalyaspor,Bursaspor,1.33,5.0,8.5
+2017-05-20,Besiktas,Kasimpasa,1.14,7.5,17.0
+2017-05-20,Kayserispor,Adanaspor,1.3,4.75,9.0
+2017-05-20,Boavista,Benfica,7.5,4.2,1.45
+2017-05-20,La Coruna,Las Palmas,1.73,4.0,4.5
+2017-05-20,Leganes,Alaves,2.1,3.25,3.75
+2017-05-20,Sevilla,Osasuna,1.14,9.0,17.0
+2017-05-20,Sp Gijon,Betis,2.5,3.4,2.8
+2017-05-20,Chievo,Roma,13.0,6.5,1.22
+2017-05-20,Guingamp,Metz,1.6,4.2,5.5
+2017-05-20,Toulouse,Dijon,2.5,3.4,2.8
+2017-05-20,Rennes,Monaco,3.5,3.6,2.05
+2017-05-20,Paris SG,Caen,1.18,7.5,13.0
+2017-05-20,Nancy,St Etienne,2.05,3.5,3.6
+2017-05-20,Marseille,Bastia,1.29,5.5,11.0
+2017-05-20,Lyon,Nice,1.53,4.75,5.25
+2017-05-20,Lorient,Bordeaux,2.5,3.5,2.75
+2017-05-21,Sandhausen,Hannover,5.25,4.0,1.6
+2017-05-21,Fortuna Dusseldorf,Erzgebirge Aue,3.7,1.7,3.9
+2017-05-21,Dresden,Bielefeld,3.25,3.4,2.15
+2017-05-21,Braunschweig,Karlsruhe,1.33,5.0,9.0
+2017-05-21,Bochum,St Pauli,2.5,3.4,2.7
+2017-05-21,Trabzonspor,Buyuksehyr,2.8,3.4,2.4
+2017-05-21,Stuttgart,Wurzburger Kickers,1.36,5.0,7.5
+2017-05-21,Heidenheim,Munich 1860,3.8,3.6,1.91
+2017-05-21,Kaiserslautern,Nurnberg,1.73,3.6,4.75
+2017-05-21,Konyaspor,Karabukspor,2.1,3.2,3.25
+2017-05-21,Greuther Furth,Union Berlin,2.1,3.4,3.4
+2017-05-21,Burnley,West Ham,2.45,3.5,3.0
+2017-05-21,Moreirense,Porto,4.5,3.75,1.73
+2017-05-21,Celtic,Hearts,1.17,7.0,15.0
+2017-05-21,Partick,Aberdeen,4.33,3.6,1.8
+2017-05-21,St Johnstone,Rangers,3.25,3.3,2.2
+2017-05-21,Estoril,Arouca,2.2,3.25,3.3
+2017-05-21,Udinese,Sampdoria,2.1,3.5,3.5
+2017-05-21,Sassuolo,Cagliari,1.8,3.8,4.33
+2017-05-21,Milan,Bologna,1.36,5.0,8.5
+2017-05-21,Lazio,Inter,2.0,3.5,3.75
+2017-05-21,Genoa,Torino,2.05,3.3,3.8
+2017-05-21,Empoli,Atalanta,2.3,3.4,3.1
+2017-05-21,Ath Madrid,Ath Bilbao,2.0,3.5,3.8
+2017-05-21,Barcelona,Eibar,1.05,15.0,34.0
+2017-05-21,Celta,Sociedad,4.75,3.75,1.75
+2017-05-21,Juventus,Crotone,1.17,7.5,17.0
+2017-05-21,Valencia,Villarreal,3.1,3.4,2.3
+2017-05-21,Arsenal,Everton,1.45,5.0,7.5
+2017-05-21,Chelsea,Sunderland,1.14,9.0,23.0
+2017-05-21,Hull,Tottenham,7.0,4.75,1.5
+2017-05-21,Leicester,Bournemouth,2.0,3.6,4.0
+2017-05-21,Sp Lisbon,Chaves,1.29,5.25,10.0
+2017-05-21,Liverpool,Middlesbrough,1.14,9.0,23.0
+2017-05-21,Man United,Crystal Palace,2.5,3.3,3.1
+2017-05-21,Southampton,Stoke,1.8,3.8,4.75
+2017-05-21,Swansea,West Brom,2.1,3.5,3.75
+2017-05-21,Tondela,Sp Braga,1.67,3.7,5.25
+2017-05-21,Watford,Man City,11.0,6.0,1.3
+2017-05-21,Malaga,Real Madrid,11.0,7.0,1.22
+2017-05-22,Genclerbirligi,Fenerbahce,4.0,3.4,1.91
+2017-05-22,Pescara,Palermo,2.3,3.5,3.0
+2017-05-22,Akhisar Belediyespor,Alanyaspor,1.91,3.4,4.0
+2017-05-27,Atalanta,Chievo,1.29,6.0,9.5
+2017-05-27,Konyaspor,Akhisar Belediyespor,3.4,3.25,2.15
+2017-05-27,Kasimpasa,Antalyaspor,3.25,3.75,2.05
+2017-05-27,Fenerbahce,Trabzonspor,1.8,3.4,4.75
+2017-05-27,Buyuksehyr,Adanaspor,1.2,6.0,15.0
+2017-05-27,Bologna,Juventus,4.5,4.0,1.73
+2017-05-28,Gaziantepspor,Besiktas,16.0,8.0,1.14
+2017-05-28,Bursaspor,Genclerbirligi,1.57,4.2,5.25
+2017-05-28,Osmanlispor,Rizespor,3.0,3.4,2.3
+2017-05-28,Karabukspor,Kayserispor,2.05,3.75,3.2
+2017-05-28,Crotone,Lazio,2.05,4.0,3.25
+2017-05-28,Sampdoria,Napoli,15.0,7.5,1.18
+2017-05-28,Roma,Genoa,1.06,15.0,34.0
+2017-05-28,Palermo,Empoli,6.0,4.33,1.53
+2017-05-28,Inter,Udinese,1.33,5.5,8.5
+2017-05-28,Fiorentina,Pescara,1.14,8.0,19.0
+2017-05-28,Cagliari,Milan,3.5,4.0,1.95
+2017-05-28,Torino,Sassuolo,1.6,4.6,4.75
+2017-05-29,Alanyaspor,Galatasaray,4.75,4.0,1.65
+2017-06-02,Genclerbirligi,Kasimpasa,1.91,3.75,3.6
+2017-06-02,Akhisar Belediyespor,Karabukspor,1.33,5.0,8.5
+2017-06-02,Antalyaspor,Gaziantepspor,1.36,5.0,7.5
+2017-06-03,Rizespor,Alanyaspor,1.29,6.0,8.0
+2017-06-03,Adanaspor,Fenerbahce,8.5,5.5,1.3
+2017-06-03,Besiktas,Osmanlispor,1.22,6.25,11.0
+2017-06-03,Galatasaray,Konyaspor,1.2,7.0,11.0
+2017-06-03,Kayserispor,Buyuksehyr,2.88,3.6,2.3
+2017-06-03,Trabzonspor,Bursaspor,2.9,3.5,2.3

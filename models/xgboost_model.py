@@ -50,6 +50,7 @@ DEFAULT_PARAMS: Dict[str, Any] = {
 # Feature columns expected by the model (in order)
 FEATURE_COLUMNS: List[str] = [
     "elo_diff",
+    "elo_diff_sq",
     "form_home_5f",
     "form_home_5a",
     "form_away_5f",

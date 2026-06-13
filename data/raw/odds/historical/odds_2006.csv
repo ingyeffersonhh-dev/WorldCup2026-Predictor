@@ -1,0 +1,3229 @@
+date,home_team,away_team,odds_h,odds_d,odds_a
+2006-07-28,Club Brugge,Gent,1.5,3.4,6.0
+2006-07-29,Charleroi,Lierse,1.5,3.5,6.0
+2006-07-29,FC Brussels,Bergen,1.5,3.4,6.0
+2006-07-29,Genk,Waregem,1.8,3.0,4.2
+2006-07-29,Germinal,Beveren,2.2,2.8,3.2
+2006-07-29,Mouscron,Cercle Brugge,2.3,2.8,3.0
+2006-07-30,Lokeren,Standard,2.8,3.25,2.2
+2006-07-30,St Truiden,Anderlecht,5.0,3.4,1.61
+2006-07-30,Westerlo,Roeselare,1.8,3.25,4.0
+2006-08-04,Standard,Charleroi,1.44,3.75,6.5
+2006-08-04,Nantes,Lyon,4.2,3.1,1.9
+2006-08-05,Waregem,FC Brussels,1.83,3.25,3.75
+2006-08-05,Bordeaux,Toulouse,1.57,3.3,6.0
+2006-08-05,West Brom,Hull,1.53,3.5,6.0
+2006-08-05,Southend,Stoke,2.3,3.0,3.0
+2006-08-05,Preston,Sheffield Weds,1.72,3.25,4.5
+2006-08-05,Plymouth,Wolves,2.5,3.0,2.7
+2006-08-05,Leeds,Norwich,2.0,3.1,4.0
+2006-08-05,Ipswich,Crystal Palace,2.5,3.1,2.62
+2006-08-05,Burnley,QPR,1.9,3.0,4.0
+2006-08-05,Birmingham,Colchester,1.4,4.0,7.0
+2006-08-05,Barnsley,Cardiff,2.4,3.1,2.75
+2006-08-05,Auxerre,Valenciennes,1.57,3.3,6.0
+2006-08-05,Le Mans,Nice,2.2,3.0,3.2
+2006-08-05,Luton,Leicester,2.5,3.1,2.8
+2006-08-05,Nancy,Monaco,2.6,2.87,2.7
+2006-08-05,Lens,Troyes,1.66,3.25,5.0
+2006-08-05,Gent,Mouscron,1.61,3.4,5.0
+2006-08-05,Cercle Brugge,Lokeren,2.5,3.0,2.62
+2006-08-05,Bergen,St Truiden,2.2,3.2,2.87
+2006-08-05,Anderlecht,Germinal,1.25,5.0,9.0
+2006-08-05,Beveren,Westerlo,2.37,3.2,2.62
+2006-08-05,St Etienne,Sochaux,1.9,3.0,4.0
+2006-08-05,Rennes,Lille,2.25,3.0,3.1
+2006-08-05,Paris SG,Lorient,1.4,3.75,8.0
+2006-08-05,Lierse,Genk,2.87,3.2,2.2
+2006-08-06,Roeselare,Club Brugge,5.0,3.5,1.57
+2006-08-06,Sedan,Marseille,3.25,3.0,2.3
+2006-08-06,Coventry,Sunderland,2.5,3.0,2.87
+2006-08-06,Derby,Southampton,2.5,3.1,2.8
+2006-08-08,Sheffield Weds,Luton,2.3,3.2,2.75
+2006-08-08,Wolves,Ipswich,1.83,3.3,3.75
+2006-08-08,Stoke,Derby,2.3,3.2,2.75
+2006-08-08,QPR,Leeds,2.8,3.25,2.25
+2006-08-08,Cardiff,West Brom,2.4,3.25,2.6
+2006-08-08,Leicester,Burnley,1.8,3.3,4.0
+2006-08-08,Hull,Barnsley,1.83,3.3,3.75
+2006-08-08,Crystal Palace,Southend,1.57,3.5,5.5
+2006-08-08,Colchester,Plymouth,2.25,3.25,2.8
+2006-08-08,Norwich,Preston,2.0,3.2,3.4
+2006-08-09,Southampton,Coventry,1.83,3.3,3.75
+2006-08-09,Sunderland,Birmingham,2.3,3.2,2.75
+2006-08-11,Offenbach,CZ Jena,1.9,3.2,3.5
+2006-08-11,Kaiserslautern,Essen,1.4,4.33,6.0
+2006-08-11,Burghausen,Karlsruhe,2.37,3.2,2.6
+2006-08-11,Wolves,Preston,2.0,3.2,3.75
+2006-08-12,Leicester,Ipswich,2.0,3.1,3.6
+2006-08-12,Lorient,Bordeaux,3.4,2.87,2.3
+2006-08-12,Lyon,Toulouse,1.3,4.5,9.5
+2006-08-12,Monaco,St Etienne,1.8,3.1,5.0
+2006-08-12,Nancy,Sedan,1.9,3.0,3.8
+2006-08-12,Nice,Nantes,2.1,3.0,3.25
+2006-08-12,Sochaux,Auxerre,2.6,2.75,2.75
+2006-08-12,Troyes,Le Mans,2.37,2.87,2.87
+2006-08-12,Valenciennes,Paris SG,3.1,2.9,2.25
+2006-08-12,Hull,Derby,2.37,3.1,3.0
+2006-08-12,Cardiff,Coventry,2.1,3.1,3.3
+2006-08-12,Sheffield Weds,Burnley,2.3,3.2,2.75
+2006-08-12,Sunderland,Plymouth,1.72,3.25,4.5
+2006-08-12,Colchester,Barnsley,2.2,3.2,3.0
+2006-08-12,QPR,Southend,2.1,3.1,3.3
+2006-08-12,Norwich,Luton,1.9,3.2,3.75
+2006-08-12,Stoke,Birmingham,3.2,3.1,2.25
+2006-08-12,Southampton,West Brom,2.25,3.0,3.1
+2006-08-13,Greuther Furth,Munich 1860,2.25,3.2,2.75
+2006-08-13,Lille,Lens,2.1,2.8,4.0
+2006-08-13,Erzgebirge Aue,Unterhaching,2.0,3.2,3.2
+2006-08-13,Crystal Palace,Leeds,2.1,3.2,3.5
+2006-08-13,Freiburg,Hansa Rostock,1.8,3.2,4.0
+2006-08-13,Marseille,Rennes,1.72,3.1,5.5
+2006-08-13,Braunschweig,Paderborn,2.1,3.2,3.0
+2006-08-13,Duisburg,Koblenz,1.44,3.75,6.0
+2006-08-14,Augsburg,FC Koln,3.0,3.25,2.1
+2006-08-18,Sparta,Vitesse,2.37,3.2,2.62
+2006-08-18,CZ Jena,Braunschweig,2.05,3.1,3.3
+2006-08-18,Hansa Rostock,Erzgebirge Aue,1.72,3.25,4.2
+2006-08-18,Munich 1860,Offenbach,1.61,3.4,4.75
+2006-08-18,Coventry,Leicester,2.0,3.2,3.75
+2006-08-19,FC Brussels,St Truiden,1.8,3.4,3.75
+2006-08-19,Club Brugge,Beveren,1.22,5.0,10.0
+2006-08-19,Genk,Standard,2.1,3.25,3.0
+2006-08-19,Germinal,Bergen,1.72,3.3,4.2
+2006-08-19,Waregem,Lierse,1.8,3.25,4.0
+2006-08-19,Charleroi,Cercle Brugge,1.72,3.3,4.2
+2006-08-19,Mouscron,Roeselare,1.9,3.25,3.5
+2006-08-19,Ipswich,Hull,1.83,3.2,4.0
+2006-08-19,Auxerre,Marseille,2.5,2.75,3.2
+2006-08-19,Leeds,Cardiff,1.9,3.25,3.6
+2006-08-19,Luton,Stoke,1.9,3.2,3.75
+2006-08-19,Plymouth,Sheffield Weds,1.72,3.25,4.5
+2006-08-19,Preston,QPR,1.72,3.4,4.33
+2006-08-19,Southend,Sunderland,2.4,3.25,2.62
+2006-08-19,West Brom,Colchester,1.44,4.0,6.0
+2006-08-19,AZ Alkmaar,NAC Breda,1.28,4.5,8.5
+2006-08-19,Den Haag,Heerenveen,2.75,3.25,2.25
+2006-08-19,Excelsior,Roda JC,2.7,3.2,2.3
+2006-08-19,Willem II,Utrecht,2.62,3.2,2.37
+2006-08-19,Burnley,Wolves,2.2,3.2,3.0
+2006-08-19,Birmingham,Crystal Palace,1.9,3.25,3.6
+2006-08-19,St Etienne,Nancy,2.0,2.87,3.75
+2006-08-19,Sedan,Sochaux,2.4,2.75,3.0
+2006-08-19,Rennes,Monaco,2.4,2.75,3.0
+2006-08-19,Paris SG,Lille,2.3,2.8,3.5
+2006-08-19,Barnsley,Southampton,2.75,3.2,2.37
+2006-08-19,Lens,Lorient,1.61,3.2,5.5
+2006-08-19,Le Mans,Valenciennes,1.9,2.75,4.33
+2006-08-19,Derby,Norwich,2.37,3.2,2.7
+2006-08-19,Nantes,Troyes,1.83,3.0,4.33
+2006-08-19,Arsenal,Aston Villa,1.28,4.5,13.0
+2006-08-19,Bolton,Tottenham,2.62,3.2,2.6
+2006-08-19,Everton,Watford,1.66,3.4,5.5
+2006-08-19,Newcastle,Wigan,1.72,3.5,4.75
+2006-08-19,Portsmouth,Blackburn,2.3,3.1,3.1
+2006-08-19,Reading,Middlesbrough,2.5,3.1,2.8
+2006-08-19,Sheffield United,Liverpool,6.0,3.8,1.53
+2006-08-19,West Ham,Charlton,2.0,3.2,3.75
+2006-08-20,Groningen,Feyenoord,3.0,3.25,2.1
+2006-08-20,Koblenz,Greuther Furth,2.62,3.0,2.5
+2006-08-20,Paderborn,Augsburg,1.9,3.2,3.6
+2006-08-20,Unterhaching,Duisburg,2.8,3.2,2.2
+2006-08-20,Bordeaux,Lyon,3.2,2.75,2.5
+2006-08-20,Lokeren,Gent,2.2,3.2,2.87
+2006-08-20,PSV Eindhoven,Nijmegen,1.25,5.0,8.5
+2006-08-20,Westerlo,Anderlecht,4.0,3.25,1.8
+2006-08-20,FC Koln,Burghausen,1.36,4.0,7.0
+2006-08-20,Toulouse,Nice,2.2,2.87,3.6
+2006-08-20,Essen,Freiburg,2.7,3.2,2.3
+2006-08-20,Ajax,Waalwijk,1.22,5.0,10.0
+2006-08-20,Heracles,Twente,2.7,3.2,2.3
+2006-08-20,Chelsea,Man City,1.22,5.5,13.0
+2006-08-20,Man United,Fulham,1.22,5.5,13.0
+2006-08-21,Karlsruhe,Kaiserslautern,2.3,3.2,2.7
+2006-08-22,Tottenham,Sheffield United,1.5,3.75,7.0
+2006-08-22,Watford,West Ham,2.87,3.2,2.4
+2006-08-23,Middlesbrough,Chelsea,8.5,3.75,1.44
+2006-08-23,Aston Villa,Reading,1.9,3.25,4.0
+2006-08-23,Man City,Portsmouth,2.2,3.1,3.1
+2006-08-23,Charlton,Man United,7.5,3.6,1.5
+2006-08-23,Fulham,Bolton,2.4,3.2,2.87
+2006-08-23,Blackburn,Everton,2.3,3.1,3.1
+2006-08-25,Porto,Leiria,1.25,4.75,9.5
+2006-08-25,Offenbach,Karlsruhe,2.62,3.2,2.37
+2006-08-25,Freiburg,Unterhaching,1.57,3.6,5.0
+2006-08-25,QPR,Ipswich,2.2,3.2,3.25
+2006-08-25,Roda JC,Den Haag,1.61,3.4,5.0
+2006-08-25,CZ Jena,FC Koln,3.75,3.25,1.83
+2006-08-26,Vitesse,AZ Alkmaar,3.5,3.25,1.9
+2006-08-26,Waalwijk,Excelsior,1.8,3.3,3.8
+2006-08-26,Heerenveen,Willem II,1.57,3.6,5.0
+2006-08-26,Sp Lisbon,Boavista,1.53,3.5,5.5
+2006-08-26,Sp Braga,Pacos Ferreira,1.57,3.4,5.5
+2006-08-26,Beira Mar,Aves,2.1,3.2,3.1
+2006-08-26,Utrecht,Sparta,1.66,3.4,4.5
+2006-08-26,Standard,Waregem,1.61,3.4,5.0
+2006-08-26,Beveren,Mouscron,2.5,3.2,2.5
+2006-08-26,Cercle Brugge,Genk,2.8,3.2,2.25
+2006-08-26,Lierse,FC Brussels,2.5,3.2,2.5
+2006-08-26,Wolves,Luton,2.0,3.25,3.4
+2006-08-26,Stoke,Plymouth,2.0,3.25,3.4
+2006-08-26,Norwich,Barnsley,1.72,3.25,4.5
+2006-08-26,Leicester,Southend,1.8,3.3,4.0
+2006-08-26,Hull,Coventry,2.37,3.1,2.75
+2006-08-26,Crystal Palace,Burnley,1.66,3.5,4.5
+2006-08-26,Colchester,Derby,2.5,3.1,2.62
+2006-08-26,Cardiff,Birmingham,2.5,3.1,2.62
+2006-08-26,Valencia,Betis,1.57,3.6,6.0
+2006-08-26,Bergen,Westerlo,2.5,3.2,2.5
+2006-08-26,Southampton,Preston,1.8,3.2,4.33
+2006-08-26,St Truiden,Germinal,2.37,3.2,2.62
+2006-08-26,Sochaux,Paris SG,2.75,2.75,2.75
+2006-08-26,Wigan,Reading,1.9,3.25,4.0
+2006-08-26,Watford,Man United,7.5,4.33,1.4
+2006-08-26,Tottenham,Everton,1.72,3.4,5.0
+2006-08-26,Man City,Arsenal,5.5,3.6,1.61
+2006-08-26,Liverpool,West Ham,1.44,4.0,7.5
+2006-08-26,Nice,Lyon,5.0,3.3,1.72
+2006-08-26,Charlton,Bolton,2.5,3.1,2.8
+2006-08-26,Lille,Bordeaux,2.2,2.87,2.8
+2006-08-26,Fulham,Sheffield United,1.9,3.25,4.0
+2006-08-26,Troyes,Toulouse,2.37,2.87,3.0
+2006-08-26,Lorient,Nantes,2.5,2.8,2.87
+2006-08-27,Santander,Ath Madrid,3.1,3.2,2.25
+2006-08-27,Recreativo,Mallorca,2.3,3.25,3.0
+2006-08-27,Real Madrid,Villarreal,1.53,3.8,6.0
+2006-08-27,La Coruna,Zaragoza,2.0,3.2,3.75
+2006-08-27,Espanol,Gimnastic,1.72,3.4,5.0
+2006-08-27,Ath Bilbao,Sociedad,2.0,3.2,3.75
+2006-08-27,Kaiserslautern,Paderborn,1.53,3.5,5.5
+2006-08-27,Greuther Furth,Hansa Rostock,2.2,3.25,2.8
+2006-08-27,Duisburg,Erzgebirge Aue,1.57,3.6,5.0
+2006-08-27,Braunschweig,Koblenz,1.9,3.25,3.5
+2006-08-27,Augsburg,Essen,2.0,3.25,3.25
+2006-08-27,Marseille,Le Mans,1.61,3.25,5.0
+2006-08-27,Monaco,Sedan,1.61,3.25,5.5
+2006-08-27,Osasuna,Getafe,1.83,3.3,4.33
+2006-08-27,Nijmegen,Groningen,2.5,3.2,2.5
+2006-08-27,Anderlecht,Club Brugge,1.9,3.2,3.4
+2006-08-27,Gent,Charleroi,1.83,3.25,3.75
+2006-08-27,Roeselare,Lokeren,2.3,3.2,2.7
+2006-08-27,Naval,Est Amadora,2.25,3.2,2.8
+2006-08-27,Maritimo,Nacional,2.3,3.2,2.7
+2006-08-27,Nancy,Auxerre,2.2,2.8,2.87
+2006-08-27,Sheffield Weds,Leeds,2.5,3.25,2.7
+2006-08-27,Twente,PSV Eindhoven,5.0,3.4,1.61
+2006-08-27,St Etienne,Lens,2.2,2.87,3.6
+2006-08-27,Aston Villa,Newcastle,2.37,3.1,3.0
+2006-08-27,Blackburn,Chelsea,6.5,3.6,1.53
+2006-08-27,Feyenoord,Heracles,1.33,4.33,7.5
+2006-08-27,NAC Breda,Ajax,5.0,3.75,1.53
+2006-08-27,Valenciennes,Rennes,2.6,2.87,2.87
+2006-08-28,Sunderland,West Brom,2.88,3.2,2.4
+2006-08-28,Middlesbrough,Portsmouth,2.0,3.2,3.75
+2006-08-28,Burghausen,Munich 1860,4.0,3.25,1.91
+2006-08-28,Setubal,Academica,1.72,3.3,4.2
+2006-08-28,Celta,Barcelona,5.5,3.4,1.67
+2006-08-29,Sevilla,Levante,1.44,4.0,7.5
+2006-09-08,Aves,Sp Braga,2.5,3.25,2.1
+2006-09-08,Twente,Roda JC,2.1,3.25,3.0
+2006-09-08,Den Haag,NAC Breda,2.1,3.25,3.0
+2006-09-09,Barcelona,Osasuna,1.28,5.0,10.0
+2006-09-09,Chelsea,Charlton,1.2,5.5,17.0
+2006-09-09,Bolton,Watford,1.66,3.4,5.5
+2006-09-09,Arsenal,Middlesbrough,1.33,4.33,10.0
+2006-09-09,FC Brussels,Germinal,1.9,3.25,3.5
+2006-09-09,Lens,Valenciennes,1.66,3.2,5.0
+2006-09-09,Lyon,Troyes,1.25,5.0,9.0
+2006-09-09,Nantes,Lille,2.7,2.87,2.5
+2006-09-09,Rennes,Sochaux,2.1,3.0,3.25
+2006-09-09,Sedan,St Etienne,2.4,2.87,2.87
+2006-09-09,Ipswich,Southampton,2.5,3.25,2.5
+2006-09-09,Club Brugge,Bergen,1.16,5.5,13.0
+2006-09-09,Charleroi,Roeselare,1.8,3.25,4.0
+2006-09-09,Everton,Liverpool,3.75,3.2,2.0
+2006-09-09,Man United,Tottenham,1.5,3.75,7.0
+2006-09-09,Portsmouth,Wigan,1.83,3.25,4.5
+2006-09-09,Sheffield United,Blackburn,2.62,3.2,2.62
+2006-09-09,Le Mans,Lorient,1.83,3.0,4.2
+2006-09-09,Derby,Sunderland,2.4,3.1,2.75
+2006-09-09,Coventry,Norwich,2.3,3.25,2.75
+2006-09-09,Burnley,Colchester,1.72,3.4,4.33
+2006-09-09,Birmingham,Hull,1.5,3.4,7.0
+2006-09-09,Barnsley,Stoke,2.25,3.25,2.8
+2006-09-09,Lierse,Standard,4.2,3.4,1.72
+2006-09-09,Mouscron,Anderlecht,4.2,3.4,1.72
+2006-09-09,Bordeaux,Nice,1.61,3.25,6.5
+2006-09-09,Auxerre,Monaco,2.25,2.8,3.2
+2006-09-09,Waregem,Cercle Brugge,1.72,3.25,4.33
+2006-09-09,Westerlo,St Truiden,1.66,3.4,4.5
+2006-09-09,Ath Madrid,Valencia,2.4,3.2,2.87
+2006-09-09,Newcastle,Fulham,1.72,3.4,5.0
+2006-09-09,Plymouth,QPR,1.9,3.2,3.75
+2006-09-09,Nacional,Sp Lisbon,3.0,3.25,2.1
+2006-09-09,Willem II,PSV Eindhoven,6.5,3.75,1.44
+2006-09-09,Excelsior,Heerenveen,3.75,3.25,1.83
+2006-09-09,Fiorentina,Inter,3.25,3.0,2.3
+2006-09-09,Boavista,Benfica,2.8,3.1,2.3
+2006-09-09,Southend,Sheffield Weds,2.0,3.2,3.5
+2006-09-09,Preston,Cardiff,2.25,3.25,2.8
+2006-09-09,Roma,Livorno,1.44,3.75,8.5
+2006-09-09,Luton,Crystal Palace,2.37,3.2,2.7
+2006-09-09,West Brom,Leicester,1.72,3.4,4.33
+2006-09-10,Lokeren,Beveren,1.61,3.4,5.0
+2006-09-10,Gimnastic,Celta,2.6,3.2,2.62
+2006-09-10,Levante,Real Madrid,7.0,3.75,1.5
+2006-09-10,Mallorca,La Coruna,2.5,3.1,2.8
+2006-09-10,Sociedad,Sevilla,3.1,3.1,2.3
+2006-09-10,Villarreal,Recreativo,1.5,3.75,7.0
+2006-09-10,Zaragoza,Espanol,1.72,3.3,5.0
+2006-09-10,Utrecht,Waalwijk,1.66,3.4,4.5
+2006-09-10,Sparta,Feyenoord,4.2,3.4,1.72
+2006-09-10,Nijmegen,AZ Alkmaar,4.5,3.4,1.66
+2006-09-10,Groningen,Heracles,1.53,3.5,5.5
+2006-09-10,Ajax,Vitesse,1.25,5.0,9.0
+2006-09-10,Torino,Parma,2.0,3.2,3.75
+2006-09-10,Sampdoria,Empoli,1.57,3.4,7.0
+2006-09-10,Palermo,Reggina,1.44,3.75,8.5
+2006-09-10,Milan,Lazio,1.44,3.75,8.5
+2006-09-10,Messina,Udinese,2.8,3.0,2.6
+2006-09-10,Chievo,Siena,1.72,3.1,5.5
+2006-09-10,Cagliari,Catania,1.72,3.1,5.5
+2006-09-10,Atalanta,Ascoli,1.83,3.0,5.0
+2006-09-10,Genk,Gent,1.66,3.4,4.5
+2006-09-10,Betis,Ath Bilbao,2.0,3.3,3.6
+2006-09-10,Getafe,Santander,1.83,3.3,4.33
+2006-09-10,Academica,Naval,2.0,3.25,3.25
+2006-09-10,Toulouse,Nancy,2.2,2.87,3.6
+2006-09-10,Est Amadora,Porto,5.0,3.4,1.61
+2006-09-10,Pacos Ferreira,Maritimo,2.2,3.1,3.0
+2006-09-10,Paris SG,Marseille,2.37,2.87,3.25
+2006-09-10,West Ham,Aston Villa,2.1,3.2,3.5
+2006-09-10,Leeds,Wolves,2.1,3.2,3.5
+2006-09-10,Belenenses,Setubal,2.2,3.2,2.87
+2006-09-11,Reading,Man City,2.3,3.1,3.1
+2006-09-11,Leiria,Beira Mar,1.72,3.3,4.2
+2006-09-12,Sheffield Weds,Stoke,2.2,3.2,3.0
+2006-09-12,Plymouth,Cardiff,2.37,3.2,2.7
+2006-09-12,Preston,West Brom,2.6,3.1,2.5
+2006-09-12,QPR,Birmingham,2.87,3.25,2.2
+2006-09-12,Burnley,Barnsley,1.9,3.25,3.6
+2006-09-12,Luton,Colchester,1.72,3.4,4.33
+2006-09-12,Leicester,Hull,1.66,3.5,4.5
+2006-09-12,Southend,Norwich,2.4,3.25,2.6
+2006-09-12,Ipswich,Coventry,2.2,3.2,3.0
+2006-09-12,Crystal Palace,Southampton,2.2,3.0,3.2
+2006-09-12,Wolves,Derby,1.8,3.2,4.33
+2006-09-13,Leeds,Sunderland,2.2,3.2,3.0
+2006-09-15,Unterhaching,Augsburg,2.0,3.2,3.2
+2006-09-15,FC Koln,Braunschweig,1.36,3.9,7.5
+2006-09-15,Essen,CZ Jena,2.1,3.2,3.0
+2006-09-15,Waalwijk,Den Haag,1.9,3.25,3.5
+2006-09-15,Hull,Sheffield Weds,2.2,3.2,3.0
+2006-09-16,Sp Lisbon,Pacos Ferreira,1.28,4.5,9.0
+2006-09-16,Anderlecht,Lokeren,1.33,4.33,7.5
+2006-09-16,Troyes,Nice,2.25,2.8,3.2
+2006-09-16,Beveren,Charleroi,2.5,3.2,2.5
+2006-09-16,Cercle Brugge,Lierse,1.8,3.25,4.0
+2006-09-16,Germinal,Westerlo,2.1,3.2,3.1
+2006-09-16,Sedan,Le Mans,2.3,2.8,3.1
+2006-09-16,Valenciennes,Nantes,2.25,2.75,3.25
+2006-09-16,Bergen,Mouscron,2.25,3.2,2.8
+2006-09-16,Bolton,Middlesbrough,2.0,3.2,3.75
+2006-09-16,Sheffield United,Reading,2.5,3.1,2.8
+2006-09-16,Charlton,Portsmouth,2.3,3.25,3.0
+2006-09-16,Barnsley,Wolves,2.7,3.2,2.37
+2006-09-16,Birmingham,Ipswich,1.61,3.3,5.5
+2006-09-16,Cardiff,Luton,1.8,3.4,4.0
+2006-09-16,Colchester,QPR,2.2,3.2,3.0
+2006-09-16,Coventry,Leeds,2.1,3.2,3.2
+2006-09-16,Derby,Preston,2.25,3.25,2.8
+2006-09-16,Norwich,Crystal Palace,2.1,3.2,3.2
+2006-09-16,Southampton,Plymouth,1.72,3.25,4.5
+2006-09-16,Stoke,Burnley,2.2,3.2,3.0
+2006-09-16,Sunderland,Leicester,1.61,3.5,5.0
+2006-09-16,West Brom,Southend,1.53,3.75,5.5
+2006-09-16,Reggina,Cagliari,2.25,3.1,3.2
+2006-09-16,Inter,Sampdoria,1.28,4.75,11.0
+2006-09-16,Lorient,Lyon,6.0,3.2,1.57
+2006-09-16,Lille,Toulouse,1.57,3.25,6.0
+2006-09-16,Vitesse,NAC Breda,1.9,3.25,3.5
+2006-09-16,Heracles,Utrecht,2.5,3.2,2.5
+2006-09-16,Excelsior,Willem II,2.0,3.25,3.25
+2006-09-16,Watford,Aston Villa,2.75,3.2,2.5
+2006-09-16,Everton,Wigan,1.72,3.4,5.0
+2006-09-16,La Coruna,Villarreal,2.3,3.25,3.0
+2006-09-17,Lazio,Palermo,2.0,3.1,3.8
+2006-09-17,Livorno,Fiorentina,3.25,3.0,2.3
+2006-09-17,Zaragoza,Mallorca,1.66,3.6,5.0
+2006-09-17,Siena,Roma,4.0,3.25,1.9
+2006-09-17,Sparta,Groningen,2.62,3.2,2.37
+2006-09-17,Roda JC,Ajax,3.75,3.25,1.83
+2006-09-17,PSV Eindhoven,Feyenoord,1.66,3.4,4.5
+2006-09-17,Heerenveen,Nijmegen,1.66,3.4,4.5
+2006-09-17,AZ Alkmaar,Twente,1.28,4.5,8.5
+2006-09-17,Ath Bilbao,Ath Madrid,2.7,3.25,2.5
+2006-09-17,Espanol,Celta,2.4,3.2,2.87
+2006-09-17,Osasuna,Gimnastic,1.72,3.6,4.5
+2006-09-17,Real Madrid,Sociedad,1.28,5.0,10.0
+2006-09-17,Parma,Milan,6.0,3.8,1.53
+2006-09-17,Recreativo,Levante,2.0,3.2,3.75
+2006-09-17,Sevilla,Betis,1.66,3.6,5.0
+2006-09-17,Valencia,Getafe,1.44,4.0,7.5
+2006-09-17,Paderborn,Offenbach,1.9,3.2,3.5
+2006-09-17,Munich 1860,Freiburg,1.9,3.2,3.5
+2006-09-17,Koblenz,Burghausen,1.72,3.25,4.2
+2006-09-17,Karlsruhe,Duisburg,2.3,3.2,2.7
+2006-09-17,Erzgebirge Aue,Greuther Furth,2.25,3.2,2.75
+2006-09-17,Empoli,Chievo,2.2,3.0,3.4
+2006-09-17,Udinese,Torino,2.0,3.1,4.0
+2006-09-17,Santander,Barcelona,7.5,4.33,1.4
+2006-09-17,Ascoli,Messina,2.25,3.0,3.3
+2006-09-17,Catania,Atalanta,2.25,3.0,3.3
+2006-09-17,Sochaux,Lens,2.37,2.87,2.87
+2006-09-17,West Ham,Newcastle,2.1,3.2,3.5
+2006-09-17,Tottenham,Fulham,1.61,3.4,6.0
+2006-09-17,Man United,Arsenal,1.9,3.25,4.0
+2006-09-17,Chelsea,Liverpool,1.83,3.25,4.5
+2006-09-17,Blackburn,Man City,2.0,3.2,3.75
+2006-09-17,Academica,Belenenses,2.25,3.2,2.8
+2006-09-17,Beira Mar,Est Amadora,2.2,3.2,2.87
+2006-09-17,Benfica,Nacional,1.4,4.0,6.5
+2006-09-17,Maritimo,Aves,1.61,3.4,5.0
+2006-09-17,Naval,Porto,5.5,3.4,1.57
+2006-09-17,St Etienne,Auxerre,2.1,2.8,3.5
+2006-09-17,Nancy,Rennes,2.1,2.75,3.6
+2006-09-17,Standard,FC Brussels,1.61,3.4,5.0
+2006-09-17,Monaco,Paris SG,2.25,2.8,3.2
+2006-09-17,Roeselare,Genk,3.1,3.2,2.1
+2006-09-17,Gent,Waregem,1.8,3.25,4.0
+2006-09-17,Marseille,Bordeaux,1.9,2.9,4.0
+2006-09-17,St Truiden,Club Brugge,4.0,3.25,1.8
+2006-09-18,Hansa Rostock,Kaiserslautern,2.25,3.25,2.7
+2006-09-18,Sp Braga,Leiria,1.53,3.5,5.5
+2006-09-19,Setubal,Boavista,2.7,3.2,2.3
+2006-09-20,Torino,Siena,2.0,3.0,4.0
+2006-09-20,Liverpool,Newcastle,1.53,3.6,6.5
+2006-09-20,Atalanta,Empoli,2.0,3.0,4.0
+2006-09-20,Cagliari,Livorno,2.25,2.87,3.5
+2006-09-20,Chievo,Lazio,2.5,2.87,3.0
+2006-09-20,Messina,Reggina,2.1,3.0,3.75
+2006-09-20,Milan,Ascoli,1.16,6.0,19.0
+2006-09-20,Palermo,Catania,1.57,3.4,7.0
+2006-09-20,Roma,Inter,2.6,2.87,2.87
+2006-09-20,Sampdoria,Udinese,2.1,3.0,3.75
+2006-09-20,Fiorentina,Parma,1.5,3.75,7.0
+2006-09-22,NAC Breda,Willem II,1.83,3.25,3.75
+2006-09-22,Kaiserslautern,Koblenz,1.53,3.75,5.0
+2006-09-22,Preston,Barnsley,1.72,3.4,5.0
+2006-09-22,Freiburg,Greuther Furth,1.9,3.25,3.5
+2006-09-22,Braunschweig,Karlsruhe,2.7,3.2,2.3
+2006-09-22,Pacos Ferreira,Benfica,3.25,3.25,2.0
+2006-09-22,Porto,Beira Mar,1.22,5.5,9.0
+2006-09-22,Charleroi,Anderlecht,4.0,3.5,1.72
+2006-09-23,Auxerre,Sedan,1.61,3.4,5.0
+2006-09-23,Aves,Sp Lisbon,4.2,3.4,1.72
+2006-09-23,Belenenses,Naval,2.1,3.1,3.1
+2006-09-23,Est Amadora,Sp Braga,3.0,3.25,2.1
+2006-09-23,Aston Villa,Charlton,1.8,3.4,4.33
+2006-09-23,QPR,Hull,2.37,3.1,2.75
+2006-09-23,Plymouth,Norwich,2.5,3.25,2.5
+2006-09-23,Luton,West Brom,2.62,3.25,2.4
+2006-09-23,Leicester,Colchester,1.8,3.3,4.0
+2006-09-23,Leeds,Birmingham,2.7,3.2,2.37
+2006-09-23,Ipswich,Sunderland,2.5,3.25,2.5
+2006-09-23,Crystal Palace,Coventry,2.0,3.25,3.4
+2006-09-23,Bordeaux,Troyes,1.5,3.5,6.0
+2006-09-23,Wolves,Stoke,1.83,3.4,3.75
+2006-09-23,Le Mans,Sochaux,2.05,2.8,3.75
+2006-09-23,Nice,Valenciennes,2.1,2.8,3.5
+2006-09-23,Fulham,Chelsea,7.5,4.33,1.4
+2006-09-23,Liverpool,Tottenham,1.61,3.75,5.25
+2006-09-23,Man City,West Ham,2.25,3.2,3.1
+2006-09-23,Middlesbrough,Blackburn,2.1,3.1,3.5
+2006-09-23,Reading,Man United,7.0,3.75,1.5
+2006-09-23,Wigan,Watford,1.83,3.3,4.33
+2006-09-23,Lyon,Lille,1.53,3.4,6.0
+2006-09-23,Vitesse,Heracles,1.83,3.25,3.75
+2006-09-23,Den Haag,PSV Eindhoven,7.0,4.33,1.33
+2006-09-23,Arsenal,Sheffield United,1.2,5.5,17.0
+2006-09-23,Burnley,Southampton,2.5,3.25,2.5
+2006-09-23,Toulouse,Lorient,1.9,2.9,4.0
+2006-09-23,Rennes,St Etienne,2.15,2.87,3.4
+2006-09-23,Paris SG,Nancy,1.72,3.1,4.5
+2006-09-23,Twente,Sparta,1.57,3.6,5.0
+2006-09-23,Betis,Real Madrid,3.75,3.2,2.0
+2006-09-23,Sheffield Weds,Derby,2.3,3.25,2.75
+2006-09-23,Genk,Beveren,1.33,4.0,8.0
+2006-09-23,Lierse,Gent,2.62,3.2,2.37
+2006-09-23,Standard,Cercle Brugge,1.4,3.75,7.0
+2006-09-23,FC Brussels,Westerlo,2.2,3.25,2.8
+2006-09-23,Club Brugge,Germinal,1.33,4.33,7.5
+2006-09-23,Lokeren,Bergen,1.66,3.4,4.5
+2006-09-23,Mouscron,St Truiden,1.83,3.25,3.75
+2006-09-23,Livorno,Milan,6.0,3.4,1.61
+2006-09-23,Catania,Messina,2.3,2.87,3.4
+2006-09-24,Ath Madrid,Sevilla,2.3,3.25,3.0
+2006-09-24,Newcastle,Everton,2.2,3.2,3.25
+2006-09-24,Burghausen,Erzgebirge Aue,2.1,3.25,3.0
+2006-09-24,Augsburg,Hansa Rostock,2.5,3.2,2.5
+2006-09-24,Waregem,Roeselare,1.9,3.25,3.5
+2006-09-24,Utrecht,Heerenveen,2.3,3.2,2.7
+2006-09-24,Roda JC,AZ Alkmaar,2.75,3.25,2.25
+2006-09-24,Offenbach,Unterhaching,1.95,3.1,3.5
+2006-09-24,CZ Jena,Paderborn,2.0,3.25,3.25
+2006-09-24,Barcelona,Valencia,1.53,4.0,5.5
+2006-09-24,Getafe,Ath Bilbao,1.9,3.25,4.0
+2006-09-24,Gimnastic,Santander,2.25,3.2,3.1
+2006-09-24,Boavista,Academica,1.57,3.4,5.5
+2006-09-24,Nacional,Setubal,1.83,3.25,3.75
+2006-09-24,Southend,Cardiff,2.75,3.2,2.5
+2006-09-24,Levante,La Coruna,2.9,3.2,2.37
+2006-09-24,Mallorca,Espanol,2.1,3.2,3.5
+2006-09-24,Sociedad,Recreativo,1.9,3.25,4.0
+2006-09-24,Villarreal,Zaragoza,2.0,3.2,3.75
+2006-09-24,Groningen,Waalwijk,1.5,3.75,5.5
+2006-09-24,Feyenoord,Excelsior,1.28,4.5,9.0
+2006-09-24,Duisburg,Munich 1860,1.9,3.25,3.5
+2006-09-24,Nantes,Marseille,4.0,2.8,2.1
+2006-09-24,Ajax,Nijmegen,1.2,5.5,10.0
+2006-09-24,Parma,Roma,4.0,3.1,2.0
+2006-09-24,Reggina,Torino,2.2,3.1,3.4
+2006-09-24,Lens,Monaco,2.1,2.8,4.0
+2006-09-24,Siena,Cagliari,2.05,3.1,3.75
+2006-09-24,Lazio,Atalanta,1.7,3.25,4.5
+2006-09-24,Udinese,Fiorentina,2.37,2.9,3.2
+2006-09-24,Inter,Chievo,1.22,5.5,13.0
+2006-09-24,Ascoli,Sampdoria,2.37,2.87,2.87
+2006-09-24,Celta,Osasuna,1.9,3.25,4.0
+2006-09-24,Empoli,Palermo,3.1,3.0,2.4
+2006-09-25,Portsmouth,Bolton,1.9,3.25,4.0
+2006-09-25,FC Koln,Essen,1.36,4.33,8.5
+2006-09-25,Leiria,Maritimo,2.1,3.25,3.0
+2006-09-29,Nijmegen,Heracles,1.9,3.25,3.5
+2006-09-29,Naval,Beira Mar,2.0,3.1,3.4
+2006-09-29,Unterhaching,Kaiserslautern,2.9,3.25,2.15
+2006-09-29,Colchester,Ipswich,2.75,3.2,2.5
+2006-09-29,Paderborn,FC Koln,3.2,3.25,2.0
+2006-09-29,Koblenz,Offenbach,2.0,3.25,3.3
+2006-09-30,Torino,Lazio,2.5,2.87,3.0
+2006-09-30,Charlton,Arsenal,6.5,3.6,1.53
+2006-09-30,Monaco,Le Mans,1.9,3.0,3.8
+2006-09-30,Sochaux,Lyon,5.5,3.2,1.61
+2006-09-30,Anderlecht,Genk,1.65,3.4,4.75
+2006-09-30,Bergen,Charleroi,2.3,3.2,2.7
+2006-09-30,Lorient,Troyes,2.0,2.75,4.0
+2006-09-30,Sedan,Rennes,2.25,2.8,3.2
+2006-09-30,Derby,Southend,1.8,3.4,4.0
+2006-09-30,Coventry,Plymouth,1.8,3.3,4.0
+2006-09-30,Cardiff,Wolves,1.8,3.4,4.0
+2006-09-30,Birmingham,Leicester,1.66,3.4,5.0
+2006-09-30,Barnsley,Luton,2.3,3.25,2.8
+2006-09-30,Belenenses,Boavista,2.7,3.1,2.37
+2006-09-30,Ath Bilbao,Barcelona,6.0,4.0,1.5
+2006-09-30,Atalanta,Reggina,1.9,3.1,4.33
+2006-09-30,Hull,Crystal Palace,2.75,3.2,2.37
+2006-09-30,Stoke,Preston,2.5,3.1,2.6
+2006-09-30,Sunderland,Sheffield Weds,1.66,3.4,5.0
+2006-09-30,Chelsea,Aston Villa,1.3,5.0,8.5
+2006-09-30,Everton,Man City,1.83,3.3,4.33
+2006-09-30,Sheffield United,Middlesbrough,2.6,3.25,2.6
+2006-09-30,Excelsior,Sparta,2.05,3.25,3.1
+2006-09-30,Twente,Waalwijk,1.65,3.25,5.25
+2006-09-30,Willem II,Roda JC,2.7,3.2,2.37
+2006-09-30,Southampton,QPR,1.44,3.75,7.0
+2006-09-30,Valenciennes,Bordeaux,2.87,2.87,2.37
+2006-09-30,Bolton,Liverpool,3.75,3.2,2.0
+2006-09-30,Lille,Nice,1.5,3.5,5.75
+2006-09-30,West Brom,Leeds,1.9,3.25,3.75
+2006-09-30,Cercle Brugge,FC Brussels,2.25,3.25,2.8
+2006-09-30,Germinal,Mouscron,1.85,3.25,3.75
+2006-09-30,Roeselare,Lierse,1.7,3.4,4.33
+2006-09-30,St Truiden,Lokeren,2.3,3.2,2.7
+2006-10-01,Udinese,Ascoli,1.57,3.4,7.0
+2006-10-01,Sampdoria,Parma,1.8,3.2,4.75
+2006-10-01,Roma,Empoli,1.36,4.33,9.0
+2006-10-01,Norwich,Burnley,1.9,3.25,4.0
+2006-10-01,Recreativo,Betis,2.5,3.2,2.75
+2006-10-01,Fiorentina,Catania,1.4,4.0,9.0
+2006-10-01,Chievo,Palermo,2.75,2.87,2.75
+2006-10-01,Groningen,Vitesse,1.8,3.4,3.8
+2006-10-01,Heerenveen,PSV Eindhoven,4.0,3.25,1.8
+2006-10-01,Utrecht,Ajax,4.0,3.25,1.8
+2006-10-01,Milan,Siena,1.22,5.5,13.0
+2006-10-01,Cagliari,Inter,6.0,3.4,1.61
+2006-10-01,St Etienne,Paris SG,2.37,2.75,3.4
+2006-10-01,Nancy,Lens,2.37,2.87,3.25
+2006-10-01,Marseille,Toulouse,1.57,3.4,5.5
+2006-10-01,Auxerre,Nantes,1.8,3.0,4.33
+2006-10-01,Messina,Livorno,2.3,2.87,3.4
+2006-10-01,Feyenoord,NAC Breda,1.3,4.0,10.0
+2006-10-01,AZ Alkmaar,Den Haag,1.16,6.0,11.0
+2006-10-01,Real Madrid,Ath Madrid,1.66,3.6,5.0
+2006-10-01,Westerlo,Club Brugge,3.4,3.25,1.95
+2006-10-01,Sevilla,Getafe,1.57,3.6,6.0
+2006-10-01,Santander,Celta,2.5,3.2,2.75
+2006-10-01,Mallorca,Villarreal,2.5,3.2,2.5
+2006-10-01,Espanol,Osasuna,2.37,3.25,2.87
+2006-10-01,West Ham,Reading,1.9,3.25,4.0
+2006-10-01,Tottenham,Portsmouth,1.8,3.25,4.5
+2006-10-01,Man United,Newcastle,1.3,4.33,13.0
+2006-10-01,Beveren,Waregem,2.37,3.2,2.62
+2006-10-01,Gent,Standard,2.6,3.2,2.45
+2006-10-01,Blackburn,Wigan,1.9,3.25,4.0
+2006-10-01,Erzgebirge Aue,Freiburg,2.4,3.2,2.6
+2006-10-01,Essen,Braunschweig,2.0,3.25,3.3
+2006-10-01,Greuther Furth,Burghausen,1.57,3.6,4.75
+2006-10-01,Karlsruhe,Augsburg,1.57,3.6,4.75
+2006-10-01,Munich 1860,CZ Jena,1.65,3.5,4.5
+2006-10-01,Valencia,Gimnastic,1.25,5.0,12.0
+2006-10-01,Zaragoza,Levante,1.61,3.6,5.5
+2006-10-01,La Coruna,Sociedad,1.57,3.6,6.0
+2006-10-01,Maritimo,Est Amadora,1.72,3.25,4.33
+2006-10-01,Academica,Nacional,2.37,3.2,2.62
+2006-10-01,Benfica,Aves,1.25,5.0,9.0
+2006-10-02,Setubal,Pacos Ferreira,2.2,3.2,2.87
+2006-10-02,Sp Braga,Porto,3.2,3.1,2.1
+2006-10-02,Sp Lisbon,Leiria,1.36,4.0,7.5
+2006-10-02,Watford,Fulham,2.4,3.2,2.87
+2006-10-02,Hansa Rostock,Duisburg,2.37,3.2,2.62
+2006-10-13,Southend,Coventry,2.3,3.25,2.75
+2006-10-13,Braunschweig,Munich 1860,3.4,3.2,2.15
+2006-10-13,Beira Mar,Sp Braga,3.4,3.0,2.05
+2006-10-13,Den Haag,Twente,3.0,3.2,2.15
+2006-10-13,Augsburg,Greuther Furth,2.87,3.2,2.4
+2006-10-13,Duisburg,Freiburg,1.83,3.4,4.33
+2006-10-14,NAC Breda,Nijmegen,2.1,3.2,3.0
+2006-10-14,Vitesse,Willem II,1.65,3.4,4.5
+2006-10-14,Ajax,Groningen,1.36,3.6,8.0
+2006-10-14,Sparta,AZ Alkmaar,7.0,4.33,1.33
+2006-10-14,Getafe,Real Madrid,4.5,3.3,1.8
+2006-10-14,Lierse,Beveren,2.25,3.2,2.8
+2006-10-14,Lokeren,Germinal,2.3,3.2,2.87
+2006-10-14,Mouscron,Westerlo,2.15,3.2,2.9
+2006-10-14,Standard,Roeselare,1.4,3.75,7.0
+2006-10-14,Waregem,Anderlecht,4.2,3.25,1.72
+2006-10-14,Middlesbrough,Everton,2.6,3.1,2.7
+2006-10-14,Man City,Sheffield United,1.66,3.6,5.0
+2006-10-14,Liverpool,Blackburn,1.44,4.0,7.5
+2006-10-14,Aston Villa,Tottenham,2.25,3.1,3.2
+2006-10-14,Arsenal,Watford,1.16,6.5,15.0
+2006-10-14,Ath Madrid,Recreativo,1.44,4.0,7.5
+2006-10-14,Charleroi,St Truiden,1.75,3.25,4.0
+2006-10-14,Portsmouth,West Ham,2.0,3.2,3.75
+2006-10-14,Cercle Brugge,Gent,2.6,3.2,2.3
+2006-10-14,Leiria,Benfica,3.4,3.2,1.95
+2006-10-14,Reading,Chelsea,7.5,4.33,1.4
+2006-10-14,Toulouse,Valenciennes,1.83,2.87,4.5
+2006-10-14,Rennes,Auxerre,2.2,2.9,3.1
+2006-10-14,Paris SG,Sedan,1.55,3.4,5.75
+2006-10-14,Nice,Lorient,1.95,2.9,3.8
+2006-10-14,Nantes,Sochaux,2.0,2.75,4.0
+2006-10-14,Lyon,St Etienne,1.3,4.5,12.0
+2006-10-14,Bordeaux,Monaco,1.9,2.9,4.0
+2006-10-14,Troyes,Lille,2.87,2.87,2.45
+2006-10-14,Porto,Maritimo,1.28,4.33,9.5
+2006-10-14,Siena,Messina,2.0,2.87,4.33
+2006-10-14,Burnley,Hull,1.66,3.5,4.5
+2006-10-14,Crystal Palace,Cardiff,2.3,3.1,2.87
+2006-10-14,Ipswich,West Brom,2.4,3.25,2.62
+2006-10-14,Leeds,Stoke,1.95,3.3,3.5
+2006-10-14,Leicester,Southampton,2.62,3.1,2.5
+2006-10-14,Luton,Birmingham,2.75,3.1,2.4
+2006-10-14,Preston,Sunderland,2.2,3.2,3.0
+2006-10-14,QPR,Norwich,2.2,3.2,3.0
+2006-10-14,Sheffield Weds,Barnsley,2.2,3.2,3.0
+2006-10-14,Wolves,Colchester,1.72,3.4,4.33
+2006-10-14,Sampdoria,Milan,4.75,3.2,1.8
+2006-10-14,Wigan,Man United,6.0,3.8,1.53
+2006-10-15,Villarreal,Espanol,1.57,3.6,6.0
+2006-10-15,Sociedad,Zaragoza,2.6,3.2,2.62
+2006-10-15,Nacional,Belenenses,1.8,3.5,3.6
+2006-10-15,Burghausen,Hansa Rostock,2.8,3.2,2.25
+2006-10-15,Levante,Mallorca,2.25,3.2,3.1
+2006-10-15,Newcastle,Bolton,2.25,3.2,3.1
+2006-10-15,Torino,Chievo,2.3,2.87,3.4
+2006-10-15,Reggina,Roma,5.0,3.4,1.72
+2006-10-15,Parma,Udinese,2.87,2.87,2.6
+2006-10-15,Palermo,Atalanta,1.57,3.6,6.0
+2006-10-15,Lazio,Cagliari,1.61,3.4,6.0
+2006-10-15,Inter,Catania,1.2,5.5,17.0
+2006-10-15,Empoli,Fiorentina,3.2,2.87,2.4
+2006-10-15,Ascoli,Livorno,2.5,2.8,3.1
+2006-10-15,Le Mans,Nancy,2.3,2.87,3.5
+2006-10-15,CZ Jena,Unterhaching,2.05,3.2,3.2
+2006-10-15,Kaiserslautern,Erzgebirge Aue,1.53,3.4,6.0
+2006-10-15,Offenbach,Essen,2.0,3.2,3.4
+2006-10-15,FC Brussels,Club Brugge,4.33,3.25,1.7
+2006-10-15,Genk,Bergen,1.3,3.75,11.0
+2006-10-15,Barcelona,Sevilla,1.57,3.6,6.0
+2006-10-15,Betis,La Coruna,2.4,3.2,2.87
+2006-10-15,Celta,Valencia,3.75,3.2,2.0
+2006-10-15,Gimnastic,Ath Bilbao,2.37,3.2,2.9
+2006-10-15,Osasuna,Santander,1.8,3.3,4.5
+2006-10-15,Lens,Marseille,2.3,2.8,3.5
+2006-10-15,Paderborn,Koblenz,1.8,3.2,4.2
+2006-10-15,Waalwijk,Feyenoord,4.5,3.2,1.72
+2006-10-15,PSV Eindhoven,Roda JC,1.4,4.0,7.5
+2006-10-15,Plymouth,Derby,2.37,3.1,3.0
+2006-10-15,Heracles,Heerenveen,3.1,3.1,2.1
+2006-10-15,Excelsior,Utrecht,2.4,3.2,2.62
+2006-10-15,Est Amadora,Sp Lisbon,5.75,3.5,1.53
+2006-10-15,Pacos Ferreira,Academica,1.85,3.4,3.1
+2006-10-15,Aves,Setubal,2.37,3.0,2.8
+2006-10-16,FC Koln,Karlsruhe,1.75,3.25,4.33
+2006-10-16,Fulham,Charlton,2.1,3.1,3.6
+2006-10-16,Boavista,Naval,1.72,3.4,4.2
+2006-10-17,Wolves,Coventry,1.9,3.25,3.6
+2006-10-17,QPR,Derby,2.3,3.25,2.75
+2006-10-17,Leeds,Leicester,2.2,3.3,2.87
+2006-10-17,Ipswich,Preston,2.37,3.2,2.7
+2006-10-17,Stoke,Sunderland,2.25,3.2,2.87
+2006-10-17,Crystal Palace,West Brom,2.37,3.2,2.7
+2006-10-17,Cardiff,Southampton,2.0,3.25,3.4
+2006-10-17,Burnley,Southend,1.57,3.5,5.5
+2006-10-17,Birmingham,Norwich,1.72,3.25,4.5
+2006-10-17,Barnsley,Plymouth,2.2,3.2,3.0
+2006-10-17,Hull,Luton,2.5,3.1,2.62
+2006-10-18,Colchester,Sheffield Weds,2.0,3.25,3.4
+2006-10-20,Belenenses,Pacos Ferreira,2.05,3.2,3.3
+2006-10-20,Unterhaching,FC Koln,3.3,3.1,2.0
+2006-10-20,Willem II,Heracles,2.0,3.25,3.2
+2006-10-20,Karlsruhe,CZ Jena,1.45,3.6,6.0
+2006-10-20,Greuther Furth,Duisburg,2.1,3.1,3.1
+2006-10-20,Freiburg,Burghausen,1.5,3.4,6.5
+2006-10-21,Everton,Sheffield United,1.57,3.5,6.5
+2006-10-21,Wigan,Man City,2.3,3.1,3.1
+2006-10-21,Derby,Birmingham,2.5,3.25,2.5
+2006-10-21,Norwich,Cardiff,2.7,3.2,2.37
+2006-10-21,Luton,Leeds,1.9,3.25,3.6
+2006-10-21,Leicester,Crystal Palace,2.4,3.25,2.6
+2006-10-21,St Etienne,Le Mans,1.9,3.0,3.8
+2006-10-21,Valenciennes,Troyes,1.95,2.87,4.0
+2006-10-21,Cagliari,Torino,2.1,3.0,3.75
+2006-10-21,Plymouth,Burnley,2.3,3.25,2.75
+2006-10-21,Preston,Hull,1.57,3.5,5.5
+2006-10-21,Southend,Ipswich,2.37,3.25,2.62
+2006-10-21,Southampton,Stoke,1.8,3.2,4.33
+2006-10-21,Aston Villa,Fulham,1.72,3.4,5.0
+2006-10-21,Rennes,Nice,1.95,3.0,3.75
+2006-10-21,Nancy,Nantes,1.72,3.0,5.0
+2006-10-21,Monaco,Toulouse,1.85,2.9,4.2
+2006-10-21,Lille,Lorient,1.44,3.5,8.0
+2006-10-21,Boavista,Nacional,1.95,3.3,3.25
+2006-10-21,Chelsea,Portsmouth,1.28,5.0,10.0
+2006-10-21,Zaragoza,Betis,1.83,3.3,4.33
+2006-10-21,Villarreal,Levante,1.61,3.6,5.5
+2006-10-21,La Coruna,Ath Madrid,2.37,3.2,2.9
+2006-10-21,Sheffield Weds,QPR,2.3,3.1,2.87
+2006-10-21,Roda JC,Sparta,1.4,4.0,7.0
+2006-10-21,Sedan,Lens,2.5,3.0,2.7
+2006-10-21,Waalwijk,NAC Breda,1.9,3.25,3.5
+2006-10-21,Sochaux,Bordeaux,2.5,2.9,2.75
+2006-10-21,Sunderland,Barnsley,1.61,3.5,5.0
+2006-10-21,Charlton,Watford,1.9,3.25,4.0
+2006-10-21,Messina,Empoli,2.37,2.75,3.4
+2006-10-21,Twente,Excelsior,1.53,3.4,6.0
+2006-10-22,Tottenham,West Ham,1.8,3.3,4.5
+2006-10-22,Reading,Arsenal,5.5,3.6,1.61
+2006-10-22,Blackburn,Bolton,2.37,3.1,2.75
+2006-10-22,Man United,Liverpool,1.9,3.25,4.0
+2006-10-22,Atalanta,Sampdoria,2.37,2.87,3.25
+2006-10-22,Udinese,Inter,3.75,3.0,2.1
+2006-10-22,Catania,Lazio,3.4,2.87,2.3
+2006-10-22,Middlesbrough,Newcastle,2.4,3.1,2.87
+2006-10-22,Fiorentina,Reggina,1.4,4.0,9.0
+2006-10-22,Roma,Chievo,1.36,4.33,9.0
+2006-10-22,Livorno,Siena,1.9,3.1,4.33
+2006-10-22,Milan,Palermo,1.5,3.6,7.5
+2006-10-22,West Brom,Wolves,1.9,3.2,3.75
+2006-10-22,Parma,Ascoli,2.0,3.0,4.0
+2006-10-22,Sp Lisbon,Porto,2.37,3.0,2.8
+2006-10-22,Marseille,Lyon,3.0,2.87,2.5
+2006-10-22,Benfica,Est Amadora,1.22,5.0,10.0
+2006-10-22,Academica,Aves,1.85,3.25,3.75
+2006-10-22,Ath Bilbao,Celta,2.37,3.2,2.9
+2006-10-22,Espanol,Santander,2.0,3.2,3.75
+2006-10-22,Mallorca,Sociedad,1.9,3.25,4.0
+2006-10-22,Real Madrid,Barcelona,2.5,3.2,2.75
+2006-10-22,Recreativo,Getafe,2.37,3.1,3.0
+2006-10-22,Sevilla,Gimnastic,1.33,4.5,9.5
+2006-10-22,Auxerre,Paris SG,2.25,2.8,3.6
+2006-10-22,AZ Alkmaar,PSV Eindhoven,2.55,3.0,2.55
+2006-10-22,Valencia,Osasuna,1.5,4.0,6.0
+2006-10-22,Heerenveen,Groningen,1.9,3.25,3.5
+2006-10-22,Nijmegen,Vitesse,2.2,3.25,2.87
+2006-10-22,Utrecht,Den Haag,1.45,3.75,6.5
+2006-10-22,Munich 1860,Kaiserslautern,2.15,3.2,3.0
+2006-10-22,Hansa Rostock,Offenbach,1.4,4.0,6.5
+2006-10-22,Essen,Paderborn,2.0,3.2,3.25
+2006-10-22,Erzgebirge Aue,Braunschweig,1.95,3.2,3.4
+2006-10-22,Setubal,Leiria,2.1,3.2,3.1
+2006-10-22,Feyenoord,Ajax,2.75,3.2,2.3
+2006-10-22,Maritimo,Beira Mar,1.66,3.3,4.5
+2006-10-23,Koblenz,Augsburg,2.3,3.25,3.0
+2006-10-23,Coventry,Colchester,2.0,3.2,3.75
+2006-10-23,Naval,Sp Braga,2.75,3.2,2.3
+2006-10-25,Empoli,Udinese,2.87,2.87,2.6
+2006-10-25,Siena,Catania,1.9,3.0,4.5
+2006-10-25,Torino,Fiorentina,3.4,2.87,2.3
+2006-10-25,Inter,Livorno,1.28,4.5,13.0
+2006-10-25,Palermo,Messina,1.5,3.75,7.0
+2006-10-25,Chievo,Milan,6.5,3.5,1.57
+2006-10-25,Atalanta,Cagliari,2.0,2.87,4.33
+2006-10-25,Sampdoria,Lazio,2.2,3.0,3.4
+2006-10-25,Groningen,Excelsior,1.4,4.0,6.5
+2006-10-25,Ajax,Den Haag,1.12,7.0,15.0
+2006-10-25,Nijmegen,Roda JC,2.37,3.2,2.6
+2006-10-25,PSV Eindhoven,Sparta,1.14,6.5,13.0
+2006-10-25,Reggina,Parma,2.1,3.0,3.75
+2006-10-25,Roma,Ascoli,1.25,5.0,13.0
+2006-10-25,Heracles,Waalwijk,2.0,3.2,3.2
+2006-10-26,Feyenoord,Twente,1.72,3.5,4.0
+2006-10-26,NAC Breda,Utrecht,2.37,3.25,2.6
+2006-10-26,Willem II,AZ Alkmaar,5.5,3.5,1.53
+2006-10-27,Club Brugge,Mouscron,1.3,4.33,8.0
+2006-10-27,Augsburg,Munich 1860,2.55,3.2,2.5
+2006-10-27,Braunschweig,Greuther Furth,2.7,3.2,2.37
+2006-10-27,Beira Mar,Sp Lisbon,6.0,3.8,1.45
+2006-10-27,CZ Jena,Koblenz,2.15,3.25,3.0
+2006-10-27,Burnley,Preston,2.5,3.2,2.75
+2006-10-28,Stoke,Norwich,2.2,3.3,2.87
+2006-10-28,Excelsior,Vitesse,2.55,3.2,2.45
+2006-10-28,Den Haag,Heracles,2.15,3.2,3.0
+2006-10-28,Barnsley,Coventry,2.25,3.2,2.87
+2006-10-28,Santander,Valencia,4.33,3.3,1.83
+2006-10-28,Gimnastic,Real Madrid,7.5,4.0,1.44
+2006-10-28,Barcelona,Recreativo,1.16,6.5,15.0
+2006-10-28,Westerlo,Lokeren,1.8,3.3,3.8
+2006-10-28,Roeselare,Cercle Brugge,1.9,3.25,3.5
+2006-10-28,Germinal,Charleroi,2.2,3.25,2.75
+2006-10-28,Gent,FC Brussels,1.53,3.5,5.75
+2006-10-28,Beveren,Standard,4.5,3.3,1.66
+2006-10-28,Bergen,Waregem,2.3,3.25,2.62
+2006-10-28,Anderlecht,Lierse,1.12,6.5,13.0
+2006-10-28,Birmingham,West Brom,2.4,3.1,2.75
+2006-10-28,Cardiff,Derby,1.72,3.25,4.5
+2006-10-28,Colchester,Southampton,2.5,3.25,2.5
+2006-10-28,Heerenveen,Ajax,3.6,3.4,1.83
+2006-10-28,Crystal Palace,Plymouth,1.9,3.25,3.6
+2006-10-28,Watford,Tottenham,3.6,3.3,2.0
+2006-10-28,Sheffield United,Chelsea,12.0,4.5,1.3
+2006-10-28,Portsmouth,Reading,1.8,3.3,4.5
+2006-10-28,Newcastle,Charlton,1.8,3.3,4.5
+2006-10-28,Liverpool,Aston Villa,1.53,3.6,6.5
+2006-10-28,Fulham,Wigan,2.1,3.25,3.4
+2006-10-28,Hull,Sunderland,2.5,3.25,2.5
+2006-10-28,Leeds,Southend,2.0,3.25,3.4
+2006-10-28,Arsenal,Everton,1.4,4.0,9.0
+2006-10-28,Wolves,Sheffield Weds,1.72,3.25,4.5
+2006-10-28,QPR,Leicester,2.3,3.25,2.75
+2006-10-28,Bolton,Man United,4.33,3.3,1.83
+2006-10-28,Milan,Inter,2.6,2.8,3.0
+2006-10-28,Nantes,Monaco,2.5,2.75,2.9
+2006-10-28,Udinese,Roma,2.6,2.8,3.0
+2006-10-28,Porto,Benfica,1.9,3.3,4.0
+2006-10-28,Leiria,Academica,1.95,3.3,3.4
+2006-10-28,Bordeaux,Sedan,1.5,3.4,6.5
+2006-10-28,Le Mans,Lille,2.7,2.75,2.62
+2006-10-28,Lens,Auxerre,1.83,3.0,4.33
+2006-10-28,Lorient,Valenciennes,2.05,2.8,3.6
+2006-10-28,Paris SG,Rennes,1.8,3.2,4.2
+2006-10-28,Toulouse,Sochaux,1.95,2.75,4.2
+2006-10-28,Troyes,St Etienne,2.5,2.7,3.0
+2006-10-28,Waalwijk,PSV Eindhoven,7.0,4.0,1.36
+2006-10-29,Aves,Belenenses,2.37,3.2,2.7
+2006-10-29,Celta,Sevilla,2.5,3.2,2.75
+2006-10-29,Betis,Mallorca,2.0,3.2,3.75
+2006-10-29,Roda JC,Feyenoord,2.3,3.25,2.7
+2006-10-29,NAC Breda,Groningen,2.7,3.25,2.3
+2006-10-29,Parma,Atalanta,2.25,2.87,3.5
+2006-10-29,AZ Alkmaar,Utrecht,1.4,4.0,6.5
+2006-10-29,Getafe,La Coruna,2.37,3.2,2.9
+2006-10-29,West Ham,Blackburn,2.5,3.2,2.75
+2006-10-29,Lyon,Nancy,1.33,4.33,10.0
+2006-10-29,Burghausen,Duisburg,3.3,3.25,1.95
+2006-10-29,Essen,Karlsruhe,2.55,3.5,2.3
+2006-10-29,FC Koln,Hansa Rostock,1.9,3.3,3.5
+2006-10-29,Offenbach,Erzgebirge Aue,2.1,3.2,3.1
+2006-10-29,Paderborn,Unterhaching,1.85,3.25,3.6
+2006-10-29,Nice,Marseille,3.25,2.8,2.25
+2006-10-29,Twente,Nijmegen,1.57,3.5,5.25
+2006-10-29,Levante,Espanol,2.25,3.25,3.1
+2006-10-29,Messina,Chievo,2.2,2.8,3.75
+2006-10-29,Ath Madrid,Zaragoza,1.9,3.25,4.0
+2006-10-29,Sociedad,Villarreal,2.87,3.2,2.4
+2006-10-29,Ascoli,Siena,2.37,2.87,3.25
+2006-10-29,Cagliari,Sampdoria,2.4,2.87,3.2
+2006-10-29,Catania,Torino,2.5,2.87,3.0
+2006-10-29,Fiorentina,Palermo,2.0,3.0,4.0
+2006-10-29,Lazio,Reggina,1.72,3.3,5.0
+2006-10-29,Osasuna,Ath Bilbao,2.0,3.2,3.75
+2006-10-29,Livorno,Empoli,2.0,3.0,4.0
+2006-10-29,Ipswich,Luton,2.3,3.25,3.0
+2006-10-29,Sparta,Willem II,2.25,3.25,2.75
+2006-10-29,Est Amadora,Setubal,2.45,3.2,2.55
+2006-10-29,Nacional,Naval,1.83,3.25,3.8
+2006-10-29,Sp Braga,Maritimo,1.6,3.5,5.0
+2006-10-29,St Truiden,Genk,4.5,3.25,1.7
+2006-10-30,Pacos Ferreira,Boavista,2.3,3.25,2.62
+2006-10-30,Man City,Middlesbrough,2.37,3.1,3.0
+2006-10-30,Kaiserslautern,Freiburg,1.66,3.4,4.5
+2006-10-31,Coventry,Birmingham,2.5,3.1,2.62
+2006-10-31,Leicester,Stoke,2.2,3.25,2.87
+2006-10-31,Luton,Burnley,2.4,3.2,2.7
+2006-10-31,Norwich,Colchester,1.9,3.25,3.6
+2006-10-31,Plymouth,Ipswich,2.1,3.2,3.2
+2006-10-31,Preston,Leeds,1.83,3.3,3.75
+2006-10-31,Sheffield Weds,Crystal Palace,2.37,3.1,2.75
+2006-10-31,Southend,Hull,2.1,3.2,3.2
+2006-10-31,Sunderland,Cardiff,2.3,3.1,2.87
+2006-10-31,West Brom,QPR,1.4,3.75,8.0
+2006-11-01,Southampton,Wolves,2.0,3.2,3.4
+2006-11-01,Derby,Barnsley,1.66,3.5,4.5
+2006-11-03,Genk,Germinal,1.44,3.6,7.5
+2006-11-03,Belenenses,Leiria,2.1,3.2,3.1
+2006-11-03,Hansa Rostock,CZ Jena,1.44,4.0,5.75
+2006-11-03,Karlsruhe,Paderborn,1.5,3.5,5.75
+2006-11-03,Freiburg,Braunschweig,1.36,3.75,9.0
+2006-11-03,Unterhaching,Burghausen,2.05,3.25,3.1
+2006-11-03,Munich 1860,Essen,1.72,3.25,4.33
+2006-11-03,Koblenz,FC Koln,3.25,3.25,2.0
+2006-11-03,Nijmegen,Willem II,1.65,3.4,4.75
+2006-11-04,Wolves,Southend,1.61,3.5,5.0
+2006-11-04,Southampton,Hull,1.61,3.5,5.0
+2006-11-04,Sheffield Weds,Leicester,2.25,3.25,2.8
+2006-11-04,QPR,Crystal Palace,2.5,3.25,2.5
+2006-11-04,Preston,Luton,1.66,3.5,4.5
+2006-11-04,Plymouth,Birmingham,2.4,3.25,2.62
+2006-11-04,Norwich,Sunderland,2.25,3.25,2.8
+2006-11-04,Derby,West Brom,2.5,3.25,2.5
+2006-11-04,Colchester,Cardiff,2.62,3.25,2.37
+2006-11-04,Burnley,Ipswich,1.9,3.25,3.6
+2006-11-04,Barnsley,Leeds,2.5,3.25,2.5
+2006-11-04,La Coruna,Barcelona,4.33,3.3,1.83
+2006-11-04,Groningen,Roda JC,1.85,3.25,3.6
+2006-11-04,Lierse,Bergen,2.45,3.2,2.55
+2006-11-04,Gent,Roeselare,1.55,3.4,5.75
+2006-11-04,FC Brussels,Mouscron,2.0,3.25,3.3
+2006-11-04,Cercle Brugge,Beveren,1.95,3.2,3.4
+2006-11-04,Valenciennes,Lille,2.62,2.87,2.6
+2006-11-04,St Etienne,Toulouse,2.1,2.8,3.5
+2006-11-04,Sochaux,Troyes,1.72,3.0,5.0
+2006-11-04,Sedan,Nantes,2.1,2.9,3.4
+2006-11-04,Rennes,Lyon,6.0,3.6,1.57
+2006-11-04,Monaco,Nice,1.8,3.0,4.33
+2006-11-04,Marseille,Lorient,1.44,3.6,7.0
+2006-11-04,Reggina,Catania,2.0,2.87,4.33
+2006-11-04,Siena,Parma,1.9,3.0,4.5
+2006-11-04,Den Haag,Excelsior,1.9,3.2,3.6
+2006-11-04,Auxerre,Le Mans,1.83,3.0,4.33
+2006-11-04,Watford,Middlesbrough,2.6,3.0,2.8
+2006-11-04,Newcastle,Sheffield United,1.72,3.4,5.0
+2006-11-04,Man United,Portsmouth,1.3,5.0,9.0
+2006-11-04,Liverpool,Reading,1.33,4.5,9.5
+2006-11-04,Fulham,Everton,2.8,3.1,2.5
+2006-11-04,Charlton,Man City,2.3,3.1,3.1
+2006-11-04,Boavista,Aves,1.45,3.5,7.0
+2006-11-04,Levante,Sociedad,2.0,3.2,3.75
+2006-11-04,Mallorca,Ath Madrid,2.6,3.1,2.7
+2006-11-04,PSV Eindhoven,NAC Breda,1.12,6.0,17.0
+2006-11-04,Bolton,Wigan,1.9,3.25,4.0
+2006-11-05,Nacional,Pacos Ferreira,1.72,3.25,4.33
+2006-11-05,Benfica,Beira Mar,1.22,5.0,10.0
+2006-11-05,Academica,Est Amadora,1.8,3.25,4.0
+2006-11-05,Naval,Maritimo,2.05,3.25,3.1
+2006-11-05,Sevilla,Osasuna,1.5,3.6,7.5
+2006-11-05,Heerenveen,Sparta,1.33,4.2,7.5
+2006-11-05,Villarreal,Betis,1.66,3.4,5.5
+2006-11-05,Zaragoza,Getafe,1.9,3.25,4.0
+2006-11-05,Paris SG,Lens,2.0,2.87,4.33
+2006-11-05,Waregem,St Truiden,1.83,3.25,3.8
+2006-11-05,Standard,Anderlecht,2.45,3.2,2.6
+2006-11-05,Lokeren,Club Brugge,4.2,3.4,1.7
+2006-11-05,Charleroi,Westerlo,1.95,3.25,3.4
+2006-11-05,Nancy,Bordeaux,2.2,2.87,3.6
+2006-11-05,West Ham,Arsenal,5.5,3.6,1.61
+2006-11-05,Tottenham,Chelsea,5.0,3.4,1.72
+2006-11-05,Aston Villa,Blackburn,2.0,3.2,3.75
+2006-11-05,Duisburg,Kaiserslautern,2.1,3.25,3.1
+2006-11-05,Erzgebirge Aue,Augsburg,2.05,3.25,3.1
+2006-11-05,Real Madrid,Celta,1.36,4.33,9.0
+2006-11-05,Espanol,Valencia,3.75,3.2,2.0
+2006-11-05,Ath Bilbao,Santander,2.1,3.1,3.6
+2006-11-05,Recreativo,Gimnastic,1.9,3.25,4.0
+2006-11-05,Utrecht,Twente,2.3,3.25,2.7
+2006-11-05,Heracles,Ajax,10.0,4.33,1.33
+2006-11-05,Feyenoord,Vitesse,1.5,4.0,4.5
+2006-11-05,Waalwijk,AZ Alkmaar,7.5,4.2,1.33
+2006-11-05,Greuther Furth,Offenbach,1.65,3.4,4.75
+2006-11-05,Roma,Fiorentina,2.0,3.0,4.0
+2006-11-05,Atalanta,Milan,6.0,3.2,1.66
+2006-11-05,Chievo,Cagliari,2.2,2.8,3.75
+2006-11-05,Empoli,Lazio,2.37,2.87,3.25
+2006-11-05,Torino,Messina,2.1,2.8,4.0
+2006-11-05,Livorno,Udinese,2.6,2.75,3.0
+2006-11-05,Palermo,Sampdoria,1.66,3.25,6.0
+2006-11-05,Inter,Ascoli,1.14,6.5,21.0
+2006-11-06,Setubal,Porto,6.5,3.4,1.5
+2006-11-06,Stoke,Coventry,2.1,3.2,3.2
+2006-11-06,Sp Lisbon,Sp Braga,1.45,3.75,6.0
+2006-11-07,Karlsruhe,Munich 1860,1.8,3.4,4.33
+2006-11-07,Paderborn,Hansa Rostock,2.7,3.25,2.5
+2006-11-07,Essen,Koblenz,2.0,3.3,3.6
+2006-11-07,Braunschweig,Unterhaching,2.1,3.25,3.4
+2006-11-08,CZ Jena,Greuther Furth,2.62,3.2,2.4
+2006-11-08,FC Koln,Erzgebirge Aue,1.36,3.75,8.5
+2006-11-08,Offenbach,Duisburg,3.0,3.1,2.15
+2006-11-08,Augsburg,Freiburg,2.45,3.2,2.6
+2006-11-08,Kaiserslautern,Burghausen,1.36,3.8,8.5
+2006-11-10,Lyon,Valenciennes,1.16,6.5,15.0
+2006-11-10,Munich 1860,Paderborn,1.8,3.4,4.0
+2006-11-10,Koblenz,Karlsruhe,3.1,3.2,2.1
+2006-11-10,Hansa Rostock,Braunschweig,1.33,4.2,7.5
+2006-11-10,NAC Breda,Heerenveen,2.55,3.2,2.45
+2006-11-10,Westerlo,Genk,3.2,3.2,2.05
+2006-11-11,Nice,Sochaux,2.2,2.87,3.2
+2006-11-11,Nantes,St Etienne,2.3,2.87,3.0
+2006-11-11,Lorient,Nancy,2.5,2.75,2.87
+2006-11-11,Lens,Rennes,1.72,3.2,4.5
+2006-11-11,Le Mans,Paris SG,2.5,2.87,2.75
+2006-11-11,Toulouse,Sedan,1.61,3.2,5.5
+2006-11-11,Birmingham,Barnsley,1.44,4.0,6.0
+2006-11-11,St Truiden,Lierse,1.65,3.5,4.5
+2006-11-11,Everton,Aston Villa,2.0,3.2,3.75
+2006-11-11,Man City,Newcastle,2.1,3.2,3.5
+2006-11-11,Middlesbrough,West Ham,2.2,3.2,3.25
+2006-11-11,Portsmouth,Fulham,1.83,3.3,4.33
+2006-11-11,Sheffield United,Bolton,2.9,3.2,2.37
+2006-11-11,Wigan,Charlton,1.9,3.25,4.0
+2006-11-11,Chelsea,Watford,1.12,7.0,23.0
+2006-11-11,Anderlecht,Cercle Brugge,1.16,5.5,13.0
+2006-11-11,Club Brugge,Charleroi,1.45,3.75,6.5
+2006-11-11,Bordeaux,Auxerre,1.8,3.2,4.75
+2006-11-11,Mouscron,Lokeren,1.95,3.25,3.4
+2006-11-11,Ath Madrid,Villarreal,2.1,3.1,3.6
+2006-11-11,Valencia,Ath Bilbao,1.44,4.0,7.5
+2006-11-11,Roeselare,FC Brussels,2.0,3.25,3.3
+2006-11-11,Beveren,Gent,3.25,3.2,2.0
+2006-11-11,Germinal,Waregem,1.9,3.25,3.6
+2006-11-11,Blackburn,Man United,5.5,3.6,1.61
+2006-11-11,Roda JC,Waalwijk,1.5,3.5,6.0
+2006-11-11,Excelsior,Nijmegen,2.3,3.25,2.62
+2006-11-11,AZ Alkmaar,Heracles,1.2,5.0,11.0
+2006-11-11,West Brom,Norwich,1.72,3.4,4.33
+2006-11-11,Sunderland,Southampton,2.1,3.2,3.2
+2006-11-11,Luton,QPR,2.0,3.25,3.4
+2006-11-11,Fiorentina,Atalanta,1.66,3.4,5.5
+2006-11-11,Milan,Roma,2.0,3.0,4.0
+2006-11-11,Southend,Preston,3.4,3.2,2.0
+2006-11-11,Leeds,Colchester,2.2,3.2,3.0
+2006-11-11,Ipswich,Sheffield Weds,1.83,3.4,3.75
+2006-11-11,Hull,Wolves,2.5,3.25,2.5
+2006-11-11,Crystal Palace,Stoke,2.1,3.2,3.2
+2006-11-11,Coventry,Derby,2.1,3.2,3.2
+2006-11-11,Cardiff,Burnley,2.0,3.25,3.4
+2006-11-11,Leicester,Plymouth,2.1,3.2,3.2
+2006-11-12,Gimnastic,La Coruna,2.9,3.2,2.37
+2006-11-12,Vitesse,Utrecht,2.05,3.25,3.1
+2006-11-12,Getafe,Mallorca,2.0,3.2,3.75
+2006-11-12,Parma,Inter,6.5,3.5,1.57
+2006-11-12,Betis,Levante,2.0,3.2,3.8
+2006-11-12,Barcelona,Zaragoza,1.44,4.0,7.5
+2006-11-12,Reading,Tottenham,3.1,3.2,2.25
+2006-11-12,Willem II,Feyenoord,4.75,3.3,1.65
+2006-11-12,Unterhaching,Essen,2.05,3.25,3.2
+2006-11-12,Sampdoria,Chievo,1.83,3.25,4.5
+2006-11-12,Erzgebirge Aue,CZ Jena,2.0,3.25,3.3
+2006-11-12,Duisburg,Augsburg,1.61,3.4,5.0
+2006-11-12,Burghausen,Offenbach,2.1,3.2,3.0
+2006-11-12,Twente,Groningen,1.9,3.25,3.5
+2006-11-12,Sparta,Den Haag,2.15,3.25,2.87
+2006-11-12,Ajax,PSV Eindhoven,2.15,3.2,3.0
+2006-11-12,Osasuna,Real Madrid,4.33,3.4,1.8
+2006-11-12,Arsenal,Liverpool,2.0,3.2,3.75
+2006-11-12,Freiburg,FC Koln,2.2,3.2,2.9
+2006-11-12,Santander,Sevilla,3.75,3.2,2.0
+2006-11-12,Celta,Recreativo,1.75,3.5,4.5
+2006-11-12,Ascoli,Empoli,2.4,2.8,3.3
+2006-11-12,Siena,Reggina,2.1,2.8,4.0
+2006-11-12,Sociedad,Espanol,2.37,3.1,3.0
+2006-11-12,Troyes,Monaco,2.5,2.8,3.1
+2006-11-12,Palermo,Torino,1.44,4.0,7.5
+2006-11-12,Bergen,Standard,4.5,3.25,1.7
+2006-11-12,Messina,Cagliari,2.25,2.8,3.6
+2006-11-12,Lazio,Udinese,2.3,2.87,3.4
+2006-11-12,Catania,Livorno,2.4,2.8,3.3
+2006-11-12,Lille,Marseille,2.2,2.87,3.6
+2006-11-13,Greuther Furth,Kaiserslautern,2.3,3.2,2.7
+2006-11-17,Braunschweig,Duisburg,4.2,3.3,1.75
+2006-11-17,Cardiff,QPR,1.66,3.4,5.5
+2006-11-17,Offenbach,Kaiserslautern,3.2,3.25,2.05
+2006-11-17,CZ Jena,Freiburg,2.62,3.2,2.37
+2006-11-17,Beira Mar,Setubal,2.0,3.2,3.3
+2006-11-17,Heracles,NAC Breda,2.4,3.1,2.7
+2006-11-18,Porto,Academica,1.2,5.0,10.0
+2006-11-18,Nancy,Troyes,1.5,3.5,6.5
+2006-11-18,Real Madrid,Santander,1.25,5.0,13.0
+2006-11-18,Paris SG,Bordeaux,1.95,2.75,4.2
+2006-11-18,Empoli,Milan,5.5,3.4,1.66
+2006-11-18,Cagliari,Palermo,3.5,2.87,2.25
+2006-11-18,Lens,Nantes,1.61,3.4,5.0
+2006-11-18,Rennes,Le Mans,1.85,2.9,4.2
+2006-11-18,Waregem,Westerlo,2.3,3.2,2.75
+2006-11-18,Sochaux,Lille,2.55,2.75,2.8
+2006-11-18,Sevilla,Valencia,2.25,3.1,3.2
+2006-11-18,Reading,Charlton,1.9,3.25,4.0
+2006-11-18,Sheffield United,Man United,9.0,4.33,1.36
+2006-11-18,Sp Braga,Benfica,3.0,3.1,2.1
+2006-11-18,Portsmouth,Watford,1.61,3.6,5.5
+2006-11-18,Middlesbrough,Liverpool,3.75,3.2,2.0
+2006-11-18,Cercle Brugge,Bergen,2.05,3.2,3.2
+2006-11-18,Sedan,Lyon,9.0,4.0,1.3
+2006-11-18,Man City,Fulham,2.1,3.2,3.5
+2006-11-18,Chelsea,West Ham,1.18,5.75,17.0
+2006-11-18,FC Brussels,Lokeren,2.15,3.2,3.1
+2006-11-18,Gent,Anderlecht,3.5,3.25,1.9
+2006-11-18,Lierse,Germinal,3.8,3.25,1.83
+2006-11-18,Roeselare,Beveren,1.9,3.25,3.6
+2006-11-18,Standard,St Truiden,1.22,5.0,10.0
+2006-11-18,St Etienne,Nice,1.7,3.2,4.75
+2006-11-18,Everton,Bolton,2.4,3.2,2.87
+2006-11-18,Monaco,Lorient,1.83,2.8,4.75
+2006-11-18,Arsenal,Newcastle,1.25,5.0,13.0
+2006-11-18,Crystal Palace,Barnsley,1.83,3.4,3.75
+2006-11-18,Coventry,Sheffield Weds,2.0,3.25,3.4
+2006-11-18,West Brom,Burnley,1.9,3.25,3.6
+2006-11-18,Southend,Plymouth,2.5,3.1,2.62
+2006-11-18,Luton,Derby,2.37,3.1,2.75
+2006-11-18,Leicester,Preston,2.6,3.0,2.6
+2006-11-18,Leeds,Southampton,2.5,3.1,2.62
+2006-11-18,Hull,Stoke,2.3,3.1,2.87
+2006-11-18,Birmingham,Wolves,1.72,3.25,4.5
+2006-11-18,Sunderland,Colchester,1.8,3.3,4.0
+2006-11-18,Waalwijk,Heerenveen,2.7,3.1,2.3
+2006-11-18,PSV Eindhoven,Excelsior,1.14,6.0,13.0
+2006-11-18,Nijmegen,Sparta,1.55,3.6,5.25
+2006-11-18,Feyenoord,AZ Alkmaar,3.0,3.1,2.15
+2006-11-19,Chievo,Atalanta,2.37,2.87,3.25
+2006-11-19,Augsburg,Burghausen,1.95,3.2,3.5
+2006-11-19,Essen,Erzgebirge Aue,2.2,3.2,2.87
+2006-11-19,FC Koln,Munich 1860,1.85,3.25,3.8
+2006-11-19,Koblenz,Unterhaching,2.05,3.1,3.3
+2006-11-19,Paderborn,Greuther Furth,2.5,3.2,2.5
+2006-11-19,Aves,Nacional,3.8,3.3,1.83
+2006-11-19,Utrecht,Roda JC,2.15,3.25,3.0
+2006-11-19,La Coruna,Celta,2.0,3.2,3.75
+2006-11-19,Espanol,Ath Bilbao,2.2,3.1,3.3
+2006-11-19,Auxerre,Toulouse,2.05,2.8,4.2
+2006-11-19,Udinese,Siena,2.1,3.0,3.75
+2006-11-19,Torino,Sampdoria,2.5,2.87,3.0
+2006-11-19,Roma,Catania,1.3,4.5,12.0
+2006-11-19,Leiria,Boavista,2.2,3.1,3.0
+2006-11-19,Messina,Lazio,2.7,2.8,2.87
+2006-11-19,Charleroi,Mouscron,1.75,3.4,4.0
+2006-11-19,Livorno,Parma,1.9,3.1,4.33
+2006-11-19,Inter,Reggina,1.2,5.5,17.0
+2006-11-19,Ascoli,Fiorentina,5.0,3.3,1.72
+2006-11-19,Maritimo,Sp Lisbon,3.3,3.1,2.05
+2006-11-19,Genk,Club Brugge,2.15,3.2,3.0
+2006-11-19,Villarreal,Getafe,2.0,3.0,4.0
+2006-11-19,Pacos Ferreira,Naval,2.05,3.2,3.1
+2006-11-19,Blackburn,Tottenham,2.4,3.2,2.87
+2006-11-19,Groningen,Willem II,1.36,3.8,7.0
+2006-11-19,Den Haag,Vitesse,2.8,3.1,2.25
+2006-11-19,Ajax,Twente,1.36,3.8,8.0
+2006-11-19,Zaragoza,Gimnastic,1.44,4.0,7.5
+2006-11-19,Wigan,Aston Villa,2.37,3.2,2.9
+2006-11-19,Ipswich,Norwich,2.6,3.1,2.7
+2006-11-19,Sociedad,Betis,2.4,3.2,2.87
+2006-11-19,Recreativo,Osasuna,2.1,3.2,3.5
+2006-11-19,Mallorca,Barcelona,6.0,3.6,1.61
+2006-11-19,Marseille,Valenciennes,1.4,4.0,9.0
+2006-11-19,Levante,Ath Madrid,2.7,3.1,2.6
+2006-11-20,Karlsruhe,Hansa Rostock,2.1,3.2,3.1
+2006-11-20,Est Amadora,Belenenses,2.37,3.1,2.7
+2006-11-24,Hansa Rostock,Essen,1.44,3.8,6.5
+2006-11-24,Kaiserslautern,Augsburg,1.44,3.75,6.5
+2006-11-24,Boavista,Est Amadora,1.4,3.75,6.5
+2006-11-24,Duisburg,CZ Jena,1.4,3.8,6.5
+2006-11-24,Twente,Vitesse,1.53,3.5,5.5
+2006-11-24,Germinal,Standard,3.2,3.2,2.05
+2006-11-24,Wolves,Sunderland,2.2,3.2,3.2
+2006-11-25,Milan,Messina,1.25,5.0,13.0
+2006-11-25,Barnsley,Ipswich,2.5,3.25,2.5
+2006-11-25,Chievo,Udinese,3.0,2.87,2.5
+2006-11-25,Barcelona,Villarreal,1.36,4.5,8.0
+2006-11-25,Ath Madrid,Sociedad,1.4,4.0,9.0
+2006-11-25,Norwich,Hull,1.72,3.4,4.33
+2006-11-25,Derby,Leicester,1.83,3.2,4.0
+2006-11-25,Colchester,Southend,1.9,3.25,3.6
+2006-11-25,Burnley,Birmingham,2.5,3.1,2.62
+2006-11-25,Willem II,Waalwijk,2.05,3.2,3.1
+2006-11-25,Beveren,FC Brussels,2.2,3.2,2.9
+2006-11-25,Sheffield Weds,Cardiff,2.62,3.1,2.5
+2006-11-25,QPR,Coventry,2.1,3.2,3.2
+2006-11-25,Preston,Crystal Palace,1.72,3.4,4.33
+2006-11-25,Plymouth,Leeds,1.9,3.25,3.6
+2006-11-25,Liverpool,Man City,1.44,3.75,8.5
+2006-11-25,West Ham,Sheffield United,1.8,3.3,4.5
+2006-11-25,Fulham,Reading,2.2,3.1,3.3
+2006-11-25,Charlton,Everton,2.7,3.25,2.5
+2006-11-25,Bergen,Gent,3.5,3.1,2.0
+2006-11-25,Troyes,Marseille,3.2,2.87,2.4
+2006-11-25,Toulouse,Rennes,2.0,2.75,4.0
+2006-11-25,Southampton,Luton,1.66,3.5,4.5
+2006-11-25,Nice,Sedan,1.72,3.0,5.0
+2006-11-25,Lille,Monaco,1.66,3.2,5.0
+2006-11-25,Bordeaux,St Etienne,2.0,2.75,4.0
+2006-11-25,Benfica,Maritimo,1.36,4.0,7.5
+2006-11-25,Excelsior,Heracles,2.2,3.1,2.9
+2006-11-25,PSV Eindhoven,Utrecht,1.16,6.0,11.0
+2006-11-25,Bolton,Arsenal,3.6,3.3,2.0
+2006-11-25,Aston Villa,Middlesbrough,1.8,3.3,4.5
+2006-11-25,Westerlo,Lierse,1.3,4.33,8.5
+2006-11-25,St Truiden,Cercle Brugge,1.83,3.3,3.75
+2006-11-25,Mouscron,Genk,3.8,3.3,1.8
+2006-11-25,Lokeren,Charleroi,2.1,3.2,3.1
+2006-11-25,Lorient,Sochaux,2.3,2.8,3.1
+2006-11-25,Stoke,West Brom,2.4,3.25,2.62
+2006-11-26,Le Mans,Lens,2.5,2.87,3.0
+2006-11-26,Lyon,Auxerre,1.33,4.33,10.0
+2006-11-26,Club Brugge,Waregem,1.33,4.33,7.5
+2006-11-26,Anderlecht,Roeselare,1.2,5.0,11.0
+2006-11-26,Nantes,Paris SG,2.6,2.87,2.6
+2006-11-26,Ath Bilbao,Sevilla,3.4,3.25,2.1
+2006-11-26,Greuther Furth,FC Koln,2.3,3.2,2.7
+2006-11-26,Empoli,Cagliari,2.37,2.87,3.25
+2006-11-26,Siena,Fiorentina,3.5,2.8,2.3
+2006-11-26,Sparta,Ajax,8.0,4.5,1.3
+2006-11-26,Roda JC,NAC Breda,1.7,3.5,4.2
+2006-11-26,Nijmegen,Feyenoord,4.2,3.4,1.72
+2006-11-26,Heerenveen,AZ Alkmaar,4.0,3.25,1.8
+2006-11-26,Groningen,Den Haag,1.36,4.33,7.0
+2006-11-26,Lazio,Ascoli,1.44,3.75,8.5
+2006-11-26,Academica,Beira Mar,1.83,3.25,3.75
+2006-11-26,Nacional,Leiria,1.95,3.2,3.4
+2006-11-26,Naval,Sp Lisbon,5.0,3.4,1.61
+2006-11-26,Pacos Ferreira,Aves,1.53,3.5,5.25
+2006-11-26,Tottenham,Wigan,1.8,3.3,4.5
+2006-11-26,Newcastle,Portsmouth,2.3,3.1,3.1
+2006-11-26,Man United,Chelsea,2.5,3.1,2.8
+2006-11-26,Belenenses,Porto,6.5,3.75,1.44
+2006-11-26,Reggina,Livorno,2.3,2.8,3.5
+2006-11-26,Sampdoria,Roma,3.6,2.87,2.2
+2006-11-26,Burghausen,Braunschweig,1.95,3.2,3.4
+2006-11-26,Catania,Parma,2.1,2.8,4.0
+2006-11-26,Atalanta,Torino,2.0,2.8,4.0
+2006-11-26,Valencia,Real Madrid,2.75,3.2,2.5
+2006-11-26,Santander,Recreativo,2.25,3.2,3.1
+2006-11-26,Osasuna,La Coruna,2.4,3.2,2.87
+2006-11-26,Palermo,Inter,3.2,2.75,2.5
+2006-11-26,Getafe,Levante,1.72,3.4,5.0
+2006-11-26,Gimnastic,Mallorca,2.4,3.2,2.87
+2006-11-26,Betis,Espanol,2.0,3.2,3.75
+2006-11-26,Unterhaching,Karlsruhe,3.3,3.25,2.0
+2006-11-26,Valenciennes,Nancy,2.5,2.75,2.87
+2006-11-26,Freiburg,Offenbach,1.5,3.6,6.0
+2006-11-26,Erzgebirge Aue,Paderborn,1.8,3.3,4.0
+2006-11-26,Celta,Zaragoza,2.37,3.2,2.9
+2006-11-27,Munich 1860,Koblenz,1.75,3.4,4.0
+2006-11-27,Setubal,Sp Braga,3.0,3.1,2.2
+2006-11-28,Watford,Sheffield United,2.2,3.1,3.3
+2006-11-28,Norwich,Leicester,1.9,3.25,3.6
+2006-11-28,Plymouth,Luton,1.83,3.25,3.8
+2006-11-28,Barnsley,Southend,1.9,3.25,3.6
+2006-11-28,Preston,Coventry,1.72,3.4,4.33
+2006-11-28,QPR,Sunderland,2.2,3.2,3.0
+2006-11-28,Sheffield Weds,West Brom,2.5,3.25,2.5
+2006-11-28,Stoke,Cardiff,2.1,3.1,3.2
+2006-11-28,Wolves,Crystal Palace,1.9,3.25,3.6
+2006-11-28,Burnley,Leeds,1.9,3.25,3.6
+2006-11-28,Colchester,Hull,1.9,3.25,3.6
+2006-11-29,Fulham,Arsenal,6.0,3.6,1.57
+2006-11-29,Bolton,Chelsea,5.0,3.6,1.66
+2006-11-29,Aston Villa,Man City,1.83,3.3,4.33
+2006-11-29,Man United,Everton,1.33,4.5,9.5
+2006-11-29,Liverpool,Portsmouth,1.44,4.0,7.5
+2006-11-29,Derby,Ipswich,1.8,3.3,4.0
+2006-11-29,Vitesse,Heerenveen,2.1,3.2,3.2
+2006-11-29,Southampton,Birmingham,2.5,3.1,2.62
+2006-12-01,Sp Lisbon,Benfica,2.0,3.1,4.0
+2006-12-01,Waalwijk,Sparta,2.1,3.3,2.9
+2006-12-01,Essen,Greuther Furth,2.75,3.25,2.45
+2006-12-01,Koblenz,Hansa Rostock,3.6,3.3,2.0
+2006-12-01,Paderborn,Freiburg,2.37,3.2,2.87
+2006-12-01,Beveren,Anderlecht,5.5,3.75,1.5
+2006-12-02,Sunderland,Norwich,2.1,3.2,3.2
+2006-12-02,Middlesbrough,Man United,6.0,3.6,1.57
+2006-12-02,Heracles,Roda JC,2.8,3.2,2.25
+2006-12-02,Portsmouth,Aston Villa,2.2,3.2,3.25
+2006-12-02,Reading,Bolton,2.4,3.2,2.87
+2006-12-02,Sheffield United,Charlton,2.2,3.1,3.3
+2006-12-02,Wigan,Liverpool,3.75,3.2,2.0
+2006-12-02,Betis,Ath Madrid,2.6,3.1,2.7
+2006-12-02,Levante,Barcelona,7.5,4.0,1.44
+2006-12-02,West Brom,Derby,2.0,3.1,3.6
+2006-12-02,Inter,Siena,1.22,5.5,13.0
+2006-12-02,Roma,Atalanta,1.33,4.5,9.5
+2006-12-02,Porto,Boavista,1.3,4.33,8.5
+2006-12-02,Den Haag,Nijmegen,2.37,3.25,2.6
+2006-12-02,Beira Mar,Belenenses,2.25,3.1,2.9
+2006-12-02,Southend,Wolves,2.62,3.25,2.37
+2006-12-02,Recreativo,Valencia,3.3,3.2,2.15
+2006-12-02,Blackburn,Fulham,1.9,3.25,4.0
+2006-12-02,Monaco,Valenciennes,1.7,3.1,5.0
+2006-12-02,NAC Breda,Twente,3.2,3.25,2.0
+2006-12-02,Birmingham,Plymouth,1.53,3.5,6.0
+2006-12-02,St Etienne,Lorient,1.66,3.1,5.5
+2006-12-02,Sedan,Troyes,2.0,2.8,3.75
+2006-12-02,Rennes,Nantes,1.72,3.0,4.75
+2006-12-02,Cardiff,Colchester,1.61,3.5,5.0
+2006-12-02,Lens,Bordeaux,1.95,2.8,4.0
+2006-12-02,Le Mans,Lyon,7.0,3.75,1.5
+2006-12-02,Auxerre,Nice,1.75,3.0,4.75
+2006-12-02,Coventry,Stoke,2.25,3.2,2.87
+2006-12-02,Waregem,Mouscron,1.9,3.25,3.6
+2006-12-02,Arsenal,Tottenham,1.66,3.5,5.0
+2006-12-02,Standard,Westerlo,1.53,3.6,5.25
+2006-12-02,Roeselare,Bergen,1.65,3.4,4.5
+2006-12-02,Vitesse,PSV Eindhoven,6.5,4.75,1.33
+2006-12-02,Genk,Lokeren,1.33,4.33,7.0
+2006-12-02,FC Brussels,Charleroi,2.4,3.0,2.62
+2006-12-02,Luton,Preston,2.87,3.2,2.25
+2006-12-02,Leicester,Sheffield Weds,2.1,3.25,3.2
+2006-12-02,Cercle Brugge,Germinal,2.45,3.1,2.62
+2006-12-02,Crystal Palace,QPR,1.9,3.25,3.6
+2006-12-02,Hull,Southampton,2.62,3.25,2.37
+2006-12-02,Leeds,Barnsley,1.83,3.3,4.33
+2006-12-02,Ipswich,Burnley,2.25,3.2,2.87
+2006-12-02,Gent,St Truiden,1.5,3.5,6.0
+2006-12-03,Fiorentina,Lazio,1.9,3.25,4.0
+2006-12-03,Messina,Sampdoria,2.37,2.9,3.2
+2006-12-03,Udinese,Reggina,1.83,3.0,5.0
+2006-12-03,Torino,Empoli,2.1,2.8,4.0
+2006-12-03,Everton,West Ham,1.9,3.25,4.0
+2006-12-03,Sp Braga,Academica,1.45,3.6,6.0
+2006-12-03,Leiria,Pacos Ferreira,1.83,3.2,3.75
+2006-12-03,Est Amadora,Nacional,3.0,3.1,2.2
+2006-12-03,Parma,Palermo,4.33,2.87,2.0
+2006-12-03,Aves,Naval,2.45,3.1,2.55
+2006-12-03,Livorno,Chievo,1.9,3.1,4.33
+2006-12-03,AZ Alkmaar,Excelsior,1.14,6.0,13.0
+2006-12-03,Karlsruhe,Erzgebirge Aue,1.5,3.75,5.75
+2006-12-03,Espanol,Sevilla,3.75,3.2,2.0
+2006-12-03,Mallorca,Celta,2.37,3.0,3.1
+2006-12-03,Zaragoza,Osasuna,1.53,3.8,6.0
+2006-12-03,Lierse,Club Brugge,7.0,4.33,1.33
+2006-12-03,Villarreal,Gimnastic,1.44,4.0,7.5
+2006-12-03,La Coruna,Santander,1.9,3.1,4.33
+2006-12-03,Sociedad,Getafe,2.5,3.1,2.8
+2006-12-03,Unterhaching,Munich 1860,2.87,3.2,2.2
+2006-12-03,Nancy,Lille,2.37,2.87,3.25
+2006-12-03,Sochaux,Marseille,2.4,2.87,3.2
+2006-12-03,Real Madrid,Ath Bilbao,1.22,5.5,13.0
+2006-12-03,Cagliari,Milan,5.0,3.0,1.83
+2006-12-03,Ascoli,Catania,2.4,2.87,3.2
+2006-12-03,Braunschweig,Kaiserslautern,3.5,3.2,1.95
+2006-12-03,CZ Jena,Burghausen,2.0,3.25,3.3
+2006-12-03,Ajax,Willem II,1.14,6.0,13.0
+2006-12-03,Feyenoord,Heerenveen,1.72,3.4,4.0
+2006-12-03,Utrecht,Groningen,2.0,3.25,3.3
+2006-12-03,Offenbach,Augsburg,2.15,3.25,2.9
+2006-12-04,Maritimo,Setubal,1.66,3.4,4.5
+2006-12-04,Man City,Watford,1.57,3.6,6.0
+2006-12-04,FC Koln,Duisburg,1.95,3.3,3.4
+2006-12-05,Charlton,Blackburn,2.5,3.1,2.8
+2006-12-05,Tottenham,Middlesbrough,1.72,3.4,5.0
+2006-12-06,Newcastle,Reading,1.9,3.25,4.0
+2006-12-06,West Ham,Wigan,2.0,3.3,3.6
+2006-12-08,Erzgebirge Aue,Koblenz,1.8,3.4,4.5
+2006-12-08,Belenenses,Sp Braga,2.9,3.1,2.25
+2006-12-08,Heerenveen,Roda JC,1.75,3.5,4.33
+2006-12-08,Kaiserslautern,CZ Jena,1.3,4.75,10.0
+2006-12-08,Charleroi,Genk,2.8,3.2,2.3
+2006-12-08,Burghausen,Essen,2.0,3.3,3.6
+2006-12-09,Blackburn,Newcastle,2.15,3.25,3.4
+2006-12-09,Barcelona,Sociedad,1.14,7.0,17.0
+2006-12-09,Sevilla,Real Madrid,2.4,3.2,2.87
+2006-12-09,Bergen,Beveren,2.25,3.25,2.75
+2006-12-09,Germinal,Gent,2.45,3.2,2.6
+2006-12-09,Bordeaux,Rennes,1.65,3.1,5.25
+2006-12-09,Lorient,Sedan,1.75,3.1,4.33
+2006-12-09,Marseille,Monaco,1.8,3.0,4.33
+2006-12-09,Nantes,Le Mans,2.1,2.9,3.4
+2006-12-09,Nice,Nancy,2.1,2.8,3.6
+2006-12-09,Toulouse,Lens,2.4,2.75,3.3
+2006-12-09,Bolton,West Ham,1.75,3.3,5.0
+2006-12-09,Liverpool,Fulham,1.33,4.5,9.5
+2006-12-09,Portsmouth,Everton,2.2,3.2,3.25
+2006-12-09,Middlesbrough,Wigan,2.05,3.2,3.6
+2006-12-09,Man United,Man City,1.36,4.33,9.0
+2006-12-09,Leeds,Derby,2.45,3.2,2.87
+2006-12-09,Norwich,Sheffield Weds,2.0,3.2,3.4
+2006-12-09,Plymouth,Hull,1.9,3.25,3.6
+2006-12-09,Southend,Southampton,3.5,3.25,1.95
+2006-12-09,Stoke,QPR,1.72,3.3,4.5
+2006-12-09,Sunderland,Luton,1.72,3.3,4.5
+2006-12-09,Wolves,Leicester,1.8,3.25,4.33
+2006-12-09,Reggina,Ascoli,1.72,3.1,5.5
+2006-12-09,Palermo,Livorno,1.57,3.5,6.5
+2006-12-09,Lokeren,Waregem,1.95,3.2,3.5
+2006-12-09,Mouscron,Lierse,1.4,4.0,6.5
+2006-12-09,St Truiden,Roeselare,1.9,3.25,3.5
+2006-12-09,Valenciennes,Sochaux,2.4,2.75,3.0
+2006-12-09,Westerlo,Cercle Brugge,1.61,3.5,4.75
+2006-12-09,Coventry,Burnley,2.1,3.2,3.2
+2006-12-09,Cardiff,Ipswich,1.8,3.3,4.0
+2006-12-09,Crystal Palace,Colchester,1.8,3.3,4.0
+2006-12-09,Groningen,PSV Eindhoven,6.5,3.8,1.44
+2006-12-09,Tottenham,Charlton,1.53,4.0,6.0
+2006-12-09,Watford,Reading,2.6,3.2,2.62
+2006-12-09,Birmingham,Preston,1.8,3.3,4.0
+2006-12-09,Setubal,Sp Lisbon,5.25,3.5,1.57
+2006-12-09,Troyes,Auxerre,2.5,2.75,2.9
+2006-12-09,Heracles,Sparta,1.95,3.25,3.4
+2006-12-09,NAC Breda,Excelsior,1.61,3.4,4.75
+2006-12-09,Nijmegen,Utrecht,2.05,3.25,3.1
+2006-12-09,Boavista,Beira Mar,1.53,3.5,6.0
+2006-12-10,FC Brussels,Anderlecht,5.0,3.6,1.57
+2006-12-10,Club Brugge,Standard,1.83,3.25,3.75
+2006-12-10,Pacos Ferreira,Est Amadora,1.7,3.4,4.5
+2006-12-10,Naval,Benfica,4.5,3.3,1.7
+2006-12-10,Willem II,Twente,3.5,3.3,1.9
+2006-12-10,Lyon,Paris SG,1.4,4.0,9.0
+2006-12-10,Barnsley,West Brom,2.7,3.25,2.5
+2006-12-10,Ajax,AZ Alkmaar,1.9,3.3,3.4
+2006-12-10,Feyenoord,Den Haag,1.16,5.5,12.0
+2006-12-10,Vitesse,Waalwijk,1.61,3.4,4.75
+2006-12-10,Academica,Maritimo,2.25,3.25,2.8
+2006-12-10,Aves,Leiria,2.6,3.1,2.5
+2006-12-10,Lille,St Etienne,1.8,3.1,5.0
+2006-12-10,Ath Bilbao,Recreativo,2.25,3.1,3.2
+2006-12-10,Sampdoria,Siena,1.9,3.1,4.33
+2006-12-10,Augsburg,Braunschweig,1.65,3.5,4.33
+2006-12-10,Duisburg,Paderborn,1.44,3.75,6.5
+2006-12-10,Greuther Furth,Unterhaching,1.66,3.5,4.5
+2006-12-10,Hansa Rostock,Munich 1860,1.7,3.4,4.5
+2006-12-10,Offenbach,FC Koln,2.87,3.2,2.25
+2006-12-10,Atalanta,Messina,1.72,3.3,5.0
+2006-12-10,Cagliari,Parma,1.9,3.0,4.5
+2006-12-10,Ath Madrid,Espanol,1.8,3.3,4.5
+2006-12-10,Catania,Udinese,2.5,2.87,3.0
+2006-12-10,Empoli,Inter,7.0,3.4,1.57
+2006-12-10,Lazio,Roma,3.2,2.87,2.4
+2006-12-10,Milan,Torino,1.36,4.0,11.0
+2006-12-10,Valencia,La Coruna,1.66,3.4,5.5
+2006-12-10,Santander,Zaragoza,3.1,3.2,2.25
+2006-12-10,Osasuna,Mallorca,2.1,3.2,3.5
+2006-12-10,Gimnastic,Levante,2.37,3.1,3.0
+2006-12-10,Getafe,Betis,2.0,3.0,4.0
+2006-12-10,Celta,Villarreal,2.37,3.1,3.0
+2006-12-10,Chievo,Fiorentina,3.25,3.0,2.3
+2006-12-10,Chelsea,Arsenal,1.72,3.4,5.0
+2006-12-11,Freiburg,Karlsruhe,2.4,3.1,2.62
+2006-12-11,Sheffield United,Aston Villa,2.62,3.2,2.6
+2006-12-11,Nacional,Porto,4.0,3.5,1.75
+2006-12-13,Chelsea,Newcastle,1.2,6.0,13.0
+2006-12-13,Wigan,Arsenal,4.75,3.5,1.72
+2006-12-15,Maritimo,Belenenses,1.75,3.2,5.0
+2006-12-15,PSV Eindhoven,Heracles,1.07,9.0,26.0
+2006-12-15,Unterhaching,Hansa Rostock,3.25,3.2,2.15
+2006-12-15,CZ Jena,Augsburg,2.4,3.1,2.9
+2006-12-15,FC Koln,Kaiserslautern,2.05,3.3,3.5
+2006-12-15,Luton,Southend,1.8,3.4,4.33
+2006-12-15,Standard,Mouscron,1.28,4.5,9.0
+2006-12-16,Anderlecht,Bergen,1.15,6.5,11.0
+2006-12-16,Nancy,Marseille,2.4,2.87,3.25
+2006-12-16,Nantes,Bordeaux,2.62,2.75,2.7
+2006-12-16,Benfica,Setubal,1.2,5.25,11.0
+2006-12-16,Rennes,Troyes,1.66,3.3,4.75
+2006-12-16,Sedan,Lille,3.6,3.0,2.0
+2006-12-16,St Etienne,Valenciennes,1.5,3.5,6.0
+2006-12-16,Roeselare,Germinal,1.83,3.3,3.75
+2006-12-16,Mallorca,Santander,2.1,3.1,3.6
+2006-12-16,Zaragoza,Valencia,2.3,3.1,3.1
+2006-12-16,Lierse,Lokeren,2.7,3.1,2.37
+2006-12-16,Sp Lisbon,Academica,1.2,5.25,11.0
+2006-12-16,Arsenal,Portsmouth,1.4,4.33,7.5
+2006-12-16,Gent,Westerlo,1.72,3.3,4.33
+2006-12-16,Genk,FC Brussels,1.28,4.5,9.0
+2006-12-16,Beveren,St Truiden,2.1,3.2,3.1
+2006-12-16,Monaco,Sochaux,2.1,2.8,3.4
+2006-12-16,Aston Villa,Bolton,2.4,3.2,2.87
+2006-12-16,La Coruna,Ath Bilbao,2.0,3.2,3.75
+2006-12-16,Le Mans,Toulouse,2.15,2.8,3.5
+2006-12-16,Udinese,Cagliari,2.0,2.8,4.5
+2006-12-16,Fiorentina,Milan,2.5,2.87,3.0
+2006-12-16,Burnley,Sunderland,2.3,3.1,2.9
+2006-12-16,Colchester,Stoke,2.45,3.2,2.62
+2006-12-16,Derby,Crystal Palace,1.8,3.2,4.33
+2006-12-16,Hull,Cardiff,2.9,3.1,2.3
+2006-12-16,Ipswich,Leeds,1.9,3.3,3.5
+2006-12-16,Leicester,Barnsley,1.83,3.25,3.75
+2006-12-16,Preston,Plymouth,1.7,3.4,4.5
+2006-12-16,QPR,Wolves,2.37,3.3,2.7
+2006-12-16,Southampton,Norwich,1.7,3.4,4.5
+2006-12-16,West Brom,Coventry,1.8,3.3,4.0
+2006-12-16,Charlton,Liverpool,6.0,3.8,1.53
+2006-12-16,Sheffield Weds,Birmingham,2.87,3.3,2.2
+2006-12-16,Newcastle,Watford,1.72,3.4,5.0
+2006-12-16,Reading,Blackburn,2.1,3.25,3.4
+2006-12-16,Wigan,Sheffield United,1.8,3.4,4.33
+2006-12-16,Sparta,NAC Breda,2.1,3.2,3.1
+2006-12-16,Roda JC,Vitesse,1.9,3.2,3.75
+2006-12-16,Den Haag,Willem II,1.9,3.25,3.6
+2006-12-17,Cercle Brugge,Club Brugge,6.5,3.75,1.44
+2006-12-17,Livorno,Lazio,2.6,3.1,2.7
+2006-12-17,Inter,Messina,1.14,6.5,21.0
+2006-12-17,Ascoli,Torino,3.0,2.75,2.6
+2006-12-17,West Ham,Man United,6.5,4.0,1.44
+2006-12-17,Everton,Chelsea,5.5,3.8,1.57
+2006-12-17,Auxerre,Lorient,1.85,3.1,4.5
+2006-12-17,Porto,Pacos Ferreira,1.2,5.25,11.0
+2006-12-17,Naval,Leiria,2.25,3.1,2.87
+2006-12-17,Est Amadora,Aves,1.7,3.3,4.5
+2006-12-17,Beira Mar,Nacional,3.1,3.1,2.1
+2006-12-17,Lens,Lyon,3.75,3.1,2.05
+2006-12-17,Parma,Chievo,2.2,3.0,3.4
+2006-12-17,Paris SG,Nice,1.75,3.0,4.75
+2006-12-17,Waregem,Charleroi,2.4,3.2,2.62
+2006-12-17,Man City,Tottenham,2.5,3.2,2.75
+2006-12-17,Reggina,Sampdoria,2.3,2.87,3.4
+2006-12-17,Twente,Heerenveen,1.75,3.2,4.5
+2006-12-17,Siena,Atalanta,2.3,2.87,3.4
+2006-12-17,Utrecht,Feyenoord,2.75,3.2,2.3
+2006-12-17,Waalwijk,Nijmegen,2.3,3.2,2.75
+2006-12-17,AZ Alkmaar,Groningen,1.22,5.0,10.0
+2006-12-17,Ath Madrid,Getafe,1.75,3.3,4.75
+2006-12-17,Espanol,Real Madrid,4.0,3.25,1.9
+2006-12-17,Levante,Celta,2.5,3.2,2.75
+2006-12-17,Recreativo,Sevilla,3.6,3.3,2.0
+2006-12-17,Sociedad,Gimnastic,1.9,3.25,4.0
+2006-12-17,Villarreal,Osasuna,1.9,3.25,4.0
+2006-12-17,Excelsior,Ajax,8.0,5.0,1.25
+2006-12-17,Roma,Palermo,1.9,3.25,4.0
+2006-12-17,Braunschweig,Offenbach,2.25,3.2,2.8
+2006-12-17,Essen,Duisburg,3.3,3.25,2.0
+2006-12-17,Karlsruhe,Greuther Furth,1.61,3.4,5.0
+2006-12-17,Koblenz,Freiburg,2.45,3.0,2.7
+2006-12-17,Paderborn,Burghausen,1.9,3.25,3.5
+2006-12-18,Fulham,Middlesbrough,2.25,3.2,3.1
+2006-12-18,Sp Braga,Boavista,1.72,3.2,4.5
+2006-12-18,Munich 1860,Erzgebirge Aue,2.0,3.2,3.3
+2006-12-19,Ath Bilbao,Zaragoza,2.62,3.2,2.62
+2006-12-19,Valencia,Mallorca,1.4,4.33,7.5
+2006-12-20,Santander,Villarreal,2.4,3.3,2.8
+2006-12-20,Atalanta,Udinese,2.25,2.87,3.5
+2006-12-20,Cagliari,Fiorentina,3.2,2.9,2.37
+2006-12-20,Gimnastic,Betis,2.6,3.2,2.62
+2006-12-20,Torino,Roma,4.5,3.25,1.83
+2006-12-20,Sampdoria,Livorno,2.0,3.0,4.0
+2006-12-20,Palermo,Ascoli,1.25,5.0,13.0
+2006-12-20,Milan,Catania,1.33,4.33,10.0
+2006-12-20,Messina,Parma,2.2,2.87,3.6
+2006-12-20,Lazio,Inter,4.0,3.0,2.0
+2006-12-20,Empoli,Siena,2.1,2.9,3.8
+2006-12-20,Getafe,Espanol,2.0,3.2,3.75
+2006-12-20,Real Madrid,Recreativo,1.3,4.5,12.0
+2006-12-20,Celta,Sociedad,1.66,3.4,5.5
+2006-12-20,Chievo,Reggina,2.05,2.9,4.0
+2006-12-20,Osasuna,Levante,1.72,3.6,4.5
+2006-12-20,Sevilla,La Coruna,1.4,4.33,7.5
+2006-12-21,Barcelona,Ath Madrid,1.44,4.33,6.5
+2006-12-21,Benfica,Belenenses,1.28,4.5,8.5
+2006-12-22,Crystal Palace,Sunderland,2.5,3.25,2.7
+2006-12-22,Marseille,St Etienne,1.83,3.25,4.5
+2006-12-22,Heracles,Groningen,2.75,3.4,2.37
+2006-12-23,Reggina,Empoli,2.2,2.87,3.6
+2006-12-23,Sochaux,Nancy,2.0,3.0,4.0
+2006-12-23,Nice,Lens,2.6,3.0,2.8
+2006-12-23,Lyon,Monaco,1.33,4.5,9.5
+2006-12-23,Lorient,Rennes,2.5,3.0,2.87
+2006-12-23,Lille,Auxerre,1.66,3.4,5.5
+2006-12-23,Bordeaux,Le Mans,1.72,3.3,5.0
+2006-12-23,Wolves,Norwich,1.9,3.25,3.75
+2006-12-23,Southend,Birmingham,4.5,3.4,1.72
+2006-12-23,Sheffield Weds,Southampton,2.4,3.2,2.7
+2006-12-23,Preston,Colchester,1.72,3.4,4.5
+2006-12-23,Toulouse,Nantes,1.72,3.3,5.0
+2006-12-23,Plymouth,West Brom,2.75,3.2,2.37
+2006-12-23,Luton,Coventry,2.25,3.25,2.87
+2006-12-23,Leicester,Cardiff,2.3,3.4,2.7
+2006-12-23,Leeds,Hull,2.1,3.25,3.2
+2006-12-23,Ipswich,Stoke,2.3,3.25,2.8
+2006-12-23,Burnley,Derby,2.4,3.2,2.7
+2006-12-23,Portsmouth,Sheffield United,1.66,3.6,5.0
+2006-12-23,Reading,Everton,2.3,3.25,3.0
+2006-12-23,Wigan,Chelsea,7.5,4.33,1.4
+2006-12-23,QPR,Barnsley,2.0,3.25,3.4
+2006-12-23,Troyes,Paris SG,2.8,3.0,2.6
+2006-12-23,Valenciennes,Sedan,1.83,3.0,5.0
+2006-12-23,Feyenoord,Sparta,1.25,5.0,9.0
+2006-12-23,Siena,Palermo,3.4,3.0,2.2
+2006-12-23,Udinese,Milan,3.4,3.0,2.2
+2006-12-23,Ascoli,Chievo,3.0,2.87,2.5
+2006-12-23,NAC Breda,Den Haag,1.66,3.4,4.5
+2006-12-23,Catania,Sampdoria,2.37,2.87,3.25
+2006-12-23,Fiorentina,Messina,1.28,4.5,13.0
+2006-12-23,Inter,Atalanta,1.25,5.0,13.0
+2006-12-23,Livorno,Torino,2.25,2.87,3.5
+2006-12-23,Newcastle,Tottenham,2.5,3.2,2.75
+2006-12-23,Parma,Lazio,3.0,2.87,2.37
+2006-12-23,PSV Eindhoven,Willem II,1.08,7.5,17.0
+2006-12-23,Middlesbrough,Charlton,1.72,3.4,5.0
+2006-12-23,Man City,Bolton,2.4,3.25,2.87
+2006-12-23,Liverpool,Watford,1.2,6.0,13.0
+2006-12-23,Fulham,West Ham,2.37,3.25,2.87
+2006-12-23,Aston Villa,Man United,5.5,3.6,1.61
+2006-12-23,Arsenal,Blackburn,1.33,4.5,9.5
+2006-12-23,Heerenveen,Excelsior,1.25,5.0,9.0
+2006-12-23,Roma,Cagliari,1.25,5.0,13.0
+2006-12-24,Vitesse,Ajax,5.5,3.6,1.5
+2006-12-24,Waalwijk,Utrecht,2.62,3.2,2.37
+2006-12-24,AZ Alkmaar,Nijmegen,1.25,5.0,9.0
+2006-12-24,Roda JC,Twente,2.8,3.25,2.25
+2006-12-26,Barnsley,Burnley,2.5,3.25,2.5
+2006-12-26,Chelsea,Reading,1.18,6.0,15.0
+2006-12-26,Bolton,Newcastle,1.9,3.3,4.0
+2006-12-26,Blackburn,Liverpool,4.2,3.4,1.83
+2006-12-26,Derby,Wolves,1.9,3.25,3.6
+2006-12-26,Coventry,Ipswich,1.83,3.3,3.75
+2006-12-26,Colchester,Luton,1.8,3.3,4.0
+2006-12-26,Everton,Middlesbrough,1.83,3.25,4.5
+2006-12-26,Southampton,Crystal Palace,1.72,3.4,4.33
+2006-12-26,Stoke,Sheffield Weds,1.83,3.25,4.0
+2006-12-26,Sunderland,Leeds,1.66,3.4,4.5
+2006-12-26,West Brom,Preston,2.0,3.25,3.4
+2006-12-26,Cardiff,Plymouth,1.8,3.3,4.0
+2006-12-26,Birmingham,QPR,1.33,4.33,8.0
+2006-12-26,Hull,Leicester,2.3,3.2,2.8
+2006-12-26,Man United,Wigan,1.18,6.0,15.0
+2006-12-26,Norwich,Southend,1.57,3.5,5.5
+2006-12-26,Tottenham,Aston Villa,1.8,3.2,4.75
+2006-12-26,Feyenoord,PSV Eindhoven,3.1,3.2,2.1
+2006-12-26,Groningen,Sparta,1.5,3.5,6.5
+2006-12-26,Willem II,Excelsior,2.0,3.2,3.4
+2006-12-26,Watford,Arsenal,8.0,4.2,1.4
+2006-12-26,West Ham,Portsmouth,2.25,3.2,3.1
+2006-12-26,Sheffield United,Man City,2.3,3.25,3.0
+2006-12-27,Twente,AZ Alkmaar,3.1,3.2,2.1
+2006-12-27,Nijmegen,Heerenveen,2.2,3.2,2.9
+2006-12-27,NAC Breda,Vitesse,2.2,3.2,2.9
+2006-12-27,Den Haag,Waalwijk,2.1,3.2,3.1
+2006-12-27,Ajax,Roda JC,1.25,5.0,9.0
+2006-12-27,Charlton,Fulham,2.5,3.25,2.7
+2006-12-27,Utrecht,Heracles,1.44,3.75,6.5
+2006-12-29,Birmingham,Luton,1.36,4.5,8.0
+2006-12-29,Excelsior,Feyenoord,6.0,4.0,1.5
+2006-12-30,Barnsley,Sheffield Weds,2.4,3.25,2.62
+2006-12-30,Colchester,Wolves,2.0,3.25,3.4
+2006-12-30,West Brom,Ipswich,1.66,3.5,4.5
+2006-12-30,Coventry,Southend,1.61,3.5,5.0
+2006-12-30,Derby,Plymouth,1.72,3.25,4.5
+2006-12-30,Sunderland,Preston,2.1,3.2,3.2
+2006-12-30,Stoke,Leeds,1.61,3.5,5.0
+2006-12-30,Southampton,Leicester,1.61,3.5,5.0
+2006-12-30,Hull,Burnley,2.3,3.25,2.75
+2006-12-30,Cardiff,Crystal Palace,1.9,3.25,3.6
+2006-12-30,Blackburn,Middlesbrough,2.0,3.2,3.75
+2006-12-30,Nijmegen,Ajax,4.75,3.75,1.53
+2006-12-30,Bolton,Portsmouth,2.0,3.2,3.75
+2006-12-30,Charlton,Aston Villa,2.6,3.2,2.62
+2006-12-30,Chelsea,Fulham,1.14,6.5,21.0
+2006-12-30,Everton,Newcastle,2.1,3.25,3.4
+2006-12-30,Man United,Reading,1.2,6.0,13.0
+2006-12-30,Sheffield United,Arsenal,6.0,4.0,1.5
+2006-12-30,Tottenham,Liverpool,2.6,3.2,2.62
+2006-12-30,West Ham,Man City,2.1,3.2,3.5
+2006-12-30,Heerenveen,Utrecht,1.7,3.6,4.2
+2006-12-30,Norwich,QPR,1.83,3.2,4.0
+2006-12-30,Waalwijk,Groningen,2.62,3.25,2.37
+2006-12-30,Sparta,Twente,3.75,3.5,1.83
+2006-12-30,PSV Eindhoven,Den Haag,1.08,7.5,21.0
+2006-12-31,Heracles,Vitesse,2.7,3.4,2.25
+2006-12-31,AZ Alkmaar,Roda JC,1.25,5.0,9.0
+2007-01-01,Leeds,Coventry,2.3,3.4,2.87
+2007-01-01,QPR,Colchester,2.3,3.25,2.75
+2007-01-01,Crystal Palace,Norwich,2.0,3.25,3.4
+2007-01-01,Luton,Cardiff,2.37,3.25,2.7
+2007-01-01,Plymouth,Southampton,2.62,3.25,2.4
+2007-01-01,Preston,Derby,1.9,3.25,3.6
+2007-01-01,Sheffield Weds,Hull,1.66,3.4,5.0
+2007-01-01,Southend,West Brom,3.6,3.25,1.9
+2007-01-01,Leicester,Sunderland,2.5,3.25,2.5
+2007-01-01,Ipswich,Birmingham,3.25,3.25,2.1
+2007-01-01,Man City,Everton,2.37,3.2,2.9
+2007-01-01,Wigan,Blackburn,2.37,3.2,2.9
+2007-01-01,Reading,West Ham,2.1,3.2,3.5
+2007-01-01,Portsmouth,Tottenham,2.4,3.2,2.87
+2007-01-01,Newcastle,Man United,6.5,3.75,1.53
+2007-01-01,Middlesbrough,Sheffield United,1.8,3.4,4.5
+2007-01-01,Wolves,Barnsley,1.66,3.4,5.0
+2007-01-01,Liverpool,Bolton,1.61,3.4,6.0
+2007-01-01,Fulham,Watford,1.66,3.4,5.5
+2007-01-02,Arsenal,Charlton,1.22,5.5,13.0
+2007-01-02,Aston Villa,Chelsea,6.5,3.75,1.53
+2007-01-06,Sociedad,Osasuna,2.4,3.2,2.87
+2007-01-06,Ath Madrid,Gimnastic,1.3,4.75,10.0
+2007-01-06,Zaragoza,Sevilla,2.6,3.2,2.62
+2007-01-07,Espanol,Recreativo,2.0,3.2,3.75
+2007-01-07,Betis,Celta,2.37,3.2,2.9
+2007-01-07,Getafe,Barcelona,5.0,3.4,1.72
+2007-01-07,Mallorca,Ath Bilbao,2.25,3.2,3.1
+2007-01-07,La Coruna,Real Madrid,4.33,3.3,1.83
+2007-01-07,Levante,Santander,2.3,3.1,3.1
+2007-01-07,Villarreal,Valencia,2.75,3.2,2.5
+2007-01-12,Boavista,Maritimo,1.9,3.1,4.33
+2007-01-12,West Brom,Luton,1.53,3.6,6.5
+2007-01-13,Valencia,Levante,1.36,4.2,9.5
+2007-01-13,Espanol,Barcelona,5.5,3.4,1.66
+2007-01-13,Auxerre,Sochaux,2.05,2.87,3.6
+2007-01-13,Man United,Aston Villa,1.25,5.5,11.0
+2007-01-13,Empoli,Parma,2.1,2.87,4.0
+2007-01-13,Nacional,Sp Braga,2.45,3.1,2.87
+2007-01-13,Toulouse,Lyon,6.0,3.5,1.5
+2007-01-13,Sedan,Nancy,2.37,2.9,2.9
+2007-01-13,Paris SG,Valenciennes,1.5,3.4,7.0
+2007-01-13,Watford,Liverpool,6.5,3.75,1.53
+2007-01-13,Sheffield United,Portsmouth,2.6,3.2,2.62
+2007-01-13,Belenenses,Sp Lisbon,5.25,3.3,1.72
+2007-01-13,Torino,Inter,7.0,3.4,1.57
+2007-01-13,West Ham,Fulham,2.1,3.3,3.4
+2007-01-13,Barnsley,Preston,2.75,3.25,2.3
+2007-01-13,Bordeaux,Lorient,1.61,3.25,5.5
+2007-01-13,Le Mans,Troyes,1.75,3.0,4.75
+2007-01-13,Blackburn,Arsenal,4.2,3.4,1.83
+2007-01-13,Bolton,Man City,1.8,3.25,4.75
+2007-01-13,Charlton,Middlesbrough,2.5,3.2,2.75
+2007-01-13,Chelsea,Wigan,1.2,6.0,13.0
+2007-01-13,Nantes,Nice,2.0,2.87,3.8
+2007-01-13,Sunderland,Ipswich,1.72,3.3,4.5
+2007-01-13,Stoke,Wolves,2.1,3.2,3.2
+2007-01-13,Lens,Lille,2.1,3.0,3.75
+2007-01-13,Norwich,Plymouth,2.0,3.3,3.3
+2007-01-13,Hull,QPR,2.1,3.2,3.2
+2007-01-13,Derby,Sheffield Weds,1.83,3.25,4.0
+2007-01-13,Coventry,Crystal Palace,2.25,3.2,2.87
+2007-01-13,Colchester,Leicester,1.83,3.25,4.0
+2007-01-13,Cardiff,Southend,1.61,3.5,5.0
+2007-01-13,Southampton,Burnley,1.61,3.5,5.0
+2007-01-14,St Etienne,Monaco,2.0,3.1,4.0
+2007-01-14,Rennes,Marseille,2.3,3.1,3.1
+2007-01-14,Ath Bilbao,Villarreal,2.3,3.1,3.1
+2007-01-14,Real Madrid,Zaragoza,1.66,3.5,5.0
+2007-01-14,Aves,Porto,8.0,4.2,1.4
+2007-01-14,Celta,Ath Madrid,2.6,3.2,2.62
+2007-01-14,Gimnastic,Getafe,2.7,3.1,2.6
+2007-01-14,Osasuna,Betis,2.05,3.2,3.6
+2007-01-14,Recreativo,La Coruna,2.25,3.2,3.1
+2007-01-14,Messina,Roma,7.0,3.4,1.57
+2007-01-14,Sevilla,Mallorca,1.33,4.5,9.5
+2007-01-14,Lazio,Siena,1.66,3.2,6.0
+2007-01-14,Chievo,Catania,2.25,3.1,3.2
+2007-01-14,Palermo,Udinese,1.8,3.2,4.75
+2007-01-14,Sampdoria,Fiorentina,2.8,2.87,2.7
+2007-01-14,Everton,Reading,2.0,3.2,3.75
+2007-01-14,Setubal,Naval,2.25,3.2,2.8
+2007-01-14,Pacos Ferreira,Beira Mar,1.7,3.2,4.75
+2007-01-14,Leiria,Est Amadora,1.75,3.2,4.2
+2007-01-14,Willem II,NAC Breda,2.3,3.4,2.87
+2007-01-14,Santander,Sociedad,2.1,3.2,3.5
+2007-01-14,Milan,Reggina,1.28,5.0,10.0
+2007-01-14,Atalanta,Livorno,2.0,3.0,4.0
+2007-01-14,Tottenham,Newcastle,1.8,3.4,4.5
+2007-01-14,Cagliari,Ascoli,1.72,3.1,5.75
+2007-01-15,Academica,Benfica,5.0,3.4,1.61
+2007-01-17,Paris SG,Toulouse,1.85,3.0,4.0
+2007-01-19,CZ Jena,Offenbach,2.37,3.2,2.9
+2007-01-19,Essen,Kaiserslautern,3.6,3.3,2.0
+2007-01-19,Den Haag,AZ Alkmaar,6.5,4.2,1.44
+2007-01-19,Waregem,Genk,3.25,3.2,2.05
+2007-01-19,Unterhaching,Erzgebirge Aue,2.25,3.2,3.1
+2007-01-20,PSV Eindhoven,Heerenveen,1.28,5.0,10.0
+2007-01-20,Wolves,Cardiff,1.83,3.25,4.0
+2007-01-20,Waalwijk,Twente,3.8,3.4,1.83
+2007-01-20,Roda JC,Willem II,1.5,3.6,5.75
+2007-01-20,Southend,Derby,2.87,3.3,2.2
+2007-01-20,Villarreal,Sevilla,2.87,3.2,2.4
+2007-01-20,Ath Madrid,Osasuna,1.9,3.25,4.0
+2007-01-20,Heracles,Nijmegen,2.55,3.2,2.5
+2007-01-20,QPR,Southampton,2.62,3.25,2.4
+2007-01-20,Crystal Palace,Hull,1.72,3.4,4.33
+2007-01-20,Aston Villa,Watford,1.57,3.6,6.0
+2007-01-20,Fulham,Tottenham,2.87,3.2,2.4
+2007-01-20,Liverpool,Chelsea,2.87,3.0,2.5
+2007-01-20,Man City,Blackburn,2.25,3.2,3.1
+2007-01-20,Middlesbrough,Bolton,2.5,3.2,2.75
+2007-01-20,Newcastle,West Ham,1.8,3.4,4.33
+2007-01-20,Portsmouth,Charlton,1.57,3.8,5.5
+2007-01-20,Reading,Sheffield United,1.83,3.3,4.33
+2007-01-20,Sheffield Weds,Sunderland,2.37,3.2,2.7
+2007-01-20,Roeselare,Westerlo,2.25,3.3,2.75
+2007-01-20,Lierse,Charleroi,4.0,3.5,1.72
+2007-01-20,Beveren,Germinal,2.4,3.2,2.6
+2007-01-20,Cercle Brugge,Mouscron,2.1,3.2,3.1
+2007-01-20,Anderlecht,St Truiden,1.25,5.0,9.0
+2007-01-20,Reggina,Palermo,3.1,3.1,2.3
+2007-01-20,Ascoli,Atalanta,3.25,3.0,2.3
+2007-01-20,Ipswich,Colchester,2.1,3.2,3.2
+2007-01-20,Leeds,West Brom,2.8,3.25,2.4
+2007-01-20,Luton,Barnsley,1.9,3.25,3.6
+2007-01-20,Preston,Stoke,1.72,3.4,4.33
+2007-01-20,Bergen,FC Brussels,2.25,3.3,2.75
+2007-01-21,Sparta,Excelsior,1.75,3.4,4.75
+2007-01-21,Sociedad,Valencia,3.6,3.1,2.1
+2007-01-21,Zaragoza,Recreativo,1.85,3.3,4.2
+2007-01-21,Vitesse,Groningen,2.0,3.3,3.6
+2007-01-21,Mallorca,Real Madrid,4.33,3.4,1.8
+2007-01-21,Levante,Ath Bilbao,2.3,3.25,3.0
+2007-01-21,Paderborn,Braunschweig,1.72,3.25,4.33
+2007-01-21,NAC Breda,Feyenoord,3.8,3.3,1.95
+2007-01-21,Siena,Chievo,2.2,2.8,3.75
+2007-01-21,Udinese,Messina,1.57,3.4,7.0
+2007-01-21,Parma,Torino,2.5,2.8,3.1
+2007-01-21,Livorno,Roma,4.5,3.0,1.9
+2007-01-21,Lazio,Milan,3.4,3.0,2.2
+2007-01-21,Inter,Fiorentina,1.53,3.5,7.0
+2007-01-21,Empoli,Sampdoria,2.5,2.8,3.1
+2007-01-21,Catania,Cagliari,2.1,2.8,4.0
+2007-01-21,Ajax,Utrecht,1.3,5.0,9.0
+2007-01-21,Munich 1860,Greuther Furth,1.85,3.25,3.8
+2007-01-21,Arsenal,Man United,2.5,3.1,2.8
+2007-01-21,Karlsruhe,Burghausen,1.36,4.2,7.5
+2007-01-21,Gent,Club Brugge,2.37,3.25,2.6
+2007-01-21,Standard,Lokeren,1.33,4.33,7.5
+2007-01-21,Koblenz,Duisburg,3.5,3.25,1.9
+2007-01-21,Barcelona,Gimnastic,1.12,7.0,21.0
+2007-01-21,Betis,Santander,2.05,3.2,3.6
+2007-01-21,Getafe,Celta,2.1,3.2,3.5
+2007-01-21,Wigan,Everton,2.5,3.2,2.75
+2007-01-21,FC Koln,Augsburg,1.61,3.4,5.0
+2007-01-21,La Coruna,Espanol,2.1,3.2,3.5
+2007-01-22,Plymouth,Coventry,1.91,3.3,4.0
+2007-01-22,Hansa Rostock,Freiburg,1.66,3.4,4.75
+2007-01-23,Burnley,Stoke,2.37,3.25,2.75
+2007-01-23,Watford,Blackburn,3.4,3.25,2.1
+2007-01-24,Betis,Barcelona,6.0,3.6,1.57
+2007-01-24,Lille,Paris SG,1.83,3.1,4.75
+2007-01-24,Lorient,Lens,2.75,2.75,2.6
+2007-01-24,Lyon,Bordeaux,1.4,3.75,8.5
+2007-01-24,Marseille,Auxerre,1.72,3.2,4.5
+2007-01-24,Sochaux,Sedan,1.5,3.4,6.5
+2007-01-24,Valenciennes,Le Mans,2.1,2.8,3.5
+2007-01-24,Troyes,Nantes,2.25,2.8,3.2
+2007-01-24,Nice,Toulouse,2.25,2.8,3.2
+2007-01-24,Monaco,Rennes,1.83,3.0,4.33
+2007-01-24,Catania,Empoli,2.25,2.87,3.5
+2007-01-25,Nancy,St Etienne,2.05,3.0,3.8
+2007-01-26,Charleroi,Standard,3.0,3.1,2.15
+2007-01-26,Braunschweig,CZ Jena,2.2,3.1,3.3
+2007-01-26,Leiria,Porto,6.5,3.75,1.53
+2007-01-26,Heerenveen,Heracles,1.3,4.75,9.5
+2007-01-26,Burghausen,FC Koln,3.6,3.3,2.0
+2007-01-27,AZ Alkmaar,Sparta,1.18,5.25,12.0
+2007-01-27,Utrecht,Excelsior,1.36,4.0,7.5
+2007-01-27,Willem II,Vitesse,2.9,3.4,2.1
+2007-01-27,Torino,Udinese,2.5,2.87,3.0
+2007-01-27,Palermo,Lazio,1.9,3.1,4.33
+2007-01-27,Nijmegen,NAC Breda,2.05,3.3,3.2
+2007-01-27,Le Mans,Marseille,3.0,2.75,2.62
+2007-01-27,Nantes,Lorient,1.9,2.9,4.0
+2007-01-27,Lyon,Nice,1.16,5.5,13.0
+2007-01-27,Pacos Ferreira,Sp Braga,2.62,3.0,2.5
+2007-01-27,Bordeaux,Lille,2.15,2.9,3.8
+2007-01-27,Cardiff,Leicester,1.8,3.3,4.0
+2007-01-27,FC Brussels,Waregem,2.37,3.1,2.75
+2007-01-27,Genk,Lierse,1.14,6.0,15.0
+2007-01-27,Lokeren,Cercle Brugge,1.95,3.25,3.4
+2007-01-27,Mouscron,Gent,3.1,3.25,2.05
+2007-01-27,Paris SG,Sochaux,1.9,2.87,4.0
+2007-01-27,St Truiden,Bergen,1.8,3.25,4.0
+2007-01-27,Rennes,Valenciennes,1.7,3.2,4.75
+2007-01-27,Sedan,Monaco,3.0,2.75,2.45
+2007-01-27,Toulouse,Troyes,1.75,3.0,4.75
+2007-01-27,Ath Madrid,Santander,1.72,3.4,5.0
+2007-01-27,Villarreal,Real Madrid,3.75,3.2,2.0
+2007-01-27,Westerlo,Beveren,1.57,3.6,5.0
+2007-01-27,Club Brugge,Roeselare,1.25,4.75,9.0
+2007-01-28,Auxerre,Nancy,2.0,2.8,4.5
+2007-01-28,Lens,St Etienne,1.83,3.1,4.75
+2007-01-28,Sociedad,Ath Bilbao,2.3,3.1,3.1
+2007-01-28,Zaragoza,La Coruna,1.9,3.25,4.0
+2007-01-28,Greuther Furth,Koblenz,1.61,3.4,5.0
+2007-01-28,Cagliari,Reggina,2.1,2.8,4.0
+2007-01-28,Chievo,Empoli,2.25,2.8,3.6
+2007-01-28,Mallorca,Recreativo,2.3,3.25,3.0
+2007-01-28,Levante,Sevilla,4.0,3.25,1.9
+2007-01-28,Gimnastic,Espanol,3.1,3.2,2.25
+2007-01-28,Offenbach,Munich 1860,2.3,3.1,2.8
+2007-01-28,Twente,Den Haag,1.3,4.5,8.5
+2007-01-28,Roda JC,PSV Eindhoven,6.0,3.6,1.5
+2007-01-28,Groningen,Ajax,4.33,3.5,1.7
+2007-01-28,Feyenoord,Waalwijk,1.22,5.0,11.0
+2007-01-28,Fiorentina,Livorno,1.53,3.6,6.5
+2007-01-28,Barcelona,Celta,1.28,4.75,11.0
+2007-01-28,Atalanta,Catania,1.75,3.25,5.0
+2007-01-28,Betis,Valencia,3.4,3.25,2.1
+2007-01-28,Getafe,Osasuna,1.83,3.25,4.5
+2007-01-28,Freiburg,Essen,1.57,3.5,5.25
+2007-01-28,Roma,Siena,1.44,3.75,8.5
+2007-01-28,Duisburg,Unterhaching,1.55,3.6,5.25
+2007-01-28,Erzgebirge Aue,Hansa Rostock,2.6,3.1,2.5
+2007-01-28,Milan,Parma,1.28,4.75,12.0
+2007-01-28,Sampdoria,Inter,5.0,3.3,1.72
+2007-01-28,Germinal,Anderlecht,4.5,3.5,1.66
+2007-01-28,Est Amadora,Naval,2.5,3.1,2.62
+2007-01-28,Boavista,Sp Lisbon,3.6,3.2,1.95
+2007-01-28,Messina,Ascoli,1.75,3.25,5.0
+2007-01-28,Aves,Beira Mar,2.1,3.1,3.3
+2007-01-28,Academica,Setubal,1.75,3.25,4.2
+2007-01-28,Belenenses,Benfica,4.2,3.3,1.75
+2007-01-29,Nacional,Maritimo,2.0,3.1,3.4
+2007-01-29,Kaiserslautern,Karlsruhe,2.25,3.1,2.87
+2007-01-30,Barnsley,QPR,2.1,3.2,3.2
+2007-01-30,Birmingham,Southend,1.33,4.33,8.0
+2007-01-30,Augsburg,Paderborn,2.05,3.2,3.6
+2007-01-30,Sunderland,Crystal Palace,1.83,3.2,4.0
+2007-01-30,Colchester,Preston,2.3,3.25,2.75
+2007-01-30,Coventry,Luton,1.9,3.25,3.6
+2007-01-30,Norwich,Wolves,2.37,3.25,2.7
+2007-01-30,Sheffield United,Fulham,2.4,3.2,2.87
+2007-01-30,Reading,Wigan,1.8,3.3,4.5
+2007-01-30,Portsmouth,Middlesbrough,1.9,3.3,4.0
+2007-01-30,Hull,Leeds,2.1,3.2,3.2
+2007-01-30,Derby,Burnley,1.72,3.4,5.0
+2007-01-30,Stoke,Ipswich,1.72,3.4,4.33
+2007-01-30,West Ham,Liverpool,5.0,3.6,1.66
+2007-01-31,Southampton,Sheffield Weds,1.72,3.4,4.33
+2007-01-31,Newcastle,Aston Villa,2.1,3.2,3.5
+2007-01-31,Man United,Watford,1.14,7.0,17.0
+2007-01-31,Chelsea,Blackburn,1.28,5.0,10.0
+2007-01-31,Bolton,Charlton,1.5,4.0,6.0
+2007-01-31,West Brom,Plymouth,1.61,3.5,5.0
+2007-02-02,Karlsruhe,Offenbach,1.6,3.6,5.75
+2007-02-02,Erzgebirge Aue,Duisburg,2.37,3.25,2.8
+2007-02-02,Benfica,Boavista,1.36,4.33,9.5
+2007-02-02,Koblenz,Braunschweig,2.05,3.2,3.5
+2007-02-02,Cardiff,Barnsley,1.66,3.4,5.5
+2007-02-02,Groningen,Heerenveen,2.37,3.25,2.9
+2007-02-02,Catania,Palermo,2.87,2.87,2.6
+2007-02-02,Beveren,Club Brugge,5.0,3.5,1.57
+2007-02-03,Wolves,Plymouth,1.9,3.25,3.6
+2007-02-03,Roeselare,Mouscron,1.66,3.4,4.5
+2007-02-03,Lierse,Waregem,2.6,3.2,2.4
+2007-02-03,Gent,Lokeren,1.44,3.75,6.5
+2007-02-03,Cercle Brugge,Charleroi,2.45,3.2,2.55
+2007-02-03,Bergen,Germinal,2.5,3.2,2.5
+2007-02-03,Anderlecht,Westerlo,1.22,5.0,10.0
+2007-02-03,Wigan,Portsmouth,2.6,3.1,2.7
+2007-02-03,Porto,Est Amadora,1.18,5.0,15.0
+2007-02-03,Sp Lisbon,Nacional,1.44,3.8,6.5
+2007-02-03,Watford,Bolton,3.25,3.2,2.2
+2007-02-03,Aston Villa,West Ham,1.83,3.3,4.33
+2007-02-03,Blackburn,Sheffield United,1.72,3.5,4.75
+2007-02-03,Charlton,Chelsea,8.0,4.5,1.36
+2007-02-03,Fulham,Newcastle,2.3,3.25,3.0
+2007-02-03,Liverpool,Everton,1.57,3.6,6.0
+2007-02-03,Man City,Reading,2.2,3.2,3.25
+2007-02-03,Middlesbrough,Arsenal,4.33,3.4,1.8
+2007-02-03,Excelsior,Twente,5.0,3.6,1.65
+2007-02-03,Stoke,Southend,1.57,3.5,5.5
+2007-02-03,Heracles,Willem II,2.1,3.2,3.1
+2007-02-03,Sheffield Weds,Preston,2.5,3.25,2.5
+2007-02-03,NAC Breda,Waalwijk,1.66,3.3,4.75
+2007-02-03,Lille,Nantes,1.57,3.6,6.0
+2007-02-03,Lorient,Le Mans,2.15,2.8,3.4
+2007-02-03,Espanol,Zaragoza,2.5,3.2,2.75
+2007-02-03,La Coruna,Mallorca,2.0,3.2,3.75
+2007-02-03,Valencia,Ath Madrid,1.83,3.25,4.5
+2007-02-03,Monaco,Auxerre,1.85,2.9,4.2
+2007-02-03,Nancy,Toulouse,1.95,3.0,4.33
+2007-02-03,Southampton,Derby,2.1,3.25,3.1
+2007-02-03,Nice,Bordeaux,2.5,2.7,3.0
+2007-02-03,PSV Eindhoven,AZ Alkmaar,1.75,3.4,4.75
+2007-02-03,St Etienne,Sedan,1.45,3.6,6.5
+2007-02-03,Valenciennes,Lens,3.0,2.7,2.45
+2007-02-03,St Truiden,FC Brussels,1.95,3.25,3.4
+2007-02-03,Colchester,Birmingham,2.7,3.2,2.37
+2007-02-03,Crystal Palace,Ipswich,1.9,3.25,3.6
+2007-02-03,Hull,West Brom,2.7,3.2,2.37
+2007-02-03,Leicester,Luton,1.75,3.3,4.2
+2007-02-03,Norwich,Leeds,2.0,3.2,3.4
+2007-02-03,QPR,Burnley,2.3,3.25,2.8
+2007-02-03,Sochaux,Rennes,1.95,2.75,4.2
+2007-02-03,Sunderland,Coventry,1.61,3.5,5.0
+2007-02-04,Beira Mar,Leiria,2.87,3.0,2.37
+2007-02-04,Maritimo,Pacos Ferreira,1.9,3.1,3.8
+2007-02-04,Naval,Academica,1.75,3.1,4.5
+2007-02-04,Setubal,Belenenses,2.55,3.2,2.45
+2007-02-04,Ajax,Feyenoord,1.65,3.6,5.0
+2007-02-04,Recreativo,Villarreal,2.37,3.2,2.9
+2007-02-04,Real Madrid,Levante,1.28,5.0,10.0
+2007-02-04,Osasuna,Barcelona,5.5,3.6,1.61
+2007-02-04,Celta,Gimnastic,1.66,3.6,5.0
+2007-02-04,Ath Bilbao,Betis,2.15,3.2,3.4
+2007-02-04,Marseille,Paris SG,1.85,3.1,4.75
+2007-02-04,Troyes,Lyon,7.5,3.6,1.5
+2007-02-04,Den Haag,Utrecht,2.9,3.2,2.15
+2007-02-04,Standard,Genk,2.05,3.3,3.1
+2007-02-04,Santander,Getafe,2.4,3.25,2.8
+2007-02-04,Sevilla,Sociedad,1.28,5.0,10.0
+2007-02-04,Unterhaching,Freiburg,2.5,3.2,2.75
+2007-02-04,Paderborn,Kaiserslautern,3.1,3.3,2.25
+2007-02-04,Hansa Rostock,Greuther Furth,1.8,3.3,4.5
+2007-02-04,FC Koln,CZ Jena,1.33,4.75,9.0
+2007-02-04,Essen,Augsburg,2.3,3.25,2.9
+2007-02-04,Sp Braga,Aves,1.3,4.2,9.5
+2007-02-04,Vitesse,Nijmegen,1.83,3.3,4.33
+2007-02-04,Sparta,Roda JC,2.7,3.25,2.5
+2007-02-04,Tottenham,Man United,4.75,3.5,1.72
+2007-02-05,Munich 1860,Burghausen,1.65,3.4,5.75
+2007-02-09,Excelsior,Groningen,3.75,3.4,1.9
+2007-02-09,Augsburg,Unterhaching,2.0,3.1,3.8
+2007-02-09,Braunschweig,FC Koln,4.0,3.2,1.95
+2007-02-09,Kaiserslautern,Hansa Rostock,2.1,3.2,3.6
+2007-02-09,Southend,QPR,2.25,3.2,3.1
+2007-02-10,Auxerre,St Etienne,2.1,3.0,3.25
+2007-02-10,Waregem,Standard,3.6,3.2,1.9
+2007-02-10,Mouscron,Beveren,1.75,3.25,4.2
+2007-02-10,Preston,Wolves,1.8,3.25,4.33
+2007-02-10,West Brom,Southampton,1.72,3.4,4.33
+2007-02-10,Lokeren,Roeselare,2.15,3.2,3.0
+2007-02-10,Germinal,St Truiden,1.95,3.25,3.4
+2007-02-10,West Ham,Watford,1.83,3.3,4.33
+2007-02-10,Sheffield United,Tottenham,2.8,3.25,2.4
+2007-02-10,Portsmouth,Man City,1.9,3.25,4.0
+2007-02-10,Toulouse,Lille,2.6,2.87,2.87
+2007-02-10,Newcastle,Liverpool,3.8,3.4,1.9
+2007-02-10,Man United,Charlton,1.14,7.0,19.0
+2007-02-10,Everton,Blackburn,2.1,3.2,3.5
+2007-02-10,Chelsea,Middlesbrough,1.28,5.0,10.0
+2007-02-10,Genk,Cercle Brugge,1.33,4.0,9.0
+2007-02-10,Roda JC,Nijmegen,1.83,3.4,3.8
+2007-02-10,Reading,Aston Villa,2.1,3.2,3.5
+2007-02-10,Rennes,Nancy,2.0,3.0,3.5
+2007-02-10,Nice,Troyes,1.9,3.0,3.8
+2007-02-10,Waalwijk,Heracles,1.9,3.3,3.5
+2007-02-10,AZ Alkmaar,Willem II,1.12,7.0,13.0
+2007-02-10,Sociedad,Real Madrid,4.33,3.3,1.83
+2007-02-10,Betis,Sevilla,2.87,3.2,2.4
+2007-02-10,Westerlo,Bergen,1.66,3.4,4.75
+2007-02-10,Heerenveen,Vitesse,1.66,3.5,4.5
+2007-02-10,Barnsley,Colchester,2.4,3.2,2.62
+2007-02-10,Burnley,Sheffield Weds,2.3,3.2,2.8
+2007-02-10,Paris SG,Monaco,2.15,3.0,3.6
+2007-02-10,Coventry,Cardiff,2.37,3.2,2.7
+2007-02-10,FC Brussels,Lierse,1.72,3.25,4.5
+2007-02-10,Ipswich,Leicester,1.9,3.25,3.6
+2007-02-10,Leeds,Crystal Palace,2.4,3.25,2.8
+2007-02-10,Plymouth,Sunderland,2.5,3.25,2.5
+2007-02-10,Le Mans,Sedan,1.72,3.2,4.5
+2007-02-10,Lyon,Lorient,1.33,4.5,9.5
+2007-02-10,Nantes,Valenciennes,1.8,3.0,4.33
+2007-02-10,Derby,Hull,1.53,3.5,6.0
+2007-02-11,Charleroi,Gent,2.37,3.2,2.62
+2007-02-11,Den Haag,Ajax,7.0,4.0,1.4
+2007-02-11,Gimnastic,Osasuna,2.7,3.25,2.5
+2007-02-11,Twente,Feyenoord,1.9,3.4,3.4
+2007-02-11,Utrecht,NAC Breda,1.9,3.2,3.75
+2007-02-11,Birmingham,Stoke,1.72,3.4,5.0
+2007-02-11,Arsenal,Wigan,1.25,5.0,13.0
+2007-02-11,Levante,Recreativo,2.4,3.2,2.87
+2007-02-11,Lens,Sochaux,1.8,3.2,4.75
+2007-02-11,Bordeaux,Marseille,2.4,2.87,3.2
+2007-02-11,Villarreal,La Coruna,2.1,3.2,3.5
+2007-02-11,Mallorca,Zaragoza,2.75,3.2,2.5
+2007-02-11,Ath Madrid,Ath Bilbao,1.8,3.3,4.5
+2007-02-11,Barcelona,Santander,1.25,5.0,13.0
+2007-02-11,Celta,Espanol,2.25,3.1,3.2
+2007-02-11,Getafe,Valencia,2.87,3.2,2.4
+2007-02-11,Sparta,PSV Eindhoven,6.5,3.75,1.44
+2007-02-11,Bolton,Fulham,1.66,3.6,5.0
+2007-02-11,Club Brugge,Anderlecht,2.37,3.2,2.7
+2007-02-11,Fiorentina,Udinese,1.66,3.2,5.0
+2007-02-11,Sampdoria,Ascoli,1.53,3.4,6.0
+2007-02-11,Milan,Livorno,1.28,4.5,9.0
+2007-02-11,Messina,Catania,2.5,2.87,2.75
+2007-02-11,Chievo,Inter,6.5,4.0,1.4
+2007-02-11,Cagliari,Siena,2.2,2.87,3.2
+2007-02-11,Atalanta,Lazio,2.5,2.87,2.75
+2007-02-11,Torino,Reggina,2.1,2.8,3.5
+2007-02-11,Palermo,Empoli,1.61,3.4,5.0
+2007-02-11,Roma,Parma,1.28,4.5,9.0
+2007-02-11,Freiburg,Munich 1860,1.95,3.2,4.0
+2007-02-11,Offenbach,Paderborn,1.95,3.2,4.0
+2007-02-11,Greuther Furth,Erzgebirge Aue,1.9,3.2,4.2
+2007-02-11,CZ Jena,Essen,2.05,3.1,3.75
+2007-02-11,Burghausen,Koblenz,2.05,3.1,3.8
+2007-02-12,Duisburg,Karlsruhe,2.05,3.1,3.8
+2007-02-13,Colchester,West Brom,2.5,3.25,2.5
+2007-02-16,Lille,Lyon,3.0,3.0,2.4
+2007-02-16,Koblenz,Kaiserslautern,3.5,3.2,2.1
+2007-02-16,Erzgebirge Aue,Burghausen,1.61,3.6,5.5
+2007-02-16,Porto,Naval,1.25,5.0,13.0
+2007-02-16,Bergen,Club Brugge,5.0,3.5,1.6
+2007-02-16,Unterhaching,Offenbach,2.2,3.2,3.2
+2007-02-16,NAC Breda,Sparta,1.95,3.4,3.6
+2007-02-16,Willem II,Den Haag,1.8,3.5,4.33
+2007-02-17,St Truiden,Westerlo,2.2,3.2,2.9
+2007-02-17,Roeselare,Charleroi,2.0,3.2,3.2
+2007-02-17,Germinal,FC Brussels,1.9,3.25,3.6
+2007-02-17,Empoli,Roma,4.0,3.0,2.0
+2007-02-17,Lorient,Toulouse,1.9,3.1,3.75
+2007-02-17,Siena,Milan,5.0,3.0,1.83
+2007-02-17,Crystal Palace,Birmingham,2.7,3.2,2.37
+2007-02-17,Nancy,Paris SG,2.1,2.87,3.4
+2007-02-17,Leicester,Coventry,2.0,3.2,3.4
+2007-02-17,Southampton,Barnsley,1.44,3.6,7.5
+2007-02-17,Beveren,Lokeren,2.3,3.2,2.75
+2007-02-17,Anderlecht,Mouscron,1.14,6.0,13.0
+2007-02-17,Stoke,Luton,1.61,3.5,5.0
+2007-02-17,Sunderland,Southend,1.57,3.5,5.5
+2007-02-17,Wolves,Burnley,1.72,3.25,4.5
+2007-02-17,Inter,Cagliari,1.2,5.5,17.0
+2007-02-17,Standard,Lierse,1.2,5.0,11.0
+2007-02-17,Zaragoza,Villarreal,1.9,3.25,4.0
+2007-02-17,Nijmegen,Waalwijk,1.75,3.4,4.0
+2007-02-17,Sedan,Auxerre,2.5,2.8,2.8
+2007-02-17,Sochaux,Le Mans,1.9,2.9,4.0
+2007-02-17,St Etienne,Rennes,1.9,3.1,4.33
+2007-02-17,Troyes,Bordeaux,2.6,2.87,2.62
+2007-02-17,Valenciennes,Nice,2.1,3.0,3.25
+2007-02-17,Real Madrid,Betis,1.53,3.8,6.0
+2007-02-17,Pacos Ferreira,Sp Lisbon,4.5,3.3,1.8
+2007-02-17,Boavista,Setubal,1.55,3.5,7.0
+2007-02-17,Vitesse,Roda JC,2.05,3.4,3.3
+2007-02-17,Cardiff,Leeds,1.72,3.4,4.33
+2007-02-17,Heracles,PSV Eindhoven,9.0,4.33,1.36
+2007-02-18,Essen,FC Koln,3.75,3.2,2.0
+2007-02-18,Monaco,Lens,2.37,3.0,2.8
+2007-02-18,Paderborn,CZ Jena,1.85,3.3,4.2
+2007-02-18,Munich 1860,Duisburg,2.45,3.2,2.8
+2007-02-18,Karlsruhe,Braunschweig,1.33,5.0,8.0
+2007-02-18,Hansa Rostock,Augsburg,1.61,3.6,5.5
+2007-02-18,Parma,Sampdoria,2.75,2.87,2.75
+2007-02-18,Marseille,Nantes,1.5,3.75,7.0
+2007-02-18,Palermo,Chievo,1.57,3.4,7.0
+2007-02-18,Catania,Fiorentina,4.0,3.0,2.0
+2007-02-18,La Coruna,Levante,1.8,3.2,4.75
+2007-02-18,Ath Bilbao,Getafe,2.4,3.2,2.87
+2007-02-18,Ascoli,Udinese,3.75,3.0,2.1
+2007-02-18,Lazio,Torino,1.57,3.4,7.0
+2007-02-18,Livorno,Messina,1.66,3.2,6.0
+2007-02-18,Nacional,Benfica,3.8,3.2,2.0
+2007-02-18,Recreativo,Sociedad,1.9,3.25,4.0
+2007-02-18,Santander,Gimnastic,1.66,3.4,5.5
+2007-02-18,Reggina,Atalanta,2.2,2.87,3.6
+2007-02-18,Sevilla,Ath Madrid,1.9,3.2,4.0
+2007-02-18,Espanol,Mallorca,2.0,3.2,3.75
+2007-02-18,Valencia,Barcelona,2.75,3.2,2.5
+2007-02-18,Heerenveen,Twente,2.4,3.4,2.4
+2007-02-18,Groningen,AZ Alkmaar,4.75,3.6,1.7
+2007-02-18,Feyenoord,Utrecht,1.6,3.6,5.75
+2007-02-18,Ajax,Excelsior,1.1,8.0,23.0
+2007-02-18,Aves,Maritimo,2.75,3.25,2.25
+2007-02-18,Est Amadora,Beira Mar,1.83,3.25,4.0
+2007-02-18,Leiria,Sp Braga,2.55,3.1,2.75
+2007-02-18,Gent,Genk,2.25,3.1,2.8
+2007-02-18,Cercle Brugge,Waregem,2.1,3.2,3.1
+2007-02-18,Osasuna,Celta,1.9,3.25,4.0
+2007-02-19,Greuther Furth,Freiburg,2.25,3.1,3.2
+2007-02-19,Belenenses,Academica,1.9,3.2,3.6
+2007-02-20,Coventry,Southampton,2.75,3.25,2.3
+2007-02-20,Southend,Crystal Palace,2.37,3.2,2.7
+2007-02-20,Preston,Norwich,1.61,3.5,5.0
+2007-02-20,Plymouth,Colchester,2.2,3.2,3.0
+2007-02-20,Luton,Sheffield Weds,2.25,3.25,2.87
+2007-02-20,Leeds,QPR,1.72,3.3,4.33
+2007-02-20,Ipswich,Wolves,2.4,3.25,2.62
+2007-02-20,West Brom,Cardiff,1.65,3.5,4.75
+2007-02-20,Burnley,Leicester,2.37,3.2,2.75
+2007-02-20,Birmingham,Sunderland,2.0,3.25,3.4
+2007-02-20,Barnsley,Hull,2.2,3.2,3.0
+2007-02-21,Derby,Stoke,1.65,3.25,5.0
+2007-02-21,Watford,Wigan,2.4,3.25,2.8
+2007-02-21,Everton,Tottenham,2.3,3.25,3.0
+2007-02-23,CZ Jena,Munich 1860,2.25,3.2,2.8
+2007-02-23,Offenbach,Koblenz,2.0,3.2,3.4
+2007-02-23,Utrecht,Nijmegen,1.85,3.2,3.75
+2007-02-23,Cardiff,Preston,2.4,3.4,2.75
+2007-02-23,Club Brugge,St Truiden,1.28,4.5,8.5
+2007-02-23,Sp Lisbon,Aves,1.16,6.0,12.0
+2007-02-23,Braunschweig,Essen,2.37,3.2,2.75
+2007-02-24,Crystal Palace,Luton,1.66,3.5,4.5
+2007-02-24,Hull,Birmingham,3.4,3.2,2.0
+2007-02-24,Leicester,West Brom,2.5,3.25,2.5
+2007-02-24,Norwich,Coventry,1.9,3.25,3.6
+2007-02-24,QPR,Plymouth,2.3,3.2,2.8
+2007-02-24,Sheffield Weds,Southend,1.9,3.25,3.6
+2007-02-24,Southampton,Ipswich,1.66,3.5,4.5
+2007-02-24,Sunderland,Derby,2.1,3.2,3.2
+2007-02-24,Wolves,Leeds,1.72,3.5,4.33
+2007-02-24,Ath Madrid,Real Madrid,2.6,3.3,2.37
+2007-02-24,Sociedad,La Coruna,2.5,3.0,2.62
+2007-02-24,Colchester,Burnley,1.72,3.5,4.33
+2007-02-24,Charleroi,Beveren,1.5,3.6,6.0
+2007-02-24,Atalanta,Palermo,2.3,3.0,2.87
+2007-02-24,Watford,Everton,3.1,3.2,2.25
+2007-02-24,Middlesbrough,Reading,2.25,3.2,3.1
+2007-02-24,Liverpool,Sheffield United,1.3,4.75,8.5
+2007-02-24,Le Mans,Monaco,2.37,2.87,2.87
+2007-02-24,Lyon,Sochaux,1.36,4.0,7.5
+2007-02-24,Nantes,Auxerre,2.3,2.87,3.0
+2007-02-24,Nice,Lille,2.5,2.7,2.9
+2007-02-24,Mouscron,Bergen,1.8,3.3,3.8
+2007-02-24,Rennes,Sedan,1.61,3.2,5.5
+2007-02-24,Troyes,Lorient,2.25,2.87,3.1
+2007-02-24,Fulham,Man United,7.5,4.33,1.4
+2007-02-24,Charlton,West Ham,2.3,3.25,3.0
+2007-02-24,FC Brussels,Standard,4.0,3.3,1.75
+2007-02-24,Genk,Roeselare,1.28,4.5,8.5
+2007-02-24,Lierse,Cercle Brugge,1.95,3.3,3.3
+2007-02-24,Toulouse,Marseille,2.5,3.0,2.62
+2007-02-24,Twente,Willem II,1.25,4.5,11.0
+2007-02-24,Westerlo,Germinal,1.85,3.2,3.75
+2007-02-24,Academica,Boavista,2.4,3.1,2.7
+2007-02-24,Roda JC,Heerenveen,1.9,3.3,3.5
+2007-02-24,Naval,Belenenses,2.25,3.1,2.9
+2007-02-24,PSV Eindhoven,Groningen,1.25,4.5,11.0
+2007-02-24,Sparta,Heracles,1.7,3.5,4.33
+2007-02-24,Chievo,Torino,2.1,2.8,3.5
+2007-02-25,AZ Alkmaar,Ajax,2.3,3.3,2.7
+2007-02-25,Beira Mar,Porto,7.5,3.8,1.4
+2007-02-25,Waregem,Gent,2.8,3.25,2.25
+2007-02-25,Setubal,Nacional,2.87,3.2,2.2
+2007-02-25,Villarreal,Mallorca,1.83,3.3,3.75
+2007-02-25,Osasuna,Espanol,2.25,3.0,3.0
+2007-02-25,Levante,Zaragoza,2.75,3.2,2.3
+2007-02-25,Getafe,Sevilla,2.75,3.2,2.3
+2007-02-25,Celta,Santander,2.3,2.87,3.0
+2007-02-25,Betis,Recreativo,2.1,3.2,3.1
+2007-02-25,Barcelona,Ath Bilbao,1.28,4.33,9.0
+2007-02-25,Blackburn,Portsmouth,2.3,3.1,3.1
+2007-02-25,Tottenham,Bolton,2.1,3.25,3.4
+2007-02-25,Wigan,Newcastle,2.5,3.25,2.7
+2007-02-25,Waalwijk,Vitesse,2.55,3.25,2.45
+2007-02-25,Den Haag,Feyenoord,4.75,3.3,1.66
+2007-02-25,Gimnastic,Valencia,4.75,3.75,1.57
+2007-02-25,Excelsior,NAC Breda,3.2,3.25,2.05
+2007-02-25,Udinese,Parma,1.61,3.4,5.0
+2007-02-25,Paris SG,St Etienne,1.9,3.0,3.8
+2007-02-25,Cagliari,Lazio,3.1,2.87,2.25
+2007-02-25,Catania,Inter,7.5,4.33,1.33
+2007-02-25,Fiorentina,Empoli,1.57,3.2,6.0
+2007-02-25,Livorno,Ascoli,1.61,3.3,5.25
+2007-02-25,Lokeren,Anderlecht,5.75,3.5,1.53
+2007-02-25,Freiburg,Erzgebirge Aue,1.72,3.4,4.33
+2007-02-25,FC Koln,Paderborn,1.55,3.75,5.25
+2007-02-25,Kaiserslautern,Unterhaching,1.5,3.5,6.5
+2007-02-25,Burghausen,Greuther Furth,2.8,3.1,2.3
+2007-02-25,Augsburg,Karlsruhe,3.0,3.2,2.15
+2007-02-25,Bordeaux,Valenciennes,1.57,3.4,5.5
+2007-02-25,Lens,Nancy,1.66,3.2,5.0
+2007-02-25,Milan,Sampdoria,1.4,3.75,7.5
+2007-02-25,Roma,Reggina,1.3,4.5,8.0
+2007-02-25,Messina,Siena,2.4,2.75,3.0
+2007-02-26,Benfica,Pacos Ferreira,1.25,5.0,8.5
+2007-02-26,Maritimo,Leiria,2.05,3.2,3.2
+2007-02-26,Sp Braga,Est Amadora,1.6,3.5,5.0
+2007-02-26,Duisburg,Hansa Rostock,1.95,3.2,3.6
+2007-02-26,Stoke,Barnsley,1.66,3.4,5.5
+2007-02-27,Luton,Norwich,2.1,3.2,3.2
+2007-02-27,Birmingham,Leeds,1.45,3.8,6.5
+2007-02-28,Reggina,Fiorentina,3.4,2.87,2.3
+2007-02-28,Inter,Udinese,1.33,4.5,9.5
+2007-02-28,Lazio,Catania,1.53,3.5,7.0
+2007-02-28,Palermo,Milan,3.0,3.0,2.4
+2007-02-28,Sampdoria,Atalanta,2.15,2.87,3.75
+2007-02-28,Siena,Livorno,2.1,2.8,3.5
+2007-02-28,Torino,Cagliari,2.15,2.87,3.75
+2007-02-28,Empoli,Messina,1.72,3.1,5.5
+2007-02-28,Chievo,Roma,4.0,3.0,2.0
+2007-02-28,Ascoli,Parma,2.87,2.87,2.62
+2007-03-02,Nijmegen,Twente,3.6,3.2,2.05
+2007-03-02,Greuther Furth,Augsburg,1.85,3.4,4.2
+2007-03-02,Unterhaching,CZ Jena,2.25,3.2,3.2
+2007-03-02,Pacos Ferreira,Setubal,1.72,3.3,5.0
+2007-03-02,Roeselare,Waregem,2.15,3.3,2.87
+2007-03-02,Derby,Colchester,1.72,3.5,5.0
+2007-03-02,Erzgebirge Aue,Kaiserslautern,2.4,3.2,2.87
+2007-03-03,Portsmouth,Chelsea,6.0,3.75,1.5
+2007-03-03,Newcastle,Middlesbrough,2.0,3.2,3.75
+2007-03-03,Man City,Wigan,2.0,3.2,3.75
+2007-03-03,Liverpool,Man United,2.6,3.1,2.7
+2007-03-03,Fulham,Aston Villa,2.37,3.2,2.9
+2007-03-03,Sheffield United,Everton,2.6,3.2,2.62
+2007-03-03,Anderlecht,Charleroi,1.36,4.2,7.0
+2007-03-03,Westerlo,FC Brussels,1.66,3.3,4.75
+2007-03-03,St Truiden,Mouscron,1.9,3.25,3.5
+2007-03-03,Bergen,Lokeren,2.0,3.25,3.3
+2007-03-03,Beveren,Genk,5.0,3.6,1.6
+2007-03-03,Cercle Brugge,Standard,4.0,3.4,1.75
+2007-03-03,Gent,Lierse,1.28,4.33,9.5
+2007-03-03,Groningen,NAC Breda,2.05,3.3,3.1
+2007-03-03,PSV Eindhoven,Waalwijk,1.14,7.0,17.0
+2007-03-03,Vitesse,Excelsior,1.4,3.75,7.0
+2007-03-03,Willem II,Sparta,2.1,3.25,3.4
+2007-03-03,Watford,Charlton,2.5,3.1,2.8
+2007-03-03,Arsenal,Reading,1.5,3.75,7.0
+2007-03-03,Burnley,Crystal Palace,2.37,3.2,2.7
+2007-03-03,Valencia,Celta,1.44,4.0,7.5
+2007-03-03,Lorient,Nice,2.25,3.0,3.0
+2007-03-03,Lille,Troyes,1.61,3.4,6.0
+2007-03-03,Auxerre,Rennes,2.2,2.87,3.25
+2007-03-03,Sedan,Paris SG,3.0,2.87,2.5
+2007-03-03,St Etienne,Lyon,2.87,3.0,2.5
+2007-03-03,Sevilla,Barcelona,2.6,3.1,2.7
+2007-03-03,Valenciennes,Toulouse,2.4,2.87,3.2
+2007-03-03,Aves,Benfica,8.0,4.0,1.44
+2007-03-03,Monaco,Bordeaux,2.2,2.87,3.6
+2007-03-03,Southend,Leicester,2.3,3.25,2.87
+2007-03-03,Plymouth,Stoke,2.3,3.1,2.87
+2007-03-03,West Brom,Sunderland,2.0,3.25,3.4
+2007-03-03,Leeds,Sheffield Weds,2.3,3.25,2.75
+2007-03-03,Ipswich,QPR,1.9,3.2,3.75
+2007-03-03,Coventry,Hull,1.9,3.2,3.75
+2007-03-03,Barnsley,Norwich,2.2,3.2,3.0
+2007-03-03,Porto,Sp Braga,1.53,3.6,7.0
+2007-03-03,Ascoli,Roma,5.5,3.4,1.66
+2007-03-03,Livorno,Inter,5.0,3.1,1.8
+2007-03-03,Milan,Chievo,1.4,4.33,7.5
+2007-03-03,Luton,Wolves,2.62,3.25,2.4
+2007-03-03,Nancy,Le Mans,2.1,2.87,3.4
+2007-03-04,Real Madrid,Getafe,1.66,3.4,5.5
+2007-03-04,Sochaux,Nantes,1.9,3.0,4.5
+2007-03-04,Marseille,Lens,2.2,2.87,3.6
+2007-03-04,Germinal,Club Brugge,2.75,3.2,2.25
+2007-03-04,Beira Mar,Naval,2.3,3.0,2.8
+2007-03-04,Est Amadora,Maritimo,2.25,3.1,2.75
+2007-03-04,Lazio,Sampdoria,1.72,3.3,5.0
+2007-03-04,Bolton,Blackburn,2.0,3.2,3.75
+2007-03-04,Leiria,Sp Lisbon,4.5,3.25,1.83
+2007-03-04,Ath Bilbao,Gimnastic,1.66,3.4,5.5
+2007-03-04,Espanol,Villarreal,2.1,3.2,3.5
+2007-03-04,La Coruna,Betis,2.1,3.2,3.5
+2007-03-04,Fiorentina,Torino,1.4,4.0,9.0
+2007-03-04,Birmingham,Cardiff,1.8,3.3,4.0
+2007-03-04,Zaragoza,Sociedad,1.53,3.6,6.5
+2007-03-04,Santander,Osasuna,2.2,3.2,3.25
+2007-03-04,Recreativo,Ath Madrid,2.62,3.2,2.6
+2007-03-04,West Ham,Tottenham,3.2,3.25,2.2
+2007-03-04,Nacional,Academica,1.8,3.3,3.8
+2007-03-04,Mallorca,Levante,2.1,3.2,3.5
+2007-03-04,Ajax,Heerenveen,1.28,5.0,10.0
+2007-03-04,Catania,Siena,2.4,2.87,3.2
+2007-03-04,Cagliari,Atalanta,2.5,2.87,3.0
+2007-03-04,Essen,Offenbach,2.05,3.2,3.6
+2007-03-04,Freiburg,Duisburg,2.2,3.2,3.25
+2007-03-04,Hansa Rostock,Burghausen,1.4,4.2,8.0
+2007-03-04,Koblenz,Paderborn,2.2,3.2,3.2
+2007-03-04,Munich 1860,Braunschweig,1.5,3.8,7.0
+2007-03-04,Parma,Reggina,2.3,2.87,3.25
+2007-03-04,Messina,Palermo,3.3,3.0,2.25
+2007-03-04,Utrecht,AZ Alkmaar,4.0,3.5,1.75
+2007-03-04,Heracles,Den Haag,1.95,3.2,3.5
+2007-03-04,Feyenoord,Roda JC,1.65,3.6,5.25
+2007-03-04,Udinese,Empoli,2.0,3.0,4.0
+2007-03-05,Preston,Southampton,2.2,3.1,3.2
+2007-03-05,Boavista,Belenenses,2.0,3.25,3.25
+2007-03-05,Karlsruhe,FC Koln,1.9,3.25,4.0
+2007-03-06,Hull,Ipswich,2.2,3.2,3.0
+2007-03-06,Norwich,Derby,2.8,3.25,2.25
+2007-03-06,Sheffield Weds,Plymouth,2.1,3.2,3.2
+2007-03-09,Roda JC,Utrecht,1.75,3.6,4.5
+2007-03-09,Birmingham,Derby,2.0,3.3,3.6
+2007-03-09,Charleroi,Bergen,1.5,3.4,6.5
+2007-03-09,Burghausen,Freiburg,4.2,3.3,1.85
+2007-03-09,Braunschweig,Erzgebirge Aue,3.6,3.3,2.0
+2007-03-09,Augsburg,Koblenz,2.0,3.3,3.6
+2007-03-09,Naval,Boavista,2.37,3.0,3.1
+2007-03-10,Ipswich,Southend,1.8,3.25,4.0
+2007-03-10,Willem II,Groningen,2.8,3.2,2.25
+2007-03-10,Barcelona,Real Madrid,1.72,3.5,4.75
+2007-03-10,Stoke,Southampton,2.4,3.25,2.6
+2007-03-10,Barnsley,Sunderland,3.6,3.25,1.9
+2007-03-10,Cardiff,Norwich,1.72,3.4,4.33
+2007-03-10,Sampdoria,Cagliari,1.83,3.0,5.0
+2007-03-10,Leeds,Luton,2.1,3.25,3.4
+2007-03-10,QPR,Sheffield Weds,2.4,3.25,2.6
+2007-03-10,Sparta,Nijmegen,2.3,3.2,2.7
+2007-03-10,Crystal Palace,Leicester,1.9,3.25,3.6
+2007-03-10,Hull,Preston,2.62,3.25,2.37
+2007-03-10,Colchester,Coventry,2.1,3.2,3.0
+2007-03-10,Lorient,Lille,2.75,2.8,2.5
+2007-03-10,NAC Breda,Heracles,1.55,3.6,5.25
+2007-03-10,FC Brussels,Cercle Brugge,1.95,3.25,3.4
+2007-03-10,Sp Lisbon,Est Amadora,1.4,4.2,8.0
+2007-03-10,Belenenses,Nacional,2.2,3.1,3.3
+2007-03-10,Troyes,Valenciennes,2.0,3.0,3.5
+2007-03-10,Toulouse,Monaco,2.25,2.87,3.5
+2007-03-10,Nice,Rennes,1.95,3.0,3.6
+2007-03-10,Club Brugge,Westerlo,1.4,3.6,7.5
+2007-03-10,Le Mans,St Etienne,2.25,3.0,3.0
+2007-03-10,Nantes,Nancy,2.1,3.0,3.25
+2007-03-10,Heerenveen,Waalwijk,1.44,4.2,7.0
+2007-03-10,Levante,Villarreal,2.4,3.2,2.87
+2007-03-10,Waregem,Beveren,1.57,3.6,5.25
+2007-03-10,Standard,Gent,1.7,3.5,4.33
+2007-03-10,Mouscron,Germinal,2.3,3.3,2.75
+2007-03-10,Lokeren,St Truiden,2.0,3.25,3.3
+2007-03-10,Lierse,Roeselare,2.45,3.25,2.55
+2007-03-10,Bordeaux,Sochaux,1.9,3.1,3.8
+2007-03-11,CZ Jena,Karlsruhe,3.5,3.2,2.1
+2007-03-11,Wolves,West Brom,2.4,3.1,2.7
+2007-03-11,Duisburg,Greuther Furth,1.85,3.25,4.2
+2007-03-11,Ath Madrid,La Coruna,1.9,3.25,4.0
+2007-03-11,Reggina,Lazio,2.6,2.87,2.87
+2007-03-11,Celta,Ath Bilbao,2.15,3.2,3.3
+2007-03-11,Roma,Udinese,1.53,3.6,6.5
+2007-03-11,Siena,Ascoli,1.66,3.2,6.0
+2007-03-11,Torino,Catania,2.05,3.0,3.8
+2007-03-11,Sp Braga,Beira Mar,1.33,4.5,6.5
+2007-03-11,Setubal,Aves,1.9,3.3,3.5
+2007-03-11,Maritimo,Porto,5.5,3.6,1.61
+2007-03-11,Academica,Pacos Ferreira,2.15,3.1,3.0
+2007-03-11,Inter,Milan,2.3,3.0,3.25
+2007-03-11,Empoli,Livorno,2.0,2.87,4.33
+2007-03-11,Chievo,Messina,1.8,3.1,5.0
+2007-03-11,Paris SG,Auxerre,2.0,3.0,4.0
+2007-03-11,Lyon,Marseille,1.57,3.6,6.0
+2007-03-11,Lens,Sedan,1.53,3.6,6.5
+2007-03-11,Betis,Zaragoza,2.4,3.2,2.87
+2007-03-11,Genk,Anderlecht,2.3,3.25,2.7
+2007-03-11,Excelsior,PSV Eindhoven,9.5,5.0,1.28
+2007-03-11,Twente,Ajax,2.25,3.4,3.0
+2007-03-11,Vitesse,Den Haag,1.55,3.8,5.75
+2007-03-11,Palermo,Fiorentina,2.75,2.87,2.75
+2007-03-11,Paderborn,Essen,2.05,3.2,3.6
+2007-03-11,Offenbach,Hansa Rostock,3.25,3.2,2.15
+2007-03-11,FC Koln,Unterhaching,1.55,3.8,5.75
+2007-03-11,Sociedad,Mallorca,2.3,3.2,3.0
+2007-03-11,Santander,Espanol,2.2,3.2,3.25
+2007-03-11,Osasuna,Valencia,3.2,3.1,2.25
+2007-03-11,Gimnastic,Sevilla,6.0,3.8,1.53
+2007-03-11,Getafe,Recreativo,2.0,3.2,3.75
+2007-03-11,AZ Alkmaar,Feyenoord,1.66,3.4,5.5
+2007-03-11,Atalanta,Parma,1.9,3.0,4.5
+2007-03-12,Kaiserslautern,Munich 1860,1.83,3.3,4.33
+2007-03-12,Benfica,Leiria,1.33,4.0,8.5
+2007-03-13,Luton,Hull,2.25,3.25,2.8
+2007-03-13,Coventry,Wolves,2.4,3.2,2.62
+2007-03-13,Norwich,Birmingham,2.8,3.25,2.25
+2007-03-13,Preston,Ipswich,1.66,3.4,5.0
+2007-03-13,Sheffield Weds,Colchester,1.9,3.25,3.6
+2007-03-13,Southampton,Cardiff,1.9,3.25,3.6
+2007-03-13,Southend,Burnley,2.1,3.2,3.2
+2007-03-13,Sunderland,Stoke,1.57,3.6,6.0
+2007-03-13,Leicester,Leeds,1.83,3.25,4.0
+2007-03-13,Derby,QPR,1.44,3.5,8.0
+2007-03-14,Aston Villa,Arsenal,3.6,3.3,2.0
+2007-03-14,Man City,Chelsea,7.0,3.75,1.5
+2007-03-14,Plymouth,Barnsley,1.83,3.5,3.6
+2007-03-14,West Brom,Crystal Palace,1.61,3.4,5.5
+2007-03-16,Koblenz,CZ Jena,2.1,3.2,3.5
+2007-03-16,Munich 1860,Augsburg,2.2,3.25,3.1
+2007-03-16,Waalwijk,Roda JC,2.7,3.2,2.6
+2007-03-16,Southampton,Colchester,1.6,3.5,6.0
+2007-03-16,Nacional,Boavista,2.2,3.2,3.25
+2007-03-16,Germinal,Lokeren,1.66,3.4,4.5
+2007-03-16,Karlsruhe,Essen,1.4,4.5,7.5
+2007-03-17,Den Haag,Sparta,1.95,3.5,3.5
+2007-03-17,Heerenveen,NAC Breda,1.65,3.6,5.0
+2007-03-17,Nijmegen,Excelsior,1.5,4.0,5.75
+2007-03-17,Porto,Sp Lisbon,1.83,3.3,4.33
+2007-03-17,Norwich,Stoke,2.37,3.2,2.7
+2007-03-17,Southend,Leeds,2.2,3.4,2.8
+2007-03-17,Sheffield Weds,Wolves,2.62,3.25,2.37
+2007-03-17,Preston,Burnley,1.66,3.3,4.75
+2007-03-17,Plymouth,Crystal Palace,2.2,3.25,2.9
+2007-03-17,Sampdoria,Palermo,2.37,2.87,3.25
+2007-03-17,Luton,Ipswich,2.25,3.25,2.8
+2007-03-17,Leicester,QPR,1.83,3.4,3.75
+2007-03-17,Derby,Cardiff,1.9,3.25,3.6
+2007-03-17,Coventry,Barnsley,1.8,3.2,4.2
+2007-03-17,Sunderland,Hull,1.53,3.5,6.0
+2007-03-17,Ath Bilbao,Osasuna,2.25,3.2,3.1
+2007-03-17,Mallorca,Betis,2.3,3.1,3.1
+2007-03-17,Sochaux,Toulouse,2.2,3.0,3.4
+2007-03-17,Wigan,Fulham,2.1,3.25,3.4
+2007-03-17,St Truiden,Charleroi,2.5,3.2,2.5
+2007-03-17,Club Brugge,FC Brussels,1.3,4.5,8.5
+2007-03-17,Beveren,Lierse,2.0,3.25,3.3
+2007-03-17,Bergen,Genk,4.0,3.25,1.8
+2007-03-17,Lille,Le Mans,1.66,3.3,4.75
+2007-03-17,Marseille,Nice,1.6,3.4,5.0
+2007-03-17,Anderlecht,Waregem,1.25,5.0,9.0
+2007-03-17,Monaco,Nantes,1.75,3.25,4.33
+2007-03-17,Nancy,Lyon,4.2,3.25,1.8
+2007-03-17,Sedan,Bordeaux,2.45,2.87,2.8
+2007-03-17,Westerlo,Mouscron,1.66,3.4,4.5
+2007-03-17,Reading,Portsmouth,2.0,3.3,3.6
+2007-03-17,Middlesbrough,Man City,1.95,3.3,3.8
+2007-03-17,Man United,Bolton,1.3,5.0,9.0
+2007-03-17,Chelsea,Sheffield United,1.16,6.5,15.0
+2007-03-17,Blackburn,West Ham,1.72,3.5,4.75
+2007-03-17,St Etienne,Troyes,1.61,3.3,5.25
+2007-03-17,Valenciennes,Lorient,2.0,3.0,3.6
+2007-03-17,Valencia,Santander,1.53,3.6,6.5
+2007-03-17,Recreativo,Barcelona,5.5,3.6,1.61
+2007-03-17,Tottenham,Watford,1.4,4.0,7.0
+2007-03-18,Parma,Siena,2.25,2.87,3.5
+2007-03-18,Udinese,Livorno,2.0,2.87,4.33
+2007-03-18,Catania,Reggina,2.5,2.87,3.0
+2007-03-18,Groningen,Twente,2.9,3.2,2.2
+2007-03-18,Charlton,Newcastle,2.4,3.25,2.8
+2007-03-18,Fiorentina,Roma,2.4,3.0,3.0
+2007-03-18,Everton,Arsenal,3.1,3.3,2.2
+2007-03-18,Feyenoord,Willem II,1.33,5.0,8.0
+2007-03-18,Utrecht,Vitesse,1.85,3.3,3.75
+2007-03-18,Pacos Ferreira,Belenenses,2.2,3.1,3.3
+2007-03-18,Leiria,Setubal,1.6,3.6,4.75
+2007-03-18,Beira Mar,Maritimo,2.5,3.2,2.5
+2007-03-18,Aves,Academica,2.3,3.2,2.75
+2007-03-18,Milan,Atalanta,1.4,4.0,9.0
+2007-03-18,Messina,Torino,2.2,2.87,3.6
+2007-03-18,Lazio,Empoli,1.61,3.4,6.0
+2007-03-18,Cagliari,Chievo,2.05,2.87,4.2
+2007-03-18,Aston Villa,Liverpool,4.0,3.25,1.9
+2007-03-18,Ascoli,Inter,9.0,4.0,1.4
+2007-03-18,PSV Eindhoven,Ajax,2.1,3.25,3.4
+2007-03-18,Erzgebirge Aue,Offenbach,1.7,3.5,5.0
+2007-03-18,Espanol,Levante,1.83,3.25,4.5
+2007-03-18,La Coruna,Getafe,2.3,3.1,3.1
+2007-03-18,Real Madrid,Gimnastic,1.3,4.75,10.0
+2007-03-18,Sevilla,Celta,1.4,4.33,7.5
+2007-03-18,West Brom,Birmingham,2.25,3.2,3.1
+2007-03-18,Auxerre,Lens,2.4,2.87,3.2
+2007-03-18,Heracles,AZ Alkmaar,5.5,3.75,1.5
+2007-03-18,Zaragoza,Ath Madrid,2.25,3.2,3.1
+2007-03-18,Duisburg,Burghausen,1.4,4.33,7.5
+2007-03-18,Unterhaching,Paderborn,2.1,3.2,3.4
+2007-03-18,Greuther Furth,Braunschweig,1.33,4.75,9.0
+2007-03-18,Freiburg,Kaiserslautern,2.05,3.2,3.6
+2007-03-18,Villarreal,Sociedad,1.72,3.5,4.75
+2007-03-18,Rennes,Paris SG,2.4,2.87,3.2
+2007-03-19,Hansa Rostock,FC Koln,2.05,3.2,3.6
+2007-03-19,Est Amadora,Benfica,5.25,3.4,1.57
+2007-03-20,Sp Braga,Naval,1.57,3.6,5.0
+2007-03-30,Burghausen,Unterhaching,2.05,3.25,3.6
+2007-03-30,Leeds,Preston,2.87,3.25,2.37
+2007-03-30,Paderborn,Karlsruhe,3.2,3.3,2.2
+2007-03-30,CZ Jena,Hansa Rostock,3.0,3.25,2.25
+2007-03-30,FC Brussels,Gent,3.25,3.3,2.0
+2007-03-30,Roda JC,Groningen,1.85,3.4,4.2
+2007-03-31,Hull,Southend,1.9,3.25,3.6
+2007-03-31,Barcelona,La Coruna,1.33,4.5,9.5
+2007-03-31,Betis,Villarreal,2.2,3.1,3.4
+2007-03-31,Sociedad,Levante,2.1,3.25,3.4
+2007-03-31,Valencia,Espanol,1.72,3.4,5.0
+2007-03-31,Cercle Brugge,Roeselare,1.95,3.25,3.5
+2007-03-31,Charleroi,Germinal,1.85,3.3,3.75
+2007-03-31,Lokeren,Westerlo,2.2,3.3,2.9
+2007-03-31,Lorient,Marseille,2.87,2.87,2.4
+2007-03-31,Bolton,Sheffield United,1.61,3.6,5.5
+2007-03-31,Charlton,Wigan,2.1,3.25,3.4
+2007-03-31,Fulham,Portsmouth,2.3,3.25,3.0
+2007-03-31,Liverpool,Arsenal,2.2,3.2,3.25
+2007-03-31,Man United,Blackburn,1.33,4.5,9.5
+2007-03-31,Newcastle,Man City,1.9,3.3,4.0
+2007-03-31,Watford,Chelsea,9.5,4.5,1.33
+2007-03-31,West Ham,Middlesbrough,2.2,3.2,3.25
+2007-03-31,Waregem,Bergen,1.8,3.25,3.8
+2007-03-31,Lierse,Anderlecht,6.0,3.75,1.45
+2007-03-31,Burnley,Luton,1.8,3.3,4.0
+2007-03-31,Barnsley,Derby,3.1,3.3,2.05
+2007-03-31,AZ Alkmaar,Waalwijk,1.22,5.0,12.0
+2007-03-31,Crystal Palace,Sheffield Weds,1.9,3.25,3.6
+2007-03-31,Ipswich,Plymouth,2.0,3.2,3.4
+2007-03-31,Colchester,Norwich,2.0,3.2,3.4
+2007-03-31,Reggina,Siena,1.9,3.2,4.33
+2007-03-31,Roma,Milan,2.37,2.87,3.25
+2007-03-31,QPR,West Brom,2.8,3.25,2.25
+2007-03-31,Stoke,Leicester,1.83,3.25,4.0
+2007-03-31,Wolves,Southampton,2.0,3.2,3.4
+2007-03-31,NAC Breda,PSV Eindhoven,5.0,3.5,1.7
+2007-03-31,Willem II,Nijmegen,2.2,3.3,2.87
+2007-03-31,Standard,Beveren,1.2,5.5,10.0
+2007-03-31,Boavista,Pacos Ferreira,2.05,3.2,3.6
+2007-03-31,Belenenses,Aves,1.57,3.5,6.5
+2007-03-31,Cardiff,Sunderland,2.5,3.25,2.5
+2007-04-01,Naval,Nacional,2.4,3.0,2.8
+2007-04-01,Twente,Utrecht,1.53,3.75,6.5
+2007-04-01,Sparta,Heerenveen,2.8,3.25,2.25
+2007-04-01,Ath Madrid,Mallorca,1.66,3.4,5.5
+2007-04-01,Excelsior,Den Haag,2.05,3.2,3.1
+2007-04-01,Ajax,Heracles,1.14,6.0,15.0
+2007-04-01,Gimnastic,Recreativo,2.6,3.2,2.6
+2007-04-01,Genk,St Truiden,1.25,5.0,8.5
+2007-04-01,Mouscron,Club Brugge,3.75,3.4,1.85
+2007-04-01,Santander,Ath Bilbao,2.0,3.25,3.75
+2007-04-01,Maritimo,Sp Braga,2.45,3.1,2.87
+2007-04-01,Vitesse,Feyenoord,2.8,3.2,2.5
+2007-04-01,Birmingham,Coventry,1.66,3.4,4.75
+2007-04-01,Getafe,Zaragoza,2.4,3.2,2.87
+2007-04-01,Academica,Leiria,2.37,3.0,2.8
+2007-04-01,Benfica,Porto,2.37,3.1,3.0
+2007-04-01,Setubal,Est Amadora,2.1,3.0,3.25
+2007-04-01,Osasuna,Sevilla,3.2,3.25,2.2
+2007-04-01,Celta,Real Madrid,3.8,3.4,1.9
+2007-04-01,Augsburg,Erzgebirge Aue,2.0,3.2,3.3
+2007-04-01,Troyes,Sochaux,2.3,2.87,3.0
+2007-04-01,Nice,Monaco,2.3,2.87,3.1
+2007-04-01,Toulouse,St Etienne,2.2,2.87,3.25
+2007-04-01,Lens,Paris SG,1.95,3.0,4.33
+2007-04-01,Le Mans,Auxerre,2.2,2.87,3.25
+2007-04-01,Udinese,Lazio,3.0,2.9,2.5
+2007-04-01,Torino,Palermo,2.75,2.87,2.75
+2007-04-01,Livorno,Catania,2.0,3.0,4.2
+2007-04-01,Inter,Parma,1.25,5.5,11.0
+2007-04-01,Nantes,Sedan,1.95,3.0,4.33
+2007-04-01,Chievo,Sampdoria,2.3,2.9,3.4
+2007-04-01,Cagliari,Messina,1.83,3.0,5.0
+2007-04-01,Atalanta,Fiorentina,3.25,2.87,2.37
+2007-04-01,Empoli,Ascoli,1.61,3.4,6.0
+2007-04-01,Lille,Valenciennes,1.53,3.4,6.0
+2007-04-01,Braunschweig,Freiburg,5.0,3.5,1.72
+2007-04-01,Essen,Munich 1860,2.15,3.3,3.25
+2007-04-01,FC Koln,Koblenz,1.57,3.5,6.5
+2007-04-01,Offenbach,Greuther Furth,2.8,3.2,2.37
+2007-04-01,Tottenham,Reading,1.72,3.4,5.0
+2007-04-02,Aston Villa,Everton,2.37,3.2,2.9
+2007-04-02,Sp Lisbon,Beira Mar,1.22,5.0,11.0
+2007-04-02,Kaiserslautern,Duisburg,1.85,3.25,3.8
+2007-04-03,Burnley,Plymouth,2.1,3.2,3.25
+2007-04-03,QPR,Preston,2.8,3.25,2.25
+2007-04-05,Koblenz,Essen,2.0,3.2,3.3
+2007-04-05,Hansa Rostock,Paderborn,1.53,3.4,5.75
+2007-04-05,Erzgebirge Aue,FC Koln,2.3,3.2,2.7
+2007-04-06,Porto,Setubal,1.18,6.0,17.0
+2007-04-06,Vitesse,Sparta,1.72,3.75,4.33
+2007-04-06,Anderlecht,Standard,1.66,3.4,4.75
+2007-04-06,Southend,Colchester,2.1,3.3,3.4
+2007-04-06,Leicester,Derby,3.0,3.25,2.3
+2007-04-06,Hull,Norwich,1.9,3.25,3.6
+2007-04-06,Man City,Charlton,2.1,3.2,3.5
+2007-04-06,Everton,Fulham,1.66,3.4,5.5
+2007-04-07,Aves,Boavista,2.75,3.1,2.3
+2007-04-07,Sp Braga,Sp Lisbon,3.0,3.0,2.4
+2007-04-07,Pacos Ferreira,Nacional,2.15,3.1,3.0
+2007-04-07,Wigan,Bolton,2.5,3.25,2.7
+2007-04-07,Auxerre,Bordeaux,2.1,2.8,3.6
+2007-04-07,Reading,Liverpool,3.8,3.4,1.9
+2007-04-07,Roda JC,Excelsior,1.5,3.6,6.5
+2007-04-07,Nijmegen,PSV Eindhoven,5.0,3.6,1.66
+2007-04-07,Heerenveen,Den Haag,1.22,5.0,9.5
+2007-04-07,Portsmouth,Man United,6.0,4.0,1.5
+2007-04-07,Middlesbrough,Watford,1.61,3.6,5.5
+2007-04-07,Chelsea,Tottenham,1.44,4.0,7.5
+2007-04-07,Arsenal,West Ham,1.4,4.33,7.5
+2007-04-07,Bergen,Lierse,1.65,3.5,4.5
+2007-04-07,Beveren,Cercle Brugge,2.1,3.25,3.1
+2007-04-07,Club Brugge,Lokeren,1.3,4.33,8.5
+2007-04-07,Mouscron,FC Brussels,1.9,3.25,3.6
+2007-04-07,Sheffield United,Newcastle,2.37,3.25,2.87
+2007-04-07,Roeselare,Gent,2.87,3.2,2.25
+2007-04-07,Valenciennes,Lyon,5.0,3.4,1.7
+2007-04-07,St Etienne,Nantes,1.8,3.2,4.2
+2007-04-07,Sochaux,Nice,1.8,3.25,4.33
+2007-04-07,Rennes,Lens,2.4,2.8,3.0
+2007-04-07,Paris SG,Le Mans,1.75,3.25,4.5
+2007-04-07,Nancy,Lorient,1.95,3.0,4.0
+2007-04-07,Ath Bilbao,Valencia,3.25,3.2,2.2
+2007-04-07,Zaragoza,Barcelona,3.6,3.3,2.0
+2007-04-07,Est Amadora,Academica,2.15,3.2,3.0
+2007-04-07,Leiria,Belenenses,2.25,3.1,3.2
+2007-04-07,Maritimo,Naval,1.9,3.25,3.5
+2007-04-07,Monaco,Troyes,1.66,3.25,5.0
+2007-04-07,St Truiden,Waregem,2.0,3.3,3.2
+2007-04-07,Blackburn,Aston Villa,2.0,3.2,3.75
+2007-04-07,Luton,Southampton,2.9,3.25,2.2
+2007-04-07,West Brom,Stoke,1.72,3.5,4.33
+2007-04-07,Coventry,QPR,1.9,3.25,3.6
+2007-04-07,Crystal Palace,Preston,2.4,3.25,2.62
+2007-04-07,Ipswich,Barnsley,1.9,3.25,3.6
+2007-04-07,Catania,Roma,5.0,3.2,1.75
+2007-04-07,Fiorentina,Ascoli,1.2,5.5,17.0
+2007-04-07,Lazio,Messina,1.28,4.5,13.0
+2007-04-07,Cardiff,Sheffield Weds,1.8,3.25,4.0
+2007-04-07,Milan,Empoli,1.44,3.75,8.5
+2007-04-07,Parma,Livorno,2.1,2.8,4.0
+2007-04-07,Reggina,Inter,6.0,3.2,1.66
+2007-04-07,Sampdoria,Torino,1.95,2.87,4.5
+2007-04-07,Siena,Udinese,2.5,2.8,3.1
+2007-04-07,Sunderland,Wolves,1.66,3.5,4.5
+2007-04-07,Leeds,Plymouth,1.95,3.3,3.8
+2007-04-07,Palermo,Cagliari,1.72,3.3,5.0
+2007-04-07,Birmingham,Burnley,1.5,3.6,6.0
+2007-04-07,Atalanta,Chievo,2.05,2.8,4.2
+2007-04-08,Westerlo,Charleroi,2.1,3.2,3.1
+2007-04-08,Burghausen,Kaiserslautern,2.8,3.2,2.45
+2007-04-08,Duisburg,Offenbach,1.6,3.5,6.0
+2007-04-08,Freiburg,Augsburg,1.61,3.4,5.5
+2007-04-08,Greuther Furth,CZ Jena,1.5,3.75,7.5
+2007-04-08,Unterhaching,Braunschweig,1.61,3.6,5.5
+2007-04-08,Espanol,Sociedad,1.83,3.3,4.33
+2007-04-08,La Coruna,Gimnastic,1.7,3.5,5.0
+2007-04-08,Marseille,Lille,2.15,2.8,4.0
+2007-04-08,Sedan,Toulouse,2.4,3.0,3.0
+2007-04-08,Feyenoord,Groningen,1.72,3.5,4.75
+2007-04-08,NAC Breda,AZ Alkmaar,4.5,3.5,1.66
+2007-04-08,Twente,Heracles,1.22,4.75,11.0
+2007-04-08,Utrecht,Willem II,1.7,3.4,4.5
+2007-04-08,Waalwijk,Ajax,8.5,4.75,1.33
+2007-04-08,Villarreal,Ath Madrid,2.3,3.1,3.1
+2007-04-08,Germinal,Genk,3.5,3.25,1.9
+2007-04-08,Levante,Betis,2.3,3.1,3.1
+2007-04-08,Mallorca,Getafe,2.3,3.1,3.1
+2007-04-08,Real Madrid,Osasuna,1.5,3.75,7.0
+2007-04-08,Sevilla,Santander,1.57,3.6,6.0
+2007-04-08,Recreativo,Celta,2.05,3.25,3.6
+2007-04-09,Barnsley,Birmingham,3.6,3.25,1.9
+2007-04-09,Burnley,Cardiff,2.5,3.25,2.5
+2007-04-09,Southampton,Sunderland,2.6,3.2,2.62
+2007-04-09,Munich 1860,Karlsruhe,2.45,3.2,2.87
+2007-04-09,Plymouth,Leicester,2.0,3.2,3.4
+2007-04-09,Preston,Southend,1.66,3.4,4.75
+2007-04-09,QPR,Luton,1.72,3.4,4.33
+2007-04-09,Stoke,Crystal Palace,1.72,3.4,4.33
+2007-04-09,Sheffield Weds,Ipswich,2.1,3.2,3.2
+2007-04-09,Colchester,Leeds,2.0,3.2,3.4
+2007-04-09,Wolves,Hull,1.72,3.4,4.33
+2007-04-09,Watford,Portsmouth,3.0,3.25,2.3
+2007-04-09,Newcastle,Arsenal,3.2,3.25,2.2
+2007-04-09,Fulham,Man City,2.2,3.25,3.2
+2007-04-09,Charlton,Reading,2.25,3.25,3.1
+2007-04-09,Bolton,Everton,2.1,3.2,3.4
+2007-04-09,Beira Mar,Benfica,6.5,3.5,1.5
+2007-04-09,Norwich,West Brom,2.5,3.25,2.5
+2007-04-09,Derby,Coventry,1.53,3.5,6.0
+2007-04-09,Aston Villa,Wigan,1.9,3.25,4.0
+2007-04-13,Sparta,Utrecht,2.5,3.25,2.7
+2007-04-13,Braunschweig,Hansa Rostock,6.0,3.75,1.57
+2007-04-13,Cercle Brugge,Anderlecht,6.0,3.5,1.53
+2007-04-13,Paderborn,Munich 1860,2.37,3.2,3.0
+2007-04-13,Augsburg,Duisburg,3.0,3.2,2.3
+2007-04-13,Ajax,NAC Breda,1.22,6.0,11.0
+2007-04-13,West Brom,Sheffield Weds,1.66,3.6,5.0
+2007-04-13,Sp Lisbon,Maritimo,1.33,4.5,9.5
+2007-04-14,Bordeaux,Paris SG,2.2,2.87,3.6
+2007-04-14,Standard,Bergen,1.33,4.33,7.5
+2007-04-14,Waregem,Germinal,2.1,3.2,3.1
+2007-04-14,Cagliari,Empoli,2.37,2.7,3.5
+2007-04-14,Udinese,Chievo,2.0,2.87,4.33
+2007-04-14,Santander,Real Madrid,3.8,3.3,1.95
+2007-04-14,Arsenal,Bolton,1.66,3.6,5.0
+2007-04-14,Man City,Liverpool,4.0,3.5,1.83
+2007-04-14,Middlesbrough,Aston Villa,2.1,3.25,3.4
+2007-04-14,Lokeren,Mouscron,1.95,3.2,3.5
+2007-04-14,Portsmouth,Newcastle,2.1,3.25,3.4
+2007-04-14,Reading,Fulham,1.9,3.25,4.0
+2007-04-14,Sheffield United,West Ham,2.4,3.25,2.8
+2007-04-14,Toulouse,Auxerre,2.0,3.0,3.75
+2007-04-14,Nantes,Lens,2.9,2.75,2.5
+2007-04-14,Lorient,Monaco,2.3,2.87,3.1
+2007-04-14,Le Mans,Rennes,2.2,2.87,3.0
+2007-04-14,Betis,Sociedad,1.95,3.3,3.8
+2007-04-14,Lille,Sochaux,2.0,3.0,3.75
+2007-04-14,Genk,Westerlo,1.3,4.33,8.0
+2007-04-14,Troyes,Nancy,2.1,2.9,3.5
+2007-04-14,Cardiff,Stoke,2.37,3.25,2.62
+2007-04-14,Academica,Porto,8.5,4.0,1.36
+2007-04-14,Lierse,St Truiden,2.2,3.25,2.8
+2007-04-14,Belenenses,Est Amadora,1.55,3.4,5.5
+2007-04-14,Hull,Colchester,2.37,3.25,2.62
+2007-04-14,Ipswich,Derby,3.2,3.2,2.1
+2007-04-14,Leeds,Burnley,2.0,3.3,3.6
+2007-04-14,Leicester,Norwich,2.1,3.4,3.0
+2007-04-14,Luton,Plymouth,2.25,3.25,2.8
+2007-04-14,Southend,Barnsley,1.9,3.25,3.6
+2007-04-14,Sunderland,QPR,1.36,4.0,8.0
+2007-04-14,Coventry,Preston,2.5,3.25,2.5
+2007-04-14,Crystal Palace,Wolves,2.5,3.25,2.5
+2007-04-14,Valenciennes,Marseille,2.8,2.87,2.5
+2007-04-14,Birmingham,Southampton,2.0,3.2,3.4
+2007-04-14,Den Haag,Roda JC,3.25,3.5,2.1
+2007-04-14,Excelsior,Waalwijk,2.1,3.25,3.0
+2007-04-14,PSV Eindhoven,Twente,1.61,3.8,5.0
+2007-04-14,FC Brussels,Roeselare,1.9,3.3,3.4
+2007-04-15,Ath Bilbao,Espanol,2.1,3.2,3.2
+2007-04-15,Parma,Catania,1.72,3.3,5.0
+2007-04-15,Messina,Milan,7.5,3.6,1.5
+2007-04-15,Livorno,Reggina,2.6,2.5,3.4
+2007-04-15,Boavista,Leiria,2.05,3.2,3.3
+2007-04-15,Nacional,Aves,1.53,3.5,5.75
+2007-04-15,Groningen,Nijmegen,1.75,3.3,4.2
+2007-04-15,Heracles,Feyenoord,3.6,3.3,2.0
+2007-04-15,Willem II,Heerenveen,3.0,3.4,2.05
+2007-04-15,Naval,Pacos Ferreira,2.15,3.2,3.0
+2007-04-15,Setubal,Beira Mar,2.0,3.1,3.5
+2007-04-15,Karlsruhe,Koblenz,1.45,3.6,6.5
+2007-04-15,Offenbach,Burghausen,2.05,3.25,3.1
+2007-04-15,Celta,La Coruna,2.15,3.2,3.4
+2007-04-15,Barcelona,Mallorca,1.22,5.5,13.0
+2007-04-15,Ath Madrid,Levante,1.57,3.6,6.0
+2007-04-15,AZ Alkmaar,Vitesse,1.28,4.5,8.5
+2007-04-15,Getafe,Villarreal,2.2,3.2,3.25
+2007-04-15,Torino,Atalanta,2.3,2.75,3.6
+2007-04-15,Wigan,Tottenham,3.0,3.3,2.25
+2007-04-15,Lyon,Sedan,1.33,4.5,9.5
+2007-04-15,Charleroi,Club Brugge,2.3,3.2,2.75
+2007-04-15,Gent,Beveren,1.33,4.33,7.5
+2007-04-15,Nice,St Etienne,2.37,3.0,3.1
+2007-04-15,Ascoli,Lazio,9.0,4.0,1.4
+2007-04-15,Fiorentina,Siena,1.3,4.5,12.0
+2007-04-15,Valencia,Sevilla,2.05,3.2,3.75
+2007-04-15,Osasuna,Recreativo,2.25,3.2,3.1
+2007-04-15,Gimnastic,Zaragoza,3.8,3.3,1.95
+2007-04-15,Roma,Sampdoria,1.57,3.4,7.0
+2007-04-15,Everton,Charlton,1.72,3.5,4.75
+2007-04-15,Essen,Unterhaching,2.05,3.25,3.2
+2007-04-15,Inter,Palermo,1.4,4.0,9.0
+2007-04-15,Kaiserslautern,Greuther Furth,2.05,3.25,3.1
+2007-04-15,FC Koln,Freiburg,2.15,3.2,3.3
+2007-04-16,CZ Jena,Erzgebirge Aue,2.25,3.25,3.1
+2007-04-16,Benfica,Sp Braga,1.45,3.6,6.5
+2007-04-17,Leicester,Birmingham,3.4,3.2,2.0
+2007-04-17,Burnley,Norwich,1.9,3.25,3.6
+2007-04-17,Arsenal,Man City,1.4,4.33,7.5
+2007-04-17,Man United,Sheffield United,1.14,7.0,17.0
+2007-04-18,Parma,Fiorentina,3.75,3.0,2.1
+2007-04-18,Livorno,Cagliari,2.88,1.91,4.75
+2007-04-18,Reggina,Messina,1.72,3.1,5.5
+2007-04-18,Siena,Torino,2.37,2.25,4.0
+2007-04-18,Udinese,Sampdoria,2.25,2.87,3.5
+2007-04-18,Empoli,Atalanta,2.05,2.87,4.2
+2007-04-18,Bordeaux,Nancy,1.66,3.25,5.0
+2007-04-18,Blackburn,Watford,1.61,3.6,5.5
+2007-04-18,Liverpool,Middlesbrough,1.36,4.5,8.0
+2007-04-18,West Ham,Chelsea,7.0,4.2,1.44
+2007-04-18,Lazio,Chievo,1.44,4.0,7.5
+2007-04-18,Lyon,Rennes,1.44,3.75,7.0
+2007-04-18,Ascoli,Milan,9.5,4.5,1.33
+2007-04-18,Inter,Roma,1.95,3.0,4.33
+2007-04-20,Erzgebirge Aue,Essen,2.2,3.2,3.25
+2007-04-20,Munich 1860,FC Koln,2.3,3.25,3.0
+2007-04-20,Germinal,Lierse,1.55,3.6,5.25
+2007-04-20,Est Amadora,Boavista,2.4,3.2,2.87
+2007-04-20,Derby,Luton,1.33,4.75,9.0
+2007-04-20,Kaiserslautern,Offenbach,1.53,3.8,6.0
+2007-04-21,Sampdoria,Messina,1.53,3.6,6.5
+2007-04-21,Lens,Le Mans,1.72,3.4,4.33
+2007-04-21,Marseille,Troyes,1.5,3.5,6.5
+2007-04-21,Monaco,Lille,2.25,2.87,3.3
+2007-04-21,Nancy,Valenciennes,2.05,2.87,3.75
+2007-04-21,Paris SG,Nantes,1.72,3.4,4.33
+2007-04-21,Rennes,Toulouse,2.3,2.8,3.2
+2007-04-21,Sedan,Nice,2.3,2.8,3.2
+2007-04-21,Sheffield Weds,Coventry,1.66,3.5,4.5
+2007-04-21,Southampton,Leeds,1.8,3.5,3.75
+2007-04-21,QPR,Cardiff,2.1,3.4,3.0
+2007-04-21,Preston,Leicester,1.66,3.5,4.5
+2007-04-21,Plymouth,Southend,2.0,3.4,3.25
+2007-04-21,Colchester,Sunderland,3.0,3.4,2.1
+2007-04-21,Barnsley,Crystal Palace,1.9,3.4,3.5
+2007-04-21,Maritimo,Benfica,4.75,3.5,1.61
+2007-04-21,Bergen,Cercle Brugge,1.95,3.3,3.4
+2007-04-21,Sochaux,Lorient,1.9,2.9,4.2
+2007-04-21,Stoke,Hull,1.72,3.5,4.33
+2007-04-21,Lokeren,FC Brussels,1.95,3.2,3.4
+2007-04-21,Man United,Middlesbrough,1.2,6.0,13.0
+2007-04-21,Charlton,Sheffield United,2.05,3.25,3.6
+2007-04-21,Fulham,Blackburn,2.25,3.2,3.1
+2007-04-21,Liverpool,Wigan,1.36,4.5,8.0
+2007-04-21,Milan,Cagliari,1.25,5.0,13.0
+2007-04-21,Tottenham,Arsenal,2.7,3.25,2.5
+2007-04-21,Watford,Man City,2.62,3.25,2.6
+2007-04-21,Bolton,Reading,1.83,3.3,4.33
+2007-04-21,West Ham,Everton,2.4,3.4,2.75
+2007-04-21,Sociedad,Ath Madrid,2.87,3.2,2.4
+2007-04-21,Beveren,Roeselare,2.0,3.3,3.2
+2007-04-21,Westerlo,Waregem,1.75,3.25,4.2
+2007-04-21,St Truiden,Standard,4.0,3.4,1.75
+2007-04-21,Mouscron,Charleroi,2.3,3.2,2.7
+2007-04-21,Real Madrid,Valencia,2.05,3.2,3.6
+2007-04-22,Duisburg,Braunschweig,1.25,4.75,9.5
+2007-04-22,Freiburg,CZ Jena,1.4,4.33,7.0
+2007-04-22,Wolves,Birmingham,2.6,3.25,2.6
+2007-04-22,Unterhaching,Koblenz,1.95,3.3,3.3
+2007-04-22,Club Brugge,Genk,2.3,3.2,2.7
+2007-04-22,Anderlecht,Gent,1.45,3.75,6.0
+2007-04-22,Greuther Furth,Paderborn,1.6,3.6,5.75
+2007-04-22,Norwich,Ipswich,2.3,3.2,2.8
+2007-04-22,Chievo,Livorno,1.66,3.2,6.0
+2007-04-22,Atalanta,Roma,4.33,3.0,1.95
+2007-04-22,Levante,Getafe,2.15,3.1,3.5
+2007-04-22,Mallorca,Gimnastic,1.75,3.4,4.75
+2007-04-22,Recreativo,Santander,2.25,3.2,3.1
+2007-04-22,Burghausen,Augsburg,2.0,3.2,3.4
+2007-04-22,Sevilla,Ath Bilbao,1.53,3.6,6.5
+2007-04-22,Villarreal,Barcelona,4.33,3.4,1.83
+2007-04-22,Zaragoza,Celta,1.75,3.3,5.0
+2007-04-22,Auxerre,Lyon,3.25,3.1,2.2
+2007-04-22,St Etienne,Bordeaux,2.25,3.0,3.3
+2007-04-22,Aves,Pacos Ferreira,2.15,3.1,3.0
+2007-04-22,Waalwijk,Willem II,1.85,3.4,3.6
+2007-04-22,Vitesse,Twente,2.9,3.1,2.2
+2007-04-22,Utrecht,PSV Eindhoven,5.0,3.6,1.57
+2007-04-22,NAC Breda,Roda JC,2.25,3.25,2.75
+2007-04-22,Espanol,Betis,2.25,3.1,3.2
+2007-04-22,Heracles,Excelsior,1.7,3.4,4.33
+2007-04-22,AZ Alkmaar,Heerenveen,1.33,4.0,8.0
+2007-04-22,Newcastle,Chelsea,6.0,3.8,1.53
+2007-04-22,Aston Villa,Portsmouth,2.2,2.5,3.2
+2007-04-22,Ajax,Sparta,1.14,6.0,13.0
+2007-04-22,Leiria,Nacional,2.25,3.0,2.9
+2007-04-22,Siena,Inter,6.0,3.2,1.66
+2007-04-22,Reggina,Udinese,2.05,2.87,4.2
+2007-04-22,Porto,Belenenses,1.4,3.75,7.5
+2007-04-22,Sp Lisbon,Naval,1.25,4.75,9.5
+2007-04-22,Palermo,Parma,1.72,3.1,5.5
+2007-04-22,Lazio,Fiorentina,2.25,2.87,3.5
+2007-04-22,Empoli,Torino,1.9,2.87,4.75
+2007-04-22,Feyenoord,Nijmegen,1.6,3.5,4.75
+2007-04-22,La Coruna,Osasuna,2.0,3.2,3.75
+2007-04-23,Beira Mar,Academica,2.25,3.0,2.9
+2007-04-23,Sp Braga,Setubal,1.4,3.75,7.5
+2007-04-23,Burnley,West Brom,3.0,3.25,2.3
+2007-04-23,Hansa Rostock,Karlsruhe,2.1,3.25,3.4
+2007-04-25,Den Haag,Groningen,4.75,3.4,1.66
+2007-04-27,CZ Jena,Duisburg,3.4,3.25,2.1
+2007-04-27,Standard,Germinal,1.36,4.0,7.5
+2007-04-27,Pacos Ferreira,Leiria,1.95,3.2,3.3
+2007-04-27,Braunschweig,Burghausen,3.4,3.25,2.1
+2007-04-27,Sunderland,Burnley,1.33,4.75,9.0
+2007-04-27,Paderborn,Erzgebirge Aue,1.9,3.4,3.75
+2007-04-28,Portsmouth,Liverpool,3.2,3.25,2.2
+2007-04-28,Sheffield United,Watford,1.57,3.8,5.5
+2007-04-28,Man City,Aston Villa,2.3,3.25,3.0
+2007-04-28,Toulouse,Paris SG,2.15,2.87,3.75
+2007-04-28,Everton,Man United,5.0,3.6,1.66
+2007-04-28,Chelsea,Bolton,1.28,5.0,10.0
+2007-04-28,Blackburn,Charlton,2.1,3.25,3.4
+2007-04-28,Torino,Milan,4.5,2.2,2.5
+2007-04-28,Belenenses,Beira Mar,1.5,3.5,5.75
+2007-04-28,Boavista,Porto,4.5,3.4,1.66
+2007-04-28,Fiorentina,Chievo,1.5,3.6,7.5
+2007-04-28,Valencia,Recreativo,1.53,3.8,6.0
+2007-04-28,Valenciennes,Monaco,2.5,2.87,2.8
+2007-04-28,Troyes,Sedan,2.05,2.87,3.7
+2007-04-28,Middlesbrough,Tottenham,2.7,3.25,2.5
+2007-04-28,Wigan,West Ham,2.1,3.25,3.4
+2007-04-28,Cercle Brugge,St Truiden,1.95,3.2,3.4
+2007-04-28,Lyon,Le Mans,1.4,3.75,8.0
+2007-04-28,Charleroi,Lokeren,1.72,3.3,4.33
+2007-04-28,Wolves,QPR,1.5,3.8,5.75
+2007-04-28,Stoke,Colchester,1.9,3.5,3.4
+2007-04-28,Southend,Luton,1.61,3.5,5.0
+2007-04-28,Plymouth,Preston,2.8,3.4,2.2
+2007-04-28,Norwich,Southampton,2.8,3.4,2.2
+2007-04-28,Leeds,Ipswich,1.66,3.6,5.0
+2007-04-28,Coventry,West Brom,3.25,3.4,2.0
+2007-04-28,Cardiff,Hull,2.3,3.3,2.7
+2007-04-28,Birmingham,Sheffield Weds,1.66,3.5,4.5
+2007-04-28,Nantes,Rennes,2.4,2.87,2.9
+2007-04-28,Barnsley,Leicester,2.25,2.87,3.25
+2007-04-28,Gent,Bergen,1.36,4.0,8.5
+2007-04-28,Lierse,Westerlo,2.4,3.2,2.6
+2007-04-28,Waregem,Club Brugge,2.55,3.2,2.4
+2007-04-28,Ath Madrid,Betis,1.72,3.4,5.0
+2007-04-28,Lille,Nancy,1.72,3.1,5.0
+2007-04-28,Lorient,St Etienne,2.25,2.87,3.3
+2007-04-28,FC Brussels,Beveren,1.85,3.25,3.75
+2007-04-28,Nice,Auxerre,2.0,2.9,4.2
+2007-04-29,Benfica,Sp Lisbon,2.25,3.0,3.0
+2007-04-29,Setubal,Maritimo,2.25,3.2,2.8
+2007-04-29,Nacional,Est Amadora,1.75,3.3,4.2
+2007-04-29,Naval,Aves,1.9,3.1,3.75
+2007-04-29,Barcelona,Levante,1.16,6.5,15.0
+2007-04-29,Santander,La Coruna,1.95,3.25,3.8
+2007-04-29,Osasuna,Zaragoza,2.8,3.1,2.5
+2007-04-29,Gimnastic,Villarreal,2.8,3.1,2.5
+2007-04-29,Getafe,Sociedad,2.0,3.3,3.6
+2007-04-29,Celta,Mallorca,1.95,3.25,3.8
+2007-04-29,Ath Bilbao,Real Madrid,4.0,3.5,1.83
+2007-04-29,Roeselare,Anderlecht,6.5,3.75,1.44
+2007-04-29,Genk,Mouscron,1.28,4.5,8.5
+2007-04-29,Sevilla,Espanol,1.44,4.0,7.5
+2007-04-29,FC Koln,Greuther Furth,2.2,3.3,2.8
+2007-04-29,Groningen,Utrecht,2.0,3.2,3.25
+2007-04-29,Bordeaux,Lens,2.15,2.87,3.75
+2007-04-29,Nijmegen,Den Haag,1.5,3.75,5.5
+2007-04-29,PSV Eindhoven,Vitesse,1.12,7.0,12.0
+2007-04-29,Roda JC,Heracles,1.33,4.33,7.5
+2007-04-29,Sparta,Waalwijk,1.8,3.5,3.6
+2007-04-29,Twente,NAC Breda,1.61,3.4,5.0
+2007-04-29,Willem II,Ajax,8.5,5.0,1.25
+2007-04-29,Koblenz,Munich 1860,2.15,3.2,3.0
+2007-04-29,Karlsruhe,Unterhaching,1.5,3.75,5.25
+2007-04-29,Augsburg,Kaiserslautern,2.75,3.2,2.3
+2007-04-29,Heerenveen,Feyenoord,2.1,3.25,2.87
+2007-04-29,Ascoli,Reggina,5.5,3.6,1.61
+2007-04-29,Livorno,Palermo,3.3,2.25,3.0
+2007-04-29,Messina,Atalanta,1.95,3.3,3.8
+2007-04-29,Parma,Cagliari,1.83,3.0,5.0
+2007-04-29,Roma,Lazio,2.1,3.0,3.75
+2007-04-29,Siena,Sampdoria,1.83,3.1,4.75
+2007-04-29,Udinese,Catania,2.1,2.6,4.5
+2007-04-29,Arsenal,Fulham,1.33,4.5,9.5
+2007-04-29,Crystal Palace,Derby,3.4,3.4,2.05
+2007-04-29,Marseille,Sochaux,1.72,3.3,5.0
+2007-04-29,Inter,Empoli,1.57,3.5,6.5
+2007-04-29,Excelsior,AZ Alkmaar,10.0,5.5,1.2
+2007-04-29,Offenbach,Freiburg,3.1,3.25,2.05
+2007-04-30,Academica,Sp Braga,2.62,3.2,2.37
+2007-04-30,Essen,Hansa Rostock,2.9,3.2,2.2
+2007-04-30,Reading,Newcastle,2.0,3.3,3.6
+2007-05-02,Catania,Ascoli,1.33,4.5,10.0
+2007-05-04,Lokeren,Genk,5.0,3.6,1.57
+2007-05-04,Freiburg,Paderborn,1.33,4.0,9.0
+2007-05-04,Erzgebirge Aue,Karlsruhe,2.2,3.25,3.2
+2007-05-04,Augsburg,Offenbach,1.9,3.3,4.2
+2007-05-04,Beira Mar,Boavista,2.25,3.25,3.1
+2007-05-05,Man City,Man United,6.0,4.0,1.5
+2007-05-05,Fulham,Liverpool,3.2,3.25,2.2
+2007-05-05,Everton,Portsmouth,1.95,3.3,3.8
+2007-05-05,Aston Villa,Sheffield United,1.9,3.4,4.0
+2007-05-05,Reading,Watford,1.4,4.33,7.5
+2007-05-05,Porto,Nacional,1.2,5.5,10.0
+2007-05-05,Maritimo,Academica,2.1,3.25,3.0
+2007-05-05,West Ham,Bolton,2.15,3.25,3.3
+2007-05-05,Benfica,Naval,1.2,5.5,10.0
+2007-05-05,Newcastle,Blackburn,2.25,3.3,3.0
+2007-05-05,Auxerre,Troyes,1.9,2.87,4.2
+2007-05-05,Sochaux,Valenciennes,1.8,3.1,4.5
+2007-05-05,Sociedad,Barcelona,6.0,3.8,1.53
+2007-05-05,Le Mans,Nantes,1.85,3.1,4.2
+2007-05-05,Bergen,Roeselare,1.72,3.4,4.2
+2007-05-05,Lens,Toulouse,1.9,2.9,4.2
+2007-05-05,Nancy,Nice,2.25,2.75,3.25
+2007-05-05,Charleroi,FC Brussels,1.7,3.5,4.2
+2007-05-05,La Coruna,Valencia,3.0,3.1,2.37
+2007-05-05,Club Brugge,Lierse,1.4,4.0,6.5
+2007-05-05,Wigan,Middlesbrough,2.1,3.25,3.4
+2007-05-05,Germinal,Cercle Brugge,1.72,3.5,4.0
+2007-05-05,Mouscron,Waregem,2.05,3.25,3.1
+2007-05-05,St Truiden,Gent,3.2,3.2,2.05
+2007-05-05,Paris SG,Lyon,2.7,2.75,2.9
+2007-05-05,Rennes,Bordeaux,2.3,2.87,3.1
+2007-05-05,Sedan,Lorient,2.15,2.9,3.5
+2007-05-06,Sp Lisbon,Setubal,1.2,5.5,10.0
+2007-05-06,Villarreal,Celta,2.1,3.25,3.4
+2007-05-06,Sp Braga,Belenenses,2.2,3.2,2.87
+2007-05-06,Recreativo,Ath Bilbao,2.05,3.25,3.5
+2007-05-06,Chievo,Parma,2.1,3.0,3.75
+2007-05-06,Est Amadora,Pacos Ferreira,2.5,3.2,2.5
+2007-05-06,Leiria,Aves,1.72,3.4,4.2
+2007-05-06,Empoli,Catania,1.9,2.8,5.0
+2007-05-06,Torino,Ascoli,1.22,5.5,13.0
+2007-05-06,Sampdoria,Reggina,2.5,2.62,3.4
+2007-05-06,Palermo,Roma,2.1,3.2,3.5
+2007-05-06,Monaco,Marseille,2.7,2.75,2.9
+2007-05-06,Real Madrid,Sevilla,2.0,3.3,3.6
+2007-05-06,St Etienne,Lille,2.3,2.87,3.4
+2007-05-06,Milan,Fiorentina,1.8,3.1,4.75
+2007-05-06,Messina,Inter,7.5,3.4,1.53
+2007-05-06,Atalanta,Siena,2.9,2.3,3.4
+2007-05-06,Lazio,Livorno,1.53,3.25,7.0
+2007-05-06,Cagliari,Udinese,1.53,3.6,6.5
+2007-05-06,Zaragoza,Santander,1.72,3.4,5.0
+2007-05-06,Mallorca,Osasuna,2.0,3.3,3.6
+2007-05-06,Burnley,Coventry,1.8,3.25,4.2
+2007-05-06,Espanol,Ath Madrid,2.7,3.1,2.6
+2007-05-06,Anderlecht,Beveren,1.16,5.5,13.0
+2007-05-06,West Brom,Barnsley,1.3,5.0,9.0
+2007-05-06,Southampton,Southend,1.2,5.5,11.0
+2007-05-06,Munich 1860,Unterhaching,2.2,3.25,2.8
+2007-05-06,Kaiserslautern,Braunschweig,1.25,4.75,9.0
+2007-05-06,Hansa Rostock,Koblenz,1.5,3.75,7.0
+2007-05-06,Greuther Furth,Essen,1.44,3.75,6.5
+2007-05-06,Sheffield Weds,Norwich,1.9,3.25,3.6
+2007-05-06,Westerlo,Standard,3.25,3.25,2.0
+2007-05-06,Preston,Birmingham,2.37,3.5,2.7
+2007-05-06,QPR,Stoke,3.25,3.6,1.9
+2007-05-06,Burghausen,CZ Jena,2.4,3.3,2.5
+2007-05-06,Leicester,Wolves,3.75,3.4,1.83
+2007-05-06,Arsenal,Chelsea,2.7,3.25,2.5
+2007-05-06,Ipswich,Cardiff,1.9,3.25,3.6
+2007-05-06,Hull,Plymouth,2.1,3.1,3.3
+2007-05-06,Derby,Leeds,1.72,3.5,4.33
+2007-05-06,Colchester,Crystal Palace,1.9,3.25,3.6
+2007-05-06,Betis,Getafe,2.0,3.1,4.0
+2007-05-06,Luton,Sunderland,6.0,3.75,1.5
+2007-05-06,Levante,Gimnastic,1.72,3.4,5.0
+2007-05-07,Charlton,Tottenham,2.87,3.25,2.37
+2007-05-07,Duisburg,FC Koln,1.61,3.4,5.0
+2007-05-09,Troyes,Rennes,2.75,3.0,2.45
+2007-05-09,Valenciennes,St Etienne,2.1,3.0,3.3
+2007-05-09,Sochaux,Monaco,2.15,2.87,3.4
+2007-05-09,Nice,Paris SG,2.75,2.75,2.75
+2007-05-09,Chelsea,Man United,2.1,3.2,3.2
+2007-05-09,Bordeaux,Nantes,1.3,4.2,11.0
+2007-05-09,Lille,Sedan,1.85,3.1,4.2
+2007-05-09,Lorient,Auxerre,2.37,2.87,3.1
+2007-05-09,Lyon,Lens,2.0,3.1,3.6
+2007-05-09,Marseille,Nancy,1.33,4.2,9.5
+2007-05-10,Tottenham,Blackburn,1.8,3.4,4.33
+2007-05-10,Toulouse,Le Mans,1.65,3.4,4.75
+2007-05-11,Cercle Brugge,Westerlo,2.37,3.1,2.62
+2007-05-12,Standard,Club Brugge,1.85,3.25,3.6
+2007-05-12,Boavista,Sp Braga,2.5,3.1,2.5
+2007-05-12,Waregem,Lokeren,2.25,3.0,3.0
+2007-05-12,Genk,Charleroi,1.33,4.33,7.0
+2007-05-12,Gent,Germinal,1.44,3.75,6.0
+2007-05-12,Belenenses,Maritimo,1.57,3.5,5.0
+2007-05-12,Sevilla,Recreativo,1.57,3.6,6.0
+2007-05-12,Anderlecht,FC Brussels,1.14,6.0,11.0
+2007-05-12,Lierse,Mouscron,1.85,3.4,3.6
+2007-05-12,Roeselare,St Truiden,2.0,3.2,3.3
+2007-05-12,Real Madrid,Espanol,1.25,5.0,13.0
+2007-05-12,Beveren,Bergen,1.75,3.3,4.0
+2007-05-13,Academica,Sp Lisbon,5.5,3.6,1.5
+2007-05-13,Aves,Est Amadora,1.72,3.4,4.2
+2007-05-13,Leiria,Naval,1.72,3.4,4.2
+2007-05-13,Nacional,Beira Mar,1.95,3.25,3.3
+2007-05-13,Pacos Ferreira,Porto,4.75,3.5,1.61
+2007-05-13,Setubal,Benfica,5.0,3.5,1.57
+2007-05-13,Celta,Levante,1.9,3.25,4.0
+2007-05-13,Barcelona,Betis,1.2,5.75,15.0
+2007-05-13,Koblenz,Erzgebirge Aue,1.61,3.5,4.5
+2007-05-13,Valencia,Zaragoza,1.72,3.5,4.75
+2007-05-13,Paderborn,Duisburg,4.0,3.4,1.72
+2007-05-13,Unterhaching,Greuther Furth,2.62,3.3,2.25
+2007-05-13,Ath Bilbao,La Coruna,1.9,3.25,4.0
+2007-05-13,Getafe,Ath Madrid,2.4,3.2,2.87
+2007-05-13,Gimnastic,Sociedad,2.6,3.4,2.5
+2007-05-13,Osasuna,Villarreal,2.3,3.25,3.0
+2007-05-13,Karlsruhe,Freiburg,2.6,3.2,2.4
+2007-05-13,Ascoli,Palermo,9.5,4.5,1.33
+2007-05-13,Fiorentina,Cagliari,1.4,4.0,9.0
+2007-05-13,Inter,Lazio,2.05,3.0,4.0
+2007-05-13,Livorno,Sampdoria,1.53,3.6,6.5
+2007-05-13,Parma,Messina,1.14,6.5,19.0
+2007-05-13,Reggina,Chievo,2.1,2.8,4.0
+2007-05-13,Roma,Torino,1.75,3.0,6.0
+2007-05-13,Siena,Empoli,1.66,3.5,5.25
+2007-05-13,Udinese,Atalanta,2.8,2.62,3.0
+2007-05-13,Catania,Milan,6.0,2.8,1.8
+2007-05-13,FC Koln,Offenbach,1.95,3.3,3.2
+2007-05-13,Munich 1860,Hansa Rostock,3.0,3.1,2.15
+2007-05-13,CZ Jena,Kaiserslautern,2.3,3.25,2.7
+2007-05-13,Blackburn,Reading,2.0,3.4,3.5
+2007-05-13,Bolton,Aston Villa,1.86,3.4,4.0
+2007-05-13,Chelsea,Everton,1.72,3.5,4.75
+2007-05-13,Essen,Burghausen,1.45,3.6,5.75
+2007-05-13,Man United,West Ham,1.57,3.6,6.0
+2007-05-13,Middlesbrough,Fulham,1.9,3.25,4.0
+2007-05-13,Portsmouth,Arsenal,2.7,3.5,2.37
+2007-05-13,Liverpool,Charlton,1.36,4.5,8.0
+2007-05-13,Braunschweig,Augsburg,2.5,3.1,2.5
+2007-05-13,Watford,Newcastle,2.8,3.3,2.37
+2007-05-13,Tottenham,Man City,1.5,3.75,7.0
+2007-05-13,Sheffield United,Wigan,2.3,3.4,2.87
+2007-05-13,Santander,Mallorca,1.95,3.3,3.8
+2007-05-18,Germinal,Roeselare,1.53,3.75,5.25
+2007-05-19,Betis,Gimnastic,1.44,4.2,7.0
+2007-05-19,Le Mans,Bordeaux,2.87,3.1,2.3
+2007-05-19,Mallorca,Valencia,3.6,3.3,2.0
+2007-05-19,Auxerre,Lille,2.1,3.0,3.4
+2007-05-19,Monaco,Lyon,2.6,2.87,2.7
+2007-05-19,Nancy,Sochaux,2.3,3.0,3.0
+2007-05-19,Nantes,Toulouse,2.87,2.9,2.4
+2007-05-19,Paris SG,Troyes,1.8,3.25,4.2
+2007-05-19,Rennes,Lorient,1.72,3.1,5.0
+2007-05-19,Westerlo,Gent,3.1,3.3,2.05
+2007-05-19,Lens,Nice,1.66,3.4,5.5
+2007-05-19,Zaragoza,Ath Bilbao,1.8,3.4,4.33
+2007-05-19,St Truiden,Beveren,2.15,3.4,2.8
+2007-05-19,Sedan,Valenciennes,2.3,3.0,3.0
+2007-05-19,Mouscron,Standard,2.6,3.2,2.37
+2007-05-19,Lokeren,Lierse,2.2,3.4,2.75
+2007-05-19,FC Brussels,Genk,3.0,3.3,2.05
+2007-05-19,Club Brugge,Cercle Brugge,1.5,3.5,6.0
+2007-05-19,Charleroi,Waregem,1.44,4.0,6.0
+2007-05-19,Bergen,Anderlecht,3.5,3.3,1.9
+2007-05-19,Milan,Udinese,2.15,2.7,4.2
+2007-05-19,St Etienne,Marseille,3.25,3.0,2.3
+2007-05-19,Maritimo,Boavista,2.25,3.1,2.87
+2007-05-20,Villarreal,Santander,1.66,3.6,5.0
+2007-05-20,Benfica,Academica,1.14,6.0,13.0
+2007-05-20,Recreativo,Real Madrid,5.0,3.6,1.66
+2007-05-20,Est Amadora,Leiria,2.5,3.2,2.5
+2007-05-20,Naval,Setubal,2.75,3.4,2.2
+2007-05-20,Porto,Aves,1.14,6.0,13.0
+2007-05-20,Levante,Osasuna,2.25,3.1,3.2
+2007-05-20,La Coruna,Sevilla,3.6,3.3,2.0
+2007-05-20,Espanol,Getafe,2.25,3.2,3.1
+2007-05-20,Ath Madrid,Barcelona,3.6,3.3,2.0
+2007-05-20,Beira Mar,Pacos Ferreira,2.0,3.25,3.25
+2007-05-20,Sociedad,Celta,2.0,3.3,3.6
+2007-05-20,Sp Braga,Nacional,1.8,3.25,4.0
+2007-05-20,Sp Lisbon,Belenenses,1.25,5.0,8.5
+2007-05-20,Cagliari,Roma,1.53,3.8,6.0
+2007-05-20,Palermo,Siena,2.5,2.6,3.4
+2007-05-20,Messina,Fiorentina,9.0,4.0,1.4
+2007-05-20,Lazio,Parma,3.6,2.4,2.62
+2007-05-20,Empoli,Reggina,3.4,2.5,2.62
+2007-05-20,Chievo,Ascoli,1.1,8.0,21.0
+2007-05-20,Atalanta,Inter,2.6,3.1,2.75
+2007-05-20,Sampdoria,Catania,2.8,3.1,2.5
+2007-05-20,Offenbach,Braunschweig,1.28,5.0,9.0
+2007-05-20,Hansa Rostock,Unterhaching,1.53,3.75,5.5
+2007-05-20,Greuther Furth,Karlsruhe,2.1,3.25,3.0
+2007-05-20,Freiburg,Koblenz,1.22,5.5,9.5
+2007-05-20,Erzgebirge Aue,Munich 1860,2.25,3.2,2.8
+2007-05-20,Duisburg,Essen,1.5,3.75,5.5
+2007-05-20,Burghausen,Paderborn,2.25,3.2,2.8
+2007-05-20,Augsburg,CZ Jena,3.0,3.25,2.1
+2007-05-20,Kaiserslautern,FC Koln,2.2,3.25,3.0
+2007-05-20,Torino,Livorno,3.25,1.4,11.0
+2007-05-26,Real Madrid,La Coruna,1.22,5.5,13.0
+2007-05-26,Lyon,Nantes,1.36,4.33,7.5
+2007-05-26,Valencia,Villarreal,1.61,3.6,5.5
+2007-05-26,Barcelona,Getafe,1.22,5.5,13.0
+2007-05-26,Marseille,Sedan,1.36,4.33,7.0
+2007-05-26,Sochaux,St Etienne,1.85,3.2,4.0
+2007-05-26,Lorient,Paris SG,2.45,3.0,2.7
+2007-05-26,Lille,Rennes,3.1,3.2,2.15
+2007-05-26,Monaco,Nancy,1.8,3.25,4.2
+2007-05-26,Nice,Le Mans,1.95,3.0,3.8
+2007-05-26,Toulouse,Bordeaux,2.62,3.0,2.75
+2007-05-26,Troyes,Lens,7.5,4.0,1.45
+2007-05-26,Valenciennes,Auxerre,2.3,3.0,3.1
+2007-05-27,Fiorentina,Sampdoria,1.61,3.25,6.5
+2007-05-27,Inter,Torino,1.4,4.33,7.5
+2007-05-27,Livorno,Atalanta,2.4,2.4,4.0
+2007-05-27,Parma,Empoli,1.83,2.1,17.0
+2007-05-27,Reggina,Milan,1.28,7.0,6.5
+2007-05-27,Ath Bilbao,Mallorca,1.57,3.8,5.5
+2007-05-27,Celta,Betis,2.3,3.25,3.0
+2007-05-27,Gimnastic,Ath Madrid,4.5,3.6,1.72
+2007-05-27,Sevilla,Zaragoza,1.57,4.0,5.25
+2007-05-27,Recreativo,Espanol,2.0,3.3,3.6
+2007-05-27,Santander,Levante,2.05,3.3,3.5
+2007-05-27,Catania,Chievo,2.75,2.87,2.7
+2007-05-27,Roma,Messina,1.16,6.5,15.0
+2007-05-27,Siena,Lazio,1.2,7.5,9.0
+2007-05-27,Udinese,Palermo,2.37,2.62,3.6
+2007-05-27,Osasuna,Sociedad,3.2,3.25,2.2
+2007-05-27,Ascoli,Cagliari,2.25,2.87,3.5
+2007-06-09,Barcelona,Espanol,1.22,5.5,13.0
+2007-06-09,Betis,Osasuna,1.66,3.6,5.0
+2007-06-09,Zaragoza,Real Madrid,4.75,3.75,1.66
+2007-06-09,Villarreal,Ath Bilbao,1.66,3.6,5.0
+2007-06-09,Sociedad,Santander,1.57,3.8,5.5
+2007-06-09,Mallorca,Sevilla,5.5,3.8,1.57
+2007-06-09,Ath Madrid,Celta,1.66,3.6,5.0
+2007-06-09,Levante,Valencia,3.2,3.25,2.2
+2007-06-10,La Coruna,Recreativo,2.05,3.3,3.5
+2007-06-10,Getafe,Gimnastic,1.4,4.33,7.5
+2007-06-17,Santander,Betis,3.4,3.5,2.0
+2007-06-17,Espanol,La Coruna,1.8,3.5,4.2
+2007-06-17,Gimnastic,Barcelona,13.0,7.0,1.16
+2007-06-17,Osasuna,Ath Madrid,3.2,3.5,2.1
+2007-06-17,Real Madrid,Mallorca,1.12,9.0,17.0
+2007-06-17,Celta,Getafe,1.4,4.75,6.5
+2007-06-17,Valencia,Sociedad,2.15,3.5,3.1
+2007-06-17,Sevilla,Villarreal,1.85,3.6,3.8
+2007-06-17,Recreativo,Zaragoza,3.25,3.0,2.3
+2007-06-17,Ath Bilbao,Levante,1.33,5.25,8.5

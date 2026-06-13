@@ -1,0 +1,3765 @@
+date,home_team,away_team,odds_h,odds_d,odds_a
+2014-07-25,Standard,Charleroi,1.36,4.75,8.5
+2014-07-26,Cercle Brugge,Gent,3.6,3.5,2.0
+2014-07-26,Lierse,Oostende,2.4,3.2,3.0
+2014-07-26,Waasland-Beveren,Club Brugge,4.2,3.6,1.83
+2014-07-26,Westerlo,Lokeren,3.0,3.4,2.3
+2014-07-27,Anderlecht,Mouscron-Peruwelz,1.2,6.5,13.0
+2014-07-27,Mechelen,Genk,2.63,3.25,2.63
+2014-07-27,Waregem,Kortrijk,1.91,3.6,3.8
+2014-08-01,Oostende,Anderlecht,4.2,4.0,1.73
+2014-08-02,Kortrijk,Standard,3.1,3.4,2.25
+2014-08-02,Charleroi,Westerlo,2.25,3.3,3.2
+2014-08-02,Genk,Cercle Brugge,1.53,4.33,5.5
+2014-08-02,Mouscron-Peruwelz,Waasland-Beveren,1.91,3.4,4.0
+2014-08-03,Lokeren,Waregem,2.1,3.4,3.4
+2014-08-03,Gent,Mechelen,1.73,3.75,4.5
+2014-08-03,Club Brugge,Lierse,1.25,6.0,10.0
+2014-08-08,Zwolle,Utrecht,1.95,3.6,3.6
+2014-08-08,Genk,Lokeren,2.38,3.4,2.88
+2014-08-08,Reims,Paris SG,9.5,4.5,1.36
+2014-08-08,Blackburn,Cardiff,2.3,3.3,3.5
+2014-08-09,Cambuur,Twente,4.2,3.75,1.8
+2014-08-09,Heerenveen,Dordrecht,1.44,4.5,6.5
+2014-08-09,Heracles,AZ Alkmaar,2.5,3.4,2.7
+2014-08-09,NAC Breda,Excelsior,2.1,3.5,3.25
+2014-08-09,Nice,Toulouse,2.63,3.1,2.75
+2014-08-09,Hamilton,Inverness C,3.2,3.2,2.3
+2014-08-09,Montpellier,Bordeaux,2.3,3.1,3.2
+2014-08-09,Guingamp,St Etienne,3.3,3.1,2.3
+2014-08-09,Evian Thonon Gaillard,Caen,2.38,3.2,3.0
+2014-08-09,Bastia,Marseille,3.9,3.1,2.05
+2014-08-09,Waasland-Beveren,Westerlo,2.63,3.3,2.63
+2014-08-09,Mechelen,Kortrijk,2.1,3.5,3.25
+2014-08-09,Lierse,Mouscron-Peruwelz,2.4,3.3,2.88
+2014-08-09,Cercle Brugge,Oostende,2.2,3.4,3.2
+2014-08-09,Lille,Metz,1.5,4.1,6.5
+2014-08-09,Dundee,Kilmarnock,2.38,3.2,3.0
+2014-08-09,Nantes,Lens,2.0,3.25,3.9
+2014-08-09,Brighton,Sheffield Weds,1.95,3.5,4.5
+2014-08-09,Watford,Bolton,2.1,3.6,3.75
+2014-08-09,Nott'm Forest,Blackpool,1.33,5.5,11.0
+2014-08-09,Millwall,Leeds,2.38,3.4,3.25
+2014-08-09,Middlesbrough,Birmingham,1.8,3.75,5.0
+2014-08-09,Ipswich,Fulham,2.7,3.4,2.8
+2014-08-09,Huddersfield,Bournemouth,2.7,3.4,2.8
+2014-08-09,Derby,Rotherham,1.57,4.33,6.5
+2014-08-09,Wigan,Reading,1.83,3.75,4.6
+2014-08-09,Brentford,Charlton,2.0,3.5,4.2
+2014-08-09,Motherwell,St Mirren,1.8,3.6,4.33
+2014-08-10,Standard,Gent,1.85,3.6,4.0
+2014-08-10,Waregem,Club Brugge,3.1,3.5,2.2
+2014-08-10,Ross County,St Johnstone,3.0,3.25,2.38
+2014-08-10,Aberdeen,Dundee United,2.2,3.3,3.3
+2014-08-10,Monaco,Lorient,1.4,4.33,8.5
+2014-08-10,Lyon,Rennes,1.8,3.4,4.75
+2014-08-10,Anderlecht,Charleroi,1.29,5.5,10.0
+2014-08-10,Wolves,Norwich,2.3,3.4,3.4
+2014-08-10,Willem II,PSV Eindhoven,5.0,4.33,1.57
+2014-08-10,Den Haag,Feyenoord,4.2,4.0,1.75
+2014-08-10,Ajax,Vitesse,1.5,4.33,6.0
+2014-08-10,Go Ahead Eagles,Groningen,2.63,3.4,2.6
+2014-08-13,Partick,Ross County,2.1,3.3,3.5
+2014-08-13,St Johnstone,Celtic,6.0,4.33,1.5
+2014-08-13,St Mirren,Hamilton,2.1,3.4,3.4
+2014-08-13,Kilmarnock,Aberdeen,4.0,3.4,1.91
+2014-08-13,Dundee United,Motherwell,1.91,3.6,3.75
+2014-08-13,Inverness C,Dundee,2.1,3.3,3.5
+2014-08-15,Feyenoord,Heerenveen,1.45,4.5,6.5
+2014-08-15,Mouscron-Peruwelz,Standard,3.0,3.5,2.25
+2014-08-15,Porto,Maritimo,1.17,6.5,17.0
+2014-08-15,Caen,Lille,3.6,3.1,2.15
+2014-08-15,Club Brugge,Cercle Brugge,1.29,5.5,9.5
+2014-08-16,Fulham,Millwall,2.05,3.6,3.8
+2014-08-16,Leeds,Middlesbrough,3.3,3.5,2.3
+2014-08-16,Oostende,Mechelen,2.4,3.5,2.8
+2014-08-16,Lokeren,Lierse,1.4,4.33,8.5
+2014-08-16,Kortrijk,Genk,2.3,3.25,3.1
+2014-08-16,Norwich,Watford,2.3,3.5,3.3
+2014-08-16,Charleroi,Waasland-Beveren,1.8,3.6,4.33
+2014-08-16,Sheffield Weds,Derby,3.25,3.4,2.38
+2014-08-16,Charlton,Wigan,3.4,3.4,2.3
+2014-08-16,Blackpool,Blackburn,5.25,3.8,1.75
+2014-08-16,Birmingham,Brighton,3.3,3.3,2.4
+2014-08-16,Celtic,Dundee United,1.44,4.5,6.5
+2014-08-16,Dundee,Partick,2.45,3.25,2.88
+2014-08-16,Hamilton,St Johnstone,2.7,3.2,2.6
+2014-08-16,Motherwell,Inverness C,2.4,3.4,2.8
+2014-08-16,Ross County,Kilmarnock,2.25,3.25,3.2
+2014-08-16,Reading,Ipswich,2.3,3.4,3.4
+2014-08-16,Bournemouth,Brentford,1.85,3.75,4.5
+2014-08-16,Dordrecht,Zwolle,2.5,3.6,2.6
+2014-08-16,PSV Eindhoven,NAC Breda,1.18,7.0,13.0
+2014-08-16,Twente,Den Haag,1.33,5.0,8.5
+2014-08-16,Vitesse,Cambuur,1.53,4.33,5.5
+2014-08-16,Bolton,Nott'm Forest,2.7,3.4,2.75
+2014-08-16,Cardiff,Huddersfield,1.73,3.9,5.25
+2014-08-16,Rotherham,Wolves,2.88,3.4,2.6
+2014-08-16,Arsenal,Crystal Palace,1.25,6.5,15.0
+2014-08-16,Lorient,Nice,1.75,3.4,5.0
+2014-08-16,Gil Vicente,Guimaraes,2.75,3.2,2.6
+2014-08-16,Lens,Guingamp,2.88,3.0,2.63
+2014-08-16,West Ham,Tottenham,3.8,3.6,2.05
+2014-08-16,West Brom,Sunderland,2.25,3.4,3.5
+2014-08-16,Stoke,Aston Villa,1.95,3.5,4.5
+2014-08-16,QPR,Hull,2.5,3.3,3.1
+2014-08-16,Academica,Sp Lisbon,4.75,3.6,1.73
+2014-08-16,Leicester,Everton,3.2,3.4,2.4
+2014-08-16,Toulouse,Lyon,2.5,3.25,2.8
+2014-08-16,Rennes,Evian Thonon Gaillard,1.73,3.5,5.0
+2014-08-16,Paris SG,Bastia,1.13,8.0,19.0
+2014-08-16,Man United,Swansea,1.36,5.0,11.0
+2014-08-16,Metz,Nantes,2.38,3.0,3.2
+2014-08-17,Benfica,Pacos Ferreira,1.25,5.5,12.0
+2014-08-17,Nacional,Moreirense,2.0,3.5,3.6
+2014-08-17,Penafiel,Belenenses,2.2,3.2,3.4
+2014-08-17,Rio Ave,Setubal,2.0,3.3,3.75
+2014-08-17,Sp Braga,Boavista,1.33,5.0,9.0
+2014-08-17,St Etienne,Reims,1.5,3.75,7.5
+2014-08-17,Bordeaux,Monaco,2.8,3.2,2.55
+2014-08-17,Gent,Waregem,1.73,3.75,4.5
+2014-08-17,Marseille,Montpellier,1.55,3.75,6.5
+2014-08-17,Liverpool,Southampton,1.33,5.75,10.0
+2014-08-17,Utrecht,Willem II,1.85,3.8,3.8
+2014-08-17,Newcastle,Man City,5.25,4.33,1.67
+2014-08-17,AZ Alkmaar,Ajax,3.1,3.4,2.25
+2014-08-17,Excelsior,Go Ahead Eagles,2.2,3.5,3.1
+2014-08-17,Groningen,Heracles,1.67,4.2,4.5
+2014-08-17,Westerlo,Anderlecht,4.2,3.6,1.83
+2014-08-18,Burnley,Chelsea,9.0,5.0,1.4
+2014-08-18,Arouca,Estoril,3.4,3.2,2.2
+2014-08-19,Rotherham,Watford,3.0,3.5,2.45
+2014-08-19,Bolton,Middlesbrough,2.63,3.4,2.88
+2014-08-19,Bournemouth,Nott'm Forest,2.15,3.6,3.6
+2014-08-19,Cardiff,Wigan,2.38,3.4,3.25
+2014-08-19,Charlton,Derby,3.6,3.4,2.2
+2014-08-19,Leeds,Brighton,2.7,3.3,2.88
+2014-08-19,Norwich,Blackburn,2.1,3.5,3.8
+2014-08-19,Sheffield Weds,Millwall,2.2,3.4,3.6
+2014-08-19,Birmingham,Ipswich,2.75,3.4,2.75
+2014-08-19,Reading,Huddersfield,1.91,3.6,4.5
+2014-08-19,Blackpool,Brentford,3.5,3.4,2.25
+2014-08-20,Fulham,Wolves,2.5,3.4,3.0
+2014-08-22,Evian Thonon Gaillard,Paris SG,9.0,4.6,1.36
+2014-08-22,Genk,Gent,2.7,3.4,2.5
+2014-08-22,Guimaraes,Penafiel,1.65,3.6,5.5
+2014-08-22,Heracles,Cambuur,2.25,3.5,3.0
+2014-08-22,Bayern Munich,Wolfsburg,1.25,6.0,10.0
+2014-08-23,Inverness C,Celtic,6.0,4.33,1.5
+2014-08-23,Guingamp,Marseille,2.9,3.1,2.5
+2014-08-23,Bastia,Toulouse,2.9,3.1,2.5
+2014-08-23,Kortrijk,Oostende,2.1,3.5,3.3
+2014-08-23,Lierse,Charleroi,2.5,3.3,2.75
+2014-08-23,Millwall,Rotherham,2.05,3.5,4.0
+2014-08-23,Middlesbrough,Sheffield Weds,1.91,3.6,4.5
+2014-08-23,Dundee United,Ross County,1.44,4.2,7.5
+2014-08-23,Ipswich,Norwich,2.88,3.3,2.7
+2014-08-23,Huddersfield,Charlton,2.2,3.4,3.6
+2014-08-23,Willem II,AZ Alkmaar,2.7,3.4,2.5
+2014-08-23,Heerenveen,Excelsior,1.5,4.5,5.75
+2014-08-23,Go Ahead Eagles,Dordrecht,1.85,3.8,3.8
+2014-08-23,Standard,Westerlo,1.73,3.75,4.5
+2014-08-23,Waregem,Mouscron-Peruwelz,1.8,3.6,4.33
+2014-08-23,Derby,Fulham,1.75,3.8,5.25
+2014-08-23,Brighton,Bolton,2.0,3.6,4.0
+2014-08-23,Maritimo,Academica,2.25,3.1,3.4
+2014-08-23,Pacos Ferreira,Porto,8.5,4.33,1.4
+2014-08-23,Sp Lisbon,Arouca,1.33,4.75,9.5
+2014-08-23,Brentford,Birmingham,2.0,3.6,4.0
+2014-08-23,Lille,Lorient,1.75,3.4,5.0
+2014-08-23,Almeria,Espanol,2.55,3.3,2.7
+2014-08-23,Granada,La Coruna,1.95,3.2,4.2
+2014-08-23,Malaga,Ath Bilbao,2.8,3.3,2.45
+2014-08-23,Kilmarnock,Motherwell,2.5,3.4,2.7
+2014-08-23,Partick,Hamilton,2.0,3.4,3.75
+2014-08-23,Southampton,West Brom,1.85,3.7,4.75
+2014-08-23,Everton,Arsenal,2.8,3.4,2.7
+2014-08-23,Crystal Palace,West Ham,2.5,3.3,3.1
+2014-08-23,Chelsea,Leicester,1.2,7.5,17.0
+2014-08-23,Aston Villa,Newcastle,2.5,3.4,3.0
+2014-08-23,Hoffenheim,Augsburg,1.91,3.6,3.8
+2014-08-23,Hertha,Werder Bremen,1.95,3.5,3.75
+2014-08-23,St Johnstone,Aberdeen,2.9,3.25,2.4
+2014-08-23,St Mirren,Dundee,2.63,3.2,2.7
+2014-08-23,Swansea,Burnley,1.65,4.0,6.0
+2014-08-23,Hannover,Schalke 04,2.9,3.5,2.3
+2014-08-23,FC Koln,Hamburg,2.0,3.5,3.6
+2014-08-23,Ein Frankfurt,Freiburg,2.05,3.4,3.6
+2014-08-23,Dortmund,Leverkusen,1.57,4.33,5.0
+2014-08-23,Wolves,Cardiff,2.25,3.4,3.5
+2014-08-23,Reims,Caen,2.38,3.25,3.0
+2014-08-23,Nice,Bordeaux,3.2,3.2,2.3
+2014-08-23,Montpellier,Metz,1.85,3.5,4.2
+2014-08-23,Wigan,Blackpool,1.44,4.75,8.0
+2014-08-23,Watford,Leeds,1.75,4.0,5.0
+2014-08-23,Nott'm Forest,Reading,2.0,3.7,4.0
+2014-08-23,Sevilla,Valencia,2.05,3.5,3.5
+2014-08-23,Blackburn,Bournemouth,2.4,3.5,3.1
+2014-08-24,Mechelen,Club Brugge,4.0,3.5,1.91
+2014-08-24,Setubal,Gil Vicente,2.2,3.2,3.4
+2014-08-24,Feyenoord,Utrecht,1.4,4.75,7.0
+2014-08-24,Boavista,Benfica,15.0,6.0,1.2
+2014-08-24,St Etienne,Rennes,1.73,3.3,5.5
+2014-08-24,Nantes,Monaco,3.5,3.3,2.1
+2014-08-24,Hull,Stoke,2.5,3.25,3.2
+2014-08-24,Sunderland,Man United,5.0,4.0,1.75
+2014-08-24,Tottenham,QPR,1.45,4.75,8.0
+2014-08-24,Lyon,Lens,1.44,4.33,7.0
+2014-08-24,M'gladbach,Stuttgart,1.95,3.5,3.75
+2014-08-24,Levante,Villarreal,3.4,3.4,2.1
+2014-08-24,Estoril,Rio Ave,1.91,3.4,4.0
+2014-08-24,Eibar,Sociedad,3.25,3.4,2.2
+2014-08-24,Barcelona,Elche,1.1,9.0,21.0
+2014-08-24,Zwolle,Vitesse,2.8,3.5,2.38
+2014-08-24,NAC Breda,Twente,3.8,3.8,1.85
+2014-08-24,Den Haag,Groningen,2.4,3.4,2.8
+2014-08-24,Ajax,PSV Eindhoven,1.91,3.75,3.6
+2014-08-24,Anderlecht,Waasland-Beveren,1.18,7.0,13.0
+2014-08-24,Cercle Brugge,Lokeren,3.3,3.4,2.15
+2014-08-24,Belenenses,Nacional,2.6,3.2,2.7
+2014-08-24,Celta,Getafe,1.91,3.4,4.0
+2014-08-24,Paderborn,Mainz,3.1,3.4,2.25
+2014-08-25,Man City,Liverpool,1.85,4.0,4.33
+2014-08-25,Vallecano,Ath Madrid,7.0,4.0,1.5
+2014-08-25,Moreirense,Sp Braga,4.75,3.4,1.8
+2014-08-25,Real Madrid,Cordoba,1.06,11.0,29.0
+2014-08-29,Gent,Kortrijk,1.53,4.0,6.0
+2014-08-29,Balikesirspor,Akhisar Belediyespor,2.38,3.2,3.0
+2014-08-29,Valencia,Malaga,1.55,4.2,5.5
+2014-08-29,Getafe,Almeria,2.0,3.4,3.75
+2014-08-29,Rizespor,Genclerbirligi,2.1,3.2,3.6
+2014-08-29,Marseille,Nice,1.5,4.0,7.0
+2014-08-29,Go Ahead Eagles,Willem II,2.25,3.5,3.0
+2014-08-29,Academica,Setubal,2.3,3.1,3.25
+2014-08-29,Augsburg,Dortmund,4.5,3.75,1.73
+2014-08-30,Monaco,Lille,1.95,3.2,4.2
+2014-08-30,Lorient,Guingamp,2.1,3.2,3.6
+2014-08-30,Heerenveen,Utrecht,1.65,4.2,4.5
+2014-08-30,Ath Bilbao,Levante,1.33,5.0,9.0
+2014-08-30,Toulouse,Evian Thonon Gaillard,1.75,3.4,5.0
+2014-08-30,Leverkusen,Hertha,1.44,4.5,6.5
+2014-08-30,Nantes,Montpellier,2.25,3.1,3.4
+2014-08-30,Hamburg,Paderborn,1.67,3.8,5.0
+2014-08-30,Bursaspor,Galatasaray,3.8,3.5,1.95
+2014-08-30,Eskisehirspor,Konyaspor,2.2,3.3,3.3
+2014-08-30,St Mirren,Dundee United,3.75,3.4,2.0
+2014-08-30,Hamilton,Ross County,2.05,3.4,3.5
+2014-08-30,Aberdeen,Partick,1.67,3.75,5.0
+2014-08-30,Espanol,Sevilla,2.5,3.2,2.88
+2014-08-30,Cordoba,Celta,3.3,3.3,2.2
+2014-08-30,Ath Madrid,Eibar,1.22,5.75,13.0
+2014-08-30,Buyuksehyr,Kasimpasa,2.63,3.3,2.63
+2014-08-30,Burnley,Man United,6.0,4.2,1.62
+2014-08-30,Man City,Stoke,1.18,8.0,18.0
+2014-08-30,Newcastle,Crystal Palace,1.75,3.75,5.25
+2014-08-30,QPR,Sunderland,2.4,3.25,3.3
+2014-08-30,Swansea,West Brom,1.85,3.6,4.75
+2014-08-30,West Ham,Southampton,2.8,3.4,2.7
+2014-08-30,Mersin Idman Yurdu,Besiktas,4.0,3.6,1.85
+2014-08-30,Everton,Chelsea,3.75,3.3,2.2
+2014-08-30,Excelsior,Heracles,2.2,3.5,3.1
+2014-08-30,Dordrecht,AZ Alkmaar,3.3,3.5,2.1
+2014-08-30,Cambuur,Den Haag,2.05,3.5,3.4
+2014-08-30,Schalke 04,Bayern Munich,6.0,4.75,1.44
+2014-08-30,Stuttgart,FC Koln,2.0,3.5,3.6
+2014-08-30,Werder Bremen,Hoffenheim,3.2,3.5,2.15
+2014-08-30,Wolfsburg,Ein Frankfurt,1.57,4.33,5.0
+2014-08-30,Chievo,Juventus,7.0,4.0,1.5
+2014-08-30,Roma,Fiorentina,1.67,3.8,5.0
+2014-08-30,Wolves,Blackburn,2.05,3.5,4.0
+2014-08-30,Wigan,Birmingham,1.73,3.8,5.5
+2014-08-30,Watford,Huddersfield,1.75,3.8,5.25
+2014-08-30,Sheffield Weds,Nott'm Forest,2.88,3.4,2.6
+2014-08-30,Motherwell,St Johnstone,2.88,3.3,2.4
+2014-08-30,Rotherham,Brentford,2.2,3.4,3.6
+2014-08-30,Norwich,Bournemouth,2.1,3.6,3.75
+2014-08-30,Millwall,Blackpool,1.8,3.75,5.0
+2014-08-30,Inverness C,Kilmarnock,1.75,3.75,4.5
+2014-08-30,Leeds,Bolton,2.6,3.4,2.9
+2014-08-30,Belenenses,Guimaraes,2.55,3.1,2.88
+2014-08-30,Sp Braga,Estoril,1.85,3.4,4.33
+2014-08-30,Lens,Reims,2.1,3.2,3.6
+2014-08-30,Caen,Rennes,2.63,3.1,2.75
+2014-08-30,Mouscron-Peruwelz,Cercle Brugge,1.91,3.4,4.0
+2014-08-30,Middlesbrough,Reading,1.8,3.8,4.75
+2014-08-30,Waasland-Beveren,Lierse,2.05,3.3,3.6
+2014-08-30,Oostende,Genk,2.4,3.5,2.75
+2014-08-30,Brighton,Charlton,1.85,3.6,4.75
+2014-08-30,Derby,Ipswich,1.75,3.75,5.25
+2014-08-30,Fulham,Cardiff,2.75,3.4,2.75
+2014-08-30,Westerlo,Waregem,2.5,3.2,2.88
+2014-08-31,Charleroi,Mechelen,2.4,3.5,2.75
+2014-08-31,Bordeaux,Bastia,1.62,3.6,6.0
+2014-08-31,Club Brugge,Anderlecht,2.25,3.5,3.0
+2014-08-31,Lokeren,Standard,2.5,3.3,2.8
+2014-08-31,Villarreal,Barcelona,5.0,4.2,1.57
+2014-08-31,Sociedad,Real Madrid,7.5,5.0,1.36
+2014-08-31,Paris SG,St Etienne,1.53,3.8,6.5
+2014-08-31,Metz,Lyon,2.8,3.1,2.6
+2014-08-31,Porto,Moreirense,1.14,7.5,19.0
+2014-08-31,La Coruna,Vallecano,2.25,3.3,3.2
+2014-08-31,Freiburg,M'gladbach,2.88,3.4,2.38
+2014-08-31,Mainz,Hannover,2.2,3.3,3.3
+2014-08-31,Atalanta,Verona,2.05,3.4,3.6
+2014-08-31,Cesena,Parma,3.1,3.2,2.35
+2014-08-31,Genoa,Napoli,3.9,3.4,1.95
+2014-08-31,Milan,Lazio,2.0,3.4,3.75
+2014-08-31,Sassuolo,Cagliari,2.3,3.4,3.0
+2014-08-31,Torino,Inter,3.1,3.3,2.3
+2014-08-31,Udinese,Empoli,1.8,3.5,4.5
+2014-08-31,Dundee,Celtic,7.5,4.5,1.4
+2014-08-31,Gil Vicente,Maritimo,2.7,3.2,2.6
+2014-08-31,Groningen,Ajax,4.33,3.75,1.75
+2014-08-31,NAC Breda,Zwolle,2.4,3.4,2.8
+2014-08-31,PSV Eindhoven,Vitesse,1.57,4.33,5.0
+2014-08-31,Nacional,Arouca,1.8,3.5,4.5
+2014-08-31,Penafiel,Pacos Ferreira,2.8,3.3,2.45
+2014-08-31,Erciyesspor,Trabzonspor,2.63,3.3,2.6
+2014-08-31,Fenerbahce,Karabukspor,1.44,4.2,7.5
+2014-08-31,Sivasspor,Gaziantepspor,1.91,3.4,4.0
+2014-08-31,Elche,Granada,2.2,3.2,3.4
+2014-08-31,Benfica,Sp Lisbon,1.8,3.5,4.5
+2014-08-31,Palermo,Sampdoria,2.2,3.25,3.3
+2014-08-31,Twente,Feyenoord,1.95,3.6,3.6
+2014-08-31,Aston Villa,Hull,2.3,3.3,3.5
+2014-08-31,Leicester,Arsenal,4.75,3.75,1.83
+2014-08-31,Tottenham,Liverpool,2.7,3.5,2.7
+2014-09-01,Rio Ave,Boavista,1.53,3.75,7.0
+2014-09-12,Leverkusen,Werder Bremen,1.3,5.5,9.0
+2014-09-12,Setubal,Benfica,7.0,4.0,1.5
+2014-09-12,Lyon,Monaco,2.5,3.1,2.9
+2014-09-12,Almeria,Cordoba,2.05,3.3,3.6
+2014-09-13,Celta,Sociedad,2.2,3.3,3.3
+2014-09-13,Malaga,Levante,1.62,3.6,6.0
+2014-09-13,Real Madrid,Ath Madrid,1.67,3.75,5.0
+2014-09-13,Cercle Brugge,Charleroi,2.6,3.25,2.7
+2014-09-13,Lierse,Anderlecht,7.0,4.33,1.44
+2014-09-13,Kilmarnock,St Mirren,2.2,3.4,3.2
+2014-09-13,Partick,Inverness C,2.8,3.3,2.5
+2014-09-13,Mechelen,Westerlo,2.05,3.4,3.6
+2014-09-13,Standard,Oostende,1.62,3.75,5.5
+2014-09-13,Rennes,Paris SG,7.0,4.0,1.5
+2014-09-13,Reims,Toulouse,2.88,3.3,2.4
+2014-09-13,Juventus,Udinese,1.4,4.5,8.0
+2014-09-13,Empoli,Roma,5.5,3.75,1.62
+2014-09-13,Barcelona,Ath Bilbao,1.3,5.5,8.5
+2014-09-13,Bastia,Lens,1.95,3.2,4.2
+2014-09-13,Montpellier,Lorient,2.05,3.1,3.9
+2014-09-13,Nice,Metz,2.25,3.1,3.4
+2014-09-13,Ross County,Motherwell,2.7,3.6,2.4
+2014-09-13,St Johnstone,Dundee,2.0,3.6,3.5
+2014-09-13,St Etienne,Caen,1.65,3.6,5.5
+2014-09-13,Ajax,Heracles,1.25,5.75,11.0
+2014-09-13,Waregem,Waasland-Beveren,1.53,3.75,7.0
+2014-09-13,Bayern Munich,Stuttgart,1.17,7.5,15.0
+2014-09-13,Zwolle,PSV Eindhoven,4.6,3.6,1.75
+2014-09-13,AZ Alkmaar,Heerenveen,1.95,3.75,3.5
+2014-09-13,Feyenoord,Willem II,1.36,4.75,8.5
+2014-09-13,Southampton,Newcastle,1.8,3.75,5.0
+2014-09-13,Liverpool,Aston Villa,1.3,6.0,11.0
+2014-09-13,Crystal Palace,Burnley,2.25,3.3,3.6
+2014-09-13,Chelsea,Swansea,1.3,5.75,12.0
+2014-09-13,Arsenal,Man City,3.0,3.4,2.5
+2014-09-13,Galatasaray,Eskisehirspor,1.57,3.8,6.0
+2014-09-13,Genclerbirligi,Bursaspor,2.6,3.2,2.7
+2014-09-13,Karabukspor,Buyuksehyr,2.0,3.4,3.75
+2014-09-13,Konyaspor,Balikesirspor,1.8,3.5,4.5
+2014-09-13,Reading,Fulham,2.45,3.4,3.1
+2014-09-13,Ipswich,Millwall,2.15,3.4,3.75
+2014-09-13,Huddersfield,Middlesbrough,3.2,3.4,2.4
+2014-09-13,Charlton,Watford,3.0,3.4,2.5
+2014-09-13,Cardiff,Norwich,2.7,3.4,2.8
+2014-09-13,Brentford,Brighton,2.7,3.4,2.8
+2014-09-13,Bournemouth,Rotherham,1.8,3.75,5.0
+2014-09-13,Bolton,Sheffield Weds,2.5,3.6,2.9
+2014-09-13,Blackpool,Wolves,4.75,3.5,1.91
+2014-09-13,Blackburn,Wigan,2.6,3.4,2.9
+2014-09-13,Birmingham,Leeds,2.2,3.4,3.6
+2014-09-13,Twente,Go Ahead Eagles,1.29,5.5,10.0
+2014-09-13,Dundee United,Hamilton,1.67,3.75,5.0
+2014-09-13,Celtic,Aberdeen,1.45,4.5,6.5
+2014-09-13,Stoke,Leicester,2.1,3.4,4.0
+2014-09-13,Moreirense,Rio Ave,2.6,3.2,2.75
+2014-09-13,Dortmund,Freiburg,1.25,6.0,10.0
+2014-09-13,Hertha,Mainz,2.25,3.3,3.2
+2014-09-13,Hoffenheim,Wolfsburg,2.4,3.5,2.75
+2014-09-13,M'gladbach,Schalke 04,2.4,3.4,2.8
+2014-09-13,Paderborn,FC Koln,2.9,3.2,2.45
+2014-09-13,West Brom,Everton,3.5,3.5,2.2
+2014-09-13,Sunderland,Tottenham,3.6,3.5,2.15
+2014-09-13,Arouca,Sp Braga,3.8,3.3,2.0
+2014-09-13,Sp Lisbon,Belenenses,1.36,4.5,9.0
+2014-09-14,Gaziantepspor,Erciyesspor,2.3,3.25,3.1
+2014-09-14,Kasimpasa,Mersin Idman Yurdu,1.75,3.5,4.75
+2014-09-14,Trabzonspor,Fenerbahce,2.9,3.25,2.4
+2014-09-14,Sampdoria,Torino,2.4,3.1,3.1
+2014-09-14,Cambuur,Groningen,2.2,3.5,3.1
+2014-09-14,Parma,Milan,2.7,3.2,2.6
+2014-09-14,Utrecht,Den Haag,2.1,3.5,3.3
+2014-09-14,Nott'm Forest,Derby,2.45,3.4,3.1
+2014-09-14,Vitesse,Excelsior,1.36,4.75,8.0
+2014-09-14,Hannover,Hamburg,2.2,3.4,3.2
+2014-09-14,Man United,QPR,1.29,6.25,12.0
+2014-09-14,Genk,Club Brugge,3.2,3.5,2.15
+2014-09-14,Dordrecht,NAC Breda,2.3,3.4,3.0
+2014-09-14,Ein Frankfurt,Augsburg,2.25,3.3,3.2
+2014-09-14,Pacos Ferreira,Gil Vicente,1.8,3.3,4.75
+2014-09-14,Fiorentina,Genoa,1.57,3.8,6.0
+2014-09-14,Lille,Nantes,1.73,3.4,5.25
+2014-09-14,Guingamp,Bordeaux,2.75,2.88,2.8
+2014-09-14,Evian Thonon Gaillard,Marseille,3.8,3.1,2.1
+2014-09-14,Napoli,Chievo,1.36,4.75,8.0
+2014-09-14,Lazio,Cesena,1.33,5.0,9.0
+2014-09-14,Inter,Sassuolo,1.44,4.33,7.0
+2014-09-14,Cagliari,Atalanta,2.25,3.4,3.1
+2014-09-14,Vallecano,Elche,1.73,3.5,5.0
+2014-09-14,Sevilla,Getafe,1.44,4.33,7.0
+2014-09-14,Granada,Villarreal,3.5,3.2,2.15
+2014-09-14,Boavista,Academica,2.88,3.3,2.4
+2014-09-14,Estoril,Nacional,2.1,3.3,3.5
+2014-09-14,Guimaraes,Porto,6.5,3.8,1.55
+2014-09-14,Maritimo,Penafiel,1.67,3.6,5.25
+2014-09-14,Gent,Mouscron-Peruwelz,1.57,3.8,6.0
+2014-09-14,Valencia,Espanol,1.62,3.75,5.5
+2014-09-14,Kortrijk,Lokeren,2.6,3.4,2.6
+2014-09-15,Hull,West Ham,2.15,3.4,3.75
+2014-09-15,Verona,Palermo,2.2,3.3,3.3
+2014-09-15,Akhisar Belediyespor,Sivasspor,2.6,3.2,2.75
+2014-09-15,Besiktas,Rizespor,1.53,4.0,6.25
+2014-09-15,Eibar,La Coruna,2.1,3.2,3.6
+2014-09-16,Bolton,Rotherham,2.38,3.5,3.1
+2014-09-16,Blackpool,Watford,4.0,3.6,2.0
+2014-09-16,Reading,Millwall,2.2,3.4,3.6
+2014-09-16,Ipswich,Brighton,2.75,3.3,2.8
+2014-09-16,Huddersfield,Wigan,2.88,3.4,2.6
+2014-09-16,Bournemouth,Leeds,1.62,4.33,5.75
+2014-09-16,Brentford,Norwich,3.2,3.4,2.38
+2014-09-16,Cardiff,Middlesbrough,2.8,3.4,2.7
+2014-09-16,Charlton,Wolves,3.2,3.3,2.45
+2014-09-16,Birmingham,Sheffield Weds,3.0,3.4,2.5
+2014-09-17,Blackburn,Derby,2.8,3.3,2.75
+2014-09-17,Nott'm Forest,Fulham,1.73,3.9,5.25
+2014-09-19,Bordeaux,Evian Thonon Gaillard,1.53,3.8,6.5
+2014-09-19,Charleroi,Waregem,2.38,3.4,2.88
+2014-09-19,Freiburg,Hertha,2.5,3.3,2.8
+2014-09-19,Guimaraes,Pacos Ferreira,1.95,3.25,4.2
+2014-09-19,Willem II,NAC Breda,2.0,3.5,3.6
+2014-09-19,Partick,St Mirren,2.1,3.4,3.4
+2014-09-19,Eskisehirspor,Genclerbirligi,1.83,3.4,4.5
+2014-09-19,Elche,Eibar,2.15,3.0,3.8
+2014-09-20,Milan,Juventus,3.2,3.3,2.25
+2014-09-20,Lorient,Reims,1.75,3.4,5.0
+2014-09-20,La Coruna,Real Madrid,9.5,6.0,1.25
+2014-09-20,Espanol,Malaga,2.0,3.3,3.75
+2014-09-20,Ath Madrid,Celta,1.44,4.2,7.5
+2014-09-20,West Ham,Liverpool,4.5,3.8,1.85
+2014-09-20,Swansea,Southampton,2.5,3.3,3.1
+2014-09-20,QPR,Stoke,2.8,3.25,2.8
+2014-09-20,Newcastle,Hull,2.2,3.3,3.75
+2014-09-20,Ath Bilbao,Granada,1.44,4.2,7.5
+2014-09-20,Excelsior,Dordrecht,2.1,3.5,3.3
+2014-09-20,Cesena,Empoli,2.8,3.0,2.7
+2014-09-20,Den Haag,Go Ahead Eagles,1.7,4.0,4.33
+2014-09-20,Marseille,Rennes,1.57,3.75,6.0
+2014-09-20,Mouscron-Peruwelz,Genk,2.38,3.4,2.9
+2014-09-20,Oostende,Gent,3.0,3.25,2.38
+2014-09-20,Westerlo,Lierse,1.73,3.5,5.0
+2014-09-20,Burnley,Sunderland,2.5,3.3,3.1
+2014-09-20,Aston Villa,Arsenal,4.75,3.6,1.85
+2014-09-20,Nacional,Sp Braga,2.88,3.2,2.5
+2014-09-20,Penafiel,Setubal,2.63,3.2,2.7
+2014-09-20,Vitesse,Heerenveen,1.73,4.0,4.33
+2014-09-20,Metz,Bastia,2.2,3.2,3.4
+2014-09-20,Anderlecht,Cercle Brugge,1.17,7.5,13.0
+2014-09-20,Toulouse,Caen,2.25,3.1,3.4
+2014-09-20,Hamilton,Kilmarnock,2.0,3.6,3.5
+2014-09-20,Fulham,Blackburn,2.63,3.5,2.8
+2014-09-20,Inverness C,St Johnstone,2.05,3.5,3.4
+2014-09-20,Middlesbrough,Brentford,1.8,3.7,5.0
+2014-09-20,Millwall,Nott'm Forest,3.0,3.4,2.5
+2014-09-20,Norwich,Birmingham,1.5,4.5,7.5
+2014-09-20,Derby,Cardiff,1.8,3.75,5.0
+2014-09-20,Rotherham,Charlton,2.15,3.5,3.6
+2014-09-20,Watford,Bournemouth,2.3,3.5,3.3
+2014-09-20,Wolves,Bolton,1.7,4.0,5.5
+2014-09-20,Balikesirspor,Galatasaray,7.0,4.33,1.44
+2014-09-20,Erciyesspor,Akhisar Belediyespor,2.3,3.25,3.1
+2014-09-20,Mersin Idman Yurdu,Rizespor,2.5,3.2,2.88
+2014-09-20,Nantes,Nice,1.83,3.25,4.75
+2014-09-20,Sheffield Weds,Reading,2.1,3.5,3.75
+2014-09-20,Brighton,Blackpool,1.53,4.2,7.5
+2014-09-20,Leeds,Huddersfield,2.63,3.5,2.8
+2014-09-20,Hamburg,Bayern Munich,10.0,6.0,1.25
+2014-09-20,Aberdeen,Ross County,1.45,4.5,6.5
+2014-09-20,Mainz,Dortmund,5.0,4.33,1.57
+2014-09-20,Paderborn,Hannover,2.8,3.25,2.5
+2014-09-20,Schalke 04,Ein Frankfurt,1.73,3.8,4.5
+2014-09-20,Stuttgart,Hoffenheim,2.5,3.4,2.7
+2014-09-20,Augsburg,Werder Bremen,1.91,3.6,3.8
+2014-09-21,Tottenham,West Brom,1.53,4.33,7.0
+2014-09-21,Kasimpasa,Karabukspor,1.83,3.5,4.33
+2014-09-21,Sivasspor,Konyaspor,2.0,3.6,3.5
+2014-09-21,Lokeren,Mechelen,1.85,3.5,4.2
+2014-09-21,Waasland-Beveren,Standard,4.33,3.6,1.8
+2014-09-21,Villarreal,Vallecano,1.53,3.8,6.5
+2014-09-21,Belenenses,Maritimo,2.5,3.3,2.8
+2014-09-21,Benfica,Moreirense,1.2,6.0,15.0
+2014-09-21,Gil Vicente,Sp Lisbon,7.0,3.9,1.5
+2014-09-21,Club Brugge,Kortrijk,1.4,4.0,10.0
+2014-09-21,Fenerbahce,Gaziantepspor,1.33,5.0,9.0
+2014-09-21,Dundee,Dundee United,3.0,3.5,2.25
+2014-09-21,Celtic,Motherwell,1.22,6.0,12.0
+2014-09-21,FC Koln,M'gladbach,2.75,3.3,2.5
+2014-09-21,Wolfsburg,Leverkusen,2.8,3.5,2.4
+2014-09-21,Utrecht,Groningen,2.4,3.4,2.8
+2014-09-21,Porto,Boavista,1.14,7.5,17.0
+2014-09-21,PSV Eindhoven,Cambuur,1.36,5.25,7.0
+2014-09-21,Heracles,Twente,4.0,4.2,1.75
+2014-09-21,Feyenoord,Ajax,2.45,3.4,2.75
+2014-09-21,AZ Alkmaar,Zwolle,1.91,3.6,3.75
+2014-09-21,Cordoba,Sevilla,3.8,3.3,2.0
+2014-09-21,Rio Ave,Arouca,1.7,3.5,5.25
+2014-09-21,Levante,Barcelona,15.0,7.5,1.18
+2014-09-21,Roma,Cagliari,1.3,5.0,11.0
+2014-09-21,Lens,St Etienne,3.4,3.25,2.15
+2014-09-21,Torino,Verona,1.91,3.5,4.0
+2014-09-21,Everton,Crystal Palace,1.4,5.0,9.0
+2014-09-21,Leicester,Man United,5.5,4.2,1.67
+2014-09-21,Atalanta,Fiorentina,3.25,3.1,2.3
+2014-09-21,Udinese,Napoli,3.3,3.25,2.2
+2014-09-21,Chievo,Parma,2.9,3.1,2.5
+2014-09-21,Genoa,Lazio,3.0,3.0,2.5
+2014-09-21,Palermo,Inter,3.75,3.4,2.0
+2014-09-21,Sassuolo,Sampdoria,2.63,3.2,2.7
+2014-09-21,Sociedad,Almeria,1.44,4.5,6.5
+2014-09-21,Man City,Chelsea,2.38,3.5,3.1
+2014-09-21,Lille,Montpellier,1.8,3.4,4.75
+2014-09-21,Monaco,Guingamp,1.57,3.7,6.5
+2014-09-21,Paris SG,Lyon,1.33,5.0,9.0
+2014-09-22,Wigan,Ipswich,2.05,3.5,4.0
+2014-09-22,Academica,Estoril,2.75,3.3,2.5
+2014-09-22,Getafe,Valencia,3.6,3.3,2.05
+2014-09-22,Buyuksehyr,Trabzonspor,2.75,3.3,2.5
+2014-09-22,Bursaspor,Besiktas,3.1,3.25,2.3
+2014-09-23,Rennes,Toulouse,2.25,3.25,3.25
+2014-09-23,Ein Frankfurt,Mainz,2.38,3.3,2.9
+2014-09-23,Empoli,Milan,4.5,3.3,1.85
+2014-09-23,Hoffenheim,Freiburg,1.62,4.0,5.25
+2014-09-23,Werder Bremen,Schalke 04,2.8,3.4,2.4
+2014-09-23,Real Madrid,Elche,1.08,12.0,23.0
+2014-09-23,Celta,La Coruna,1.57,3.75,6.0
+2014-09-23,Bayern Munich,Paderborn,1.11,9.0,21.0
+2014-09-23,Reims,Marseille,4.0,3.3,1.95
+2014-09-24,Dortmund,Stuttgart,1.36,5.0,7.5
+2014-09-24,Hannover,FC Koln,2.15,3.4,3.25
+2014-09-24,Hertha,Wolfsburg,3.0,3.5,2.25
+2014-09-24,Parma,Roma,3.75,3.4,2.0
+2014-09-24,Leverkusen,Augsburg,1.57,4.2,5.25
+2014-09-24,Vallecano,Ath Bilbao,3.1,3.4,2.25
+2014-09-24,Sevilla,Sociedad,1.8,3.6,4.33
+2014-09-24,Malaga,Barcelona,9.0,5.0,1.33
+2014-09-24,Granada,Levante,1.5,3.9,7.0
+2014-09-24,Eibar,Villarreal,3.4,3.0,2.3
+2014-09-24,Almeria,Ath Madrid,6.0,3.8,1.57
+2014-09-24,Bastia,Nantes,2.4,3.2,3.0
+2014-09-24,Caen,Paris SG,6.5,4.2,1.5
+2014-09-24,Guingamp,Metz,2.05,3.3,3.6
+2014-09-24,M'gladbach,Hamburg,1.65,4.0,4.75
+2014-09-24,Cagliari,Torino,2.55,3.3,2.7
+2014-09-24,Fiorentina,Sassuolo,1.44,4.33,7.0
+2014-09-24,Inter,Atalanta,1.44,4.33,7.0
+2014-09-24,Nice,Lille,3.6,3.2,2.1
+2014-09-24,Montpellier,Monaco,3.0,3.2,2.38
+2014-09-24,Juventus,Cesena,1.13,8.0,19.0
+2014-09-24,Lyon,Lorient,1.73,3.4,5.25
+2014-09-24,Verona,Genoa,2.05,3.4,3.5
+2014-09-24,Sampdoria,Chievo,1.91,3.3,4.2
+2014-09-24,Napoli,Palermo,1.44,4.33,7.0
+2014-09-24,Evian Thonon Gaillard,Lens,2.1,3.25,3.6
+2014-09-25,Espanol,Getafe,1.67,3.6,5.5
+2014-09-25,Valencia,Cordoba,1.33,5.0,8.5
+2014-09-25,St Etienne,Bordeaux,2.05,3.3,3.6
+2014-09-25,Lazio,Udinese,1.8,3.5,4.5
+2014-09-26,Sp Lisbon,Porto,3.1,3.1,2.4
+2014-09-26,Galatasaray,Sivasspor,1.5,4.0,7.0
+2014-09-26,Elche,Celta,2.8,3.4,2.4
+2014-09-26,Mainz,Hoffenheim,2.4,3.4,2.8
+2014-09-27,Den Haag,AZ Alkmaar,2.25,3.4,3.1
+2014-09-27,Estoril,Benfica,5.0,3.6,1.7
+2014-09-27,Bolton,Derby,3.75,3.75,2.05
+2014-09-27,Bournemouth,Wigan,2.15,3.5,3.6
+2014-09-27,Nott'm Forest,Brighton,2.25,3.4,3.5
+2014-09-27,Cardiff,Sheffield Weds,2.5,3.4,3.0
+2014-09-27,Charlton,Middlesbrough,3.6,3.4,2.2
+2014-09-27,Ipswich,Rotherham,2.0,3.6,4.0
+2014-09-27,Blackpool,Norwich,5.5,4.0,1.7
+2014-09-27,Blackburn,Watford,2.2,3.6,3.4
+2014-09-27,Birmingham,Fulham,2.8,3.4,2.7
+2014-09-27,Sp Braga,Rio Ave,1.73,3.5,5.0
+2014-09-27,Trabzonspor,Kasimpasa,2.4,3.25,2.9
+2014-09-27,Besiktas,Eskisehirspor,1.62,3.75,5.5
+2014-09-27,Zwolle,Heracles,1.65,4.0,4.75
+2014-09-27,NAC Breda,Ajax,4.75,3.6,1.73
+2014-09-27,Go Ahead Eagles,Feyenoord,4.6,3.7,1.73
+2014-09-27,Dordrecht,Vitesse,4.5,3.5,1.8
+2014-09-27,Brentford,Leeds,2.05,3.6,3.9
+2014-09-27,Huddersfield,Millwall,2.45,3.4,3.1
+2014-09-27,Southampton,QPR,1.44,4.6,8.5
+2014-09-27,Ath Madrid,Sevilla,1.67,4.0,4.75
+2014-09-27,Genk,Charleroi,1.8,3.8,4.0
+2014-09-27,Kortrijk,Mouscron-Peruwelz,2.1,3.4,3.4
+2014-09-27,Mechelen,Waasland-Beveren,1.75,3.5,4.75
+2014-09-27,Waregem,Anderlecht,3.75,3.6,1.91
+2014-09-27,Atalanta,Juventus,6.5,3.8,1.55
+2014-09-27,Ath Bilbao,Eibar,1.53,3.75,7.0
+2014-09-27,Lorient,Evian Thonon Gaillard,1.85,3.4,4.33
+2014-09-27,Metz,Reims,2.0,3.2,4.0
+2014-09-27,Monaco,Nice,1.5,4.0,7.0
+2014-09-27,Montpellier,Guingamp,2.0,3.2,4.0
+2014-09-27,Toulouse,Paris SG,5.25,3.6,1.67
+2014-09-27,Wolfsburg,Werder Bremen,1.5,4.33,6.0
+2014-09-27,Stuttgart,Hannover,1.95,3.5,3.6
+2014-09-27,Schalke 04,Dortmund,3.4,3.6,2.05
+2014-09-27,St Mirren,Celtic,9.0,5.0,1.33
+2014-09-27,Ross County,Dundee,3.25,3.25,2.2
+2014-09-27,Motherwell,Hamilton,2.6,3.4,2.6
+2014-09-27,Kilmarnock,Partick,2.5,3.4,2.7
+2014-09-27,Dundee United,St Johnstone,1.85,3.6,4.0
+2014-09-27,Aberdeen,Inverness C,2.1,3.4,3.4
+2014-09-27,Arsenal,Tottenham,1.75,3.9,5.0
+2014-09-27,Chelsea,Aston Villa,1.22,7.0,16.0
+2014-09-27,Crystal Palace,Leicester,2.63,3.4,2.88
+2014-09-27,Hull,Man City,6.5,4.2,1.57
+2014-09-27,Liverpool,Everton,1.91,3.75,4.33
+2014-09-27,Paderborn,M'gladbach,3.3,3.5,2.1
+2014-09-27,Freiburg,Leverkusen,4.2,3.75,1.8
+2014-09-27,FC Koln,Bayern Munich,7.5,5.0,1.36
+2014-09-27,Sunderland,Swansea,2.9,3.3,2.63
+2014-09-27,Cercle Brugge,Westerlo,2.6,3.4,2.6
+2014-09-27,Roma,Verona,1.33,5.0,9.0
+2014-09-27,Lille,Bastia,1.53,3.8,6.5
+2014-09-27,Man United,West Ham,1.4,5.5,8.0
+2014-09-27,Barcelona,Granada,1.13,8.5,17.0
+2014-09-27,Villarreal,Real Madrid,5.25,4.0,1.62
+2014-09-27,Levante,Vallecano,3.0,3.2,2.4
+2014-09-28,Moreirense,Penafiel,1.83,3.5,4.33
+2014-09-28,Akhisar Belediyespor,Fenerbahce,4.5,3.75,1.73
+2014-09-28,Genclerbirligi,Balikesirspor,1.8,3.6,4.33
+2014-09-28,Konyaspor,Erciyesspor,1.91,3.4,4.0
+2014-09-28,Gent,Lokeren,1.85,3.5,4.2
+2014-09-28,Oostende,Club Brugge,3.6,3.5,2.0
+2014-09-28,Maritimo,Guimaraes,2.4,3.25,2.9
+2014-09-28,Hamburg,Ein Frankfurt,2.05,3.5,3.4
+2014-09-28,Boavista,Gil Vicente,2.5,3.25,2.8
+2014-09-28,Cordoba,Espanol,2.7,3.25,2.6
+2014-09-28,Getafe,Malaga,3.0,3.2,2.38
+2014-09-28,Rizespor,Bursaspor,2.38,3.1,3.1
+2014-09-28,La Coruna,Almeria,2.05,3.4,3.6
+2014-09-28,Arouca,Academica,2.25,3.25,3.2
+2014-09-28,Sociedad,Valencia,2.63,3.3,2.63
+2014-09-28,Setubal,Nacional,2.6,3.2,2.7
+2014-09-28,Standard,Lierse,1.29,5.0,11.0
+2014-09-28,Cesena,Milan,5.5,3.75,1.62
+2014-09-28,Genoa,Sampdoria,2.9,3.0,2.6
+2014-09-28,West Brom,Burnley,2.0,3.5,4.2
+2014-09-28,Augsburg,Hertha,2.05,3.5,3.4
+2014-09-28,Twente,Utrecht,1.33,5.0,8.5
+2014-09-28,Heerenveen,PSV Eindhoven,3.1,3.5,2.2
+2014-09-28,Groningen,Willem II,1.8,3.75,4.2
+2014-09-28,Excelsior,Cambuur,2.6,3.5,2.55
+2014-09-28,Chievo,Empoli,2.25,3.25,3.25
+2014-09-28,Marseille,St Etienne,1.85,3.5,4.2
+2014-09-28,Nantes,Lyon,2.75,3.1,2.63
+2014-09-28,Bordeaux,Rennes,1.73,3.5,5.0
+2014-09-28,Torino,Fiorentina,2.88,3.2,2.5
+2014-09-28,Sassuolo,Napoli,4.5,3.5,1.8
+2014-09-28,Inter,Cagliari,1.44,4.33,7.0
+2014-09-28,Lens,Caen,2.8,3.2,2.5
+2014-09-28,Reading,Wolves,3.0,3.4,2.5
+2014-09-29,Udinese,Parma,2.2,3.2,3.4
+2014-09-29,Palermo,Lazio,2.9,3.25,2.4
+2014-09-29,Stoke,Newcastle,2.15,3.4,3.8
+2014-09-29,Pacos Ferreira,Belenenses,2.05,3.3,3.6
+2014-09-29,Karabukspor,Mersin Idman Yurdu,1.95,3.3,4.0
+2014-09-29,Gaziantepspor,Buyuksehyr,2.7,3.25,2.6
+2014-09-30,Wigan,Nott'm Forest,2.4,3.4,3.2
+2014-09-30,Aberdeen,St Mirren,1.53,4.0,6.0
+2014-09-30,Watford,Brentford,2.1,3.6,3.75
+2014-09-30,Derby,Bournemouth,2.05,3.6,3.8
+2014-09-30,Rotherham,Blackburn,2.55,3.5,2.88
+2014-09-30,Brighton,Cardiff,2.05,3.5,4.0
+2014-09-30,Millwall,Birmingham,1.95,3.5,4.33
+2014-09-30,Norwich,Charlton,1.53,4.33,7.0
+2014-09-30,Sheffield Weds,Ipswich,2.25,3.4,3.5
+2014-09-30,Middlesbrough,Blackpool,1.44,4.5,9.0
+2014-10-01,Fulham,Bolton,1.95,3.6,4.2
+2014-10-01,Leeds,Reading,2.7,3.4,2.8
+2014-10-01,Wolves,Huddersfield,1.75,3.8,5.25
+2014-10-03,Kilmarnock,Dundee United,3.6,3.5,2.0
+2014-10-03,Westerlo,Gent,3.0,3.4,2.3
+2014-10-03,Guimaraes,Boavista,1.62,3.6,6.0
+2014-10-03,Mersin Idman Yurdu,Bursaspor,3.25,3.2,2.25
+2014-10-03,Reims,Bordeaux,3.8,3.2,2.05
+2014-10-03,Blackpool,Cardiff,3.5,3.4,2.25
+2014-10-03,Vitesse,Den Haag,1.5,4.33,6.0
+2014-10-03,Getafe,Cordoba,1.95,3.2,4.2
+2014-10-03,Hertha,Stuttgart,2.25,3.4,3.1
+2014-10-04,Blackburn,Huddersfield,1.91,3.75,4.33
+2014-10-04,Willem II,Heerenveen,2.55,3.5,2.6
+2014-10-04,Brentford,Reading,2.3,3.4,3.4
+2014-10-04,Aston Villa,Man City,7.5,4.5,1.5
+2014-10-04,Hull,Crystal Palace,2.1,3.5,3.8
+2014-10-04,Penafiel,Sp Lisbon,8.0,4.0,1.44
+2014-10-04,Eibar,Levante,1.8,3.4,4.75
+2014-10-04,Malaga,Granada,1.8,3.5,4.5
+2014-10-04,Valencia,Ath Madrid,2.75,3.2,2.6
+2014-10-04,Bolton,Bournemouth,3.6,3.6,2.15
+2014-10-04,Vallecano,Barcelona,9.0,6.5,1.25
+2014-10-04,Watford,Brighton,2.63,3.4,2.88
+2014-10-04,Norwich,Rotherham,1.53,4.33,7.0
+2014-10-04,Middlesbrough,Fulham,1.85,3.8,4.5
+2014-10-04,Leeds,Sheffield Weds,3.2,3.25,2.45
+2014-10-04,Derby,Millwall,1.55,4.33,6.5
+2014-10-04,Charlton,Birmingham,2.2,3.4,3.6
+2014-10-04,Wolves,Wigan,2.1,3.5,3.8
+2014-10-04,Almeria,Elche,2.15,3.1,3.6
+2014-10-04,Ein Frankfurt,FC Koln,2.3,3.2,3.2
+2014-10-04,Partick,Motherwell,2.1,3.6,3.25
+2014-10-04,Sunderland,Stoke,2.55,3.25,3.1
+2014-10-04,Swansea,Newcastle,1.91,3.7,4.33
+2014-10-04,Dundee,Aberdeen,3.2,3.5,2.15
+2014-10-04,Leverkusen,Paderborn,1.33,5.25,8.0
+2014-10-04,Werder Bremen,Freiburg,2.38,3.4,2.88
+2014-10-04,Waasland-Beveren,Cercle Brugge,2.0,3.4,3.75
+2014-10-04,Liverpool,West Brom,1.44,5.0,7.5
+2014-10-04,Mouscron-Peruwelz,Mechelen,2.38,3.5,2.8
+2014-10-04,Charleroi,Kortrijk,2.05,3.4,3.5
+2014-10-04,Milan,Chievo,1.4,4.75,7.0
+2014-10-04,Verona,Cagliari,2.0,3.3,3.75
+2014-10-04,Cambuur,Dordrecht,1.57,3.8,6.0
+2014-10-04,Heracles,NAC Breda,2.1,3.5,3.3
+2014-10-04,Utrecht,Go Ahead Eagles,1.73,3.6,4.75
+2014-10-04,Lierse,Waregem,3.4,3.4,2.1
+2014-10-04,Leicester,Burnley,1.8,3.75,5.0
+2014-10-04,Hoffenheim,Schalke 04,2.3,3.6,2.88
+2014-10-04,Erciyesspor,Galatasaray,5.5,3.8,1.62
+2014-10-04,Dortmund,Hamburg,1.33,5.25,8.0
+2014-10-04,Rennes,Lens,1.83,3.4,4.5
+2014-10-04,Bayern Munich,Hannover,1.13,8.5,17.0
+2014-10-04,St Johnstone,St Mirren,1.83,3.6,4.2
+2014-10-04,Nice,Montpellier,2.3,3.1,3.2
+2014-10-04,Caen,Marseille,4.0,3.3,1.95
+2014-10-04,Bastia,Lorient,2.15,3.1,3.6
+2014-10-04,Kasimpasa,Gaziantepspor,1.5,4.2,6.25
+2014-10-04,Fenerbahce,Konyaspor,1.4,4.33,8.5
+2014-10-04,Evian Thonon Gaillard,Metz,2.38,3.1,3.1
+2014-10-04,Sivasspor,Genclerbirligi,2.1,3.4,3.4
+2014-10-05,Buyuksehyr,Akhisar Belediyespor,2.1,3.3,3.5
+2014-10-05,Balikesirspor,Besiktas,4.75,3.5,1.75
+2014-10-05,Lazio,Sassuolo,1.5,4.0,7.0
+2014-10-05,Juventus,Roma,1.8,3.5,4.5
+2014-10-05,Fiorentina,Inter,2.38,3.3,2.9
+2014-10-05,Udinese,Cesena,1.45,4.2,7.5
+2014-10-05,Parma,Genoa,1.91,3.4,4.0
+2014-10-05,Sampdoria,Atalanta,1.83,3.4,4.5
+2014-10-05,Eskisehirspor,Rizespor,1.85,3.5,4.2
+2014-10-05,Napoli,Torino,1.5,4.0,7.0
+2014-10-05,Wolfsburg,Augsburg,1.7,3.8,4.75
+2014-10-05,M'gladbach,Mainz,1.85,3.6,4.0
+2014-10-05,Empoli,Palermo,2.38,3.2,3.0
+2014-10-05,Karabukspor,Trabzonspor,2.7,3.2,2.63
+2014-10-05,Feyenoord,Groningen,1.4,4.5,7.5
+2014-10-05,Tottenham,Southampton,2.2,3.5,3.5
+2014-10-05,PSV Eindhoven,Excelsior,1.22,6.0,12.0
+2014-10-05,AZ Alkmaar,Twente,3.3,3.4,2.15
+2014-10-05,Ajax,Zwolle,1.33,5.0,9.0
+2014-10-05,Nott'm Forest,Ipswich,2.05,3.5,4.0
+2014-10-05,Anderlecht,Genk,1.57,4.0,5.5
+2014-10-05,Man United,Everton,1.67,4.2,5.25
+2014-10-05,Chelsea,Arsenal,1.67,4.2,5.25
+2014-10-05,West Ham,QPR,1.91,3.6,4.5
+2014-10-05,Celta,Villarreal,2.38,3.2,3.0
+2014-10-05,Sevilla,La Coruna,1.4,4.4,8.0
+2014-10-05,Real Madrid,Ath Bilbao,1.2,6.5,15.0
+2014-10-05,Espanol,Sociedad,2.5,3.25,2.8
+2014-10-05,Club Brugge,Standard,1.91,3.3,4.2
+2014-10-05,Lokeren,Oostende,1.8,3.5,4.5
+2014-10-05,Paris SG,Monaco,1.44,4.2,7.5
+2014-10-05,Lyon,Lille,2.1,3.1,3.8
+2014-10-05,Guingamp,Nantes,2.5,3.0,3.0
+2014-10-05,Celtic,Hamilton,1.22,6.0,12.0
+2014-10-05,Inverness C,Ross County,1.5,4.0,7.0
+2014-10-05,Academica,Moreirense,2.38,3.1,3.1
+2014-10-05,Belenenses,Setubal,2.2,3.1,3.5
+2014-10-05,Benfica,Arouca,1.2,6.5,13.0
+2014-10-05,Gil Vicente,Estoril,3.8,3.3,2.0
+2014-10-05,Nacional,Rio Ave,2.05,3.3,3.6
+2014-10-05,Pacos Ferreira,Maritimo,2.25,3.1,3.4
+2014-10-05,Porto,Sp Braga,1.44,4.0,8.0
+2014-10-05,St Etienne,Toulouse,1.8,3.4,4.75
+2014-10-17,Granada,Vallecano,2.2,3.3,3.3
+2014-10-17,Lens,Paris SG,10.0,4.6,1.33
+2014-10-17,Hamilton,Aberdeen,2.88,3.4,2.38
+2014-10-17,Rotherham,Leeds,2.2,3.5,3.5
+2014-10-18,Roma,Chievo,1.3,5.5,9.0
+2014-10-18,Man City,Tottenham,1.45,4.75,8.0
+2014-10-18,Newcastle,Leicester,2.25,3.6,3.3
+2014-10-18,Southampton,Sunderland,1.57,4.0,7.0
+2014-10-18,Burnley,West Ham,2.8,3.4,2.7
+2014-10-18,Stuttgart,Leverkusen,3.4,3.5,2.05
+2014-10-18,Schalke 04,Hertha,1.67,3.8,5.0
+2014-10-18,Mainz,Augsburg,2.3,3.4,3.0
+2014-10-18,Hannover,M'gladbach,3.1,3.4,2.25
+2014-10-18,Freiburg,Wolfsburg,3.5,3.5,2.0
+2014-10-18,FC Koln,Dortmund,5.0,4.0,1.62
+2014-10-18,Bayern Munich,Werder Bremen,1.1,11.0,17.0
+2014-10-18,Ath Bilbao,Celta,1.91,3.6,3.75
+2014-10-18,Barcelona,Eibar,1.1,9.0,21.0
+2014-10-18,Cordoba,Malaga,3.25,3.0,2.38
+2014-10-18,Arsenal,Hull,1.4,5.0,9.0
+2014-10-18,Levante,Real Madrid,13.0,7.5,1.17
+2014-10-18,Dundee United,Partick,1.75,3.75,4.5
+2014-10-18,Motherwell,Dundee,2.5,3.4,2.7
+2014-10-18,Ross County,Celtic,9.5,5.5,1.29
+2014-10-18,St Johnstone,Kilmarnock,2.1,3.4,3.4
+2014-10-18,St Mirren,Inverness C,3.2,3.4,2.2
+2014-10-18,Oostende,Mouscron-Peruwelz,1.8,3.7,4.2
+2014-10-18,Mechelen,Anderlecht,3.6,3.5,2.0
+2014-10-18,Kortrijk,Waasland-Beveren,1.8,3.5,4.5
+2014-10-18,Cercle Brugge,Lierse,2.05,3.6,3.3
+2014-10-18,Sassuolo,Juventus,7.5,4.5,1.4
+2014-10-18,Gent,Charleroi,1.62,3.8,5.5
+2014-10-18,Willem II,Vitesse,3.1,3.6,2.15
+2014-10-18,Nantes,Reims,1.62,3.4,6.5
+2014-10-18,Twente,Ajax,2.2,3.6,3.0
+2014-10-18,PSV Eindhoven,AZ Alkmaar,1.44,4.5,6.5
+2014-10-18,NAC Breda,Den Haag,2.1,3.4,3.4
+2014-10-18,Feyenoord,Heracles,1.33,5.25,8.0
+2014-10-18,Birmingham,Bolton,2.25,3.5,3.4
+2014-10-18,Bournemouth,Charlton,1.73,3.8,5.5
+2014-10-18,Brighton,Middlesbrough,2.45,3.25,3.25
+2014-10-18,Cardiff,Nott'm Forest,2.6,3.4,2.88
+2014-10-18,Fulham,Norwich,3.0,3.4,2.5
+2014-10-18,Huddersfield,Blackpool,1.8,3.75,5.0
+2014-10-18,Ipswich,Blackburn,2.2,3.5,3.5
+2014-10-18,Millwall,Wolves,3.1,3.3,2.5
+2014-10-18,Reading,Derby,3.1,3.5,2.4
+2014-10-18,Sheffield Weds,Watford,2.25,3.5,3.4
+2014-10-18,Wigan,Brentford,2.0,3.6,4.0
+2014-10-18,Nice,Bastia,2.05,3.2,3.8
+2014-10-18,Monaco,Evian Thonon Gaillard,1.44,4.33,7.0
+2014-10-18,Metz,Rennes,2.38,3.1,3.1
+2014-10-18,Crystal Palace,Chelsea,8.5,4.75,1.44
+2014-10-18,Lille,Guingamp,1.65,3.6,5.5
+2014-10-18,Konyaspor,Buyuksehyr,2.2,3.3,3.25
+2014-10-18,Gaziantepspor,Karabukspor,2.63,3.3,2.6
+2014-10-18,Galatasaray,Fenerbahce,2.1,3.5,3.3
+2014-10-18,Lorient,St Etienne,3.1,3.1,2.38
+2014-10-18,Everton,Aston Villa,1.6,4.0,6.5
+2014-10-19,Inter,Napoli,2.5,3.25,2.8
+2014-10-19,Paderborn,Ein Frankfurt,2.5,3.4,2.7
+2014-10-19,Hamburg,Hoffenheim,2.4,3.4,2.8
+2014-10-19,QPR,Liverpool,6.0,4.2,1.6
+2014-10-19,Bordeaux,Caen,1.95,3.3,4.0
+2014-10-19,Lyon,Montpellier,1.73,3.5,5.0
+2014-10-19,Marseille,Toulouse,1.67,3.6,5.25
+2014-10-19,Fiorentina,Lazio,2.05,3.3,3.6
+2014-10-19,Cagliari,Sampdoria,2.5,3.3,2.75
+2014-10-19,Atalanta,Parma,2.5,3.2,2.88
+2014-10-19,Verona,Milan,3.4,3.4,2.1
+2014-10-19,Stoke,Swansea,2.5,3.3,3.1
+2014-10-19,Villarreal,Almeria,1.33,5.0,9.0
+2014-10-19,Besiktas,Sivasspor,1.62,3.75,5.5
+2014-10-19,Bursaspor,Eskisehirspor,2.2,3.3,3.3
+2014-10-19,Akhisar Belediyespor,Kasimpasa,2.5,3.4,2.7
+2014-10-19,Standard,Waregem,1.62,3.8,5.5
+2014-10-19,Lokeren,Club Brugge,2.7,3.4,2.5
+2014-10-19,Genk,Westerlo,1.8,3.75,4.2
+2014-10-19,Ath Madrid,Espanol,1.33,4.75,9.5
+2014-10-19,Elche,Sevilla,3.6,3.4,2.05
+2014-10-19,Torino,Udinese,2.15,3.2,3.4
+2014-10-19,Dordrecht,Utrecht,2.6,3.4,2.6
+2014-10-19,Go Ahead Eagles,Zwolle,2.75,3.5,2.4
+2014-10-19,Groningen,Excelsior,1.57,4.33,5.0
+2014-10-19,Heerenveen,Cambuur,1.85,3.8,3.8
+2014-10-19,La Coruna,Valencia,4.5,3.4,1.83
+2014-10-19,Trabzonspor,Mersin Idman Yurdu,1.75,3.5,4.75
+2014-10-19,Palermo,Cesena,1.65,3.6,5.5
+2014-10-20,Genclerbirligi,Erciyesspor,2.3,3.3,3.1
+2014-10-20,Rizespor,Balikesirspor,1.8,3.4,4.75
+2014-10-20,West Brom,Man United,5.0,4.0,1.75
+2014-10-20,Genoa,Empoli,2.1,3.3,3.5
+2014-10-20,Sociedad,Getafe,1.53,4.0,6.0
+2014-10-21,Blackburn,Birmingham,1.8,3.9,4.75
+2014-10-21,Blackpool,Derby,5.0,4.0,1.73
+2014-10-21,Brentford,Sheffield Weds,2.15,3.5,3.6
+2014-10-21,Wolves,Middlesbrough,2.38,3.4,3.2
+2014-10-21,Norwich,Leeds,1.5,4.5,7.5
+2014-10-21,Wigan,Millwall,1.95,3.6,4.33
+2014-10-21,Watford,Nott'm Forest,2.25,3.5,3.4
+2014-10-21,Rotherham,Fulham,2.7,3.5,2.7
+2014-10-21,Cardiff,Ipswich,2.5,3.3,3.1
+2014-10-21,Huddersfield,Brighton,2.8,3.4,2.7
+2014-10-21,Charlton,Bolton,2.4,3.4,3.2
+2014-10-21,Bournemouth,Reading,1.8,3.8,4.75
+2014-10-24,Toulouse,Lens,1.57,3.6,6.5
+2014-10-24,Kasimpasa,Konyaspor,1.7,3.6,5.0
+2014-10-24,Karabukspor,Akhisar Belediyespor,2.2,3.25,3.3
+2014-10-24,Setubal,Guimaraes,2.75,3.3,2.5
+2014-10-24,Lierse,Mechelen,2.7,3.25,2.6
+2014-10-24,Fulham,Charlton,1.75,3.7,5.5
+2014-10-24,Den Haag,Dordrecht,1.57,4.5,4.75
+2014-10-24,Aberdeen,Motherwell,1.36,4.75,8.5
+2014-10-24,Werder Bremen,FC Koln,2.55,3.4,2.63
+2014-10-24,Celta,Levante,1.44,4.5,6.0
+2014-10-25,Vitesse,NAC Breda,1.36,5.0,7.5
+2014-10-25,Moreirense,Gil Vicente,1.91,3.25,4.33
+2014-10-25,Reims,Montpellier,2.63,3.1,2.8
+2014-10-25,AZ Alkmaar,Groningen,1.85,3.8,3.8
+2014-10-25,Bastia,Monaco,3.6,3.25,2.1
+2014-10-25,Ajax,Go Ahead Eagles,1.22,6.5,11.0
+2014-10-25,Paris SG,Bordeaux,1.4,4.6,7.5
+2014-10-25,Evian Thonon Gaillard,Nantes,2.5,3.2,2.88
+2014-10-25,Caen,Lorient,1.91,3.4,4.0
+2014-10-25,Heracles,Willem II,2.05,3.6,3.25
+2014-10-25,Boavista,Pacos Ferreira,3.5,3.2,2.15
+2014-10-25,Balikesirspor,Bursaspor,3.4,3.4,2.1
+2014-10-25,Parma,Sassuolo,1.73,3.6,4.75
+2014-10-25,Fenerbahce,Genclerbirligi,1.3,5.0,10.0
+2014-10-25,Sivasspor,Rizespor,1.85,3.4,4.33
+2014-10-25,Leverkusen,Schalke 04,1.67,4.1,4.5
+2014-10-25,Hoffenheim,Paderborn,1.62,4.33,4.75
+2014-10-25,Hertha,Hamburg,2.2,3.4,3.2
+2014-10-25,Ein Frankfurt,Stuttgart,2.25,3.4,3.0
+2014-10-25,Dortmund,Hannover,1.22,6.5,11.0
+2014-10-25,Augsburg,Freiburg,1.83,3.6,4.2
+2014-10-25,Liverpool,Hull,1.44,4.75,8.0
+2014-10-25,Southampton,Stoke,1.65,4.0,6.0
+2014-10-25,Sunderland,Arsenal,5.5,3.8,1.73
+2014-10-25,Swansea,Leicester,1.95,3.7,4.2
+2014-10-25,West Brom,Crystal Palace,1.91,3.6,4.5
+2014-10-25,West Ham,Man City,6.5,4.5,1.55
+2014-10-25,Westerlo,Kortrijk,2.1,3.4,3.4
+2014-10-25,Waregem,Cercle Brugge,1.67,3.75,5.0
+2014-10-25,Waasland-Beveren,Genk,3.4,3.4,2.1
+2014-10-25,Charleroi,Oostende,2.15,3.4,3.3
+2014-10-25,Valencia,Elche,1.36,4.75,8.5
+2014-10-25,Real Madrid,Barcelona,2.38,3.75,3.0
+2014-10-25,Eibar,Granada,2.1,3.1,3.75
+2014-10-25,Cordoba,Sociedad,3.4,3.2,2.2
+2014-10-25,Almeria,Ath Bilbao,3.3,3.25,2.2
+2014-10-25,Sampdoria,Roma,3.6,3.5,2.0
+2014-10-25,Empoli,Cagliari,2.0,3.4,3.75
+2014-10-25,Arouca,Porto,8.5,4.75,1.36
+2014-10-25,Derby,Wigan,1.75,4.0,5.0
+2014-10-25,Leeds,Wolves,3.4,3.4,2.3
+2014-10-25,Middlesbrough,Watford,2.0,3.6,4.0
+2014-10-25,Millwall,Cardiff,2.5,3.4,3.0
+2014-10-25,Nott'm Forest,Blackburn,2.2,3.6,3.4
+2014-10-25,Reading,Blackpool,1.73,4.0,5.0
+2014-10-25,Birmingham,Bournemouth,4.0,3.6,2.0
+2014-10-25,Sheffield Weds,Norwich,3.25,3.4,2.38
+2014-10-25,Inverness C,Dundee United,2.5,3.4,2.7
+2014-10-25,Ipswich,Huddersfield,2.1,3.6,3.75
+2014-10-25,Partick,St Johnstone,2.6,3.2,2.75
+2014-10-25,Bolton,Brentford,2.5,3.4,3.0
+2014-10-25,Dundee,Hamilton,2.7,3.5,2.45
+2014-10-25,Brighton,Rotherham,1.91,3.6,4.5
+2014-10-25,St Mirren,Ross County,1.91,3.6,3.75
+2014-10-26,Guingamp,Nice,2.2,3.1,3.5
+2014-10-26,Excelsior,Twente,5.0,4.33,1.57
+2014-10-26,Burnley,Everton,4.75,3.75,1.83
+2014-10-26,Man United,Chelsea,2.88,3.6,2.5
+2014-10-26,Tottenham,Newcastle,1.75,3.9,5.0
+2014-10-26,Espanol,La Coruna,1.91,3.4,4.0
+2014-10-26,Udinese,Atalanta,1.91,3.4,4.0
+2014-10-26,Utrecht,PSV Eindhoven,4.5,4.0,1.7
+2014-10-26,St Etienne,Metz,1.57,3.6,6.5
+2014-10-26,Getafe,Ath Madrid,7.0,3.75,1.53
+2014-10-26,Mouscron-Peruwelz,Lokeren,3.3,3.4,2.15
+2014-10-26,Club Brugge,Gent,1.8,3.75,4.2
+2014-10-26,Malaga,Vallecano,1.83,3.5,4.33
+2014-10-26,Sevilla,Villarreal,2.0,3.4,3.75
+2014-10-26,Anderlecht,Standard,1.57,3.9,5.5
+2014-10-26,Cambuur,Feyenoord,3.3,3.5,2.1
+2014-10-26,Lyon,Marseille,2.4,3.3,2.88
+2014-10-26,Rennes,Lille,2.5,3.2,2.8
+2014-10-26,Zwolle,Heerenveen,2.1,3.6,3.2
+2014-10-26,M'gladbach,Bayern Munich,8.0,4.75,1.36
+2014-10-26,Chievo,Genoa,2.38,3.1,3.1
+2014-10-26,Juventus,Palermo,1.22,5.5,15.0
+2014-10-26,Cesena,Inter,6.5,3.6,1.57
+2014-10-26,Trabzonspor,Gaziantepspor,1.57,3.8,6.0
+2014-10-26,Mersin Idman Yurdu,Eskisehirspor,2.88,3.3,2.4
+2014-10-26,Napoli,Verona,1.4,4.5,8.0
+2014-10-26,Milan,Fiorentina,2.05,3.4,3.6
+2014-10-26,Sp Lisbon,Maritimo,1.44,4.33,7.0
+2014-10-26,Lazio,Torino,1.75,3.5,4.75
+2014-10-26,Nacional,Academica,1.85,3.4,4.33
+2014-10-26,Estoril,Belenenses,1.75,3.4,5.0
+2014-10-26,Buyuksehyr,Galatasaray,4.0,3.4,1.91
+2014-10-26,Celtic,Kilmarnock,1.2,6.5,13.0
+2014-10-26,Wolfsburg,Mainz,1.67,3.8,5.0
+2014-10-26,Sp Braga,Benfica,4.33,3.6,1.8
+2014-10-27,QPR,Aston Villa,2.38,3.25,3.4
+2014-10-27,Rio Ave,Penafiel,1.73,3.4,5.25
+2014-10-27,Erciyesspor,Besiktas,4.0,3.6,1.85
+2014-10-28,Sassuolo,Empoli,2.2,3.25,3.3
+2014-10-28,Genk,Lierse,1.5,4.33,6.0
+2014-10-28,Mechelen,Waregem,2.0,3.6,3.5
+2014-10-29,Gent,Waasland-Beveren,1.4,4.5,7.5
+2014-10-29,Cercle Brugge,Standard,4.0,3.6,1.85
+2014-10-29,Lokeren,Charleroi,1.65,3.75,5.25
+2014-10-29,Atalanta,Napoli,4.0,3.4,1.91
+2014-10-29,Cagliari,Milan,3.4,3.4,2.1
+2014-10-29,Fiorentina,Udinese,1.65,3.6,5.5
+2014-10-29,Genoa,Juventus,7.0,4.0,1.5
+2014-10-29,Inter,Sampdoria,1.8,3.6,4.33
+2014-10-29,Roma,Cesena,1.18,6.5,15.0
+2014-10-29,Kortrijk,Anderlecht,4.2,3.6,1.83
+2014-10-29,Torino,Parma,1.83,3.4,4.33
+2014-10-29,Palermo,Chievo,1.91,3.4,4.0
+2014-10-29,Oostende,Westerlo,1.91,3.6,3.75
+2014-10-30,Mouscron-Peruwelz,Club Brugge,4.5,3.75,1.73
+2014-10-30,Verona,Lazio,3.2,3.3,2.25
+2014-10-31,La Coruna,Getafe,2.2,3.1,3.5
+2014-10-31,St Johnstone,Motherwell,1.83,3.6,4.2
+2014-10-31,Benfica,Rio Ave,1.33,4.5,11.0
+2014-10-31,Galatasaray,Kasimpasa,1.8,3.5,4.5
+2014-10-31,Monaco,Reims,1.44,4.2,7.5
+2014-10-31,Schalke 04,Augsburg,1.91,3.6,3.8
+2014-10-31,Waregem,Genk,2.4,3.4,2.8
+2014-10-31,Norwich,Bolton,1.53,4.33,7.0
+2014-11-01,Blackburn,Reading,2.0,3.6,4.0
+2014-11-01,Cardiff,Leeds,1.83,3.7,4.75
+2014-11-01,Bournemouth,Brighton,1.95,3.5,4.5
+2014-11-01,Blackpool,Ipswich,4.0,3.5,2.05
+2014-11-01,Kilmarnock,Dundee,2.4,3.2,3.0
+2014-11-01,Brentford,Derby,3.3,3.5,2.3
+2014-11-01,Empoli,Juventus,7.5,4.2,1.44
+2014-11-01,Huddersfield,Nott'm Forest,2.5,3.4,3.0
+2014-11-01,Ath Madrid,Cordoba,1.18,6.5,15.0
+2014-11-01,Barcelona,Celta,1.13,8.5,17.0
+2014-11-01,Granada,Real Madrid,12.0,7.0,1.2
+2014-11-01,Sociedad,Malaga,2.2,3.4,3.2
+2014-11-01,Parma,Inter,3.4,3.4,2.1
+2014-11-01,Napoli,Roma,2.4,3.3,2.9
+2014-11-01,Genclerbirligi,Buyuksehyr,2.7,3.2,2.6
+2014-11-01,Bursaspor,Sivasspor,1.8,3.6,4.33
+2014-11-01,Akhisar Belediyespor,Trabzonspor,2.5,3.2,2.8
+2014-11-01,Wolves,Birmingham,1.53,4.33,7.0
+2014-11-01,Rotherham,Middlesbrough,3.2,3.4,2.4
+2014-11-01,Charlton,Sheffield Weds,3.0,3.3,2.55
+2014-11-01,Hamilton,Partick,1.83,3.4,4.5
+2014-11-01,Wigan,Fulham,2.2,3.5,3.5
+2014-11-01,Celtic,Inverness C,1.3,5.0,10.0
+2014-11-01,Dundee United,St Mirren,1.75,3.75,4.5
+2014-11-01,Waasland-Beveren,Oostende,3.2,3.3,2.25
+2014-11-01,Guingamp,Bastia,2.05,3.2,3.75
+2014-11-01,Lille,St Etienne,2.5,3.0,3.0
+2014-11-01,Lorient,Paris SG,7.0,4.33,1.44
+2014-11-01,Metz,Caen,2.5,3.2,2.88
+2014-11-01,Montpellier,Evian Thonon Gaillard,2.0,3.2,4.0
+2014-11-01,Cercle Brugge,Kortrijk,3.2,3.5,2.15
+2014-11-01,Nice,Lyon,3.3,3.1,2.3
+2014-11-01,Hamburg,Leverkusen,3.4,3.5,2.05
+2014-11-01,Hannover,Ein Frankfurt,2.25,3.4,3.1
+2014-11-01,Mainz,Werder Bremen,1.73,4.0,4.33
+2014-11-01,Stuttgart,Wolfsburg,3.3,3.5,2.1
+2014-11-01,Porto,Nacional,1.25,5.25,13.0
+2014-11-01,Penafiel,Estoril,4.5,3.4,1.83
+2014-11-01,Guimaraes,Sp Lisbon,4.0,3.4,1.91
+2014-11-01,Bayern Munich,Dortmund,1.44,4.5,6.5
+2014-11-01,Anderlecht,Lokeren,1.62,4.0,5.25
+2014-11-01,Standard,Mechelen,1.62,3.8,5.5
+2014-11-01,Feyenoord,Zwolle,1.36,5.0,7.5
+2014-11-01,Chelsea,QPR,1.17,8.5,21.0
+2014-11-01,Arsenal,Burnley,1.25,6.5,14.0
+2014-11-01,Ajax,Dordrecht,1.14,7.5,17.0
+2014-11-01,Leicester,West Brom,2.3,3.5,3.3
+2014-11-01,Newcastle,Liverpool,3.8,3.75,2.0
+2014-11-01,Stoke,West Ham,2.38,3.4,3.25
+2014-11-01,PSV Eindhoven,Den Haag,1.22,6.5,10.0
+2014-11-01,Hull,Southampton,3.8,3.6,2.05
+2014-11-01,Watford,Millwall,1.95,3.7,4.2
+2014-11-01,Twente,Heerenveen,1.53,4.2,5.75
+2014-11-01,Everton,Swansea,1.75,3.8,5.25
+2014-11-02,Go Ahead Eagles,Heracles,2.1,3.6,3.2
+2014-11-02,AZ Alkmaar,Excelsior,1.5,4.5,5.75
+2014-11-02,Maritimo,Moreirense,2.0,3.4,3.75
+2014-11-02,Gil Vicente,Arouca,2.45,3.25,2.9
+2014-11-02,Nantes,Rennes,2.05,3.2,3.75
+2014-11-02,Marseille,Lens,1.25,5.25,13.0
+2014-11-02,Bordeaux,Toulouse,2.25,3.25,3.2
+2014-11-02,Man City,Man United,1.91,3.75,4.33
+2014-11-02,Academica,Sp Braga,3.75,3.3,2.0
+2014-11-02,Utrecht,Vitesse,3.5,3.75,1.95
+2014-11-02,Willem II,Cambuur,2.2,3.5,3.1
+2014-11-02,FC Koln,Freiburg,1.91,3.6,3.8
+2014-11-02,M'gladbach,Hoffenheim,1.95,3.5,3.75
+2014-11-02,Paderborn,Hertha,2.5,3.5,2.63
+2014-11-02,Pacos Ferreira,Setubal,1.85,3.4,4.33
+2014-11-02,Groningen,NAC Breda,1.67,4.0,4.75
+2014-11-02,Lierse,Gent,4.75,3.6,1.73
+2014-11-02,Villarreal,Valencia,2.1,3.4,3.4
+2014-11-02,Levante,Almeria,2.4,3.1,3.1
+2014-11-02,Rizespor,Erciyesspor,2.15,3.3,3.4
+2014-11-02,Elche,Espanol,2.63,3.1,2.75
+2014-11-02,Gaziantepspor,Mersin Idman Yurdu,2.38,3.25,3.0
+2014-11-02,Besiktas,Fenerbahce,2.6,3.25,2.7
+2014-11-02,Westerlo,Mouscron-Peruwelz,1.75,3.75,4.33
+2014-11-02,Ath Bilbao,Sevilla,2.4,3.3,2.9
+2014-11-02,Udinese,Genoa,2.05,3.3,3.6
+2014-11-02,Torino,Atalanta,1.85,3.5,4.2
+2014-11-02,Sampdoria,Fiorentina,3.0,3.2,2.4
+2014-11-02,Milan,Palermo,1.5,4.0,7.0
+2014-11-02,Chievo,Sassuolo,2.4,3.2,3.0
+2014-11-02,Charleroi,Club Brugge,4.75,3.6,1.73
+2014-11-02,Aston Villa,Tottenham,3.75,3.6,2.1
+2014-11-03,Ross County,Aberdeen,5.75,3.75,1.6
+2014-11-03,Vallecano,Eibar,2.05,3.2,3.8
+2014-11-03,Crystal Palace,Sunderland,2.1,3.5,3.8
+2014-11-03,Konyaspor,Karabukspor,2.1,3.25,3.6
+2014-11-03,Eskisehirspor,Balikesirspor,1.57,3.75,6.0
+2014-11-03,Belenenses,Boavista,1.8,3.5,4.5
+2014-11-03,Lazio,Cagliari,1.53,3.8,6.5
+2014-11-03,Cesena,Verona,2.88,3.2,2.5
+2014-11-04,Leeds,Charlton,2.3,3.3,3.5
+2014-11-04,Ipswich,Wolves,2.6,3.4,2.9
+2014-11-04,Derby,Huddersfield,1.73,4.0,5.0
+2014-11-04,Millwall,Blackburn,2.63,3.5,2.8
+2014-11-04,Sheffield Weds,Bournemouth,3.25,3.4,2.38
+2014-11-04,Brighton,Wigan,2.3,3.3,3.5
+2014-11-04,Bolton,Cardiff,2.63,3.4,2.88
+2014-11-04,Birmingham,Watford,3.25,3.5,2.3
+2014-11-04,Middlesbrough,Norwich,2.4,3.4,3.2
+2014-11-04,Reading,Rotherham,2.05,3.6,3.8
+2014-11-05,Nott'm Forest,Brentford,2.1,3.5,3.8
+2014-11-05,Fulham,Blackpool,1.55,4.33,6.5
+2014-11-07,Hertha,Hannover,2.05,3.4,3.5
+2014-11-07,Rennes,Lorient,2.0,3.2,4.0
+2014-11-07,Cordoba,La Coruna,2.25,3.1,3.4
+2014-11-07,Motherwell,Dundee United,3.8,3.6,1.91
+2014-11-07,Bolton,Wigan,2.9,3.4,2.6
+2014-11-07,Excelsior,Utrecht,2.2,3.6,3.0
+2014-11-07,Sivasspor,Eskisehirspor,2.5,3.25,2.8
+2014-11-07,Oostende,Waregem,2.38,3.3,2.9
+2014-11-07,Arouca,Guimaraes,3.0,3.25,2.38
+2014-11-07,Gaziantepspor,Akhisar Belediyespor,2.4,3.2,3.0
+2014-11-08,Reading,Charlton,1.83,3.75,4.75
+2014-11-08,Nott'm Forest,Norwich,2.9,3.4,2.6
+2014-11-08,Millwall,Brentford,2.2,3.4,3.6
+2014-11-08,Middlesbrough,Bournemouth,2.3,3.4,3.4
+2014-11-08,West Ham,Aston Villa,1.75,3.75,5.5
+2014-11-08,Ipswich,Watford,2.45,3.5,3.0
+2014-11-08,Den Haag,Willem II,2.1,3.5,3.3
+2014-11-08,Dundee,St Johnstone,2.5,3.25,2.8
+2014-11-08,Inverness C,Hamilton,2.1,3.4,3.4
+2014-11-08,Kilmarnock,Ross County,1.83,3.75,4.0
+2014-11-08,St Mirren,Partick,2.4,3.4,2.8
+2014-11-08,Heerenveen,Go Ahead Eagles,1.44,4.5,6.5
+2014-11-08,Leeds,Blackpool,1.85,3.6,4.75
+2014-11-08,Sheffield Weds,Rotherham,2.2,3.5,3.5
+2014-11-08,Mechelen,Cercle Brugge,1.44,4.33,7.0
+2014-11-08,Liverpool,Chelsea,3.4,3.4,2.3
+2014-11-08,Toulouse,Metz,1.65,3.6,5.5
+2014-11-08,Lens,Bordeaux,3.5,3.25,2.1
+2014-11-08,Evian Thonon Gaillard,Nice,2.4,3.1,3.1
+2014-11-08,Werder Bremen,Stuttgart,2.63,3.3,2.63
+2014-11-08,Leverkusen,Mainz,1.5,4.33,6.0
+2014-11-08,Hoffenheim,FC Koln,1.8,3.8,4.0
+2014-11-08,Freiburg,Schalke 04,2.63,3.5,2.5
+2014-11-08,Ein Frankfurt,Bayern Munich,13.0,7.0,1.18
+2014-11-08,Augsburg,Paderborn,1.73,3.8,4.5
+2014-11-08,Sp Braga,Gil Vicente,1.4,4.33,8.5
+2014-11-08,Caen,Nantes,2.38,3.1,3.1
+2014-11-08,Bastia,Montpellier,2.5,3.0,3.0
+2014-11-08,Mouscron-Peruwelz,Charleroi,2.38,3.4,2.88
+2014-11-08,NAC Breda,AZ Alkmaar,2.7,3.6,2.38
+2014-11-08,Kortrijk,Lierse,1.67,3.8,5.0
+2014-11-08,Burnley,Hull,2.5,3.4,3.0
+2014-11-08,Zwolle,Groningen,2.0,3.3,3.75
+2014-11-08,Fulham,Huddersfield,2.15,3.6,3.6
+2014-11-08,Real Madrid,Vallecano,1.05,15.0,26.0
+2014-11-08,Derby,Wolves,2.1,3.6,3.75
+2014-11-08,Man United,Crystal Palace,1.3,6.0,11.0
+2014-11-08,Sassuolo,Atalanta,2.1,3.4,3.4
+2014-11-08,Mersin Idman Yurdu,Balikesirspor,1.8,3.5,4.5
+2014-11-08,Karabukspor,Galatasaray,3.8,3.3,2.0
+2014-11-08,Fenerbahce,Rizespor,1.36,4.75,8.5
+2014-11-08,Brighton,Blackburn,2.1,3.6,3.7
+2014-11-08,Birmingham,Cardiff,2.75,3.4,2.7
+2014-11-08,Almeria,Barcelona,17.0,7.5,1.14
+2014-11-08,Celta,Granada,1.57,3.8,6.0
+2014-11-08,Getafe,Elche,2.0,3.2,4.0
+2014-11-08,Malaga,Eibar,1.57,3.75,6.0
+2014-11-08,Southampton,Leicester,1.44,4.75,8.0
+2014-11-08,Sampdoria,Milan,2.6,3.2,2.7
+2014-11-08,QPR,Man City,7.0,4.75,1.5
+2014-11-09,Buyuksehyr,Besiktas,2.8,3.25,2.5
+2014-11-09,Kasimpasa,Genclerbirligi,1.5,4.0,7.0
+2014-11-09,Club Brugge,Westerlo,1.25,5.75,11.0
+2014-11-09,Genk,Standard,2.5,3.3,2.75
+2014-11-09,Gent,Anderlecht,2.6,3.3,2.63
+2014-11-09,Erciyesspor,Bursaspor,2.88,3.3,2.4
+2014-11-09,Wolfsburg,Hamburg,1.57,4.2,5.25
+2014-11-09,Dortmund,M'gladbach,1.57,4.33,5.0
+2014-11-09,Sevilla,Levante,1.25,5.5,12.0
+2014-11-09,Sociedad,Ath Madrid,4.33,3.6,1.8
+2014-11-09,Sp Lisbon,Pacos Ferreira,1.5,4.0,7.0
+2014-11-09,Setubal,Maritimo,2.9,3.25,2.4
+2014-11-09,Nacional,Benfica,5.5,3.75,1.62
+2014-11-09,Moreirense,Belenenses,2.25,3.1,3.4
+2014-11-09,Estoril,Porto,7.5,4.2,1.44
+2014-11-09,Boavista,Penafiel,2.5,3.0,3.0
+2014-11-09,Empoli,Lazio,3.75,3.25,2.05
+2014-11-09,Chievo,Cesena,1.85,3.4,4.33
+2014-11-09,Lokeren,Waasland-Beveren,1.36,4.5,9.0
+2014-11-09,Trabzonspor,Konyaspor,1.67,3.6,5.25
+2014-11-09,Cagliari,Genoa,2.2,3.4,3.2
+2014-11-09,Tottenham,Stoke,1.7,4.0,5.5
+2014-11-09,Dordrecht,Twente,6.5,4.5,1.45
+2014-11-09,Heracles,PSV Eindhoven,4.6,4.1,1.65
+2014-11-09,West Brom,Newcastle,2.3,3.5,3.3
+2014-11-09,Espanol,Villarreal,3.1,3.2,2.3
+2014-11-09,Swansea,Arsenal,3.75,3.5,2.1
+2014-11-09,Valencia,Ath Bilbao,1.62,4.0,5.25
+2014-11-09,St Etienne,Monaco,2.25,3.2,3.2
+2014-11-09,Vitesse,Feyenoord,2.25,3.8,2.8
+2014-11-09,Aberdeen,Celtic,4.2,3.75,1.8
+2014-11-09,Paris SG,Marseille,1.62,3.75,5.5
+2014-11-09,Lyon,Guingamp,1.5,4.0,7.0
+2014-11-09,Roma,Torino,1.44,4.33,7.0
+2014-11-09,Palermo,Udinese,2.15,3.3,3.4
+2014-11-09,Sunderland,Everton,4.0,3.5,2.05
+2014-11-09,Juventus,Parma,1.2,6.0,15.0
+2014-11-09,Inter,Verona,1.45,4.5,6.5
+2014-11-09,Fiorentina,Napoli,2.5,3.3,2.75
+2014-11-09,Reims,Lille,3.75,3.1,2.1
+2014-11-09,Cambuur,Ajax,3.5,3.75,1.95
+2014-11-10,Rio Ave,Academica,1.8,3.5,4.5
+2014-11-21,Ath Bilbao,Espanol,1.8,3.5,4.5
+2014-11-21,Brentford,Fulham,2.5,3.6,2.9
+2014-11-21,Metz,Paris SG,7.5,4.2,1.44
+2014-11-21,Cardiff,Reading,2.1,3.5,3.8
+2014-11-22,Chelsea,West Brom,1.25,6.5,15.0
+2014-11-22,Newcastle,QPR,1.83,3.75,4.75
+2014-11-22,Arsenal,Man United,2.15,3.6,3.5
+2014-11-22,Leicester,Sunderland,2.1,3.5,3.8
+2014-11-22,Man City,Swansea,1.4,5.25,8.5
+2014-11-22,Everton,West Ham,1.85,3.8,4.5
+2014-11-22,Akhisar Belediyespor,Mersin Idman Yurdu,2.0,3.3,3.8
+2014-11-22,Gent,Cercle Brugge,1.29,5.5,10.0
+2014-11-22,Wolves,Nott'm Forest,2.2,3.5,3.5
+2014-11-22,Galatasaray,Trabzonspor,1.8,3.6,4.33
+2014-11-22,Rizespor,Buyuksehyr,2.88,3.2,2.45
+2014-11-22,AZ Alkmaar,Vitesse,2.5,3.5,2.63
+2014-11-22,Feyenoord,Dordrecht,1.17,7.5,13.0
+2014-11-22,Go Ahead Eagles,NAC Breda,2.0,3.6,3.5
+2014-11-22,St Johnstone,Ross County,1.8,3.6,4.33
+2014-11-22,Inverness C,Motherwell,1.62,3.8,5.5
+2014-11-22,Hamilton,St Mirren,1.91,3.6,3.8
+2014-11-22,Dundee United,Kilmarnock,1.75,4.0,4.2
+2014-11-22,Celtic,Dundee,1.2,7.0,11.0
+2014-11-22,Willem II,Excelsior,1.73,4.0,4.33
+2014-11-22,Lazio,Juventus,3.75,3.4,2.0
+2014-11-22,Atalanta,Roma,4.5,3.4,1.83
+2014-11-22,Watford,Derby,2.75,3.6,2.6
+2014-11-22,Charleroi,Anderlecht,4.2,3.75,1.8
+2014-11-22,Club Brugge,Waasland-Beveren,1.17,7.0,15.0
+2014-11-22,Ajax,Heerenveen,1.36,5.0,7.5
+2014-11-22,Blackburn,Leeds,1.73,4.0,5.0
+2014-11-22,Blackpool,Bolton,3.5,3.4,2.25
+2014-11-22,Bournemouth,Ipswich,1.83,3.9,4.5
+2014-11-22,Charlton,Millwall,2.8,3.3,2.75
+2014-11-22,Huddersfield,Sheffield Weds,2.25,3.6,3.3
+2014-11-22,Norwich,Brighton,1.85,3.6,4.75
+2014-11-22,Wigan,Middlesbrough,2.75,3.3,2.8
+2014-11-22,Stoke,Burnley,1.7,3.8,5.75
+2014-11-22,Rotherham,Birmingham,2.1,3.6,3.75
+2014-11-22,Nice,Reims,1.91,3.4,4.0
+2014-11-22,Eibar,Real Madrid,15.0,6.5,1.18
+2014-11-22,Bayern Munich,Hoffenheim,1.14,8.0,15.0
+2014-11-22,Mouscron-Peruwelz,Lierse,1.95,3.5,3.75
+2014-11-22,Lokeren,Westerlo,1.33,5.25,8.0
+2014-11-22,FC Koln,Hertha,2.1,3.3,3.5
+2014-11-22,Hannover,Leverkusen,3.8,3.6,1.91
+2014-11-22,Monaco,Caen,1.62,3.6,6.0
+2014-11-22,Barcelona,Sevilla,1.2,7.0,11.0
+2014-11-22,Mainz,Freiburg,2.15,3.3,3.4
+2014-11-22,Paderborn,Dortmund,7.0,4.75,1.4
+2014-11-22,Bastia,Lyon,3.6,3.3,2.05
+2014-11-22,Guingamp,Rennes,2.5,3.1,2.9
+2014-11-22,Lorient,Lens,1.8,3.3,4.75
+2014-11-22,Schalke 04,Wolfsburg,3.0,3.4,2.3
+2014-11-22,La Coruna,Sociedad,3.4,3.25,2.15
+2014-11-22,M'gladbach,Ein Frankfurt,1.36,5.0,7.5
+2014-11-22,Ath Madrid,Malaga,1.44,4.2,7.5
+2014-11-23,Cesena,Sampdoria,4.0,3.3,1.95
+2014-11-23,Stuttgart,Augsburg,2.38,3.5,2.8
+2014-11-23,Besiktas,Kasimpasa,2.0,3.5,3.6
+2014-11-23,Utrecht,Cambuur,2.38,3.5,2.8
+2014-11-23,Heracles,Den Haag,1.95,3.6,3.6
+2014-11-23,Crystal Palace,Liverpool,4.33,3.7,1.91
+2014-11-23,Zwolle,Twente,3.4,3.6,2.05
+2014-11-23,Eskisehirspor,Erciyesspor,1.8,3.5,4.5
+2014-11-23,Genclerbirligi,Karabukspor,2.3,3.25,3.1
+2014-11-23,Konyaspor,Gaziantepspor,1.8,3.5,4.5
+2014-11-23,Partick,Aberdeen,3.3,3.8,2.0
+2014-11-23,Verona,Fiorentina,3.4,3.4,2.1
+2014-11-23,Udinese,Chievo,1.85,3.4,4.33
+2014-11-23,Torino,Sassuolo,1.83,3.5,4.33
+2014-11-23,Parma,Empoli,2.15,3.4,3.3
+2014-11-23,Napoli,Cagliari,1.36,4.75,8.5
+2014-11-23,Milan,Inter,2.63,3.2,2.7
+2014-11-23,Groningen,PSV Eindhoven,4.75,3.75,1.7
+2014-11-23,Hull,Tottenham,3.6,3.4,2.2
+2014-11-23,Hamburg,Werder Bremen,1.91,3.6,3.75
+2014-11-23,Elche,Cordoba,2.0,3.2,4.0
+2014-11-23,Kortrijk,Waregem,2.25,3.5,3.0
+2014-11-23,Genk,Mechelen,2.0,3.4,3.75
+2014-11-23,Villarreal,Getafe,1.44,4.5,6.5
+2014-11-23,Vallecano,Celta,2.7,3.3,2.55
+2014-11-23,Levante,Valencia,5.0,3.75,1.67
+2014-11-23,Nantes,St Etienne,2.7,3.1,2.7
+2014-11-23,Oostende,Standard,3.75,3.4,2.0
+2014-11-23,Montpellier,Toulouse,2.5,3.1,2.9
+2014-11-23,Marseille,Bordeaux,1.62,3.6,6.0
+2014-11-24,Granada,Almeria,2.0,3.3,3.8
+2014-11-24,Aston Villa,Southampton,5.25,3.75,1.75
+2014-11-24,Bursaspor,Fenerbahce,2.8,3.4,2.4
+2014-11-24,Genoa,Palermo,2.15,3.3,3.4
+2014-11-24,Balikesirspor,Sivasspor,2.55,3.4,2.63
+2014-11-28,Sociedad,Elche,1.7,3.75,5.0
+2014-11-28,Waregem,Gent,2.7,3.4,2.5
+2014-11-28,Freiburg,Stuttgart,2.25,3.4,3.1
+2014-11-28,Buyuksehyr,Bursaspor,2.2,3.3,3.3
+2014-11-28,Marseille,Nantes,1.53,3.75,7.5
+2014-11-28,Dordrecht,Willem II,3.2,3.6,2.1
+2014-11-28,Guimaraes,Moreirense,1.83,3.4,4.5
+2014-11-28,Akhisar Belediyespor,Konyaspor,2.2,3.25,3.25
+2014-11-29,Lens,Metz,2.6,3.1,2.9
+2014-11-29,Vitesse,Go Ahead Eagles,1.25,6.0,10.0
+2014-11-29,NAC Breda,Utrecht,2.25,3.6,2.9
+2014-11-29,Caen,Montpellier,2.3,3.1,3.4
+2014-11-29,Heerenveen,Heracles,1.62,4.2,4.75
+2014-11-29,Cambuur,AZ Alkmaar,2.05,3.8,3.2
+2014-11-29,Belenenses,Arouca,2.05,3.2,3.8
+2014-11-29,Chievo,Lazio,3.75,3.3,2.1
+2014-11-29,Gaziantepspor,Galatasaray,4.33,3.5,1.83
+2014-11-29,Penafiel,Sp Braga,6.5,3.5,1.62
+2014-11-29,Sp Lisbon,Setubal,1.2,5.75,17.0
+2014-11-29,Kasimpasa,Rizespor,1.57,3.75,6.0
+2014-11-29,Bolton,Huddersfield,2.3,3.6,3.25
+2014-11-29,Birmingham,Nott'm Forest,3.1,3.5,2.4
+2014-11-29,Paris SG,Nice,1.22,6.5,13.0
+2014-11-29,Reims,Bastia,2.15,3.25,3.6
+2014-11-29,Rennes,Monaco,2.9,3.1,2.6
+2014-11-29,Toulouse,Lorient,1.83,3.5,4.5
+2014-11-29,Sassuolo,Verona,2.0,3.5,3.6
+2014-11-29,Erciyesspor,Balikesirspor,1.57,4.0,5.5
+2014-11-29,Watford,Cardiff,2.1,3.6,3.7
+2014-11-29,Cercle Brugge,Genk,4.0,3.4,1.91
+2014-11-29,Mechelen,Oostende,1.91,3.4,4.0
+2014-11-29,West Ham,Newcastle,2.15,3.5,3.6
+2014-11-29,West Brom,Arsenal,4.5,3.8,1.85
+2014-11-29,Swansea,Crystal Palace,1.8,3.75,5.0
+2014-11-29,Sunderland,Chelsea,9.0,5.0,1.4
+2014-11-29,QPR,Leicester,2.38,3.4,3.25
+2014-11-29,Man United,Hull,1.33,5.75,10.0
+2014-11-29,Liverpool,Stoke,1.73,4.0,5.0
+2014-11-29,Burnley,Aston Villa,2.15,3.4,3.75
+2014-11-29,Sheffield Weds,Wigan,2.75,3.2,2.88
+2014-11-29,Rotherham,Blackpool,1.8,3.75,5.0
+2014-11-29,Werder Bremen,Paderborn,2.2,3.5,3.25
+2014-11-29,Schalke 04,Mainz,1.95,3.7,3.75
+2014-11-29,Leverkusen,FC Koln,1.5,4.33,6.5
+2014-11-29,Hertha,Bayern Munich,15.0,7.5,1.18
+2014-11-29,Hoffenheim,Hannover,1.7,4.0,4.75
+2014-11-29,Augsburg,Hamburg,2.0,3.5,3.75
+2014-11-29,Waasland-Beveren,Mouscron-Peruwelz,2.2,3.3,3.3
+2014-11-29,Celta,Eibar,1.62,4.0,5.5
+2014-11-29,Espanol,Levante,1.67,3.7,5.5
+2014-11-29,Getafe,Ath Bilbao,2.88,3.1,2.63
+2014-11-29,Norwich,Reading,1.7,4.0,5.5
+2014-11-29,Middlesbrough,Blackburn,1.91,3.75,4.33
+2014-11-29,Westerlo,Charleroi,2.6,3.3,2.63
+2014-11-29,Malaga,Real Madrid,10.0,6.0,1.29
+2014-11-29,Bournemouth,Millwall,1.65,4.0,6.0
+2014-11-29,Brentford,Wolves,2.35,3.6,3.1
+2014-11-29,Leeds,Derby,4.1,3.75,1.95
+2014-11-29,Charlton,Ipswich,3.1,3.3,2.5
+2014-11-29,Brighton,Fulham,2.05,3.7,3.75
+2014-11-30,Mersin Idman Yurdu,Sivasspor,2.4,3.2,3.0
+2014-11-30,Evian Thonon Gaillard,Guingamp,2.2,3.1,3.6
+2014-11-30,Fenerbahce,Eskisehirspor,1.4,4.5,7.5
+2014-11-30,Bordeaux,Lille,2.25,3.1,3.5
+2014-11-30,Anderlecht,Club Brugge,2.3,3.3,3.1
+2014-11-30,Standard,Kortrijk,1.57,4.0,5.5
+2014-11-30,Lierse,Lokeren,4.0,3.6,1.85
+2014-11-30,St Etienne,Lyon,2.4,3.2,3.1
+2014-11-30,Juventus,Torino,1.3,5.0,13.0
+2014-11-30,Valencia,Barcelona,6.0,4.33,1.53
+2014-11-30,Porto,Rio Ave,1.25,5.5,12.0
+2014-11-30,Excelsior,Zwolle,2.63,3.5,2.5
+2014-11-30,Roma,Inter,1.75,3.75,4.75
+2014-11-30,Palermo,Parma,1.85,3.6,4.5
+2014-11-30,Milan,Udinese,1.62,3.75,6.0
+2014-11-30,Empoli,Atalanta,2.1,3.4,3.6
+2014-11-30,Cesena,Genoa,3.4,3.2,2.25
+2014-11-30,Cagliari,Fiorentina,3.8,3.5,2.0
+2014-11-30,Den Haag,Ajax,4.5,4.2,1.67
+2014-11-30,Twente,Groningen,1.33,5.25,8.0
+2014-11-30,Maritimo,Boavista,1.57,3.75,6.0
+2014-11-30,Sevilla,Granada,1.44,4.5,7.5
+2014-11-30,Ath Madrid,La Coruna,1.18,7.0,17.0
+2014-11-30,Ein Frankfurt,Dortmund,5.0,4.33,1.62
+2014-11-30,Wolfsburg,M'gladbach,1.91,3.75,3.8
+2014-11-30,Southampton,Man City,3.2,3.6,2.3
+2014-11-30,Tottenham,Everton,2.25,3.6,3.25
+2014-11-30,Academica,Benfica,8.0,4.0,1.44
+2014-11-30,Gil Vicente,Nacional,3.4,3.1,2.25
+2014-11-30,Cordoba,Villarreal,4.33,3.6,1.85
+2014-12-01,Almeria,Vallecano,2.38,3.4,3.0
+2014-12-01,Pacos Ferreira,Estoril,2.25,3.25,3.2
+2014-12-01,Trabzonspor,Genclerbirligi,1.5,4.0,7.0
+2014-12-01,Karabukspor,Besiktas,3.3,3.5,2.1
+2014-12-01,Sampdoria,Napoli,3.3,3.4,2.2
+2014-12-02,Man United,Stoke,1.45,4.5,8.5
+2014-12-02,Crystal Palace,Aston Villa,2.1,3.4,4.0
+2014-12-02,Burnley,Newcastle,2.8,3.3,2.75
+2014-12-02,Leicester,Liverpool,3.8,3.6,2.05
+2014-12-02,Swansea,QPR,1.73,3.8,5.5
+2014-12-02,West Brom,West Ham,2.5,3.4,3.0
+2014-12-02,Nantes,Toulouse,2.1,3.1,3.8
+2014-12-02,Monaco,Lens,1.4,4.5,9.0
+2014-12-02,Lorient,Marseille,4.2,3.5,1.91
+2014-12-03,Guingamp,Caen,2.6,3.2,2.8
+2014-12-03,Lille,Paris SG,5.75,3.5,1.7
+2014-12-03,Arsenal,Southampton,1.8,3.75,5.0
+2014-12-03,Bastia,Evian Thonon Gaillard,2.3,3.2,3.25
+2014-12-03,Nice,Rennes,2.63,3.0,2.9
+2014-12-03,Everton,Hull,1.53,4.33,7.0
+2014-12-03,Sunderland,Man City,7.5,4.5,1.5
+2014-12-03,Celtic,Partick,1.18,7.0,13.0
+2014-12-03,Montpellier,St Etienne,3.2,3.0,2.5
+2014-12-03,Metz,Bordeaux,2.75,3.0,2.8
+2014-12-03,Chelsea,Tottenham,1.4,5.0,9.0
+2014-12-04,Lyon,Reims,1.5,4.2,7.0
+2014-12-05,Dortmund,Hoffenheim,1.5,4.6,6.0
+2014-12-05,Fulham,Watford,2.25,3.6,3.25
+2014-12-05,Ross County,Dundee United,4.75,3.6,1.73
+2014-12-05,Fiorentina,Juventus,3.8,3.4,2.05
+2014-12-05,Boavista,Sp Lisbon,13.0,6.0,1.22
+2014-12-05,Toulouse,Monaco,2.63,3.2,2.8
+2014-12-05,Westerlo,Waasland-Beveren,2.25,3.4,3.1
+2014-12-06,Ath Bilbao,Cordoba,1.4,4.5,9.0
+2014-12-06,Academica,Porto,10.0,5.25,1.29
+2014-12-06,La Coruna,Malaga,3.6,3.25,2.1
+2014-12-06,Real Madrid,Celta,1.09,12.0,21.0
+2014-12-06,Rio Ave,Gil Vicente,1.57,3.6,6.5
+2014-12-06,Reading,Bolton,2.15,3.6,3.5
+2014-12-06,Benfica,Belenenses,1.25,5.5,12.0
+2014-12-06,Wigan,Norwich,2.8,3.4,2.7
+2014-12-06,Wolves,Bournemouth,3.1,3.5,2.4
+2014-12-06,Elche,Ath Madrid,7.0,3.75,1.57
+2014-12-06,Estoril,Setubal,1.62,3.75,5.5
+2014-12-06,Paris SG,Nantes,1.29,5.5,11.0
+2014-12-06,Millwall,Middlesbrough,3.4,3.4,2.3
+2014-12-06,Caen,Nice,2.0,3.3,4.0
+2014-12-06,Bordeaux,Lorient,1.85,3.5,4.5
+2014-12-06,St Etienne,Bastia,1.45,4.2,8.0
+2014-12-06,Roma,Sassuolo,1.33,5.25,9.0
+2014-12-06,Torino,Palermo,1.91,3.3,4.5
+2014-12-06,Excelsior,Feyenoord,8.0,5.25,1.33
+2014-12-06,Dordrecht,PSV Eindhoven,10.0,6.0,1.25
+2014-12-06,Nott'm Forest,Charlton,1.73,3.75,5.5
+2014-12-06,Cambuur,NAC Breda,1.44,4.33,7.0
+2014-12-06,Ajax,Willem II,1.25,6.0,10.0
+2014-12-06,Rennes,Montpellier,2.05,3.2,4.0
+2014-12-06,Blackburn,Sheffield Weds,2.0,3.6,4.0
+2014-12-06,Blackpool,Birmingham,3.0,3.4,2.5
+2014-12-06,Derby,Brighton,1.85,3.8,4.5
+2014-12-06,Huddersfield,Brentford,2.5,3.6,2.9
+2014-12-06,Ipswich,Leeds,1.85,3.75,4.5
+2014-12-06,AZ Alkmaar,Go Ahead Eagles,1.38,4.75,7.5
+2014-12-06,Bayern Munich,Leverkusen,1.25,6.0,12.0
+2014-12-06,Cardiff,Rotherham,1.91,3.6,4.5
+2014-12-06,Galatasaray,Akhisar Belediyespor,1.33,5.0,8.5
+2014-12-06,Mouscron-Peruwelz,Anderlecht,4.75,3.6,1.73
+2014-12-06,Aberdeen,Hamilton,1.8,3.5,4.5
+2014-12-06,St Mirren,St Johnstone,3.1,3.5,2.2
+2014-12-06,Motherwell,Celtic,9.0,5.5,1.3
+2014-12-06,Kortrijk,Mechelen,2.0,3.4,3.75
+2014-12-06,Lokeren,Cercle Brugge,1.45,4.33,7.0
+2014-12-06,Balikesirspor,Fenerbahce,7.0,4.33,1.44
+2014-12-06,Partick,Kilmarnock,2.15,3.4,3.25
+2014-12-06,Genclerbirligi,Gaziantepspor,2.25,3.2,3.25
+2014-12-06,Konyaspor,Mersin Idman Yurdu,1.85,3.4,4.33
+2014-12-06,Stuttgart,Schalke 04,2.25,3.4,3.25
+2014-12-06,Dundee,Inverness C,3.0,3.4,2.3
+2014-12-06,Paderborn,Freiburg,2.38,3.3,3.1
+2014-12-06,Hannover,Wolfsburg,3.8,3.6,1.95
+2014-12-06,FC Koln,Augsburg,2.88,3.2,2.55
+2014-12-06,Tottenham,Crystal Palace,1.6,4.2,6.0
+2014-12-06,Stoke,Arsenal,4.0,3.6,2.0
+2014-12-06,QPR,Burnley,2.05,3.5,4.0
+2014-12-06,Newcastle,Chelsea,7.0,4.33,1.53
+2014-12-06,Man City,Everton,1.5,4.75,7.0
+2014-12-06,Liverpool,Sunderland,1.5,4.5,7.5
+2014-12-06,Hull,West Brom,2.45,3.3,3.2
+2014-12-06,M'gladbach,Hertha,1.67,3.8,5.25
+2014-12-06,Oostende,Lierse,1.75,3.75,4.5
+2014-12-07,Sp Braga,Guimaraes,1.75,3.5,4.75
+2014-12-07,Moreirense,Pacos Ferreira,2.75,3.1,2.63
+2014-12-07,Reims,Guingamp,2.15,3.0,3.8
+2014-12-07,Genoa,Milan,3.1,3.25,2.4
+2014-12-07,Marseille,Metz,1.4,4.75,8.0
+2014-12-07,Lens,Lille,4.2,3.2,2.0
+2014-12-07,Arouca,Penafiel,1.83,3.5,4.33
+2014-12-07,Besiktas,Trabzonspor,2.05,3.4,3.5
+2014-12-07,Bursaspor,Kasimpasa,2.2,3.3,3.25
+2014-12-07,Evian Thonon Gaillard,Lyon,3.5,3.3,2.15
+2014-12-07,Inter,Udinese,1.5,4.0,7.5
+2014-12-07,Hamburg,Mainz,2.1,3.4,3.6
+2014-12-07,Vitesse,Twente,2.05,3.6,3.3
+2014-12-07,Barcelona,Espanol,1.09,12.0,21.0
+2014-12-07,Granada,Valencia,3.9,3.4,2.0
+2014-12-07,Ein Frankfurt,Werder Bremen,2.05,3.6,3.5
+2014-12-07,Aston Villa,Leicester,2.4,3.4,3.2
+2014-12-07,West Ham,Swansea,2.35,3.4,3.25
+2014-12-07,Vallecano,Sevilla,3.3,3.4,2.2
+2014-12-07,Napoli,Empoli,1.33,5.0,10.0
+2014-12-07,Parma,Lazio,3.6,3.4,2.1
+2014-12-07,Zwolle,Den Haag,1.67,3.8,5.0
+2014-12-07,Rizespor,Karabukspor,2.55,3.2,2.8
+2014-12-07,Club Brugge,Waregem,1.44,4.33,7.0
+2014-12-07,Charleroi,Standard,2.7,3.4,2.5
+2014-12-07,Eskisehirspor,Buyuksehyr,2.0,3.2,4.0
+2014-12-07,Atalanta,Cesena,1.62,3.6,6.5
+2014-12-07,Villarreal,Sociedad,1.67,3.75,5.5
+2014-12-07,Groningen,Heerenveen,2.1,3.5,3.3
+2014-12-07,Utrecht,Heracles,2.1,3.5,3.3
+2014-12-07,Gent,Genk,1.83,3.6,4.2
+2014-12-08,Verona,Sampdoria,2.7,3.25,2.7
+2014-12-08,Nacional,Maritimo,2.4,3.2,3.0
+2014-12-08,Cagliari,Chievo,1.85,3.6,4.33
+2014-12-08,Sivasspor,Erciyesspor,2.0,3.4,3.75
+2014-12-08,Levante,Getafe,2.6,3.1,2.9
+2014-12-08,Eibar,Almeria,2.05,3.2,4.0
+2014-12-08,Southampton,Man United,2.8,3.4,2.7
+2014-12-12,Fenerbahce,Sivasspor,1.3,5.25,10.0
+2014-12-12,Lyon,Caen,1.45,4.33,7.5
+2014-12-12,Hoffenheim,Ein Frankfurt,1.85,3.9,4.0
+2014-12-12,Brighton,Millwall,2.0,3.6,4.0
+2014-12-12,Mechelen,Gent,2.88,3.4,2.38
+2014-12-12,Setubal,Boavista,1.85,3.5,4.2
+2014-12-12,Almeria,Real Madrid,17.0,7.5,1.17
+2014-12-12,Heracles,Dordrecht,1.3,5.75,8.0
+2014-12-13,Hamilton,Dundee,2.1,3.5,3.25
+2014-12-13,Inverness C,Partick,1.62,3.8,5.5
+2014-12-13,Willem II,Zwolle,2.25,3.4,3.1
+2014-12-13,Palermo,Sassuolo,2.05,3.5,3.6
+2014-12-13,Valencia,Vallecano,1.5,4.5,6.0
+2014-12-13,Malaga,Celta,2.1,3.3,3.5
+2014-12-13,Getafe,Barcelona,13.0,6.5,1.22
+2014-12-13,Cordoba,Levante,2.2,3.2,3.5
+2014-12-13,Kilmarnock,St Johnstone,2.5,3.5,2.63
+2014-12-13,NAC Breda,Heerenveen,3.1,3.5,2.2
+2014-12-13,Go Ahead Eagles,Cambuur,2.88,3.4,2.38
+2014-12-13,Den Haag,Excelsior,1.62,4.0,5.0
+2014-12-13,Cercle Brugge,Mouscron-Peruwelz,2.6,3.4,2.63
+2014-12-13,Genk,Kortrijk,2.1,3.4,3.4
+2014-12-13,Lierse,Westerlo,2.1,3.5,3.25
+2014-12-13,Lazio,Atalanta,1.57,3.8,6.5
+2014-12-13,Motherwell,Ross County,2.15,3.4,3.3
+2014-12-13,Dundee United,Aberdeen,2.75,3.5,2.4
+2014-12-13,Buyuksehyr,Balikesirspor,1.3,5.0,10.0
+2014-12-13,Birmingham,Reading,2.5,3.4,3.0
+2014-12-13,Pacos Ferreira,Arouca,1.73,3.6,4.75
+2014-12-13,Burnley,Southampton,5.5,3.75,1.73
+2014-12-13,Belenenses,Sp Braga,4.0,3.4,1.91
+2014-12-13,Augsburg,Bayern Munich,9.5,5.75,1.3
+2014-12-13,West Brom,Aston Villa,2.15,3.4,3.8
+2014-12-13,Sunderland,West Ham,2.95,3.4,2.55
+2014-12-13,Leicester,Man City,7.0,4.75,1.5
+2014-12-13,Bolton,Ipswich,2.7,3.4,2.8
+2014-12-13,Crystal Palace,Stoke,2.6,3.25,3.0
+2014-12-13,Freiburg,Hamburg,2.4,3.3,3.0
+2014-12-13,Hertha,Dortmund,5.5,4.0,1.62
+2014-12-13,Mainz,Stuttgart,2.38,3.4,3.0
+2014-12-13,Schalke 04,FC Koln,1.8,3.7,4.5
+2014-12-13,Werder Bremen,Hannover,2.45,3.4,2.88
+2014-12-13,Konyaspor,Galatasaray,3.75,3.3,2.0
+2014-12-13,Kasimpasa,Eskisehirspor,2.0,3.4,3.7
+2014-12-13,Akhisar Belediyespor,Genclerbirligi,1.85,3.6,4.0
+2014-12-13,Chelsea,Hull,1.18,8.0,18.0
+2014-12-13,Bournemouth,Cardiff,1.75,3.9,5.0
+2014-12-13,Gil Vicente,Academica,2.55,3.25,2.75
+2014-12-13,Charlton,Blackpool,1.95,3.6,4.2
+2014-12-13,Waasland-Beveren,Charleroi,2.7,3.25,2.6
+2014-12-13,Brentford,Blackburn,2.3,3.6,3.2
+2014-12-13,Nantes,Bordeaux,2.2,3.1,3.6
+2014-12-13,Montpellier,Lens,1.8,3.5,4.75
+2014-12-13,Lorient,Metz,1.91,3.4,4.33
+2014-12-13,Bastia,Rennes,3.0,3.2,2.5
+2014-12-13,Reims,Evian Thonon Gaillard,2.2,3.2,3.5
+2014-12-13,Arsenal,Newcastle,1.44,4.75,8.0
+2014-12-13,Watford,Wigan,2.1,3.5,3.75
+2014-12-13,Sheffield Weds,Wolves,2.3,3.5,3.3
+2014-12-13,Rotherham,Nott'm Forest,2.9,3.4,2.6
+2014-12-13,Leeds,Fulham,2.6,3.6,2.75
+2014-12-13,Norwich,Huddersfield,1.73,4.0,5.0
+2014-12-13,Middlesbrough,Derby,2.25,3.5,3.4
+2014-12-13,Penafiel,Nacional,3.6,3.3,2.05
+2014-12-14,Monaco,Marseille,2.6,3.2,2.8
+2014-12-14,Anderlecht,Oostende,1.36,4.75,8.0
+2014-12-14,Standard,Club Brugge,2.6,3.5,2.55
+2014-12-14,PSV Eindhoven,Twente,1.53,4.33,5.5
+2014-12-14,Groningen,Vitesse,3.2,3.6,2.1
+2014-12-14,Waregem,Lokeren,2.5,3.4,2.7
+2014-12-14,Feyenoord,AZ Alkmaar,1.4,4.75,7.0
+2014-12-14,Karabukspor,Bursaspor,2.7,3.3,2.55
+2014-12-14,Mersin Idman Yurdu,Erciyesspor,2.0,3.25,3.9
+2014-12-14,Wolfsburg,Paderborn,1.36,5.25,8.0
+2014-12-14,Leverkusen,M'gladbach,1.67,4.0,5.0
+2014-12-14,Gaziantepspor,Besiktas,4.75,3.6,1.75
+2014-12-14,Ajax,Utrecht,1.25,6.0,10.0
+2014-12-14,Nice,St Etienne,3.4,3.1,2.3
+2014-12-14,Espanol,Granada,1.7,3.6,5.5
+2014-12-14,Guimaraes,Rio Ave,2.1,3.25,3.6
+2014-12-14,Lille,Toulouse,2.05,3.2,4.0
+2014-12-14,Guingamp,Paris SG,7.5,4.5,1.44
+2014-12-14,Celtic,St Mirren,1.14,7.5,17.0
+2014-12-14,Swansea,Tottenham,2.5,3.4,3.0
+2014-12-14,Maritimo,Estoril,2.45,3.2,2.88
+2014-12-14,Porto,Benfica,1.83,3.6,4.2
+2014-12-14,Ath Madrid,Villarreal,1.62,4.0,5.5
+2014-12-14,Man United,Liverpool,1.8,3.8,4.75
+2014-12-14,Cesena,Fiorentina,7.5,3.8,1.53
+2014-12-14,Genoa,Roma,3.6,3.5,2.05
+2014-12-14,Juventus,Sampdoria,1.36,4.75,9.0
+2014-12-14,Milan,Napoli,2.8,3.4,2.5
+2014-12-14,Sp Lisbon,Moreirense,1.3,5.0,11.0
+2014-12-14,Parma,Cagliari,2.25,3.5,3.1
+2014-12-14,Udinese,Verona,1.95,3.6,3.8
+2014-12-14,Sevilla,Eibar,1.4,4.5,9.0
+2014-12-14,Sociedad,Ath Bilbao,2.5,3.2,3.0
+2014-12-15,Trabzonspor,Rizespor,1.33,5.0,8.5
+2014-12-15,Chievo,Inter,4.2,3.4,1.95
+2014-12-15,Empoli,Torino,2.4,3.1,3.2
+2014-12-15,La Coruna,Elche,2.25,3.2,3.4
+2014-12-15,Everton,QPR,1.45,4.5,8.5
+2014-12-16,FC Koln,Mainz,2.25,3.4,3.2
+2014-12-16,Bayern Munich,Freiburg,1.08,11.0,29.0
+2014-12-16,Hannover,Augsburg,2.3,3.3,3.1
+2014-12-16,Hamburg,Stuttgart,2.1,3.4,3.6
+2014-12-17,Dortmund,Wolfsburg,1.85,3.75,4.2
+2014-12-17,Ein Frankfurt,Hertha,2.05,3.5,3.6
+2014-12-17,Hoffenheim,Leverkusen,3.25,3.75,2.1
+2014-12-17,M'gladbach,Werder Bremen,1.44,4.75,7.0
+2014-12-17,PSV Eindhoven,Feyenoord,1.75,4.0,4.2
+2014-12-17,Paderborn,Schalke 04,2.75,3.5,2.5
+2014-12-18,Cagliari,Juventus,8.0,4.5,1.4
+2014-12-18,Napoli,Parma,1.33,5.0,9.0
+2014-12-19,Heerenveen,Den Haag,1.5,4.2,6.25
+2014-12-19,Lens,Nice,2.4,3.2,3.1
+2014-12-19,Erciyesspor,Fenerbahce,5.75,3.8,1.6
+2014-12-19,Mainz,Bayern Munich,15.0,7.0,1.2
+2014-12-19,Millwall,Bolton,2.15,3.4,3.75
+2014-12-19,Celta,Almeria,1.44,4.5,6.5
+2014-12-19,Porto,Setubal,1.1,9.0,23.0
+2014-12-20,Mouscron-Peruwelz,Waregem,2.38,3.5,2.8
+2014-12-20,Oostende,Cercle Brugge,1.62,3.75,5.5
+2014-12-20,Westerlo,Mechelen,2.75,3.3,2.5
+2014-12-20,Estoril,Guimaraes,2.2,3.25,3.3
+2014-12-20,Vallecano,Espanol,2.3,3.4,3.1
+2014-12-20,Levante,Sociedad,3.0,3.2,2.5
+2014-12-20,Eibar,Valencia,3.8,3.3,2.05
+2014-12-20,Barcelona,Cordoba,1.06,15.0,26.0
+2014-12-20,Charleroi,Lierse,1.67,3.75,5.0
+2014-12-20,Waasland-Beveren,Anderlecht,5.5,4.0,1.57
+2014-12-20,Dordrecht,Groningen,3.75,3.6,1.91
+2014-12-20,Leverkusen,Ein Frankfurt,1.44,4.75,7.0
+2014-12-20,Southampton,Everton,2.45,3.5,3.0
+2014-12-20,Augsburg,M'gladbach,2.5,3.4,2.8
+2014-12-20,Man City,Crystal Palace,1.29,6.0,12.0
+2014-12-20,Hull,Swansea,3.1,3.3,2.5
+2014-12-20,Aston Villa,Man United,6.25,4.0,1.62
+2014-12-20,Caen,Bastia,1.95,3.3,4.33
+2014-12-20,Aberdeen,Kilmarnock,1.4,4.5,7.5
+2014-12-20,Partick,Dundee,2.25,3.4,3.1
+2014-12-20,Ross County,Hamilton,3.1,3.5,2.2
+2014-12-20,St Johnstone,Inverness C,3.0,3.4,2.3
+2014-12-20,St Mirren,Motherwell,2.3,3.5,2.88
+2014-12-20,Eskisehirspor,Karabukspor,2.0,3.2,4.0
+2014-12-20,Galatasaray,Mersin Idman Yurdu,1.4,4.5,7.5
+2014-12-20,Genclerbirligi,Konyaspor,2.5,3.1,2.9
+2014-12-20,Sivasspor,Buyuksehyr,2.75,3.25,2.55
+2014-12-20,Blackburn,Charlton,1.73,3.9,5.25
+2014-12-20,Blackpool,Bournemouth,5.75,3.8,1.7
+2014-12-20,Cardiff,Brentford,2.4,3.5,3.1
+2014-12-20,Derby,Norwich,2.3,3.5,3.3
+2014-12-20,Fulham,Sheffield Weds,2.25,3.5,3.4
+2014-12-20,Huddersfield,Birmingham,2.25,3.6,3.3
+2014-12-20,Ipswich,Middlesbrough,2.9,3.4,2.6
+2014-12-20,Nott'm Forest,Leeds,1.73,3.9,5.25
+2014-12-20,Reading,Watford,2.7,3.4,2.75
+2014-12-20,Wigan,Rotherham,1.95,3.4,4.5
+2014-12-20,Wolves,Brighton,2.25,3.4,3.5
+2014-12-20,PSV Eindhoven,Go Ahead Eagles,1.13,9.0,15.0
+2014-12-20,Tottenham,Burnley,1.5,4.5,7.5
+2014-12-20,West Ham,Leicester,1.75,3.9,5.0
+2014-12-20,QPR,West Brom,2.45,3.3,3.2
+2014-12-20,Sassuolo,Cesena,1.53,4.0,7.0
+2014-12-20,Schalke 04,Hamburg,1.8,3.6,4.5
+2014-12-20,Metz,Monaco,3.75,3.25,2.1
+2014-12-20,Stuttgart,Paderborn,1.85,3.8,4.0
+2014-12-20,Werder Bremen,Dortmund,6.5,4.33,1.5
+2014-12-20,Wolfsburg,FC Koln,1.5,4.2,7.0
+2014-12-20,AZ Alkmaar,Utrecht,1.57,4.33,5.0
+2014-12-20,Cambuur,Zwolle,2.05,3.75,3.2
+2014-12-20,Lorient,Nantes,2.38,3.1,3.3
+2014-12-20,Roma,Milan,1.75,3.8,4.75
+2014-12-20,Paris SG,Montpellier,1.25,5.75,13.0
+2014-12-20,Rennes,Reims,1.83,3.4,4.75
+2014-12-20,Toulouse,Guingamp,1.91,3.4,4.33
+2014-12-21,Vitesse,Heracles,1.33,5.0,9.0
+2014-12-21,Twente,Willem II,1.4,4.75,7.0
+2014-12-21,NAC Breda,Feyenoord,9.0,5.0,1.33
+2014-12-21,Newcastle,Sunderland,2.05,3.5,4.0
+2014-12-21,Marseille,Lille,1.67,3.8,5.5
+2014-12-21,Bursaspor,Trabzonspor,2.4,3.5,2.75
+2014-12-21,St Etienne,Evian Thonon Gaillard,1.5,4.0,7.5
+2014-12-21,Lokeren,Kortrijk,1.83,3.5,4.2
+2014-12-21,Gent,Standard,2.0,3.4,3.75
+2014-12-21,Club Brugge,Genk,1.4,4.5,7.5
+2014-12-21,Hertha,Hoffenheim,2.5,3.4,2.8
+2014-12-21,Freiburg,Hannover,2.45,3.4,2.88
+2014-12-21,Excelsior,Ajax,8.0,4.75,1.36
+2014-12-21,Bordeaux,Lyon,2.6,3.2,2.88
+2014-12-21,Besiktas,Akhisar Belediyespor,1.44,4.33,7.0
+2014-12-21,Balikesirspor,Kasimpasa,4.75,3.6,1.75
+2014-12-21,Benfica,Gil Vicente,1.13,8.5,17.0
+2014-12-21,Liverpool,Arsenal,2.8,3.5,2.6
+2014-12-21,Arouca,Maritimo,3.0,3.2,2.4
+2014-12-21,Villarreal,La Coruna,1.33,5.0,10.0
+2014-12-21,Academica,Penafiel,1.8,3.3,4.75
+2014-12-21,Atalanta,Palermo,2.3,3.2,3.3
+2014-12-21,Fiorentina,Empoli,1.45,4.2,8.0
+2014-12-21,Moreirense,Boavista,1.57,3.6,6.5
+2014-12-21,Inter,Lazio,2.15,3.4,3.5
+2014-12-21,Torino,Genoa,2.0,3.3,3.8
+2014-12-21,Verona,Chievo,2.38,3.2,3.2
+2014-12-21,Granada,Getafe,2.38,3.1,3.3
+2014-12-21,Dundee United,Celtic,6.5,4.5,1.44
+2014-12-21,Elche,Malaga,3.1,3.1,2.5
+2014-12-21,Ath Bilbao,Ath Madrid,3.6,3.1,2.25
+2014-12-21,Sampdoria,Udinese,1.85,3.5,4.5
+2014-12-21,Nacional,Sp Lisbon,5.0,3.6,1.7
+2014-12-22,Sp Braga,Pacos Ferreira,1.7,3.5,5.25
+2014-12-22,Rizespor,Gaziantepspor,2.0,3.4,3.75
+2014-12-22,Stoke,Chelsea,6.25,4.0,1.62
+2014-12-22,Rio Ave,Belenenses,1.85,3.3,4.5
+2014-12-26,Swansea,Aston Villa,1.75,3.75,5.25
+2014-12-26,Sunderland,Hull,2.05,3.4,4.2
+2014-12-26,West Brom,Man City,6.5,4.5,1.53
+2014-12-26,Arsenal,QPR,1.29,6.0,13.0
+2014-12-26,Burnley,Liverpool,4.75,3.8,1.8
+2014-12-26,Man United,Newcastle,1.4,5.0,9.0
+2014-12-26,Leicester,Tottenham,3.8,3.6,2.05
+2014-12-26,Chelsea,West Ham,1.33,5.75,10.0
+2014-12-26,Crystal Palace,Southampton,3.75,3.4,2.15
+2014-12-26,Kortrijk,Gent,2.63,3.3,2.63
+2014-12-26,Everton,Stoke,1.83,3.6,5.0
+2014-12-26,Anderlecht,Westerlo,1.2,6.5,13.0
+2014-12-26,Watford,Wolves,2.05,3.6,3.8
+2014-12-26,Sheffield Weds,Blackpool,1.7,3.9,5.5
+2014-12-26,Rotherham,Huddersfield,2.4,3.5,3.1
+2014-12-26,Norwich,Millwall,1.6,4.2,6.0
+2014-12-26,Middlesbrough,Nott'm Forest,1.85,3.6,4.75
+2014-12-26,Leeds,Wigan,2.9,3.3,2.63
+2014-12-26,Charlton,Cardiff,3.2,3.3,2.45
+2014-12-26,Brighton,Reading,2.15,3.5,3.6
+2014-12-26,Brentford,Ipswich,2.45,3.5,3.0
+2014-12-26,Bolton,Blackburn,2.75,3.4,2.7
+2014-12-26,Birmingham,Derby,3.25,3.6,2.25
+2014-12-26,Bournemouth,Fulham,1.67,4.2,5.25
+2014-12-26,Genclerbirligi,Galatasaray,4.0,3.6,1.85
+2014-12-26,Lierse,Club Brugge,8.0,4.5,1.4
+2014-12-26,Mechelen,Mouscron-Peruwelz,1.85,3.8,3.8
+2014-12-26,Waregem,Charleroi,2.2,3.4,3.2
+2014-12-27,Cercle Brugge,Waasland-Beveren,2.25,3.25,3.2
+2014-12-27,Kilmarnock,Hamilton,2.7,3.4,2.5
+2014-12-27,Dundee,St Mirren,1.91,3.6,3.75
+2014-12-27,Celtic,Ross County,1.14,7.5,19.0
+2014-12-27,Standard,Lokeren,2.0,3.5,3.6
+2014-12-27,St Johnstone,Dundee United,2.8,3.4,2.4
+2014-12-27,Karabukspor,Balikesirspor,1.53,4.0,6.0
+2014-12-27,Fenerbahce,Mersin Idman Yurdu,1.33,5.0,9.0
+2014-12-27,Motherwell,Partick,3.0,3.4,2.3
+2014-12-27,Buyuksehyr,Erciyesspor,1.73,3.5,5.0
+2014-12-28,Konyaspor,Besiktas,4.0,3.5,1.91
+2014-12-28,Gaziantepspor,Bursaspor,2.88,3.25,2.45
+2014-12-28,West Ham,Arsenal,3.5,3.5,2.2
+2014-12-28,Akhisar Belediyespor,Rizespor,1.85,3.6,4.0
+2014-12-28,Southampton,Chelsea,4.75,3.75,1.83
+2014-12-28,QPR,Crystal Palace,2.38,3.4,3.25
+2014-12-28,Wolves,Brentford,2.2,3.6,3.4
+2014-12-28,Reading,Norwich,3.5,3.5,2.2
+2014-12-28,Stoke,West Brom,1.91,3.6,4.5
+2014-12-28,Kasimpasa,Sivasspor,1.67,3.75,5.0
+2014-12-28,Tottenham,Man United,3.25,3.6,2.3
+2014-12-28,Inverness C,Aberdeen,2.88,3.4,2.38
+2014-12-28,Cardiff,Watford,2.5,3.4,3.0
+2014-12-28,Hull,Leicester,2.25,3.4,3.5
+2014-12-28,Nott'm Forest,Birmingham,1.83,3.75,4.75
+2014-12-28,Millwall,Bournemouth,4.2,3.6,1.95
+2014-12-28,Huddersfield,Bolton,2.25,3.5,3.4
+2014-12-28,Aston Villa,Sunderland,2.35,3.3,3.4
+2014-12-28,Blackpool,Rotherham,3.1,3.5,2.4
+2014-12-28,Blackburn,Middlesbrough,3.0,3.4,2.5
+2014-12-28,Newcastle,Everton,2.9,3.4,2.6
+2014-12-28,Man City,Burnley,1.18,8.0,19.0
+2014-12-29,Fulham,Brighton,2.15,3.6,3.6
+2014-12-29,Trabzonspor,Eskisehirspor,1.73,3.6,4.75
+2014-12-29,Liverpool,Swansea,1.7,4.0,5.5
+2014-12-30,Derby,Leeds,1.5,4.5,7.5
+2014-12-30,Ipswich,Charlton,1.62,4.0,6.5
+2014-12-30,Wigan,Sheffield Weds,2.05,3.6,3.8
+2015-01-01,Aberdeen,St Johnstone,1.67,4.0,4.75
+2015-01-01,St Mirren,Kilmarnock,2.38,3.3,2.9
+2015-01-01,Southampton,Arsenal,2.9,3.4,2.6
+2015-01-01,Stoke,Man United,4.2,3.5,2.0
+2015-01-01,QPR,Swansea,3.0,3.4,2.5
+2015-01-01,Ross County,Inverness C,3.8,3.6,1.91
+2015-01-01,Aston Villa,Crystal Palace,2.4,3.3,3.3
+2015-01-01,Man City,Sunderland,1.22,7.0,15.0
+2015-01-01,Liverpool,Leicester,1.4,5.0,9.0
+2015-01-01,Hull,Everton,3.4,3.4,2.3
+2015-01-01,Tottenham,Chelsea,5.0,3.75,1.8
+2015-01-01,Hamilton,Motherwell,1.67,3.6,5.25
+2015-01-01,Dundee United,Dundee,1.91,3.6,3.8
+2015-01-01,Newcastle,Burnley,1.83,3.75,4.75
+2015-01-01,West Ham,West Brom,1.85,3.75,4.5
+2015-01-02,Belenenses,Academica,1.95,3.25,4.2
+2015-01-03,Ath Madrid,Levante,1.2,6.5,17.0
+2015-01-03,Elche,Villarreal,5.0,3.6,1.75
+2015-01-03,La Coruna,Ath Bilbao,3.2,3.1,2.4
+2015-01-03,Malaga,Almeria,1.53,4.1,6.5
+2015-01-03,Pacos Ferreira,Rio Ave,2.2,3.25,3.3
+2015-01-03,Rizespor,Konyaspor,2.3,3.3,3.1
+2015-01-03,Fenerbahce,Buyuksehyr,1.62,3.8,5.5
+2015-01-03,Bursaspor,Akhisar Belediyespor,1.62,3.8,5.5
+2015-01-03,Sevilla,Celta,1.67,3.8,5.5
+2015-01-03,Gil Vicente,Porto,15.0,6.5,1.18
+2015-01-03,Maritimo,Sp Braga,3.5,3.3,2.1
+2015-01-03,Sp Lisbon,Estoril,1.53,3.8,6.5
+2015-01-04,Sivasspor,Karabukspor,2.2,3.3,3.25
+2015-01-04,St Johnstone,Hamilton,2.4,3.2,3.0
+2015-01-04,Partick,Dundee United,3.25,3.25,2.25
+2015-01-04,Motherwell,Aberdeen,5.75,4.0,1.57
+2015-01-04,Inverness C,St Mirren,1.57,4.0,5.75
+2015-01-04,Dundee,Ross County,1.91,3.6,3.8
+2015-01-04,Eskisehirspor,Gaziantepspor,1.75,3.6,4.6
+2015-01-04,Boavista,Arouca,2.6,3.25,2.7
+2015-01-04,Penafiel,Benfica,12.0,5.5,1.25
+2015-01-04,Setubal,Moreirense,2.75,3.3,2.5
+2015-01-04,Valencia,Real Madrid,5.5,4.33,1.57
+2015-01-04,Sociedad,Barcelona,9.0,5.25,1.33
+2015-01-04,Getafe,Vallecano,2.25,3.4,3.2
+2015-01-04,Besiktas,Galatasaray,2.4,3.2,3.0
+2015-01-04,Erciyesspor,Kasimpasa,2.75,3.25,2.55
+2015-01-04,Guimaraes,Nacional,2.0,3.25,3.9
+2015-01-04,Espanol,Eibar,1.85,3.4,4.75
+2015-01-05,Cordoba,Granada,2.6,3.0,3.0
+2015-01-05,Lazio,Sampdoria,1.85,3.4,4.33
+2015-01-05,Mersin Idman Yurdu,Genclerbirligi,2.4,3.3,2.9
+2015-01-05,Balikesirspor,Trabzonspor,4.0,3.6,1.85
+2015-01-05,Kilmarnock,Celtic,13.0,6.0,1.22
+2015-01-06,Parma,Fiorentina,4.0,3.5,1.95
+2015-01-06,Genoa,Atalanta,1.95,3.3,4.33
+2015-01-06,Empoli,Verona,1.91,3.5,4.2
+2015-01-06,Chievo,Torino,3.1,3.1,2.5
+2015-01-06,Cesena,Napoli,9.5,4.75,1.36
+2015-01-06,Juventus,Inter,1.44,4.33,8.0
+2015-01-06,Milan,Sassuolo,1.62,3.8,6.0
+2015-01-06,Palermo,Cagliari,1.95,3.5,4.0
+2015-01-06,Udinese,Roma,4.2,3.5,1.91
+2015-01-07,Lille,Evian Thonon Gaillard,1.67,3.5,6.0
+2015-01-09,Montpellier,Marseille,4.33,3.4,1.91
+2015-01-09,Estoril,Moreirense,1.85,3.3,4.5
+2015-01-09,Levante,La Coruna,2.1,3.1,3.75
+2015-01-10,Bastia,Paris SG,8.0,4.75,1.4
+2015-01-10,St Mirren,Aberdeen,5.5,4.0,1.57
+2015-01-10,Sassuolo,Udinese,2.05,3.2,4.0
+2015-01-10,Celta,Valencia,2.7,3.2,2.7
+2015-01-10,Eibar,Getafe,2.3,3.1,3.4
+2015-01-10,Malaga,Villarreal,3.0,3.2,2.5
+2015-01-10,Real Madrid,Espanol,1.08,11.0,29.0
+2015-01-10,Torino,Milan,2.63,3.2,2.7
+2015-01-10,Burnley,QPR,2.2,3.4,3.6
+2015-01-10,Academica,Pacos Ferreira,2.9,3.3,2.38
+2015-01-10,Benfica,Guimaraes,1.33,4.75,9.5
+2015-01-10,Porto,Belenenses,1.18,6.5,15.0
+2015-01-10,Dundee,Motherwell,1.8,3.8,4.0
+2015-01-10,Evian Thonon Gaillard,Rennes,2.7,3.1,2.8
+2015-01-10,Guingamp,Lens,2.0,3.3,4.0
+2015-01-10,Chelsea,Newcastle,1.2,7.5,17.0
+2015-01-10,Nice,Lorient,2.3,3.2,3.3
+2015-01-10,Crystal Palace,Tottenham,3.5,3.5,2.2
+2015-01-10,Everton,Man City,4.5,3.75,1.85
+2015-01-10,Leicester,Aston Villa,2.2,3.4,3.6
+2015-01-10,Birmingham,Wigan,2.5,3.4,3.0
+2015-01-10,Blackpool,Millwall,3.0,3.3,2.6
+2015-01-10,Bolton,Leeds,2.05,3.6,3.8
+2015-01-10,Lille,Caen,1.8,3.5,4.75
+2015-01-10,Bournemouth,Norwich,2.0,3.8,3.8
+2015-01-10,Brentford,Rotherham,2.0,3.75,3.9
+2015-01-10,Cardiff,Fulham,2.2,3.6,3.4
+2015-01-10,Charlton,Brighton,3.4,3.3,2.35
+2015-01-10,Kilmarnock,Inverness C,3.75,3.4,2.0
+2015-01-10,Ipswich,Derby,2.63,3.4,2.88
+2015-01-10,Nott'm Forest,Sheffield Weds,2.15,3.5,3.6
+2015-01-10,Reading,Middlesbrough,3.25,3.4,2.35
+2015-01-10,Reims,St Etienne,3.75,3.25,2.1
+2015-01-10,Sunderland,Liverpool,4.5,3.6,1.91
+2015-01-10,Swansea,West Ham,2.25,3.5,3.4
+2015-01-10,West Brom,Hull,2.05,3.4,4.2
+2015-01-10,Huddersfield,Watford,2.8,3.5,2.63
+2015-01-11,Sp Braga,Sp Lisbon,2.8,3.2,2.5
+2015-01-11,Rio Ave,Maritimo,2.2,3.25,3.3
+2015-01-11,Nacional,Boavista,1.62,3.6,6.0
+2015-01-11,Arouca,Setubal,2.05,3.2,3.8
+2015-01-11,Man United,Southampton,1.83,3.75,4.75
+2015-01-11,Verona,Parma,2.38,3.25,3.1
+2015-01-11,Sampdoria,Empoli,1.85,3.4,4.75
+2015-01-11,Roma,Lazio,2.1,3.3,3.75
+2015-01-11,Napoli,Juventus,2.9,3.25,2.5
+2015-01-11,Inter,Genoa,1.62,3.8,6.0
+2015-01-11,Fiorentina,Palermo,1.73,3.75,4.75
+2015-01-11,Blackburn,Wolves,2.15,3.5,3.6
+2015-01-11,Atalanta,Chievo,2.05,3.2,4.0
+2015-01-11,Arsenal,Stoke,1.44,4.75,8.0
+2015-01-11,Cagliari,Cesena,1.67,3.75,5.5
+2015-01-11,Gil Vicente,Penafiel,2.1,3.25,3.5
+2015-01-11,Nantes,Metz,1.75,3.6,5.0
+2015-01-11,Almeria,Sevilla,4.75,3.4,1.85
+2015-01-11,Monaco,Bordeaux,1.75,3.5,5.0
+2015-01-11,Ath Bilbao,Elche,1.53,3.8,7.5
+2015-01-11,Barcelona,Ath Madrid,1.57,4.33,5.5
+2015-01-11,Lyon,Toulouse,1.57,4.0,6.0
+2015-01-11,Granada,Sociedad,2.8,3.1,2.7
+2015-01-12,Vallecano,Cordoba,1.67,3.75,5.5
+2015-01-12,Hamilton,Dundee United,2.38,3.4,2.9
+2015-01-16,Club Brugge,Mechelen,1.4,4.5,7.5
+2015-01-16,Cordoba,Eibar,2.6,3.0,3.0
+2015-01-16,Bordeaux,Nice,1.91,3.3,4.5
+2015-01-16,Ajax,Groningen,1.3,5.25,9.5
+2015-01-17,Espanol,Celta,2.7,3.25,2.7
+2015-01-17,Swansea,Chelsea,7.0,4.2,1.55
+2015-01-17,Tottenham,Sunderland,1.62,4.2,6.0
+2015-01-17,Millwall,Ipswich,3.6,3.4,2.2
+2015-01-17,Norwich,Cardiff,1.57,4.0,7.0
+2015-01-17,Aston Villa,Liverpool,4.5,3.6,1.91
+2015-01-17,Caen,Reims,2.2,3.3,3.4
+2015-01-17,Lens,Lyon,4.5,3.5,1.85
+2015-01-17,Lorient,Lille,2.75,3.0,2.88
+2015-01-17,Metz,Montpellier,2.4,3.1,3.2
+2015-01-17,Monaco,Nantes,1.62,3.6,6.5
+2015-01-17,AZ Alkmaar,Dordrecht,1.29,5.75,8.5
+2015-01-17,Den Haag,Cambuur,2.55,3.5,2.6
+2015-01-17,Vitesse,PSV Eindhoven,3.1,3.6,2.15
+2015-01-17,Zwolle,NAC Breda,1.44,4.5,6.5
+2015-01-17,Rotherham,Bournemouth,4.5,3.8,1.85
+2015-01-17,Sheffield Weds,Bolton,2.1,3.4,4.0
+2015-01-17,Sociedad,Vallecano,1.91,3.5,4.2
+2015-01-17,Valencia,Almeria,1.33,5.0,10.0
+2015-01-17,Empoli,Inter,3.5,3.25,2.2
+2015-01-17,Palermo,Roma,3.6,3.3,2.15
+2015-01-17,Leicester,Stoke,2.63,3.3,2.9
+2015-01-17,Newcastle,Southampton,3.3,3.3,2.38
+2015-01-17,QPR,Man United,6.0,4.2,1.62
+2015-01-17,Charleroi,Cercle Brugge,1.55,4.0,5.75
+2015-01-17,Penafiel,Porto,17.0,6.5,1.17
+2015-01-17,Guimaraes,Academica,1.62,3.6,6.0
+2015-01-17,Aberdeen,Dundee,1.44,4.5,6.5
+2015-01-17,Hamilton,Celtic,8.0,4.75,1.36
+2015-01-17,Ross County,St Mirren,2.3,3.25,3.1
+2015-01-17,Burnley,Crystal Palace,2.55,3.25,3.1
+2015-01-17,St Johnstone,Partick,2.25,3.3,3.2
+2015-01-17,Watford,Charlton,1.67,4.0,5.75
+2015-01-17,Toulouse,Bastia,1.91,3.3,4.5
+2015-01-17,Wigan,Blackburn,2.5,3.4,3.0
+2015-01-17,Oostende,Kortrijk,2.63,3.3,2.63
+2015-01-17,Villarreal,Ath Bilbao,1.67,3.8,5.5
+2015-01-17,Waasland-Beveren,Waregem,2.88,3.4,2.38
+2015-01-17,Wolves,Blackpool,1.53,4.33,7.0
+2015-01-17,Brighton,Brentford,2.15,3.5,3.6
+2015-01-17,Derby,Nott'm Forest,1.73,4.0,5.0
+2015-01-17,Fulham,Reading,2.63,3.4,2.88
+2015-01-17,Leeds,Birmingham,2.6,3.4,2.9
+2015-01-17,Middlesbrough,Huddersfield,1.67,4.0,5.75
+2015-01-17,Mouscron-Peruwelz,Gent,4.2,3.6,1.83
+2015-01-18,Anderlecht,Lierse,1.2,7.0,11.0
+2015-01-18,Lokeren,Genk,1.95,3.3,4.0
+2015-01-18,Westerlo,Standard,4.75,3.6,1.75
+2015-01-18,Paris SG,Evian Thonon Gaillard,1.18,7.0,17.0
+2015-01-18,Rennes,St Etienne,3.0,3.0,2.6
+2015-01-18,Marseille,Guingamp,1.44,4.5,7.5
+2015-01-18,Sevilla,Malaga,1.73,3.6,5.25
+2015-01-18,Utrecht,Heerenveen,2.5,3.4,2.7
+2015-01-18,Pacos Ferreira,Nacional,2.05,3.3,3.6
+2015-01-18,Moreirense,Arouca,2.05,3.25,3.75
+2015-01-18,Maritimo,Benfica,5.75,4.2,1.53
+2015-01-18,Boavista,Estoril,3.6,3.2,2.1
+2015-01-18,Belenenses,Gil Vicente,1.91,3.2,4.33
+2015-01-18,La Coruna,Barcelona,15.0,7.5,1.18
+2015-01-18,Getafe,Real Madrid,13.0,6.5,1.22
+2015-01-18,Elche,Levante,2.2,3.2,3.6
+2015-01-18,Ath Madrid,Granada,1.18,7.0,17.0
+2015-01-18,Willem II,Go Ahead Eagles,1.62,4.0,5.0
+2015-01-18,Setubal,Sp Braga,4.5,3.5,1.8
+2015-01-18,Udinese,Cagliari,2.2,3.3,3.4
+2015-01-18,Milan,Atalanta,1.53,4.0,7.0
+2015-01-18,Lazio,Napoli,2.5,3.2,3.0
+2015-01-18,Juventus,Verona,1.18,7.0,17.0
+2015-01-18,Genoa,Sassuolo,2.3,3.2,3.3
+2015-01-18,Chievo,Fiorentina,4.0,3.3,2.0
+2015-01-18,Cesena,Torino,4.75,3.3,1.85
+2015-01-18,Man City,Arsenal,1.8,4.0,4.5
+2015-01-18,West Ham,Hull,1.75,3.75,5.25
+2015-01-18,Feyenoord,Twente,1.67,3.8,5.0
+2015-01-18,Heracles,Excelsior,1.73,4.0,4.2
+2015-01-18,Parma,Sampdoria,2.6,3.1,2.88
+2015-01-18,Sp Lisbon,Rio Ave,1.4,4.33,8.5
+2015-01-19,Everton,West Brom,1.85,3.6,4.75
+2015-01-20,Leeds,Bournemouth,5.0,4.0,1.75
+2015-01-20,Middlesbrough,Cardiff,1.55,4.2,7.0
+2015-01-20,Inverness C,St Johnstone,1.85,3.5,4.2
+2015-01-21,Fulham,Nott'm Forest,2.55,3.5,2.9
+2015-01-21,Brighton,Ipswich,2.7,3.3,2.88
+2015-01-21,Celtic,Motherwell,1.14,8.0,15.0
+2015-01-21,Dundee,Kilmarnock,2.0,3.4,3.75
+2015-01-21,Partick,Hamilton,2.75,3.3,2.5
+2015-01-21,St Mirren,Dundee United,4.0,3.75,1.83
+2015-01-23,Trabzonspor,Sivasspor,1.75,3.6,4.5
+2015-01-23,Genk,Mouscron-Peruwelz,1.57,3.8,6.0
+2015-01-23,Nice,Marseille,3.5,3.3,2.15
+2015-01-23,Konyaspor,Bursaspor,2.88,3.3,2.4
+2015-01-23,St Johnstone,Aberdeen,4.75,3.75,1.7
+2015-01-23,Twente,Heracles,1.36,5.25,7.0
+2015-01-24,Wigan,Huddersfield,2.38,3.4,3.25
+2015-01-24,Bastia,Bordeaux,2.5,3.1,3.1
+2015-01-24,Watford,Blackpool,1.4,5.0,9.0
+2015-01-24,Akhisar Belediyespor,Eskisehirspor,2.88,3.3,2.4
+2015-01-24,Buyuksehyr,Mersin Idman Yurdu,1.62,3.75,5.5
+2015-01-24,Guimaraes,Gil Vicente,1.5,4.0,7.0
+2015-01-24,Wolves,Charlton,1.65,4.0,6.0
+2015-01-24,Norwich,Brentford,1.7,4.0,5.5
+2015-01-24,Lille,Monaco,2.8,3.1,2.7
+2015-01-24,Montpellier,Nantes,2.3,3.1,3.4
+2015-01-24,Zwolle,AZ Alkmaar,2.05,3.5,3.4
+2015-01-24,Heerenveen,Vitesse,2.38,3.5,2.8
+2015-01-24,Dordrecht,Excelsior,2.5,3.5,2.63
+2015-01-24,Cambuur,PSV Eindhoven,5.25,4.0,1.6
+2015-01-24,Cagliari,Sassuolo,2.3,3.25,3.25
+2015-01-24,Lazio,Milan,1.85,3.4,4.33
+2015-01-24,Guingamp,Lorient,2.25,3.2,3.4
+2015-01-24,Kasimpasa,Fenerbahce,2.9,3.2,2.45
+2015-01-24,Gaziantepspor,Balikesirspor,1.75,3.75,4.5
+2015-01-24,St Mirren,Dundee,2.7,3.4,2.5
+2015-01-24,Kortrijk,Charleroi,1.95,3.5,3.75
+2015-01-24,Lierse,Waasland-Beveren,2.05,3.4,3.5
+2015-01-24,Mechelen,Lokeren,2.5,3.3,2.8
+2015-01-24,Waregem,Westerlo,1.62,3.9,5.25
+2015-01-24,Kilmarnock,Partick,2.5,3.4,2.7
+2015-01-24,Ross County,Celtic,11.0,7.0,1.2
+2015-01-24,Dundee United,Motherwell,1.36,5.0,7.5
+2015-01-24,Ath Madrid,Vallecano,1.25,6.0,12.0
+2015-01-24,Hamilton,Inverness C,2.75,3.4,2.45
+2015-01-24,Elche,Barcelona,19.0,7.0,1.17
+2015-01-24,Sociedad,Eibar,1.75,3.6,4.75
+2015-01-24,Villarreal,Levante,1.29,5.0,11.0
+2015-01-24,Cordoba,Real Madrid,21.0,8.0,1.14
+2015-01-25,Estoril,Arouca,1.6,3.75,5.75
+2015-01-25,Cercle Brugge,Club Brugge,8.0,4.75,1.36
+2015-01-25,Gent,Oostende,1.4,4.5,8.0
+2015-01-25,Standard,Anderlecht,2.63,3.5,2.5
+2015-01-25,Boavista,Sp Braga,5.5,3.6,1.65
+2015-01-25,Belenenses,Penafiel,1.75,3.6,4.75
+2015-01-25,Karabukspor,Erciyesspor,1.83,3.75,4.0
+2015-01-25,Sp Lisbon,Academica,1.2,6.5,13.0
+2015-01-25,Moreirense,Nacional,2.25,3.2,3.25
+2015-01-25,Setubal,Rio Ave,3.1,3.25,2.3
+2015-01-25,Galatasaray,Rizespor,1.33,5.0,8.5
+2015-01-25,St Etienne,Paris SG,3.6,3.4,2.1
+2015-01-25,Rennes,Caen,2.0,3.3,4.0
+2015-01-25,Reims,Lens,2.3,3.2,3.3
+2015-01-25,Lyon,Metz,1.36,4.75,9.0
+2015-01-25,Ath Bilbao,Malaga,2.05,3.2,3.75
+2015-01-25,Espanol,Almeria,1.7,3.5,5.25
+2015-01-25,La Coruna,Granada,2.2,3.2,3.4
+2015-01-25,Valencia,Sevilla,2.2,3.3,3.4
+2015-01-25,Maritimo,Porto,7.0,4.75,1.4
+2015-01-25,Verona,Atalanta,2.5,3.2,3.0
+2015-01-25,Evian Thonon Gaillard,Toulouse,2.5,3.2,2.9
+2015-01-25,Go Ahead Eagles,Den Haag,2.3,3.5,2.88
+2015-01-25,Sampdoria,Palermo,2.0,3.3,4.0
+2015-01-25,NAC Breda,Willem II,3.0,3.5,2.25
+2015-01-25,Groningen,Utrecht,1.85,3.6,4.0
+2015-01-25,Ajax,Feyenoord,2.1,3.5,3.3
+2015-01-25,Fiorentina,Roma,2.4,3.2,3.1
+2015-01-25,Inter,Torino,1.8,3.5,4.75
+2015-01-25,Juventus,Chievo,1.17,7.0,19.0
+2015-01-25,Parma,Cesena,1.62,3.6,6.5
+2015-01-26,Getafe,Celta,2.88,3.2,2.5
+2015-01-26,Pacos Ferreira,Benfica,7.0,4.0,1.5
+2015-01-26,Empoli,Udinese,2.0,3.3,3.8
+2015-01-26,Genclerbirligi,Besiktas,3.5,3.4,2.05
+2015-01-26,Napoli,Genoa,1.4,5.0,7.5
+2015-01-27,Derby,Blackburn,1.83,3.8,4.6
+2015-01-27,Millwall,Reading,3.1,3.4,2.45
+2015-01-27,Rotherham,Bolton,2.5,3.4,3.0
+2015-01-27,Sheffield Weds,Birmingham,2.1,3.5,3.8
+2015-01-30,Trabzonspor,Erciyesspor,1.55,3.75,6.0
+2015-01-30,Paris SG,Rennes,1.22,6.0,15.0
+2015-01-30,Dordrecht,Heerenveen,4.33,4.2,1.67
+2015-01-30,Wolfsburg,Bayern Munich,6.5,4.33,1.5
+2015-01-30,Vallecano,La Coruna,1.75,3.5,5.25
+2015-01-30,Partick,St Mirren,1.95,3.5,3.8
+2015-01-30,Club Brugge,Oostende,1.18,6.5,15.0
+2015-01-30,Sp Braga,Moreirense,1.57,3.75,6.0
+2015-01-30,Bournemouth,Watford,1.85,3.9,4.33
+2015-01-30,Akhisar Belediyespor,Balikesirspor,1.73,3.5,5.0
+2015-01-31,Eibar,Ath Madrid,6.5,3.8,1.57
+2015-01-31,Huddersfield,Leeds,2.0,3.6,4.0
+2015-01-31,Ipswich,Wigan,1.8,3.8,4.75
+2015-01-31,Nott'm Forest,Millwall,1.75,3.8,5.25
+2015-01-31,Freiburg,Ein Frankfurt,2.63,3.5,2.63
+2015-01-31,Hamburg,FC Koln,2.2,3.3,3.4
+2015-01-31,Leverkusen,Dortmund,2.5,3.4,2.8
+2015-01-31,Reading,Sheffield Weds,2.1,3.5,3.8
+2015-01-31,Real Madrid,Sociedad,1.18,7.0,17.0
+2015-01-31,Granada,Elche,1.95,3.25,4.33
+2015-01-31,Schalke 04,Hannover,1.95,3.5,4.0
+2015-01-31,Karabukspor,Fenerbahce,4.5,3.5,1.8
+2015-01-31,West Brom,Tottenham,2.9,3.3,2.63
+2015-01-31,Sunderland,Burnley,2.25,3.3,3.6
+2015-01-31,Stoke,QPR,1.65,4.0,6.0
+2015-01-31,Man United,Leicester,1.36,5.5,9.5
+2015-01-31,Liverpool,West Ham,1.67,4.0,5.75
+2015-01-31,Hull,Newcastle,2.7,3.25,2.88
+2015-01-31,Crystal Palace,Everton,2.8,3.3,2.75
+2015-01-31,Chelsea,Man City,2.15,3.5,3.6
+2015-01-31,Westerlo,Cercle Brugge,1.91,3.4,4.0
+2015-01-31,Waasland-Beveren,Mechelen,3.0,3.4,2.3
+2015-01-31,Mouscron-Peruwelz,Kortrijk,3.5,3.4,2.05
+2015-01-31,Charleroi,Genk,2.4,3.4,2.8
+2015-01-31,Dundee,Hamilton,2.5,3.3,2.75
+2015-01-31,Inverness C,Ross County,1.44,4.2,7.5
+2015-01-31,Motherwell,St Johnstone,3.6,3.5,2.0
+2015-01-31,Stuttgart,M'gladbach,3.0,3.4,2.38
+2015-01-31,Charlton,Rotherham,2.7,3.3,2.88
+2015-01-31,Mainz,Paderborn,2.05,3.5,3.6
+2015-01-31,Kasimpasa,Buyuksehyr,2.1,3.4,3.4
+2015-01-31,Gaziantepspor,Sivasspor,2.5,3.3,2.75
+2015-01-31,Cardiff,Derby,3.5,3.5,2.2
+2015-01-31,Celta,Cordoba,1.44,4.2,8.5
+2015-01-31,Bolton,Wolves,2.88,3.3,2.7
+2015-01-31,PSV Eindhoven,Willem II,1.17,7.0,15.0
+2015-01-31,Lens,Bastia,2.1,3.2,3.8
+2015-01-31,Lorient,Montpellier,2.38,3.2,3.2
+2015-01-31,Twente,Cambuur,1.44,4.33,7.0
+2015-01-31,Marseille,Evian Thonon Gaillard,1.33,5.0,10.0
+2015-01-31,Metz,Nice,2.6,3.0,3.0
+2015-01-31,Nantes,Lille,2.4,3.0,3.3
+2015-01-31,Toulouse,Reims,1.83,3.5,4.5
+2015-01-31,Benfica,Boavista,1.18,6.5,15.0
+2015-01-31,Groningen,Go Ahead Eagles,1.62,4.0,5.0
+2015-01-31,Nacional,Belenenses,1.91,3.3,4.2
+2015-01-31,Roma,Empoli,1.44,4.2,8.5
+2015-01-31,Genoa,Fiorentina,3.4,3.4,2.15
+2015-01-31,Brentford,Middlesbrough,3.0,3.4,2.5
+2015-01-31,Birmingham,Norwich,3.4,3.6,2.2
+2015-01-31,Blackburn,Fulham,1.95,3.6,4.2
+2015-01-31,Blackpool,Brighton,4.75,3.6,1.85
+2015-01-31,Penafiel,Guimaraes,4.5,3.75,1.73
+2015-01-31,Excelsior,NAC Breda,1.91,3.8,3.6
+2015-02-01,Academica,Maritimo,3.0,3.1,2.45
+2015-02-01,Arouca,Sp Lisbon,9.5,4.0,1.4
+2015-02-01,Gil Vicente,Setubal,2.5,3.0,3.0
+2015-02-01,Udinese,Juventus,8.0,4.33,1.44
+2015-02-01,Werder Bremen,Hertha,2.38,3.4,3.0
+2015-02-01,Torino,Sampdoria,2.05,3.1,4.2
+2015-02-01,Anderlecht,Waregem,1.44,4.33,7.0
+2015-02-01,Sassuolo,Inter,3.1,3.3,2.38
+2015-02-01,Palermo,Verona,1.8,3.5,4.75
+2015-02-01,Milan,Parma,1.53,4.0,7.0
+2015-02-01,Chievo,Napoli,5.25,3.6,1.73
+2015-02-01,Cesena,Lazio,7.5,3.8,1.53
+2015-02-01,Atalanta,Cagliari,2.2,3.2,3.5
+2015-02-01,Arsenal,Aston Villa,1.25,6.5,15.0
+2015-02-01,Southampton,Swansea,1.6,4.0,6.5
+2015-02-01,Lierse,Standard,5.0,3.75,1.67
+2015-02-01,Lokeren,Gent,2.45,3.3,2.8
+2015-02-01,Caen,St Etienne,3.5,3.1,2.25
+2015-02-01,Augsburg,Hoffenheim,2.4,3.4,2.9
+2015-02-01,Levante,Ath Bilbao,3.3,3.1,2.38
+2015-02-01,Rio Ave,Estoril,2.63,3.0,2.88
+2015-02-01,Besiktas,Mersin Idman Yurdu,1.36,4.5,9.0
+2015-02-01,Monaco,Lyon,2.1,3.2,3.8
+2015-02-01,AZ Alkmaar,Heracles,1.62,4.0,5.0
+2015-02-01,Feyenoord,Den Haag,1.2,6.5,13.0
+2015-02-01,Utrecht,Zwolle,2.15,3.4,3.25
+2015-02-01,Vitesse,Ajax,2.5,3.4,2.7
+2015-02-01,Genclerbirligi,Rizespor,2.15,3.4,3.3
+2015-02-01,Konyaspor,Eskisehirspor,2.38,3.3,2.9
+2015-02-01,Galatasaray,Bursaspor,1.75,3.4,5.0
+2015-02-01,Almeria,Getafe,2.38,3.1,3.3
+2015-02-01,Bordeaux,Guingamp,1.95,3.3,4.2
+2015-02-01,Sevilla,Espanol,1.62,3.8,6.0
+2015-02-01,Barcelona,Villarreal,1.2,7.0,13.0
+2015-02-01,Porto,Pacos Ferreira,1.2,6.0,15.0
+2015-02-02,Malaga,Valencia,2.63,3.2,2.8
+2015-02-03,Go Ahead Eagles,Excelsior,2.05,3.6,3.3
+2015-02-03,NAC Breda,PSV Eindhoven,10.0,6.0,1.25
+2015-02-03,M'gladbach,Freiburg,1.53,4.33,6.0
+2015-02-03,Hannover,Mainz,2.25,3.4,3.25
+2015-02-03,Ein Frankfurt,Wolfsburg,3.8,4.0,1.85
+2015-02-03,Bayern Munich,Schalke 04,1.13,9.0,19.0
+2015-02-03,Genk,Oostende,1.62,3.8,5.5
+2015-02-04,Cambuur,Vitesse,2.9,3.5,2.3
+2015-02-04,Real Madrid,Sevilla,1.29,6.0,10.0
+2015-02-04,Den Haag,Twente,3.6,3.8,1.91
+2015-02-04,Heerenveen,Feyenoord,3.75,3.6,1.91
+2015-02-04,Dortmund,Augsburg,1.44,4.5,7.5
+2015-02-04,FC Koln,Stuttgart,2.25,3.4,3.2
+2015-02-04,Hertha,Leverkusen,5.5,3.75,1.67
+2015-02-04,Zwolle,Dordrecht,1.33,5.0,9.0
+2015-02-04,Willem II,Utrecht,1.91,3.75,3.6
+2015-02-04,Hoffenheim,Werder Bremen,1.67,4.2,4.75
+2015-02-04,Paderborn,Hamburg,2.5,3.3,2.88
+2015-02-05,Ajax,AZ Alkmaar,1.5,4.33,6.0
+2015-02-05,Heracles,Groningen,2.25,3.6,2.9
+2015-02-06,La Coruna,Eibar,2.15,3.25,3.6
+2015-02-06,Buyuksehyr,Karabukspor,1.75,3.6,4.75
+2015-02-06,Schalke 04,M'gladbach,2.6,3.3,2.75
+2015-02-06,St Etienne,Lens,1.57,3.75,7.0
+2015-02-06,Standard,Mouscron-Peruwelz,1.33,5.5,7.5
+2015-02-07,Caen,Toulouse,2.25,3.2,3.4
+2015-02-07,Evian Thonon Gaillard,Bordeaux,2.9,3.1,2.6
+2015-02-07,Montpellier,Lille,2.2,3.2,3.6
+2015-02-07,Tottenham,Arsenal,3.25,3.5,2.3
+2015-02-07,Reims,Lorient,2.5,3.2,3.0
+2015-02-07,Watford,Blackburn,1.95,3.8,4.0
+2015-02-07,Wigan,Bournemouth,4.0,3.6,2.0
+2015-02-07,Swansea,Sunderland,1.91,3.5,4.6
+2015-02-07,Wolves,Reading,2.2,3.5,3.5
+2015-02-07,Man City,Hull,1.18,8.0,19.0
+2015-02-07,QPR,Southampton,4.75,3.6,1.85
+2015-02-07,Bastia,Metz,2.2,3.1,3.6
+2015-02-07,Rennes,Marseille,3.3,3.2,2.3
+2015-02-07,NAC Breda,Vitesse,4.75,4.0,1.65
+2015-02-07,Everton,Liverpool,3.4,3.4,2.3
+2015-02-07,Levante,Malaga,3.4,3.1,2.3
+2015-02-07,Sociedad,Celta,2.5,3.25,2.9
+2015-02-07,Villarreal,Granada,1.3,5.25,11.0
+2015-02-07,Leicester,Crystal Palace,2.4,3.3,3.25
+2015-02-07,Moreirense,Porto,15.0,5.5,1.22
+2015-02-07,Juventus,Milan,1.33,5.0,10.0
+2015-02-07,Rotherham,Ipswich,3.1,3.4,2.45
+2015-02-07,FC Koln,Paderborn,1.95,3.5,4.0
+2015-02-07,Freiburg,Dortmund,5.5,4.0,1.62
+2015-02-07,Hamburg,Hannover,2.3,3.3,3.2
+2015-02-07,Mainz,Hertha,1.91,3.6,4.0
+2015-02-07,Stuttgart,Bayern Munich,13.0,7.0,1.2
+2015-02-07,Wolfsburg,Hoffenheim,1.57,4.33,5.5
+2015-02-07,Dordrecht,Den Haag,3.1,3.4,2.25
+2015-02-07,Hamilton,Kilmarnock,1.85,3.6,4.0
+2015-02-07,Twente,Excelsior,1.33,5.25,8.0
+2015-02-07,PSV Eindhoven,Utrecht,1.22,6.5,11.0
+2015-02-07,Ath Madrid,Real Madrid,2.88,3.4,2.45
+2015-02-07,Heerenveen,Zwolle,2.0,3.6,3.5
+2015-02-07,Sheffield Weds,Cardiff,2.1,3.5,3.75
+2015-02-07,Fenerbahce,Trabzonspor,1.75,3.75,4.33
+2015-02-07,Brighton,Nott'm Forest,2.25,3.4,3.5
+2015-02-07,Erciyesspor,Gaziantepspor,2.1,3.3,3.5
+2015-02-07,Leeds,Brentford,2.88,3.4,2.63
+2015-02-07,Middlesbrough,Charlton,1.4,5.0,9.0
+2015-02-07,Millwall,Huddersfield,2.8,3.5,2.63
+2015-02-07,Norwich,Blackpool,1.3,5.75,12.0
+2015-02-07,Waregem,Lierse,1.44,4.2,7.5
+2015-02-07,Oostende,Lokeren,3.2,3.25,2.25
+2015-02-07,Fulham,Birmingham,2.3,3.5,3.25
+2015-02-07,Mechelen,Charleroi,2.1,3.3,3.5
+2015-02-07,Gent,Westerlo,1.36,4.6,8.5
+2015-02-07,Aberdeen,Ross County,1.33,5.0,9.0
+2015-02-07,Aston Villa,Chelsea,10.0,5.25,1.36
+2015-02-07,Verona,Torino,3.1,3.1,2.5
+2015-02-07,Sivasspor,Akhisar Belediyespor,1.85,3.6,4.0
+2015-02-07,Derby,Bolton,1.55,4.33,6.5
+2015-02-08,Lyon,Paris SG,3.4,3.3,2.2
+2015-02-08,Nice,Nantes,2.2,3.1,3.7
+2015-02-08,Guingamp,Monaco,3.5,3.1,2.25
+2015-02-08,Cercle Brugge,Anderlecht,7.5,4.2,1.45
+2015-02-08,Estoril,Sp Braga,2.8,3.25,2.5
+2015-02-08,Guimaraes,Belenenses,1.57,3.8,6.0
+2015-02-08,Maritimo,Gil Vicente,1.5,3.8,7.5
+2015-02-08,Pacos Ferreira,Penafiel,1.5,4.0,7.0
+2015-02-08,Setubal,Academica,2.1,3.25,3.6
+2015-02-08,Sp Lisbon,Benfica,2.5,3.25,2.8
+2015-02-08,Getafe,Sevilla,3.8,3.3,2.05
+2015-02-08,Espanol,Valencia,2.8,3.2,2.63
+2015-02-08,Genk,Waasland-Beveren,1.44,4.2,7.5
+2015-02-08,Ath Bilbao,Barcelona,9.0,5.25,1.33
+2015-02-08,Kortrijk,Club Brugge,3.1,3.5,2.2
+2015-02-08,Arouca,Nacional,2.75,3.3,2.5
+2015-02-08,Cordoba,Almeria,2.25,3.1,3.5
+2015-02-08,Groningen,AZ Alkmaar,2.38,3.4,2.88
+2015-02-08,Werder Bremen,Leverkusen,4.2,3.75,1.85
+2015-02-08,Willem II,Heracles,1.85,3.8,3.8
+2015-02-08,Go Ahead Eagles,Ajax,5.0,4.33,1.57
+2015-02-08,Burnley,West Brom,2.6,3.25,3.0
+2015-02-08,Balikesirspor,Konyaspor,2.9,3.3,2.38
+2015-02-08,Bursaspor,Genclerbirligi,1.45,4.2,7.5
+2015-02-08,Mersin Idman Yurdu,Kasimpasa,2.9,3.3,2.4
+2015-02-08,Rizespor,Besiktas,4.0,3.5,1.91
+2015-02-08,Feyenoord,Cambuur,1.29,5.0,11.0
+2015-02-08,Cagliari,Roma,4.0,3.4,2.0
+2015-02-08,West Ham,Man United,4.2,3.6,1.95
+2015-02-08,Augsburg,Ein Frankfurt,1.91,3.8,3.8
+2015-02-08,Newcastle,Stoke,2.3,3.4,3.4
+2015-02-08,Sampdoria,Sassuolo,1.8,3.5,4.75
+2015-02-08,Empoli,Cesena,1.53,4.0,7.0
+2015-02-08,Fiorentina,Atalanta,1.5,4.2,7.0
+2015-02-08,Inter,Palermo,1.8,3.5,4.75
+2015-02-08,Napoli,Udinese,1.36,5.0,8.5
+2015-02-09,Boavista,Rio Ave,3.25,3.2,2.25
+2015-02-09,Lazio,Genoa,1.57,4.0,6.0
+2015-02-09,Elche,Vallecano,2.6,3.2,2.8
+2015-02-09,Eskisehirspor,Galatasaray,3.1,3.4,2.25
+2015-02-10,Arsenal,Leicester,1.29,6.0,12.0
+2015-02-10,Hull,Aston Villa,2.38,3.1,3.5
+2015-02-10,Liverpool,Tottenham,1.91,3.8,4.2
+2015-02-10,Sunderland,QPR,1.91,3.6,4.5
+2015-02-10,Birmingham,Millwall,2.0,3.5,4.2
+2015-02-10,Blackburn,Rotherham,1.95,3.5,4.33
+2015-02-10,Bournemouth,Derby,2.2,3.5,3.5
+2015-02-10,Reading,Leeds,1.8,3.8,4.75
+2015-02-10,Ipswich,Sheffield Weds,2.0,3.5,4.2
+2015-02-10,Huddersfield,Wolves,2.6,3.4,2.9
+2015-02-10,Charlton,Norwich,5.0,3.75,1.8
+2015-02-10,Cardiff,Brighton,2.6,3.4,2.88
+2015-02-10,Brentford,Watford,2.5,3.4,3.0
+2015-02-10,Blackpool,Middlesbrough,8.0,4.2,1.5
+2015-02-10,Bolton,Fulham,2.45,3.4,3.1
+2015-02-11,Southampton,West Ham,1.73,3.9,5.25
+2015-02-11,Partick,Celtic,8.5,6.0,1.29
+2015-02-11,Parma,Chievo,2.6,3.1,2.9
+2015-02-11,Man United,Burnley,1.29,6.0,12.0
+2015-02-11,Stoke,Man City,5.75,3.8,1.7
+2015-02-11,Chelsea,Everton,1.33,5.5,11.0
+2015-02-11,Nott'm Forest,Wigan,2.1,3.4,3.9
+2015-02-11,Crystal Palace,Newcastle,2.38,3.3,3.3
+2015-02-11,West Brom,Swansea,2.55,3.25,3.1
+2015-02-13,AZ Alkmaar,PSV Eindhoven,3.75,3.6,1.91
+2015-02-13,Dortmund,Mainz,1.33,5.25,9.5
+2015-02-13,Westerlo,Genk,3.1,3.3,2.3
+2015-02-13,Marseille,Reims,1.33,5.0,9.5
+2015-02-13,Almeria,Sociedad,2.45,3.2,3.0
+2015-02-13,Porto,Guimaraes,1.2,6.0,15.0
+2015-02-14,Waregem,Standard,2.8,3.25,2.5
+2015-02-14,Waasland-Beveren,Kortrijk,4.0,3.6,1.85
+2015-02-14,Mouscron-Peruwelz,Oostende,2.38,3.25,3.0
+2015-02-14,Lierse,Cercle Brugge,2.0,3.4,3.75
+2015-02-14,Ein Frankfurt,Schalke 04,2.3,3.6,3.0
+2015-02-14,Hoffenheim,Stuttgart,1.95,3.7,3.8
+2015-02-14,Leverkusen,Wolfsburg,2.3,3.5,3.0
+2015-02-14,M'gladbach,FC Koln,1.73,3.6,5.25
+2015-02-14,Belenenses,Sp Lisbon,8.0,4.0,1.44
+2015-02-14,Gil Vicente,Pacos Ferreira,2.9,3.3,2.4
+2015-02-14,Bayern Munich,Hamburg,1.09,11.0,26.0
+2015-02-14,Sassuolo,Fiorentina,3.3,3.3,2.25
+2015-02-14,Palermo,Napoli,4.0,3.3,2.0
+2015-02-14,Lens,Evian Thonon Gaillard,1.95,3.4,4.2
+2015-02-14,Lille,Nice,2.0,3.2,4.2
+2015-02-14,Nantes,Bastia,1.91,3.3,4.5
+2015-02-14,Paris SG,Caen,1.25,6.0,12.0
+2015-02-14,Toulouse,Rennes,2.25,3.2,3.4
+2015-02-14,Werder Bremen,Augsburg,2.6,3.4,2.7
+2015-02-14,Vitesse,Willem II,1.5,4.33,6.0
+2015-02-14,Heracles,Feyenoord,5.5,4.0,1.57
+2015-02-14,Sheffield Weds,Brighton,2.55,3.25,3.1
+2015-02-14,St Mirren,Inverness C,3.6,3.6,1.95
+2015-02-14,Akhisar Belediyespor,Erciyesspor,2.25,3.25,3.2
+2015-02-14,Gaziantepspor,Fenerbahce,5.0,3.6,1.7
+2015-02-14,Granada,Ath Bilbao,2.9,3.1,2.63
+2015-02-14,Malaga,Espanol,2.1,3.3,3.75
+2015-02-14,Real Madrid,La Coruna,1.08,13.0,21.0
+2015-02-14,Sevilla,Cordoba,1.36,5.0,9.0
+2015-02-14,Blackpool,Nott'm Forest,4.2,3.5,2.0
+2015-02-14,Norwich,Wolves,1.75,4.0,5.0
+2015-02-14,Leeds,Millwall,2.25,3.5,3.4
+2015-02-14,Fulham,Ipswich,3.2,3.5,2.35
+2015-02-14,Charlton,Brentford,3.6,3.5,2.15
+2015-02-14,Bournemouth,Huddersfield,1.55,4.5,6.5
+2015-02-14,Ross County,Motherwell,2.0,3.6,3.5
+2015-02-14,Kilmarnock,Dundee United,3.5,3.6,2.0
+2015-02-14,Bolton,Watford,3.25,3.6,2.3
+2015-02-14,Dundee,Partick,2.25,3.4,3.1
+2015-02-14,Karabukspor,Kasimpasa,2.4,3.25,2.9
+2015-02-14,Excelsior,Groningen,2.38,3.4,2.9
+2015-02-14,St Johnstone,Celtic,9.0,5.0,1.33
+2015-02-14,Den Haag,NAC Breda,1.65,3.8,5.25
+2015-02-15,Bordeaux,St Etienne,2.6,3.1,2.9
+2015-02-15,Lorient,Lyon,3.25,3.25,2.3
+2015-02-15,Rio Ave,Moreirense,2.05,3.2,3.8
+2015-02-15,Academica,Boavista,2.1,3.2,3.6
+2015-02-15,Benfica,Setubal,1.17,7.0,15.0
+2015-02-15,Sp Braga,Arouca,1.36,4.33,10.0
+2015-02-15,Penafiel,Maritimo,3.1,3.1,2.38
+2015-02-15,Roma,Parma,1.29,5.5,11.0
+2015-02-15,Celta,Ath Madrid,3.8,3.25,2.1
+2015-02-15,Konyaspor,Sivasspor,2.25,3.25,3.2
+2015-02-15,Rizespor,Mersin Idman Yurdu,2.38,3.25,3.0
+2015-02-15,Trabzonspor,Buyuksehyr,2.1,3.3,3.5
+2015-02-15,Ajax,Twente,2.0,3.5,3.6
+2015-02-15,Cambuur,Heerenveen,2.63,3.4,2.55
+2015-02-15,Utrecht,Dordrecht,1.4,4.75,7.0
+2015-02-15,Zwolle,Go Ahead Eagles,1.53,4.0,6.0
+2015-02-15,Hannover,Paderborn,1.85,3.6,4.33
+2015-02-15,Hamilton,Aberdeen,4.5,3.7,1.75
+2015-02-15,Club Brugge,Lokeren,1.53,3.8,6.5
+2015-02-15,Barcelona,Levante,1.05,15.0,34.0
+2015-02-15,Valencia,Getafe,1.44,4.5,7.5
+2015-02-15,Vallecano,Villarreal,3.3,3.4,2.2
+2015-02-15,Torino,Cagliari,1.73,3.6,5.0
+2015-02-15,Hertha,Freiburg,2.15,3.4,3.5
+2015-02-15,Besiktas,Bursaspor,2.0,3.4,3.7
+2015-02-15,Charleroi,Gent,3.5,3.25,2.1
+2015-02-15,Chievo,Sampdoria,2.63,3.1,2.75
+2015-02-15,Cesena,Juventus,15.0,6.0,1.22
+2015-02-15,Metz,Guingamp,2.6,3.1,2.9
+2015-02-15,Genoa,Verona,1.85,3.6,4.33
+2015-02-15,Atalanta,Inter,3.4,3.25,2.25
+2015-02-15,Udinese,Lazio,3.1,3.25,2.38
+2015-02-15,Anderlecht,Mechelen,1.44,4.33,7.0
+2015-02-15,Milan,Empoli,1.75,3.6,5.0
+2015-02-16,Eibar,Elche,2.15,3.1,3.8
+2015-02-16,Nacional,Estoril,2.2,3.25,3.3
+2015-02-16,Galatasaray,Balikesirspor,1.22,6.0,13.0
+2015-02-16,Genclerbirligi,Eskisehirspor,2.6,3.2,2.7
+2015-02-17,Reading,Wigan,2.05,3.5,4.0
+2015-02-17,Rotherham,Derby,3.8,3.6,2.05
+2015-02-17,Cardiff,Blackburn,2.7,3.5,2.7
+2015-02-18,Birmingham,Middlesbrough,3.8,3.5,2.1
+2015-02-20,Juventus,Atalanta,1.17,7.0,19.0
+2015-02-20,Pacos Ferreira,Guimaraes,2.6,3.2,2.75
+2015-02-20,Erciyesspor,Konyaspor,2.4,3.25,2.9
+2015-02-20,Standard,Waasland-Beveren,1.3,5.0,10.0
+2015-02-20,Wigan,Charlton,1.95,3.4,4.5
+2015-02-20,Getafe,Espanol,2.4,3.1,3.25
+2015-02-20,Stuttgart,Dortmund,6.0,4.0,1.57
+2015-02-20,NAC Breda,Cambuur,2.8,3.4,2.4
+2015-02-20,Nice,Monaco,3.2,3.0,2.38
+2015-02-21,Inverness C,Kilmarnock,1.55,4.0,5.75
+2015-02-21,Motherwell,Dundee,3.6,3.5,2.0
+2015-02-21,Aberdeen,St Mirren,1.33,5.0,8.5
+2015-02-21,Augsburg,Leverkusen,3.1,3.4,2.3
+2015-02-21,Dundee United,St Johnstone,1.8,3.8,4.0
+2015-02-21,Partick,Ross County,2.0,3.5,3.6
+2015-02-21,Chelsea,Burnley,1.2,7.5,17.0
+2015-02-21,Paris SG,Toulouse,1.25,6.0,12.0
+2015-02-21,Aston Villa,Stoke,2.7,3.2,2.9
+2015-02-21,Hull,QPR,2.05,3.3,4.2
+2015-02-21,Man City,Newcastle,1.3,6.0,11.0
+2015-02-21,Paderborn,Bayern Munich,17.0,7.5,1.17
+2015-02-21,Mainz,Ein Frankfurt,2.4,3.5,2.9
+2015-02-21,Freiburg,Hoffenheim,3.1,3.5,2.25
+2015-02-21,Caen,Lens,2.0,3.4,3.9
+2015-02-21,Sunderland,West Brom,2.7,3.2,2.9
+2015-02-21,Crystal Palace,Arsenal,4.75,3.75,1.83
+2015-02-21,Go Ahead Eagles,AZ Alkmaar,3.2,3.4,2.2
+2015-02-21,Schalke 04,Werder Bremen,2.05,3.5,3.6
+2015-02-21,Den Haag,Zwolle,2.38,3.3,2.9
+2015-02-21,FC Koln,Hannover,2.3,3.2,3.3
+2015-02-21,Rennes,Bordeaux,2.4,3.1,3.2
+2015-02-21,Swansea,Man United,4.2,3.5,2.0
+2015-02-21,Heracles,Utrecht,2.3,3.5,2.9
+2015-02-21,Huddersfield,Cardiff,2.1,3.5,3.75
+2015-02-21,Moreirense,Benfica,9.0,5.0,1.33
+2015-02-21,Cordoba,Valencia,4.33,3.25,1.95
+2015-02-21,Wolves,Rotherham,2.0,3.6,4.0
+2015-02-21,Watford,Norwich,2.6,3.5,2.8
+2015-02-21,Nott'm Forest,Bolton,2.1,3.6,3.75
+2015-02-21,Millwall,Fulham,2.5,3.4,3.0
+2015-02-21,Middlesbrough,Leeds,1.55,4.33,6.5
+2015-02-21,Ipswich,Reading,2.05,3.5,4.0
+2015-02-21,La Coruna,Celta,3.3,3.2,2.3
+2015-02-21,Derby,Sheffield Weds,1.62,4.0,6.5
+2015-02-21,Brighton,Birmingham,2.05,3.5,3.9
+2015-02-21,Brentford,Bournemouth,3.4,3.6,2.2
+2015-02-21,Blackburn,Blackpool,1.5,4.5,7.5
+2015-02-21,Bursaspor,Rizespor,1.4,4.5,7.5
+2015-02-21,Buyuksehyr,Gaziantepspor,1.62,3.6,6.0
+2015-02-21,Sivasspor,Galatasaray,3.1,3.3,2.3
+2015-02-21,Barcelona,Malaga,1.11,10.0,21.0
+2015-02-21,Ath Madrid,Almeria,1.2,6.5,15.0
+2015-02-21,Bastia,Lille,2.8,3.0,2.75
+2015-02-21,Setubal,Penafiel,2.0,3.2,4.0
+2015-02-21,Sp Braga,Nacional,1.6,3.8,5.75
+2015-02-21,Kortrijk,Westerlo,1.44,4.2,7.5
+2015-02-21,Lokeren,Mouscron-Peruwelz,1.4,4.5,8.0
+2015-02-21,Oostende,Charleroi,2.6,3.25,2.7
+2015-02-21,Cercle Brugge,Waregem,3.4,3.4,2.1
+2015-02-22,Feyenoord,Excelsior,1.2,6.0,15.0
+2015-02-22,Southampton,Liverpool,2.63,3.3,2.9
+2015-02-22,Tottenham,West Ham,1.8,3.8,4.75
+2015-02-22,Celtic,Hamilton,1.18,7.0,13.0
+2015-02-22,Empoli,Chievo,2.0,3.2,4.2
+2015-02-22,Fiorentina,Torino,1.75,3.6,5.0
+2015-02-22,Lazio,Palermo,1.6,3.8,6.0
+2015-02-22,Milan,Cesena,1.44,4.33,8.0
+2015-02-22,Sociedad,Sevilla,2.9,3.3,2.5
+2015-02-22,Elche,Real Madrid,17.0,7.0,1.18
+2015-02-22,Verona,Roma,5.0,3.6,1.75
+2015-02-22,Mechelen,Lierse,1.44,4.5,6.5
+2015-02-22,Gent,Club Brugge,2.4,3.5,2.75
+2015-02-22,Genk,Anderlecht,3.0,3.2,2.38
+2015-02-22,Estoril,Academica,1.73,3.5,5.0
+2015-02-22,Maritimo,Belenenses,1.91,3.25,4.2
+2015-02-22,Sp Lisbon,Gil Vicente,1.17,6.5,19.0
+2015-02-22,Everton,Leicester,1.83,3.6,5.0
+2015-02-22,Twente,Vitesse,2.15,3.5,3.2
+2015-02-22,PSV Eindhoven,Dordrecht,1.05,13.0,26.0
+2015-02-22,Heerenveen,Groningen,1.73,3.6,4.75
+2015-02-22,Ath Bilbao,Vallecano,1.91,3.5,4.2
+2015-02-22,Willem II,Ajax,3.2,3.4,2.2
+2015-02-22,Villarreal,Eibar,1.36,4.75,9.0
+2015-02-22,Wolfsburg,Hertha,1.33,5.25,9.0
+2015-02-22,Mersin Idman Yurdu,Karabukspor,2.15,3.25,3.4
+2015-02-22,Kasimpasa,Trabzonspor,2.2,3.4,3.2
+2015-02-22,Eskisehirspor,Besiktas,3.25,3.3,2.2
+2015-02-22,Balikesirspor,Genclerbirligi,2.75,3.3,2.5
+2015-02-22,Guingamp,Montpellier,2.25,3.2,3.4
+2015-02-22,Lyon,Nantes,1.57,3.8,6.5
+2015-02-22,Reims,Metz,2.15,3.1,3.8
+2015-02-22,St Etienne,Marseille,2.55,3.2,2.9
+2015-02-22,Arouca,Rio Ave,3.0,3.2,2.4
+2015-02-22,Hamburg,M'gladbach,3.1,3.4,2.3
+2015-02-23,Fenerbahce,Akhisar Belediyespor,1.29,5.5,9.5
+2015-02-23,Napoli,Sassuolo,1.5,4.0,7.5
+2015-02-23,Cagliari,Inter,3.3,3.25,2.3
+2015-02-23,Boavista,Porto,11.0,6.5,1.22
+2015-02-23,Levante,Granada,2.3,3.1,3.4
+2015-02-24,Wolves,Fulham,1.8,3.8,4.75
+2015-02-24,Blackburn,Norwich,3.1,3.5,2.38
+2015-02-24,Dundee United,Inverness C,2.55,3.3,2.65
+2015-02-24,Derby,Charlton,1.53,4.33,7.0
+2015-02-24,Sampdoria,Genoa,2.38,3.2,3.2
+2015-02-24,Huddersfield,Reading,2.5,3.4,3.0
+2015-02-24,Ipswich,Birmingham,1.83,3.75,4.75
+2015-02-24,Middlesbrough,Bolton,1.5,4.4,7.5
+2015-02-24,Millwall,Sheffield Weds,2.9,3.2,2.7
+2015-02-24,Watford,Rotherham,1.7,4.0,5.25
+2015-02-24,Brighton,Leeds,1.95,3.5,4.5
+2015-02-24,Brentford,Blackpool,1.5,4.6,7.0
+2015-02-24,Wigan,Cardiff,2.38,3.3,3.3
+2015-02-25,Nott'm Forest,Bournemouth,3.25,3.5,2.3
+2015-02-27,Galatasaray,Erciyesspor,1.4,4.5,7.0
+2015-02-27,Dordrecht,Go Ahead Eagles,2.9,3.5,2.3
+2015-02-27,Marseille,Caen,1.44,4.5,7.5
+2015-02-27,Standard,Cercle Brugge,1.29,5.25,10.0
+2015-02-27,Bayern Munich,FC Koln,1.1,10.0,26.0
+2015-02-27,Espanol,Cordoba,1.57,3.8,6.5
+2015-02-27,Guimaraes,Maritimo,1.75,3.75,4.33
+2015-02-28,Waregem,Mechelen,2.1,3.5,3.3
+2015-02-28,Westerlo,Oostende,2.4,3.2,3.0
+2015-02-28,Chievo,Milan,3.0,3.1,2.5
+2015-02-28,Lierse,Genk,3.75,3.4,2.0
+2015-02-28,Sheffield Weds,Middlesbrough,3.75,3.4,2.15
+2015-02-28,Bordeaux,Reims,1.7,3.6,5.5
+2015-02-28,Lens,Rennes,2.3,3.2,3.3
+2015-02-28,Lille,Lyon,2.8,3.1,2.7
+2015-02-28,Lorient,Bastia,1.95,3.3,4.33
+2015-02-28,Metz,Evian Thonon Gaillard,2.15,3.25,3.6
+2015-02-28,Toulouse,St Etienne,2.88,3.1,2.63
+2015-02-28,Dundee United,Partick,2.05,3.4,3.6
+2015-02-28,West Ham,Crystal Palace,2.15,3.4,3.75
+2015-02-28,West Brom,Southampton,3.4,3.2,2.38
+2015-02-28,Stoke,Hull,1.91,3.5,4.75
+2015-02-28,Newcastle,Aston Villa,1.95,3.5,4.5
+2015-02-28,Man United,Sunderland,1.36,5.25,10.0
+2015-02-28,Burnley,Swansea,2.63,3.3,2.9
+2015-02-28,Charleroi,Lokeren,2.38,3.3,2.9
+2015-02-28,Motherwell,Inverness C,5.25,4.2,1.57
+2015-02-28,Twente,NAC Breda,1.25,6.0,10.0
+2015-02-28,St Johnstone,Kilmarnock,1.91,3.6,3.75
+2015-02-28,Genclerbirligi,Sivasspor,2.63,3.3,2.63
+2015-02-28,Benfica,Estoril,1.22,5.75,13.0
+2015-02-28,Gil Vicente,Boavista,2.3,3.2,3.1
+2015-02-28,Rio Ave,Sp Braga,3.75,3.3,2.0
+2015-02-28,Almeria,La Coruna,2.25,3.2,3.4
+2015-02-28,Granada,Barcelona,17.0,7.5,1.17
+2015-02-28,Vallecano,Levante,1.67,3.75,5.5
+2015-02-28,Ross County,Dundee,2.5,3.4,2.7
+2015-02-28,Dortmund,Schalke 04,1.5,4.33,6.5
+2015-02-28,Ein Frankfurt,Hamburg,2.0,3.6,3.6
+2015-02-28,Hannover,Stuttgart,2.1,3.5,3.4
+2015-02-28,Konyaspor,Fenerbahce,4.5,3.8,1.73
+2015-02-28,Hertha,Augsburg,2.8,3.4,2.5
+2015-02-28,Reading,Nott'm Forest,2.3,3.4,3.4
+2015-02-28,Leeds,Watford,3.4,3.4,2.3
+2015-02-28,Fulham,Derby,4.2,3.75,1.91
+2015-02-28,Charlton,Huddersfield,2.75,3.4,2.75
+2015-02-28,Cardiff,Wolves,2.7,3.4,2.8
+2015-02-28,Bournemouth,Blackburn,1.73,4.0,5.0
+2015-02-28,Bolton,Brighton,3.0,3.3,2.6
+2015-02-28,Blackpool,Wigan,3.6,3.4,2.2
+2015-02-28,Birmingham,Brentford,3.0,3.5,2.45
+2015-02-28,Hoffenheim,Mainz,2.0,3.6,3.6
+2015-02-28,Leverkusen,Freiburg,1.36,4.75,9.0
+2015-02-28,Rotherham,Millwall,2.25,3.5,3.4
+2015-02-28,Rizespor,Eskisehirspor,2.6,3.25,2.7
+2015-02-28,Malaga,Getafe,1.75,3.6,5.0
+2015-02-28,Cambuur,Heracles,1.8,3.75,4.2
+2015-02-28,Vitesse,Zwolle,1.5,4.33,6.0
+2015-02-28,AZ Alkmaar,Willem II,1.75,3.8,4.33
+2015-02-28,St Mirren,Hamilton,2.63,3.5,2.55
+2015-03-01,Excelsior,Heerenveen,2.63,3.5,2.5
+2015-03-01,Palermo,Empoli,2.3,3.1,3.3
+2015-03-01,Nantes,Guingamp,2.2,3.1,3.6
+2015-03-01,Montpellier,Nice,2.1,3.2,3.8
+2015-03-01,Monaco,Paris SG,3.25,3.1,2.38
+2015-03-01,Inter,Fiorentina,2.15,3.4,3.4
+2015-03-01,Cesena,Udinese,3.0,3.1,2.5
+2015-03-01,Cagliari,Verona,1.95,3.5,4.0
+2015-03-01,Atalanta,Sampdoria,2.5,3.1,3.0
+2015-03-01,Celtic,Aberdeen,1.57,3.8,6.0
+2015-03-01,M'gladbach,Paderborn,1.57,4.2,5.75
+2015-03-01,Porto,Sp Lisbon,1.67,3.75,5.0
+2015-03-01,Penafiel,Moreirense,2.88,3.2,2.5
+2015-03-01,Nacional,Setubal,1.57,3.75,6.0
+2015-03-01,Academica,Arouca,2.2,3.2,3.4
+2015-03-01,Groningen,Den Haag,1.91,3.6,3.8
+2015-03-01,PSV Eindhoven,Ajax,1.53,4.33,5.5
+2015-03-01,Liverpool,Man City,3.1,3.6,2.38
+2015-03-01,Norwich,Ipswich,1.83,3.75,4.75
+2015-03-01,Besiktas,Balikesirspor,1.3,5.25,9.5
+2015-03-01,Akhisar Belediyespor,Buyuksehyr,3.0,3.4,2.3
+2015-03-01,Sassuolo,Lazio,3.25,3.25,2.2
+2015-03-01,Bursaspor,Mersin Idman Yurdu,1.57,4.0,5.75
+2015-03-01,Anderlecht,Kortrijk,1.62,3.75,5.5
+2015-03-01,Club Brugge,Mouscron-Peruwelz,1.18,6.5,15.0
+2015-03-01,Waasland-Beveren,Gent,5.5,3.75,1.62
+2015-03-01,Werder Bremen,Wolfsburg,3.6,3.75,1.91
+2015-03-01,Gaziantepspor,Kasimpasa,2.9,3.3,2.38
+2015-03-01,Eibar,Ath Bilbao,3.25,3.1,2.38
+2015-03-01,Utrecht,Feyenoord,3.8,3.8,1.85
+2015-03-01,Real Madrid,Villarreal,1.2,7.0,13.0
+2015-03-01,Sevilla,Ath Madrid,3.0,3.2,2.45
+2015-03-01,Valencia,Sociedad,1.57,4.0,6.0
+2015-03-01,Arsenal,Everton,1.57,4.5,6.0
+2015-03-01,Torino,Napoli,3.2,3.3,2.3
+2015-03-02,Roma,Juventus,3.3,3.3,2.25
+2015-03-02,Trabzonspor,Karabukspor,1.8,3.75,4.2
+2015-03-02,Celta,Elche,1.5,4.2,7.0
+2015-03-02,Belenenses,Pacos Ferreira,2.38,3.2,3.0
+2015-03-03,Brentford,Huddersfield,1.85,3.8,4.5
+2015-03-03,Bolton,Reading,2.6,3.3,3.0
+2015-03-03,Bournemouth,Wolves,1.75,3.9,5.0
+2015-03-03,Brighton,Derby,2.8,3.4,2.7
+2015-03-03,Hull,Sunderland,2.15,3.3,3.9
+2015-03-03,Middlesbrough,Millwall,1.44,4.5,9.0
+2015-03-03,Rotherham,Cardiff,2.55,3.3,3.0
+2015-03-03,Watford,Fulham,1.67,4.2,5.25
+2015-03-03,Southampton,Crystal Palace,1.7,3.8,5.75
+2015-03-03,Aston Villa,West Brom,2.88,3.1,2.88
+2015-03-03,Charlton,Nott'm Forest,3.2,3.4,2.38
+2015-03-04,Birmingham,Blackpool,1.62,4.2,6.0
+2015-03-04,Leeds,Ipswich,3.1,3.4,2.45
+2015-03-04,Norwich,Wigan,1.55,4.2,7.0
+2015-03-04,Sheffield Weds,Blackburn,2.4,3.3,3.3
+2015-03-04,Evian Thonon Gaillard,Lorient,2.63,3.25,2.75
+2015-03-04,QPR,Arsenal,7.0,4.33,1.53
+2015-03-04,Celtic,St Johnstone,1.18,6.5,15.0
+2015-03-04,Man City,Leicester,1.25,7.0,13.0
+2015-03-04,Newcastle,Man United,4.2,3.5,2.0
+2015-03-04,West Ham,Chelsea,6.25,4.0,1.62
+2015-03-04,Tottenham,Swansea,1.75,3.8,5.25
+2015-03-04,Liverpool,Burnley,1.36,5.25,10.0
+2015-03-04,Stoke,Everton,2.5,3.3,3.1
+2015-03-06,Stuttgart,Hertha,2.1,3.3,3.6
+2015-03-06,Sp Braga,Porto,4.33,3.4,1.85
+2015-03-06,Kasimpasa,Akhisar Belediyespor,1.67,3.75,5.0
+2015-03-06,Fulham,Bournemouth,3.9,3.75,2.0
+2015-03-06,Toulouse,Marseille,3.1,3.2,2.4
+2015-03-06,Levante,Eibar,2.05,3.3,4.0
+2015-03-06,Willem II,Twente,2.63,3.3,2.63
+2015-03-07,Caen,Bordeaux,2.7,3.0,2.88
+2015-03-07,Evian Thonon Gaillard,Monaco,4.2,3.1,2.05
+2015-03-07,Paris SG,Lens,1.2,6.25,15.0
+2015-03-07,Hamburg,Dortmund,6.0,4.33,1.53
+2015-03-07,Hannover,Bayern Munich,13.0,6.5,1.22
+2015-03-07,Mainz,M'gladbach,2.6,3.3,2.75
+2015-03-07,Schalke 04,Hoffenheim,2.25,3.4,3.2
+2015-03-07,Zwolle,Cambuur,1.91,3.5,4.0
+2015-03-07,Heracles,Vitesse,4.0,3.75,1.83
+2015-03-07,Go Ahead Eagles,PSV Eindhoven,7.5,5.0,1.36
+2015-03-07,Reims,Nantes,2.5,3.1,3.1
+2015-03-07,Rennes,Metz,1.85,3.4,4.75
+2015-03-07,Club Brugge,Charleroi,1.55,3.75,6.5
+2015-03-07,Milan,Verona,1.55,4.0,6.5
+2015-03-07,Genk,Waregem,1.83,3.5,4.33
+2015-03-07,Gent,Lierse,1.25,5.75,11.0
+2015-03-07,Kortrijk,Cercle Brugge,1.4,4.5,8.0
+2015-03-07,Lokeren,Anderlecht,3.8,3.3,2.0
+2015-03-07,Mechelen,Standard,3.75,3.4,2.0
+2015-03-07,Mouscron-Peruwelz,Westerlo,2.15,3.4,3.3
+2015-03-07,Oostende,Waasland-Beveren,1.91,3.4,4.0
+2015-03-07,Balikesirspor,Rizespor,2.8,3.25,2.5
+2015-03-07,Erciyesspor,Genclerbirligi,2.1,3.25,3.75
+2015-03-07,Eskisehirspor,Bursaspor,2.9,3.25,2.4
+2015-03-07,QPR,Tottenham,4.75,3.9,1.8
+2015-03-07,Ross County,Partick,2.7,3.2,2.63
+2015-03-07,Motherwell,Kilmarnock,3.0,3.25,2.38
+2015-03-07,Den Haag,Heerenveen,2.5,3.4,2.7
+2015-03-07,Sampdoria,Cagliari,1.85,3.5,4.5
+2015-03-07,Setubal,Belenenses,2.5,3.0,3.0
+2015-03-07,Millwall,Norwich,4.75,3.75,1.83
+2015-03-07,Blackpool,Sheffield Weds,4.33,3.5,1.83
+2015-03-07,Cardiff,Charlton,1.91,3.5,4.75
+2015-03-07,Derby,Birmingham,1.62,4.2,6.0
+2015-03-07,Huddersfield,Rotherham,2.15,3.5,3.6
+2015-03-07,Ipswich,Brentford,2.2,3.5,3.5
+2015-03-07,Nott'm Forest,Middlesbrough,3.0,3.4,2.5
+2015-03-07,Wigan,Leeds,2.1,3.3,4.0
+2015-03-07,Wolves,Watford,2.63,3.4,2.88
+2015-03-07,Augsburg,Wolfsburg,3.5,3.5,2.1
+2015-03-07,Freiburg,Werder Bremen,2.6,3.4,2.7
+2015-03-07,La Coruna,Sevilla,3.8,3.4,2.05
+2015-03-07,Granada,Malaga,2.9,3.2,2.6
+2015-03-07,Elche,Almeria,2.05,3.4,3.8
+2015-03-07,Bastia,Nice,2.3,3.1,3.4
+2015-03-07,Ath Bilbao,Real Madrid,7.0,4.75,1.44
+2015-03-08,Groningen,Dordrecht,1.4,4.75,7.0
+2015-03-08,Napoli,Inter,1.95,3.5,4.0
+2015-03-08,Cesena,Palermo,3.4,3.25,2.25
+2015-03-08,St Etienne,Lorient,1.65,3.6,6.0
+2015-03-08,Feyenoord,NAC Breda,1.2,6.5,13.0
+2015-03-08,Buyuksehyr,Konyaspor,1.75,3.5,4.75
+2015-03-08,Fenerbahce,Galatasaray,1.75,3.75,4.33
+2015-03-08,Moreirense,Academica,1.91,3.3,4.2
+2015-03-08,Maritimo,Pacos Ferreira,2.3,3.2,3.2
+2015-03-08,Estoril,Gil Vicente,1.73,3.6,4.75
+2015-03-08,Boavista,Guimaraes,3.6,3.3,2.05
+2015-03-08,Arouca,Benfica,15.0,5.5,1.22
+2015-03-08,Karabukspor,Gaziantepspor,1.91,3.4,4.0
+2015-03-08,Sivasspor,Besiktas,2.75,3.3,2.5
+2015-03-08,Paderborn,Leverkusen,5.0,3.8,1.7
+2015-03-08,Parma,Atalanta,3.75,3.2,2.15
+2015-03-08,Udinese,Torino,2.6,3.0,2.88
+2015-03-08,Chievo,Roma,4.75,3.4,1.85
+2015-03-08,Empoli,Genoa,2.15,3.3,3.6
+2015-03-08,Utrecht,AZ Alkmaar,2.38,3.25,3.0
+2015-03-08,Ath Madrid,Valencia,1.62,3.75,6.0
+2015-03-08,FC Koln,Ein Frankfurt,2.4,3.3,3.0
+2015-03-08,Ajax,Excelsior,1.36,4.75,8.0
+2015-03-08,Barcelona,Vallecano,1.05,15.0,34.0
+2015-03-08,Villarreal,Celta,1.95,3.5,4.0
+2015-03-08,Sociedad,Espanol,2.2,3.3,3.4
+2015-03-08,Guingamp,Lille,2.63,3.1,2.88
+2015-03-08,Montpellier,Lyon,2.9,3.1,2.5
+2015-03-09,Sp Lisbon,Penafiel,1.17,7.5,15.0
+2015-03-09,Rio Ave,Nacional,2.3,3.2,3.2
+2015-03-09,Cordoba,Getafe,2.4,3.1,3.2
+2015-03-09,Lazio,Fiorentina,2.0,3.3,4.0
+2015-03-09,Juventus,Sassuolo,1.2,6.5,15.0
+2015-03-09,Mersin Idman Yurdu,Trabzonspor,2.9,3.4,2.3
+2015-03-10,Reading,Brighton,2.5,3.3,3.1
+2015-03-11,Blackburn,Bolton,1.95,3.6,4.33
+2015-03-13,Leverkusen,Stuttgart,1.44,4.33,7.5
+2015-03-13,Konyaspor,Kasimpasa,2.7,3.25,2.6
+2015-03-13,Bursaspor,Balikesirspor,1.3,5.0,11.0
+2015-03-13,Vitesse,AZ Alkmaar,1.55,4.5,5.25
+2015-03-13,Aberdeen,Motherwell,1.22,5.75,13.0
+2015-03-13,Nice,Guingamp,2.4,3.0,3.3
+2015-03-13,Valencia,La Coruna,1.44,4.5,8.0
+2015-03-13,Pacos Ferreira,Boavista,1.73,3.5,5.0
+2015-03-13,Monaco,Bastia,1.57,3.7,7.0
+2015-03-14,Augsburg,Mainz,1.95,3.5,4.0
+2015-03-14,Werder Bremen,Bayern Munich,10.0,5.75,1.29
+2015-03-14,Hoffenheim,Hamburg,1.75,3.75,4.75
+2015-03-14,Hertha,Schalke 04,2.75,3.25,2.63
+2015-03-14,Twente,Zwolle,1.62,4.5,4.5
+2015-03-14,Palermo,Juventus,4.75,3.4,1.8
+2015-03-14,Metz,St Etienne,3.8,3.2,2.1
+2015-03-14,Cagliari,Empoli,2.4,3.3,3.0
+2015-03-14,Nantes,Evian Thonon Gaillard,2.0,3.2,4.2
+2015-03-14,Guimaraes,Setubal,1.7,3.6,5.0
+2015-03-14,Benfica,Sp Braga,1.4,4.33,8.0
+2015-03-14,Belenenses,Estoril,2.63,3.1,2.75
+2015-03-14,Vallecano,Granada,2.0,3.3,4.0
+2015-03-14,Espanol,Ath Madrid,3.8,3.1,2.15
+2015-03-14,Lorient,Caen,1.91,3.5,4.2
+2015-03-14,Eibar,Barcelona,19.0,8.5,1.14
+2015-03-14,Burnley,Man City,7.5,5.0,1.44
+2015-03-14,Crystal Palace,QPR,1.83,3.75,4.75
+2015-03-14,Leicester,Hull,2.2,3.3,3.75
+2015-03-14,Sunderland,Aston Villa,2.38,3.25,3.4
+2015-03-14,West Brom,Stoke,2.38,3.25,3.4
+2015-03-14,Akhisar Belediyespor,Karabukspor,2.63,3.2,2.7
+2015-03-14,Galatasaray,Buyuksehyr,1.73,3.6,4.75
+2015-03-14,Rizespor,Sivasspor,2.4,3.25,2.9
+2015-03-14,Celta,Ath Bilbao,2.1,3.4,3.6
+2015-03-14,Lens,Toulouse,2.5,3.1,3.1
+2015-03-14,Montpellier,Reims,1.85,3.3,4.75
+2015-03-14,Excelsior,Willem II,2.2,3.4,3.2
+2015-03-14,Watford,Reading,1.73,4.0,5.0
+2015-03-14,Sheffield Weds,Fulham,2.0,3.5,4.2
+2015-03-14,Rotherham,Wigan,2.6,3.4,2.9
+2015-03-14,Norwich,Derby,2.1,3.6,3.75
+2015-03-14,Middlesbrough,Ipswich,1.91,3.6,4.5
+2015-03-14,Leeds,Nott'm Forest,2.9,3.4,2.6
+2015-03-14,Charlton,Blackburn,3.0,3.4,2.5
+2015-03-14,Brighton,Wolves,2.3,3.4,3.4
+2015-03-14,NAC Breda,Go Ahead Eagles,2.2,3.4,3.2
+2015-03-14,Bournemouth,Blackpool,1.22,7.0,15.0
+2015-03-14,Brentford,Cardiff,1.85,3.8,4.5
+2015-03-14,Birmingham,Huddersfield,2.2,3.6,3.4
+2015-03-14,Arsenal,West Ham,1.4,5.0,9.0
+2015-03-14,Hamilton,Ross County,2.4,3.4,2.8
+2015-03-14,Kilmarnock,St Mirren,2.3,3.4,3.0
+2015-03-14,Partick,St Johnstone,2.38,3.6,2.75
+2015-03-14,Ein Frankfurt,Paderborn,1.73,3.8,4.75
+2015-03-14,Cambuur,Utrecht,2.3,3.4,3.0
+2015-03-14,Bolton,Millwall,2.1,3.6,3.75
+2015-03-14,Dortmund,FC Koln,1.33,5.0,10.0
+2015-03-15,Marseille,Lyon,2.05,3.3,3.8
+2015-03-15,Lille,Rennes,1.91,3.2,4.75
+2015-03-15,Bordeaux,Paris SG,4.2,3.4,1.95
+2015-03-15,Besiktas,Erciyesspor,1.44,4.5,6.5
+2015-03-15,Eskisehirspor,Mersin Idman Yurdu,1.91,3.6,3.8
+2015-03-15,Genclerbirligi,Fenerbahce,6.0,3.8,1.57
+2015-03-15,Lierse,Kortrijk,4.33,3.75,1.75
+2015-03-15,Wolfsburg,Freiburg,1.33,5.25,9.0
+2015-03-15,Verona,Napoli,4.5,3.5,1.85
+2015-03-15,Academica,Nacional,3.0,3.2,2.38
+2015-03-15,Gil Vicente,Moreirense,2.6,3.1,2.8
+2015-03-15,Maritimo,Sp Lisbon,6.5,3.6,1.57
+2015-03-15,Penafiel,Rio Ave,3.5,3.1,2.2
+2015-03-15,Porto,Arouca,1.13,7.5,23.0
+2015-03-15,M'gladbach,Hannover,1.75,3.75,4.75
+2015-03-15,Den Haag,Heracles,1.83,3.75,4.0
+2015-03-15,Waregem,Oostende,1.91,3.6,3.75
+2015-03-15,Dordrecht,Feyenoord,9.0,5.5,1.3
+2015-03-15,Genoa,Chievo,1.91,3.4,4.33
+2015-03-15,Atalanta,Udinese,2.4,3.1,3.2
+2015-03-15,Anderlecht,Gent,1.83,3.5,4.33
+2015-03-15,Cercle Brugge,Mechelen,2.7,3.4,2.5
+2015-03-15,Charleroi,Mouscron-Peruwelz,1.57,3.8,6.0
+2015-03-15,PSV Eindhoven,Groningen,1.22,6.0,13.0
+2015-03-15,Standard,Genk,2.05,3.4,3.5
+2015-03-15,Waasland-Beveren,Lokeren,2.7,3.4,2.5
+2015-03-15,Heerenveen,Ajax,2.5,3.4,2.7
+2015-03-15,Inter,Cesena,1.36,4.75,9.5
+2015-03-15,Sassuolo,Parma,1.62,3.75,6.25
+2015-03-15,Westerlo,Club Brugge,7.0,4.33,1.44
+2015-03-15,Man United,Tottenham,1.91,3.75,4.33
+2015-03-15,Chelsea,Southampton,1.62,4.0,6.5
+2015-03-15,Almeria,Villarreal,4.0,3.3,2.0
+2015-03-15,Everton,Newcastle,1.83,3.75,4.75
+2015-03-15,Malaga,Cordoba,1.57,3.75,7.0
+2015-03-15,Real Madrid,Levante,1.06,13.0,34.0
+2015-03-15,Sevilla,Elche,1.4,4.75,8.0
+2015-03-16,Roma,Sampdoria,1.65,3.6,6.0
+2015-03-16,Swansea,Liverpool,4.0,3.6,2.0
+2015-03-16,Torino,Lazio,3.1,3.1,2.5
+2015-03-16,Getafe,Sociedad,2.3,3.2,3.3
+2015-03-16,Fiorentina,Milan,1.91,3.5,4.2
+2015-03-16,Gaziantepspor,Trabzonspor,3.6,3.5,2.0
+2015-03-17,Ipswich,Bolton,1.75,3.9,5.0
+2015-03-17,Wolves,Sheffield Weds,2.05,3.5,4.0
+2015-03-17,Wigan,Watford,3.25,3.4,2.38
+2015-03-17,Millwall,Brighton,3.5,3.4,2.25
+2015-03-17,Blackburn,Brentford,2.35,3.6,3.1
+2015-03-17,Derby,Middlesbrough,2.5,3.4,3.0
+2015-03-17,Cardiff,Bournemouth,4.2,3.75,1.91
+2015-03-17,Blackpool,Charlton,3.75,3.5,2.1
+2015-03-17,Huddersfield,Norwich,4.0,3.6,2.0
+2015-03-18,Fulham,Leeds,2.25,3.5,3.4
+2015-03-18,Nott'm Forest,Rotherham,1.8,3.8,4.75
+2015-03-20,Wolves,Derby,2.6,3.4,2.88
+2015-03-20,Motherwell,Hamilton,3.1,3.3,2.3
+2015-03-20,Utrecht,NAC Breda,1.5,3.9,7.0
+2015-03-20,Hamburg,Hertha,2.38,3.25,3.1
+2015-03-20,Sp Braga,Academica,1.33,4.33,8.0
+2015-03-20,Balikesirspor,Eskisehirspor,3.6,3.4,2.05
+2015-03-20,Karabukspor,Konyaspor,2.1,3.4,3.4
+2015-03-20,Elche,Valencia,3.8,3.4,2.0
+2015-03-20,Paris SG,Lorient,1.25,6.0,12.0
+2015-03-21,Charlton,Reading,2.8,3.3,2.5
+2015-03-21,Man City,West Brom,1.3,5.5,8.5
+2015-03-21,Newcastle,Arsenal,6.0,3.8,1.57
+2015-03-21,Rotherham,Sheffield Weds,2.5,3.4,2.7
+2015-03-21,Southampton,Burnley,1.4,4.5,7.5
+2015-03-21,Norwich,Nott'm Forest,1.62,3.8,5.5
+2015-03-21,Huddersfield,Fulham,2.1,3.6,3.2
+2015-03-21,Erciyesspor,Rizespor,2.5,3.25,2.8
+2015-03-21,Kasimpasa,Galatasaray,2.88,3.2,2.5
+2015-03-21,Sivasspor,Bursaspor,3.1,3.4,2.25
+2015-03-21,Aston Villa,Swansea,2.5,3.25,2.8
+2015-03-21,Blackburn,Brighton,2.15,3.3,3.4
+2015-03-21,Blackpool,Leeds,3.9,3.4,1.95
+2015-03-21,Bournemouth,Middlesbrough,2.1,3.5,3.3
+2015-03-21,Brentford,Millwall,1.62,4.0,5.25
+2015-03-21,Cardiff,Birmingham,2.2,3.3,3.25
+2015-03-21,Mersin Idman Yurdu,Gaziantepspor,1.95,3.5,3.8
+2015-03-21,AZ Alkmaar,Cambuur,1.7,3.75,4.75
+2015-03-21,Ath Madrid,Getafe,1.33,5.0,10.0
+2015-03-21,Watford,Ipswich,2.1,3.4,3.4
+2015-03-21,Go Ahead Eagles,Vitesse,5.5,3.8,1.62
+2015-03-21,Heracles,Heerenveen,2.6,3.5,2.55
+2015-03-21,Willem II,Dordrecht,1.33,5.25,8.0
+2015-03-21,Bastia,Guingamp,2.9,3.1,2.6
+2015-03-21,Caen,Metz,1.91,3.5,4.2
+2015-03-21,Evian Thonon Gaillard,Montpellier,3.0,3.1,2.55
+2015-03-21,Lyon,Nice,1.53,4.0,7.0
+2015-03-21,Rennes,Nantes,2.2,3.25,3.5
+2015-03-21,Toulouse,Bordeaux,2.6,3.0,3.0
+2015-03-21,Ath Bilbao,Almeria,1.5,4.0,7.5
+2015-03-21,Rio Ave,Benfica,8.0,4.5,1.33
+2015-03-21,Dundee,Aberdeen,4.5,3.8,1.73
+2015-03-21,Celtic,Dundee United,1.18,6.5,15.0
+2015-03-21,Nacional,Porto,9.0,4.33,1.33
+2015-03-21,Estoril,Penafiel,1.53,3.6,5.75
+2015-03-21,Milan,Cagliari,1.8,3.75,4.33
+2015-03-21,Chievo,Palermo,2.5,3.1,3.0
+2015-03-21,Vallecano,Malaga,2.5,3.4,2.8
+2015-03-21,Levante,Celta,3.3,3.3,2.25
+2015-03-21,Granada,Eibar,1.95,3.25,4.33
+2015-03-21,Partick,Inverness C,3.0,3.4,2.3
+2015-03-21,Wigan,Bolton,2.1,3.4,3.4
+2015-03-21,St Johnstone,St Mirren,2.05,3.8,3.2
+2015-03-21,FC Koln,Werder Bremen,2.2,3.4,3.3
+2015-03-21,Freiburg,Augsburg,3.0,3.4,2.38
+2015-03-21,Hannover,Dortmund,5.0,4.2,1.62
+2015-03-21,Paderborn,Hoffenheim,3.75,3.5,2.0
+2015-03-21,Schalke 04,Leverkusen,3.0,3.5,2.3
+2015-03-21,Stuttgart,Ein Frankfurt,2.5,3.4,2.8
+2015-03-21,Ross County,Kilmarnock,2.15,3.5,3.2
+2015-03-21,Stoke,Crystal Palace,2.1,3.3,3.5
+2015-03-21,Tottenham,Leicester,1.53,4.0,6.0
+2015-03-21,West Ham,Sunderland,1.8,3.5,4.5
+2015-03-22,Sociedad,Cordoba,1.62,3.75,6.0
+2015-03-22,Lens,Marseille,4.5,3.6,1.8
+2015-03-22,Zwolle,Excelsior,1.73,3.75,4.5
+2015-03-22,Groningen,Twente,3.1,3.6,2.15
+2015-03-22,Feyenoord,PSV Eindhoven,2.55,3.4,2.63
+2015-03-22,Ajax,Den Haag,1.44,4.5,6.5
+2015-03-22,Boavista,Belenenses,2.4,3.1,2.8
+2015-03-22,Reims,Monaco,4.5,3.3,1.91
+2015-03-22,Moreirense,Maritimo,2.25,3.2,3.0
+2015-03-22,Sp Lisbon,Guimaraes,1.36,4.2,8.0
+2015-03-22,Napoli,Atalanta,1.44,4.5,7.5
+2015-03-22,Cesena,Roma,5.25,3.75,1.67
+2015-03-22,Empoli,Sassuolo,2.0,3.3,4.0
+2015-03-22,Arouca,Gil Vicente,2.15,3.1,3.25
+2015-03-22,St Etienne,Lille,2.0,3.2,4.2
+2015-03-22,Lazio,Verona,1.4,4.5,9.0
+2015-03-22,Udinese,Fiorentina,3.3,3.3,2.25
+2015-03-22,Trabzonspor,Akhisar Belediyespor,1.65,3.8,5.25
+2015-03-22,Fenerbahce,Besiktas,1.7,3.6,5.0
+2015-03-22,Buyuksehyr,Genclerbirligi,1.73,3.5,5.0
+2015-03-22,Bayern Munich,M'gladbach,1.17,7.5,17.0
+2015-03-22,Sampdoria,Inter,2.63,3.25,2.75
+2015-03-22,Parma,Torino,4.33,3.4,1.91
+2015-03-22,Mainz,Wolfsburg,3.25,3.6,2.15
+2015-03-22,Liverpool,Man United,2.05,3.4,3.6
+2015-03-22,QPR,Everton,3.3,3.4,2.15
+2015-03-22,Barcelona,Real Madrid,1.67,4.5,4.5
+2015-03-22,La Coruna,Espanol,2.6,3.25,2.8
+2015-03-22,Juventus,Genoa,1.33,5.0,10.0
+2015-03-22,Villarreal,Sevilla,2.05,3.4,3.75
+2015-03-22,Hull,Chelsea,7.0,4.33,1.44
+2015-03-23,Setubal,Pacos Ferreira,2.63,3.0,2.6
+2015-04-03,Nott'm Forest,Wolves,2.3,3.4,3.4
+2015-04-03,Eibar,Vallecano,2.5,3.3,2.9
+2015-04-03,Monaco,St Etienne,1.91,3.2,4.75
+2015-04-03,St Mirren,Celtic,13.0,7.0,1.18
+2015-04-03,Academica,Rio Ave,2.45,3.2,2.9
+2015-04-03,Gil Vicente,Sp Braga,5.0,3.5,1.73
+2015-04-03,Guimaraes,Arouca,1.67,3.6,5.25
+2015-04-03,Middlesbrough,Wigan,1.6,4.0,6.5
+2015-04-03,Fulham,Brentford,3.1,3.6,2.38
+2015-04-03,Derby,Watford,2.1,3.6,3.75
+2015-04-03,Brighton,Norwich,3.5,3.4,2.25
+2015-04-03,Birmingham,Rotherham,2.25,3.4,3.5
+2015-04-03,Millwall,Charlton,2.5,3.4,3.0
+2015-04-03,Ipswich,Bournemouth,3.0,3.4,2.5
+2015-04-04,Swansea,Hull,1.91,3.5,4.2
+2015-04-04,Leicester,West Ham,2.38,3.3,3.1
+2015-04-04,Almeria,Levante,2.1,3.25,3.75
+2015-04-04,Cordoba,Ath Madrid,9.5,4.5,1.4
+2015-04-04,Malaga,Sociedad,1.95,3.4,4.2
+2015-04-04,Everton,Southampton,2.63,3.2,2.8
+2015-04-04,Chelsea,Stoke,1.29,5.5,11.0
+2015-04-04,Arsenal,Liverpool,1.83,3.75,4.2
+2015-04-04,Atalanta,Torino,2.8,3.1,2.7
+2015-04-04,Man United,Aston Villa,1.3,5.5,10.0
+2015-04-04,West Brom,QPR,1.8,3.5,4.5
+2015-04-04,Fiorentina,Sampdoria,1.73,3.6,5.25
+2015-04-04,Sevilla,Ath Bilbao,1.75,3.75,4.75
+2015-04-04,Lorient,Rennes,2.05,3.3,3.8
+2015-04-04,Metz,Toulouse,2.8,3.1,2.7
+2015-04-04,Montpellier,Bastia,1.85,3.5,4.5
+2015-04-04,Nice,Evian Thonon Gaillard,1.95,3.25,4.33
+2015-04-04,Bolton,Blackpool,1.57,4.0,7.0
+2015-04-04,Zwolle,Willem II,2.0,3.5,3.6
+2015-04-04,Lille,Reims,1.67,3.5,6.0
+2015-04-04,Vitesse,Groningen,1.33,5.25,8.0
+2015-04-04,Heerenveen,NAC Breda,1.4,4.75,7.0
+2015-04-04,Dordrecht,Heracles,3.1,3.5,2.2
+2015-04-04,Cagliari,Lazio,4.5,3.6,1.83
+2015-04-04,Wolfsburg,Stuttgart,1.44,4.75,7.0
+2015-04-04,Werder Bremen,Mainz,2.5,3.4,2.8
+2015-04-04,Leverkusen,Hamburg,1.36,5.0,8.5
+2015-04-04,Twente,PSV Eindhoven,3.6,3.6,1.95
+2015-04-04,Belenenses,Moreirense,2.15,3.0,3.75
+2015-04-04,Hoffenheim,M'gladbach,2.7,3.5,2.6
+2015-04-04,Pacos Ferreira,Sp Lisbon,5.75,3.9,1.57
+2015-04-04,Genoa,Udinese,1.95,3.4,4.2
+2015-04-04,Inter,Parma,1.2,6.5,15.0
+2015-04-04,Juventus,Empoli,1.36,5.0,8.5
+2015-04-04,Palermo,Milan,2.5,3.2,3.0
+2015-04-04,Roma,Napoli,2.2,3.3,3.4
+2015-04-04,Sassuolo,Chievo,2.15,3.1,3.75
+2015-04-04,Verona,Cesena,1.91,3.5,4.2
+2015-04-04,Rizespor,Fenerbahce,5.0,3.75,1.67
+2015-04-04,Genclerbirligi,Kasimpasa,2.63,3.3,2.63
+2015-04-04,Benfica,Nacional,1.22,6.0,12.0
+2015-04-04,Balikesirspor,Mersin Idman Yurdu,2.9,3.3,2.38
+2015-04-04,Leeds,Blackburn,2.88,3.4,2.63
+2015-04-04,Eskisehirspor,Sivasspor,2.2,3.3,3.3
+2015-04-04,Sheffield Weds,Huddersfield,2.2,3.4,3.6
+2015-04-04,Penafiel,Boavista,2.5,3.1,2.9
+2015-04-04,Freiburg,FC Koln,2.6,3.2,2.8
+2015-04-04,Ein Frankfurt,Hannover,2.0,3.75,3.5
+2015-04-04,Dortmund,Bayern Munich,3.3,3.5,2.15
+2015-04-04,Kilmarnock,Motherwell,2.2,3.3,3.3
+2015-04-04,Inverness C,Dundee,1.8,3.5,4.5
+2015-04-04,Hamilton,St Johnstone,2.9,3.25,2.4
+2015-04-04,Reading,Cardiff,2.15,3.4,3.75
+2015-04-04,Guingamp,Lyon,3.6,3.25,2.15
+2015-04-04,Dundee United,Ross County,2.1,3.3,3.5
+2015-04-04,Aberdeen,Partick,1.5,4.33,6.0
+2015-04-05,Utrecht,Ajax,3.0,3.5,2.25
+2015-04-05,Celta,Barcelona,7.5,5.0,1.4
+2015-04-05,Getafe,La Coruna,2.25,3.1,3.6
+2015-04-05,Real Madrid,Granada,1.08,11.0,29.0
+2015-04-05,Valencia,Villarreal,2.05,3.5,3.6
+2015-04-05,Bordeaux,Lens,1.62,3.8,6.0
+2015-04-05,Sunderland,Newcastle,2.5,3.1,3.1
+2015-04-05,Nantes,Caen,2.2,3.2,3.5
+2015-04-05,Cambuur,Go Ahead Eagles,1.67,4.0,4.75
+2015-04-05,Burnley,Tottenham,3.5,3.4,2.1
+2015-04-05,Konyaspor,Trabzonspor,2.63,3.3,2.63
+2015-04-05,Bursaspor,Erciyesspor,1.5,4.33,6.0
+2015-04-05,Excelsior,Den Haag,2.3,3.4,3.0
+2015-04-05,Akhisar Belediyespor,Gaziantepspor,2.1,3.4,3.4
+2015-04-05,Galatasaray,Karabukspor,1.4,4.75,7.0
+2015-04-05,Marseille,Paris SG,3.1,3.25,2.38
+2015-04-05,Augsburg,Schalke 04,2.4,3.3,3.0
+2015-04-05,Hertha,Paderborn,1.95,3.5,4.0
+2015-04-05,AZ Alkmaar,Feyenoord,3.6,3.5,2.0
+2015-04-06,Rotherham,Brighton,2.88,3.4,2.63
+2015-04-06,Bournemouth,Birmingham,1.44,4.75,8.5
+2015-04-06,Norwich,Sheffield Weds,1.53,4.33,7.0
+2015-04-06,Maritimo,Setubal,1.95,3.3,4.0
+2015-04-06,Porto,Estoril,1.18,7.0,13.0
+2015-04-06,Besiktas,Buyuksehyr,1.83,3.5,4.33
+2015-04-06,Watford,Middlesbrough,2.5,3.4,3.0
+2015-04-06,Brentford,Nott'm Forest,2.0,3.75,3.8
+2015-04-06,Wigan,Derby,3.5,3.5,2.2
+2015-04-06,Wolves,Leeds,1.67,3.8,6.0
+2015-04-06,Huddersfield,Ipswich,3.0,3.4,2.5
+2015-04-06,Crystal Palace,Man City,5.0,4.0,1.67
+2015-04-06,Espanol,Elche,1.67,3.6,5.75
+2015-04-06,Cardiff,Bolton,2.2,3.5,3.5
+2015-04-07,Blackpool,Reading,4.33,3.5,1.83
+2015-04-07,Aston Villa,QPR,2.15,3.4,3.8
+2015-04-07,Monaco,Montpellier,1.73,3.5,5.5
+2015-04-07,Ath Madrid,Sociedad,1.3,5.25,11.0
+2015-04-07,Ross County,St Johnstone,2.5,3.2,2.88
+2015-04-07,Motherwell,St Mirren,2.2,3.25,3.3
+2015-04-07,Eibar,Malaga,3.25,3.1,2.38
+2015-04-07,Levante,Sevilla,4.5,3.6,1.83
+2015-04-07,Charlton,Fulham,2.38,3.25,3.0
+2015-04-08,Vallecano,Real Madrid,13.0,7.0,1.2
+2015-04-08,Barcelona,Almeria,1.05,13.0,41.0
+2015-04-08,Granada,Celta,3.5,3.0,2.3
+2015-04-08,Parma,Udinese,4.0,3.2,2.05
+2015-04-08,Aberdeen,Inverness C,1.75,3.6,4.75
+2015-04-08,Celtic,Partick,1.17,7.0,15.0
+2015-04-08,Dundee,Dundee United,2.63,3.4,2.55
+2015-04-08,La Coruna,Cordoba,1.75,3.4,5.5
+2015-04-09,Ath Bilbao,Valencia,2.4,3.4,2.8
+2015-04-09,Elche,Getafe,2.3,3.1,3.25
+2015-04-09,Villarreal,Espanol,1.55,3.6,7.0
+2015-04-10,Brighton,Bournemouth,5.0,3.75,1.8
+2015-04-10,Caen,Monaco,3.3,3.3,2.25
+2015-04-10,Fulham,Wigan,2.3,3.5,3.3
+2015-04-10,PSV Eindhoven,Zwolle,1.22,6.0,12.0
+2015-04-10,Hannover,Hertha,1.95,3.3,4.2
+2015-04-10,Arouca,Belenenses,2.25,3.0,3.5
+2015-04-11,Tottenham,Aston Villa,1.62,4.2,6.0
+2015-04-11,Moreirense,Guimaraes,3.0,3.2,2.38
+2015-04-11,Boavista,Maritimo,2.5,3.2,2.88
+2015-04-11,Benfica,Academica,1.14,7.5,17.0
+2015-04-11,St Johnstone,Dundee,2.15,3.4,3.3
+2015-04-11,Reading,Blackburn,2.5,3.4,3.0
+2015-04-11,West Brom,Leicester,2.3,3.4,3.4
+2015-04-11,Verona,Inter,3.4,3.3,2.2
+2015-04-11,Sheffield Weds,Charlton,1.91,3.6,4.5
+2015-04-11,West Ham,Stoke,2.3,3.4,3.4
+2015-04-11,Dundee United,Hamilton,1.83,3.75,4.0
+2015-04-11,Inverness C,Celtic,6.5,4.5,1.45
+2015-04-11,Partick,Motherwell,2.05,3.4,3.6
+2015-04-11,Swansea,Everton,2.5,3.3,3.1
+2015-04-11,Parma,Juventus,9.0,5.0,1.33
+2015-04-11,Bolton,Norwich,4.75,3.75,1.83
+2015-04-11,Birmingham,Wolves,3.5,3.4,2.25
+2015-04-11,Celta,Vallecano,1.73,3.6,4.75
+2015-04-11,Millwall,Watford,4.33,3.6,1.95
+2015-04-11,Almeria,Granada,2.4,3.1,3.2
+2015-04-11,NAC Breda,Dordrecht,1.62,3.8,5.5
+2015-04-11,Heracles,Ajax,4.0,3.6,1.85
+2015-04-11,Heerenveen,AZ Alkmaar,1.91,3.6,3.75
+2015-04-11,Excelsior,Vitesse,4.2,3.75,1.8
+2015-04-11,Nott'm Forest,Huddersfield,2.05,3.6,3.8
+2015-04-11,Middlesbrough,Rotherham,1.5,4.5,7.5
+2015-04-11,M'gladbach,Dortmund,2.8,3.4,2.5
+2015-04-11,Mainz,Leverkusen,3.3,3.4,2.2
+2015-04-11,Hamburg,Wolfsburg,4.33,3.75,1.8
+2015-04-11,Bayern Munich,Ein Frankfurt,1.17,7.5,17.0
+2015-04-11,Ipswich,Blackpool,1.29,6.0,13.0
+2015-04-11,Derby,Brentford,2.05,3.6,3.8
+2015-04-11,Leeds,Cardiff,2.7,3.4,2.75
+2015-04-11,Paderborn,Augsburg,3.1,3.4,2.3
+2015-04-11,Rio Ave,Porto,9.0,5.25,1.3
+2015-04-11,Sunderland,Crystal Palace,2.9,3.2,2.7
+2015-04-11,Southampton,Hull,1.53,4.2,7.5
+2015-04-11,Burnley,Arsenal,6.5,4.33,1.57
+2015-04-11,Malaga,Ath Madrid,3.8,3.4,2.0
+2015-04-11,Real Madrid,Eibar,1.06,13.0,34.0
+2015-04-11,Sevilla,Barcelona,5.0,4.5,1.55
+2015-04-11,Genoa,Cagliari,1.91,3.4,4.0
+2015-04-11,Schalke 04,Freiburg,1.67,3.75,5.5
+2015-04-12,Lazio,Empoli,1.45,4.2,7.5
+2015-04-12,Toulouse,Montpellier,2.38,3.3,3.1
+2015-04-12,St Etienne,Nantes,1.62,3.6,6.5
+2015-04-12,Nacional,Gil Vicente,1.57,3.6,6.5
+2015-04-12,Kilmarnock,Aberdeen,5.5,3.75,1.62
+2015-04-12,Rennes,Guingamp,2.2,3.1,3.6
+2015-04-12,Bordeaux,Marseille,2.6,3.3,2.75
+2015-04-12,Lens,Lorient,2.7,3.2,2.75
+2015-04-12,Evian Thonon Gaillard,Lille,3.25,3.1,2.4
+2015-04-12,Espanol,Ath Bilbao,2.5,3.2,2.88
+2015-04-12,Stuttgart,Werder Bremen,2.15,3.5,3.3
+2015-04-12,Cordoba,Elche,2.3,3.1,3.3
+2015-04-12,Reims,Nice,2.3,3.2,3.3
+2015-04-12,Getafe,Villarreal,3.6,3.3,2.05
+2015-04-12,Cesena,Chievo,2.63,3.0,2.8
+2015-04-12,Atalanta,Sassuolo,2.1,3.2,3.6
+2015-04-12,Willem II,Feyenoord,4.33,3.8,1.75
+2015-04-12,Man United,Man City,2.63,3.4,2.88
+2015-04-12,QPR,Chelsea,9.0,5.0,1.4
+2015-04-12,Milan,Sampdoria,1.91,3.3,4.2
+2015-04-12,Napoli,Fiorentina,2.0,3.4,3.75
+2015-04-12,Torino,Roma,2.75,3.2,2.6
+2015-04-12,Sociedad,La Coruna,1.8,3.6,4.5
+2015-04-12,FC Koln,Hoffenheim,2.4,3.3,3.0
+2015-04-12,Sp Braga,Penafiel,1.22,6.0,13.0
+2015-04-12,Setubal,Sp Lisbon,7.5,4.2,1.44
+2015-04-12,Groningen,Cambuur,2.15,3.6,3.1
+2015-04-12,Go Ahead Eagles,Twente,4.33,3.6,1.8
+2015-04-12,Den Haag,Utrecht,2.05,3.5,3.4
+2015-04-12,Udinese,Palermo,2.25,3.1,3.4
+2015-04-13,St Mirren,Ross County,2.8,3.4,2.4
+2015-04-13,Liverpool,Newcastle,1.4,5.0,9.0
+2015-04-13,Valencia,Levante,1.33,5.0,8.5
+2015-04-13,Estoril,Pacos Ferreira,2.25,3.2,3.25
+2015-04-14,Sheffield Weds,Brentford,3.6,3.5,2.15
+2015-04-14,Leeds,Norwich,7.5,4.2,1.53
+2015-04-14,Millwall,Wigan,2.9,3.4,2.6
+2015-04-14,Middlesbrough,Wolves,1.85,3.6,4.75
+2015-04-14,Birmingham,Blackburn,2.88,3.4,2.63
+2015-04-14,Bolton,Charlton,2.1,3.5,3.8
+2015-04-14,Reading,Bournemouth,6.5,4.33,1.55
+2015-04-14,Brighton,Huddersfield,2.1,3.5,3.75
+2015-04-14,Derby,Blackpool,1.22,7.0,15.0
+2015-04-14,Ipswich,Cardiff,1.75,3.75,5.25
+2015-04-15,Genoa,Parma,1.62,3.8,6.0
+2015-04-15,Celtic,Kilmarnock,1.17,7.0,15.0
+2015-04-15,Fulham,Rotherham,2.15,3.5,3.6
+2015-04-15,Nott'm Forest,Watford,3.2,3.6,2.3
+2015-04-15,Lyon,Bastia,1.4,4.5,8.0
+2015-04-17,Norwich,Middlesbrough,1.95,3.5,4.33
+2015-04-17,Gaziantepspor,Konyaspor,2.6,3.2,2.7
+2015-04-17,Nantes,Marseille,4.2,3.3,1.95
+2015-04-17,Cambuur,Excelsior,1.8,3.75,4.2
+2015-04-17,Ein Frankfurt,M'gladbach,4.2,3.75,1.85
+2015-04-17,Guimaraes,Sp Braga,3.4,3.3,2.15
+2015-04-17,Levante,Espanol,2.88,3.1,2.6
+2015-04-18,Belenenses,Benfica,15.0,6.0,1.2
+2015-04-18,Karabukspor,Genclerbirligi,2.0,3.3,3.8
+2015-04-18,Kasimpasa,Besiktas,3.0,3.25,2.38
+2015-04-18,Porto,Academica,1.08,10.0,26.0
+2015-04-18,Everton,Burnley,1.73,3.8,5.5
+2015-04-18,Real Madrid,Malaga,1.14,8.5,17.0
+2015-04-18,Dortmund,Paderborn,1.22,6.5,13.0
+2015-04-18,Crystal Palace,West Brom,1.95,3.5,4.5
+2015-04-18,AZ Alkmaar,Den Haag,1.75,3.75,4.33
+2015-04-18,PSV Eindhoven,Heerenveen,1.3,5.25,9.5
+2015-04-18,Vitesse,Dordrecht,1.13,8.0,19.0
+2015-04-18,Willem II,Groningen,1.91,3.6,3.75
+2015-04-18,Metz,Lens,2.2,3.3,3.4
+2015-04-18,Monaco,Rennes,1.67,3.6,6.0
+2015-04-18,Nice,Paris SG,6.0,3.8,1.62
+2015-04-18,Augsburg,Stuttgart,2.2,3.4,3.3
+2015-04-18,Blackburn,Nott'm Forest,2.05,3.6,3.8
+2015-04-18,Blackpool,Fulham,4.0,3.8,1.95
+2015-04-18,Bournemouth,Sheffield Weds,1.36,5.25,10.0
+2015-04-18,La Coruna,Ath Madrid,4.5,3.5,1.85
+2015-04-18,Hoffenheim,Bayern Munich,5.5,4.2,1.6
+2015-04-18,Leicester,Swansea,2.15,3.4,3.75
+2015-04-18,Lorient,Toulouse,2.15,3.25,3.6
+2015-04-18,Stoke,Southampton,3.5,3.25,2.3
+2015-04-18,Freiburg,Mainz,2.8,3.3,2.6
+2015-04-18,Huddersfield,Derby,3.8,3.75,2.0
+2015-04-18,Charlton,Leeds,2.0,3.6,4.0
+2015-04-18,Wolves,Ipswich,2.4,3.5,3.1
+2015-04-18,Cardiff,Millwall,2.1,3.5,3.8
+2015-04-18,Guingamp,Evian Thonon Gaillard,1.95,3.3,4.33
+2015-04-18,Sampdoria,Cesena,1.57,3.8,6.5
+2015-04-18,Juventus,Lazio,1.95,3.4,4.33
+2015-04-18,Watford,Birmingham,1.4,5.25,8.0
+2015-04-18,Hertha,FC Koln,2.5,3.1,3.1
+2015-04-18,Ath Bilbao,Getafe,1.67,3.75,5.5
+2015-04-18,Brentford,Bolton,1.53,4.5,6.5
+2015-04-18,Bastia,Reims,2.15,3.25,3.6
+2015-04-18,Chelsea,Man United,2.0,3.4,4.33
+2015-04-18,Aberdeen,Dundee United,1.57,4.33,5.0
+2015-04-18,Leverkusen,Hannover,1.36,5.25,8.0
+2015-04-18,Barcelona,Valencia,1.22,7.0,12.0
+2015-04-18,Wigan,Brighton,2.6,3.4,2.9
+2015-04-19,Villarreal,Cordoba,1.3,5.25,11.0
+2015-04-19,Eibar,Celta,3.4,3.3,2.2
+2015-04-19,Lille,Bordeaux,2.15,3.1,3.8
+2015-04-19,Lyon,St Etienne,1.95,3.4,4.2
+2015-04-19,Wolfsburg,Schalke 04,1.7,3.8,5.0
+2015-04-19,Montpellier,Caen,1.95,3.5,4.0
+2015-04-19,Penafiel,Arouca,3.0,3.0,2.5
+2015-04-19,Newcastle,Tottenham,3.3,3.5,2.3
+2015-04-19,Gil Vicente,Rio Ave,3.0,3.0,2.5
+2015-04-19,Roma,Atalanta,1.44,4.5,7.5
+2015-04-19,Palermo,Genoa,2.2,3.25,3.5
+2015-04-19,Inter,Milan,2.25,3.3,3.3
+2015-04-19,Empoli,Parma,1.53,3.8,6.5
+2015-04-19,Chievo,Udinese,2.25,3.1,3.6
+2015-04-19,Cagliari,Napoli,3.8,3.6,1.95
+2015-04-19,Trabzonspor,Galatasaray,2.5,3.5,2.63
+2015-04-19,Sivasspor,Balikesirspor,1.53,4.0,6.0
+2015-04-19,Erciyesspor,Eskisehirspor,2.9,3.25,2.4
+2015-04-19,Pacos Ferreira,Moreirense,2.0,3.3,3.8
+2015-04-19,Buyuksehyr,Rizespor,1.75,3.6,4.75
+2015-04-19,Feyenoord,Go Ahead Eagles,1.17,7.0,15.0
+2015-04-19,Heracles,Zwolle,2.4,3.4,2.8
+2015-04-19,Utrecht,Twente,2.7,3.5,2.45
+2015-04-19,Granada,Sevilla,4.33,3.6,1.85
+2015-04-19,Man City,West Ham,1.25,6.5,11.0
+2015-04-19,Sassuolo,Torino,3.2,3.2,2.38
+2015-04-19,Werder Bremen,Hamburg,2.0,3.5,3.8
+2015-04-19,Sp Lisbon,Boavista,1.17,6.5,19.0
+2015-04-19,Setubal,Estoril,2.7,3.1,2.7
+2015-04-19,Ajax,NAC Breda,1.25,5.75,11.0
+2015-04-19,Vallecano,Almeria,1.8,3.8,4.33
+2015-04-20,Fiorentina,Verona,1.44,4.5,7.5
+2015-04-20,Elche,Sociedad,2.6,3.1,2.9
+2015-04-20,Maritimo,Nacional,2.5,3.1,2.9
+2015-04-20,Fenerbahce,Bursaspor,1.62,4.0,5.0
+2015-04-20,Mersin Idman Yurdu,Akhisar Belediyespor,2.2,3.3,3.25
+2015-04-21,Blackburn,Millwall,2.05,3.6,3.8
+2015-04-22,Dundee,Celtic,12.0,5.5,1.25
+2015-04-22,Reading,Birmingham,2.05,3.6,3.8
+2015-04-24,Cordoba,Ath Bilbao,4.2,3.5,1.91
+2015-04-24,Sp Braga,Belenenses,1.4,4.2,9.0
+2015-04-24,Marseille,Lorient,1.36,4.8,9.0
+2015-04-24,Sivasspor,Mersin Idman Yurdu,1.91,3.6,3.8
+2015-04-24,Hamilton,Motherwell,2.3,3.4,3.0
+2015-04-24,Den Haag,Vitesse,3.6,3.6,1.95
+2015-04-24,Mainz,Schalke 04,2.45,3.3,2.9
+2015-04-25,Bayern Munich,Hertha,1.17,7.5,17.0
+2015-04-25,Inter,Roma,2.4,3.25,3.1
+2015-04-25,Excelsior,PSV Eindhoven,6.0,4.33,1.5
+2015-04-25,Go Ahead Eagles,Utrecht,2.45,3.5,2.7
+2015-04-25,Heerenveen,Willem II,1.75,3.75,4.33
+2015-04-25,NAC Breda,Heracles,2.25,3.6,2.9
+2015-04-25,Udinese,Milan,3.1,3.25,2.38
+2015-04-25,Getafe,Levante,2.2,3.2,3.5
+2015-04-25,Espanol,Barcelona,12.0,6.0,1.25
+2015-04-25,Ath Madrid,Elche,1.18,7.0,17.0
+2015-04-25,Hannover,Hoffenheim,2.4,3.5,2.88
+2015-04-25,Hamburg,Augsburg,2.7,3.4,2.6
+2015-04-25,FC Koln,Leverkusen,4.75,3.8,1.75
+2015-04-25,Dortmund,Ein Frankfurt,1.33,5.25,9.0
+2015-04-25,Stuttgart,Freiburg,1.91,3.6,4.0
+2015-04-25,Academica,Gil Vicente,2.05,3.2,3.8
+2015-04-25,Sociedad,Villarreal,2.9,3.3,2.5
+2015-04-25,Rio Ave,Guimaraes,2.63,3.1,2.8
+2015-04-25,Fulham,Middlesbrough,5.25,3.8,1.75
+2015-04-25,Cardiff,Blackpool,1.53,4.33,7.0
+2015-04-25,Brighton,Watford,4.33,3.7,1.91
+2015-04-25,Birmingham,Charlton,2.25,3.4,3.5
+2015-04-25,Bordeaux,Metz,1.62,3.75,6.0
+2015-04-25,Caen,Guingamp,2.2,3.1,3.6
+2015-04-25,Evian Thonon Gaillard,Bastia,2.0,3.2,4.0
+2015-04-25,Paris SG,Lille,1.36,4.6,10.0
+2015-04-25,Rennes,Nice,2.0,3.2,4.2
+2015-04-25,Estoril,Maritimo,2.0,3.3,3.75
+2015-04-25,Burnley,Leicester,2.63,3.3,2.9
+2015-04-25,Crystal Palace,Hull,2.05,3.3,4.2
+2015-04-25,Man City,Aston Villa,1.29,6.0,12.0
+2015-04-25,Newcastle,Swansea,2.45,3.25,3.25
+2015-04-25,Bursaspor,Buyuksehyr,2.0,3.5,3.6
+2015-04-25,St Mirren,Kilmarnock,2.8,3.6,2.3
+2015-04-25,Ross County,Partick,2.4,3.6,2.7
+2015-04-25,Inverness C,Aberdeen,2.88,3.6,2.3
+2015-04-25,Dundee,St Johnstone,2.75,3.1,2.63
+2015-04-25,QPR,West Ham,2.38,3.4,3.25
+2015-04-25,Southampton,Tottenham,2.1,3.5,3.8
+2015-04-25,Stoke,Sunderland,1.91,3.5,4.75
+2015-04-25,West Brom,Liverpool,4.0,3.6,2.0
+2015-04-25,Eskisehirspor,Fenerbahce,4.33,3.75,1.75
+2015-04-25,Rizespor,Kasimpasa,2.3,3.5,2.88
+2015-04-25,Huddersfield,Blackburn,2.4,3.5,3.1
+2015-04-25,Ipswich,Nott'm Forest,1.62,4.2,6.0
+2015-04-25,Toulouse,Nantes,2.05,3.2,4.0
+2015-04-25,Reading,Brentford,3.75,3.75,2.05
+2015-04-25,Rotherham,Norwich,6.25,4.0,1.62
+2015-04-25,Sheffield Weds,Leeds,1.75,3.75,5.25
+2015-04-25,Wigan,Wolves,3.1,3.5,2.4
+2015-04-25,Millwall,Derby,4.75,3.8,1.8
+2015-04-26,Celta,Real Madrid,5.5,4.33,1.57
+2015-04-26,Malaga,La Coruna,1.73,3.6,5.25
+2015-04-26,Dundee United,Celtic,9.0,5.0,1.33
+2015-04-26,Sevilla,Vallecano,1.36,5.25,8.0
+2015-04-26,Lazio,Chievo,1.4,4.75,8.0
+2015-04-26,Nacional,Penafiel,1.57,3.6,6.5
+2015-04-26,Everton,Man United,3.75,3.4,2.15
+2015-04-26,Napoli,Sampdoria,1.5,4.2,7.0
+2015-04-26,Boavista,Setubal,2.4,3.1,3.1
+2015-04-26,Arouca,Pacos Ferreira,2.7,3.0,2.75
+2015-04-26,Balikesirspor,Erciyesspor,2.3,3.4,3.0
+2015-04-26,Galatasaray,Gaziantepspor,1.3,5.25,9.5
+2015-04-26,Genclerbirligi,Trabzonspor,3.2,3.5,2.15
+2015-04-26,Konyaspor,Akhisar Belediyespor,2.0,3.5,3.6
+2015-04-26,Arsenal,Chelsea,2.4,3.3,3.3
+2015-04-26,St Etienne,Montpellier,1.75,3.4,5.5
+2015-04-26,Almeria,Eibar,2.2,3.2,3.6
+2015-04-26,Dordrecht,Cambuur,4.5,3.8,1.73
+2015-04-26,Verona,Sassuolo,2.2,3.3,3.4
+2015-04-26,M'gladbach,Wolfsburg,2.4,3.5,2.88
+2015-04-26,Paderborn,Werder Bremen,2.7,3.4,2.6
+2015-04-26,Torino,Juventus,4.33,3.25,1.95
+2015-04-26,Parma,Palermo,3.3,3.3,2.25
+2015-04-26,Genoa,Cesena,1.57,4.0,6.0
+2015-04-26,Reims,Lyon,5.0,3.6,1.75
+2015-04-26,Fiorentina,Cagliari,1.44,4.75,7.5
+2015-04-26,Atalanta,Empoli,2.5,3.0,3.2
+2015-04-26,Benfica,Porto,2.4,3.3,2.88
+2015-04-26,Twente,AZ Alkmaar,1.73,4.0,4.33
+2015-04-26,Lens,Monaco,5.75,3.4,1.73
+2015-04-26,Zwolle,Ajax,3.0,3.5,2.25
+2015-04-26,Groningen,Feyenoord,4.5,3.75,1.75
+2015-04-27,Bournemouth,Bolton,1.29,6.0,12.0
+2015-04-27,Valencia,Granada,1.33,5.25,9.5
+2015-04-27,Moreirense,Sp Lisbon,7.0,3.75,1.53
+2015-04-27,Besiktas,Karabukspor,1.5,4.33,6.0
+2015-04-28,Rotherham,Reading,1.91,3.6,4.5
+2015-04-28,Udinese,Inter,3.3,3.3,2.25
+2015-04-28,Paris SG,Metz,1.13,9.0,19.0
+2015-04-28,Hull,Liverpool,4.33,3.4,2.0
+2015-04-28,Ath Bilbao,Sociedad,1.67,3.8,5.5
+2015-04-28,Levante,Cordoba,1.85,3.5,4.5
+2015-04-28,Barcelona,Getafe,1.04,17.0,41.0
+2015-04-29,Chievo,Cagliari,2.1,3.5,3.5
+2015-04-29,Lazio,Parma,1.25,5.5,15.0
+2015-04-29,Cesena,Atalanta,2.88,3.1,2.63
+2015-04-29,Milan,Genoa,1.95,3.6,3.8
+2015-04-29,Sassuolo,Roma,4.33,3.75,1.8
+2015-04-29,Palermo,Torino,2.6,3.2,2.8
+2015-04-29,Sampdoria,Verona,1.67,3.75,5.5
+2015-04-29,Juventus,Fiorentina,1.67,3.75,5.5
+2015-04-29,Leicester,Chelsea,5.75,3.8,1.7
+2015-04-29,Celta,Malaga,1.73,3.75,5.0
+2015-04-29,Eibar,Sevilla,6.0,4.0,1.57
+2015-04-29,Elche,La Coruna,2.25,3.2,3.4
+2015-04-29,Real Madrid,Almeria,1.06,13.0,29.0
+2015-04-29,Villarreal,Ath Madrid,3.4,3.3,2.2
+2015-04-30,Vallecano,Valencia,4.0,3.6,1.91
+2015-04-30,Empoli,Napoli,4.5,3.6,1.8
+2015-04-30,Granada,Espanol,2.5,3.1,3.0
+2015-05-01,Guimaraes,Estoril,1.85,3.4,4.33
+2015-05-01,Celtic,Dundee,1.13,7.5,23.0
+2015-05-01,Sociedad,Levante,1.85,3.7,4.33
+2015-05-01,Metz,Marseille,4.6,3.8,1.75
+2015-05-02,Aston Villa,Everton,2.75,3.3,2.8
+2015-05-02,Leicester,Newcastle,1.91,3.7,4.33
+2015-05-02,Sassuolo,Palermo,2.7,3.25,2.7
+2015-05-02,Sampdoria,Juventus,3.0,3.3,2.4
+2015-05-02,West Ham,Burnley,2.25,3.5,3.4
+2015-05-02,Swansea,Stoke,2.3,3.4,3.4
+2015-05-02,Sunderland,Southampton,4.2,3.4,2.05
+2015-05-02,Dundee United,Aberdeen,4.0,3.75,1.83
+2015-05-02,Kilmarnock,Hamilton,2.3,3.6,2.75
+2015-05-02,Motherwell,Ross County,2.7,3.4,2.5
+2015-05-02,Partick,St Mirren,1.57,4.0,5.5
+2015-05-02,St Johnstone,Inverness C,2.7,3.6,2.4
+2015-05-02,Werder Bremen,Ein Frankfurt,2.05,3.75,3.4
+2015-05-02,Charlton,Bournemouth,7.0,4.75,1.5
+2015-05-02,Blackpool,Huddersfield,4.5,3.8,1.85
+2015-05-02,Schalke 04,Stuttgart,1.91,3.6,4.0
+2015-05-02,Leverkusen,Bayern Munich,2.38,3.3,3.1
+2015-05-02,Hoffenheim,Dortmund,4.0,4.0,1.83
+2015-05-02,Freiburg,Paderborn,1.91,3.6,4.0
+2015-05-02,Augsburg,FC Koln,2.1,3.4,3.6
+2015-05-02,Wolves,Millwall,1.4,5.0,9.0
+2015-05-02,Watford,Sheffield Weds,1.36,5.25,10.0
+2015-05-02,Nott'm Forest,Cardiff,2.0,3.8,3.8
+2015-05-02,Norwich,Fulham,1.45,4.5,8.5
+2015-05-02,Middlesbrough,Brighton,1.6,4.0,6.5
+2015-05-02,Leeds,Rotherham,2.4,3.4,3.2
+2015-05-02,Derby,Reading,1.36,5.5,9.0
+2015-05-02,Wolfsburg,Hannover,1.4,4.75,8.0
+2015-05-02,Brentford,Wigan,1.36,5.25,9.5
+2015-05-02,Bolton,Birmingham,2.3,3.5,3.3
+2015-05-02,Blackburn,Ipswich,3.3,3.5,2.3
+2015-05-02,Buyuksehyr,Eskisehirspor,1.83,3.6,4.2
+2015-05-02,Liverpool,QPR,1.36,5.25,10.0
+2015-05-02,Ath Madrid,Ath Bilbao,1.4,4.5,8.5
+2015-05-02,Lyon,Evian Thonon Gaillard,1.25,5.75,13.0
+2015-05-02,Lorient,Bordeaux,2.5,3.2,3.0
+2015-05-02,Guingamp,Reims,2.05,3.4,3.75
+2015-05-02,Bastia,St Etienne,3.6,3.1,2.25
+2015-05-02,Sp Lisbon,Nacional,1.33,5.0,9.0
+2015-05-02,Gil Vicente,Benfica,13.0,6.5,1.2
+2015-05-02,Montpellier,Rennes,2.05,3.3,3.8
+2015-05-02,Sevilla,Real Madrid,3.5,3.6,2.05
+2015-05-02,Cordoba,Barcelona,26.0,11.0,1.08
+2015-05-02,Fenerbahce,Balikesirspor,1.17,6.5,17.0
+2015-05-02,Karabukspor,Rizespor,1.91,3.6,3.8
+2015-05-02,Mersin Idman Yurdu,Konyaspor,2.2,3.3,3.3
+2015-05-02,Man United,West Brom,1.36,5.25,10.0
+2015-05-02,La Coruna,Villarreal,3.6,3.4,2.1
+2015-05-02,Nice,Caen,2.1,3.3,3.7
+2015-05-03,Atalanta,Lazio,5.0,3.75,1.73
+2015-05-03,Fiorentina,Cesena,1.36,5.0,8.5
+2015-05-03,Penafiel,Academica,3.1,3.1,2.4
+2015-05-03,Malaga,Elche,1.62,3.8,6.0
+2015-05-03,Getafe,Granada,2.05,3.25,4.0
+2015-05-03,Setubal,Porto,13.0,6.5,1.2
+2015-05-03,Inter,Chievo,1.4,4.75,8.0
+2015-05-03,Maritimo,Arouca,2.05,3.2,3.75
+2015-05-03,Boavista,Moreirense,2.5,3.1,2.9
+2015-05-03,Espanol,Vallecano,1.73,3.8,4.5
+2015-05-03,Gaziantepspor,Genclerbirligi,2.5,3.3,2.75
+2015-05-03,Valencia,Eibar,1.22,6.5,13.0
+2015-05-03,Kasimpasa,Bursaspor,2.75,3.4,2.45
+2015-05-03,Napoli,Milan,1.5,4.33,6.5
+2015-05-03,Verona,Udinese,2.1,3.6,3.4
+2015-05-03,Chelsea,Crystal Palace,1.36,5.25,10.0
+2015-05-03,Tottenham,Man City,3.75,3.75,2.05
+2015-05-03,Mainz,Hamburg,1.73,3.8,4.75
+2015-05-03,Hertha,M'gladbach,5.0,3.6,1.75
+2015-05-03,Roma,Genoa,1.57,4.0,6.0
+2015-05-03,Nantes,Paris SG,10.0,5.0,1.33
+2015-05-03,Monaco,Toulouse,1.44,4.33,8.0
+2015-05-03,Lille,Lens,1.53,3.8,7.5
+2015-05-03,Trabzonspor,Besiktas,2.55,3.3,2.7
+2015-05-04,Akhisar Belediyespor,Galatasaray,4.0,3.6,1.85
+2015-05-04,Pacos Ferreira,Sp Braga,3.5,3.2,2.15
+2015-05-04,Belenenses,Rio Ave,2.25,3.2,3.25
+2015-05-04,Erciyesspor,Sivasspor,2.88,3.4,2.38
+2015-05-04,Cagliari,Parma,1.67,3.8,5.25
+2015-05-04,Hull,Arsenal,5.5,4.0,1.7
+2015-05-04,Almeria,Celta,3.75,3.4,2.05
+2015-05-05,Inverness C,Dundee United,1.85,3.5,4.2
+2015-05-06,Torino,Empoli,1.83,3.5,4.5
+2015-05-08,Paris SG,Guingamp,1.13,8.5,23.0
+2015-05-08,Eibar,Espanol,2.8,3.1,2.7
+2015-05-08,Hamburg,Freiburg,2.2,3.4,3.3
+2015-05-08,Eskisehirspor,Kasimpasa,2.38,3.3,2.9
+2015-05-08,Erciyesspor,Mersin Idman Yurdu,2.8,3.4,2.45
+2015-05-08,Motherwell,Kilmarnock,2.1,3.5,3.3
+2015-05-08,Galatasaray,Konyaspor,1.2,6.5,13.0
+2015-05-09,Rennes,Bastia,2.05,3.25,4.0
+2015-05-09,Dortmund,Hertha,1.29,5.5,11.0
+2015-05-09,Ein Frankfurt,Hoffenheim,2.8,3.6,2.4
+2015-05-09,Hannover,Werder Bremen,2.0,3.6,3.6
+2015-05-09,Ath Bilbao,La Coruna,1.57,3.8,6.5
+2015-05-09,Barcelona,Sociedad,1.05,15.0,34.0
+2015-05-09,Granada,Cordoba,1.44,4.5,7.5
+2015-05-09,Real Madrid,Valencia,1.4,4.75,8.0
+2015-05-09,St Johnstone,Dundee United,2.3,3.4,3.0
+2015-05-09,Ross County,St Mirren,1.57,4.33,5.0
+2015-05-09,Hamilton,Partick,2.8,3.4,2.4
+2015-05-09,Dundee,Inverness C,3.3,3.5,2.1
+2015-05-09,Bordeaux,Nantes,1.57,3.6,7.0
+2015-05-09,Caen,Lyon,5.0,3.75,1.73
+2015-05-09,Evian Thonon Gaillard,Reims,2.1,3.3,3.75
+2015-05-09,Metz,Lorient,2.6,3.25,2.8
+2015-05-09,M'gladbach,Leverkusen,2.5,3.4,2.8
+2015-05-09,Stuttgart,Mainz,2.0,3.5,3.8
+2015-05-09,Bayern Munich,Augsburg,1.53,4.33,6.0
+2015-05-09,Toulouse,Lille,2.5,3.2,3.0
+2015-05-09,Benfica,Penafiel,1.05,13.0,26.0
+2015-05-09,Rio Ave,Pacos Ferreira,2.38,3.4,2.88
+2015-05-09,Sp Braga,Maritimo,1.44,4.33,7.0
+2015-05-09,Juventus,Cagliari,1.53,4.1,6.5
+2015-05-09,Milan,Roma,3.8,3.5,2.0
+2015-05-09,Academica,Belenenses,2.5,3.0,3.0
+2015-05-09,Bursaspor,Karabukspor,1.73,3.6,4.75
+2015-05-09,Genclerbirligi,Akhisar Belediyespor,1.91,3.4,4.0
+2015-05-09,Sivasspor,Fenerbahce,4.75,3.75,1.7
+2015-05-09,Balikesirspor,Buyuksehyr,5.5,3.6,1.67
+2015-05-09,Aston Villa,West Ham,1.91,3.7,4.33
+2015-05-09,Crystal Palace,Man United,4.5,3.6,1.91
+2015-05-09,Everton,Sunderland,1.8,3.75,5.0
+2015-05-09,Stoke,Tottenham,2.9,3.4,2.6
+2015-05-09,Newcastle,West Brom,2.55,3.3,3.0
+2015-05-09,Leicester,Southampton,2.6,3.4,2.9
+2015-05-09,Hull,Burnley,1.95,3.5,4.5
+2015-05-10,Parma,Napoli,9.0,5.25,1.33
+2015-05-10,Arouca,Boavista,1.91,3.4,4.0
+2015-05-10,Estoril,Sp Lisbon,5.5,3.5,1.67
+2015-05-10,Moreirense,Setubal,2.1,3.4,3.4
+2015-05-10,Porto,Gil Vicente,1.06,12.0,26.0
+2015-05-10,Celta,Sevilla,2.75,3.5,2.5
+2015-05-10,Levante,Ath Madrid,7.5,3.8,1.53
+2015-05-10,Villarreal,Elche,1.36,5.0,8.5
+2015-05-10,Marseille,Monaco,2.2,3.3,3.4
+2015-05-10,Udinese,Sampdoria,2.6,3.2,2.75
+2015-05-10,Lens,Montpellier,4.33,3.4,1.91
+2015-05-10,Cesena,Sassuolo,2.55,3.4,2.75
+2015-05-10,Chievo,Verona,2.25,3.3,3.3
+2015-05-10,Chelsea,Liverpool,2.1,3.5,3.8
+2015-05-10,Aberdeen,Celtic,4.33,4.0,1.73
+2015-05-10,Empoli,Fiorentina,2.63,3.3,2.63
+2015-05-10,Lazio,Inter,1.8,3.75,4.33
+2015-05-10,Palermo,Atalanta,2.15,3.4,3.5
+2015-05-10,St Etienne,Nice,1.62,3.75,6.0
+2015-05-10,Man City,QPR,1.22,7.5,13.0
+2015-05-10,Almeria,Malaga,2.63,3.2,2.8
+2015-05-10,Twente,Dordrecht,1.2,6.5,13.0
+2015-05-10,AZ Alkmaar,NAC Breda,1.62,4.0,5.25
+2015-05-10,Willem II,Den Haag,2.05,3.6,3.3
+2015-05-10,Go Ahead Eagles,Heerenveen,2.88,3.5,2.3
+2015-05-10,Groningen,Zwolle,2.0,3.75,3.4
+2015-05-10,PSV Eindhoven,Heracles,1.2,6.5,13.0
+2015-05-10,Besiktas,Gaziantepspor,1.22,6.0,12.0
+2015-05-10,Rizespor,Trabzonspor,3.1,3.4,2.25
+2015-05-10,Utrecht,Excelsior,2.1,3.6,3.25
+2015-05-10,Paderborn,Wolfsburg,4.75,4.2,1.67
+2015-05-10,Ajax,Cambuur,1.4,5.0,6.5
+2015-05-10,FC Koln,Schalke 04,2.75,3.3,2.6
+2015-05-11,Feyenoord,Vitesse,1.85,3.5,4.2
+2015-05-11,Genoa,Torino,2.4,3.3,3.0
+2015-05-11,Arsenal,Swansea,1.3,6.0,11.0
+2015-05-11,Nacional,Guimaraes,2.3,3.4,3.0
+2015-05-11,Vallecano,Getafe,1.95,3.5,4.0
+2015-05-12,Mersin Idman Yurdu,Galatasaray,5.75,4.33,1.45
+2015-05-12,Konyaspor,Genclerbirligi,2.2,3.3,3.25
+2015-05-12,Buyuksehyr,Sivasspor,1.55,4.0,6.0
+2015-05-12,Kasimpasa,Balikesirspor,1.44,4.5,6.5
+2015-05-12,Karabukspor,Eskisehirspor,1.83,3.75,4.0
+2015-05-13,Trabzonspor,Bursaspor,2.38,3.4,2.88
+2015-05-13,Gaziantepspor,Rizespor,2.88,3.3,2.4
+2015-05-13,Fenerbahce,Erciyesspor,1.13,8.5,17.0
+2015-05-14,Akhisar Belediyespor,Besiktas,6.5,4.2,1.5
+2015-05-15,St Johnstone,Celtic,8.0,4.75,1.36
+2015-05-16,Liverpool,Crystal Palace,1.45,4.75,8.0
+2015-05-16,Ross County,Hamilton,1.85,3.8,3.8
+2015-05-16,Partick,Kilmarnock,1.8,3.5,4.5
+2015-05-16,Inverness C,Dundee United,1.91,3.6,3.8
+2015-05-16,Inter,Juventus,2.25,3.3,3.3
+2015-05-16,Sampdoria,Lazio,3.25,3.25,2.25
+2015-05-16,Augsburg,Hannover,2.3,3.4,3.1
+2015-05-16,Freiburg,Bayern Munich,7.0,4.2,1.5
+2015-05-16,Hertha,Ein Frankfurt,2.0,3.5,3.75
+2015-05-16,Leverkusen,Hoffenheim,1.4,5.0,7.5
+2015-05-16,Mainz,FC Koln,2.1,3.4,3.6
+2015-05-16,Schalke 04,Paderborn,1.62,4.2,5.25
+2015-05-16,Stuttgart,Hamburg,1.75,3.8,4.75
+2015-05-16,St Mirren,Motherwell,3.75,3.5,1.95
+2015-05-16,Dundee,Aberdeen,4.5,4.0,1.7
+2015-05-16,Balikesirspor,Karabukspor,4.2,3.75,1.8
+2015-05-16,Galatasaray,Genclerbirligi,1.22,6.5,11.0
+2015-05-16,Burnley,Stoke,2.7,3.3,2.88
+2015-05-16,West Ham,Everton,2.9,3.4,2.6
+2015-05-16,Tottenham,Hull,1.8,3.8,4.75
+2015-05-16,Sunderland,Leicester,2.8,3.3,2.75
+2015-05-16,Southampton,Aston Villa,1.75,3.8,5.25
+2015-05-16,QPR,Newcastle,3.1,3.5,2.4
+2015-05-16,Sivasspor,Kasimpasa,2.4,3.5,2.8
+2015-05-16,Nice,Lens,1.62,3.8,6.0
+2015-05-16,Wolfsburg,Dortmund,2.63,3.5,2.6
+2015-05-16,Montpellier,Paris SG,7.5,4.5,1.44
+2015-05-16,Monaco,Metz,1.22,6.0,15.0
+2015-05-16,Lyon,Bordeaux,1.8,3.8,4.33
+2015-05-16,Lille,Marseille,3.2,3.3,2.3
+2015-05-16,Guingamp,Toulouse,2.5,3.2,3.0
+2015-05-16,Evian Thonon Gaillard,St Etienne,4.2,3.5,1.91
+2015-05-16,Bastia,Caen,2.3,3.3,3.2
+2015-05-16,Reims,Rennes,2.15,3.3,3.5
+2015-05-16,Nantes,Lorient,2.7,3.2,2.7
+2015-05-16,Werder Bremen,M'gladbach,4.33,4.0,1.75
+2015-05-17,Man United,Arsenal,2.45,3.5,3.0
+2015-05-17,Swansea,Man City,4.75,4.2,1.75
+2015-05-17,Mersin Idman Yurdu,Fenerbahce,7.5,5.0,1.36
+2015-05-17,Eskisehirspor,Trabzonspor,3.8,3.6,1.91
+2015-05-17,Sp Lisbon,Sp Braga,1.73,3.6,4.75
+2015-05-17,Bursaspor,Gaziantepspor,1.36,4.75,9.0
+2015-05-17,Erciyesspor,Buyuksehyr,5.5,4.0,1.57
+2015-05-17,Dordrecht,Ajax,11.0,5.75,1.25
+2015-05-17,Den Haag,PSV Eindhoven,7.0,4.75,1.4
+2015-05-17,Cambuur,Willem II,2.25,3.6,2.9
+2015-05-17,Verona,Empoli,2.6,3.3,2.75
+2015-05-17,Torino,Chievo,1.7,3.6,5.5
+2015-05-17,Atalanta,Genoa,2.55,3.3,2.8
+2015-05-17,Cagliari,Palermo,2.05,3.6,3.5
+2015-05-17,Roma,Udinese,1.3,5.5,10.0
+2015-05-17,Sassuolo,Milan,3.25,3.4,2.2
+2015-05-17,Belenenses,Porto,15.0,6.0,1.2
+2015-05-17,Guimaraes,Benfica,11.0,6.0,1.25
+2015-05-17,Maritimo,Rio Ave,2.1,3.3,3.5
+2015-05-17,Moreirense,Estoril,2.25,3.25,3.2
+2015-05-17,Pacos Ferreira,Academica,1.8,3.6,4.33
+2015-05-17,Penafiel,Gil Vicente,3.1,3.25,2.3
+2015-05-17,Setubal,Arouca,2.2,3.2,3.4
+2015-05-17,Heerenveen,Twente,2.6,3.6,2.5
+2015-05-17,Heracles,Go Ahead Eagles,1.62,4.0,5.0
+2015-05-17,Excelsior,AZ Alkmaar,3.4,3.75,2.0
+2015-05-17,Elche,Ath Bilbao,3.5,3.3,2.1
+2015-05-17,Villarreal,Malaga,1.85,3.6,4.33
+2015-05-17,Valencia,Celta,1.62,4.2,5.25
+2015-05-17,Sociedad,Granada,2.15,3.3,3.5
+2015-05-17,Sevilla,Almeria,1.25,6.0,12.0
+2015-05-17,La Coruna,Levante,1.75,3.6,4.75
+2015-05-17,Getafe,Eibar,2.2,3.2,3.5
+2015-05-17,Vitesse,Utrecht,1.25,6.0,10.0
+2015-05-17,Zwolle,Feyenoord,4.2,4.0,1.73
+2015-05-17,Espanol,Real Madrid,6.5,4.33,1.5
+2015-05-17,Ath Madrid,Barcelona,4.75,3.6,1.75
+2015-05-17,Cordoba,Vallecano,4.33,3.75,1.75
+2015-05-17,NAC Breda,Groningen,2.6,3.6,2.5
+2015-05-18,West Brom,Chelsea,4.1,3.5,2.0
+2015-05-18,Fiorentina,Parma,1.22,6.5,13.0
+2015-05-18,Napoli,Cesena,1.18,7.0,17.0
+2015-05-18,Besiktas,Konyaspor,1.2,6.0,15.0
+2015-05-18,Rizespor,Akhisar Belediyespor,2.0,3.5,3.6
+2015-05-18,Boavista,Nacional,3.0,3.2,2.4
+2015-05-20,Arsenal,Sunderland,1.3,6.0,11.0
+2015-05-22,Genclerbirligi,Mersin Idman Yurdu,2.1,3.4,3.4
+2015-05-22,Porto,Penafiel,1.06,11.0,26.0
+2015-05-23,Kasimpasa,Erciyesspor,1.5,4.33,6.0
+2015-05-23,Konyaspor,Rizespor,1.91,3.4,4.0
+2015-05-23,Trabzonspor,Balikesirspor,1.33,5.0,8.5
+2015-05-23,St Etienne,Guingamp,1.25,6.0,12.0
+2015-05-23,Academica,Guimaraes,3.0,3.5,2.25
+2015-05-23,Gil Vicente,Belenenses,4.33,3.6,1.8
+2015-05-23,Estoril,Boavista,1.8,3.5,4.5
+2015-05-23,Benfica,Maritimo,1.17,7.5,13.0
+2015-05-23,Arouca,Moreirense,2.15,3.3,3.4
+2015-05-23,Bordeaux,Montpellier,2.05,3.4,3.8
+2015-05-23,Genoa,Inter,2.55,3.5,2.7
+2015-05-23,Juventus,Napoli,3.0,3.3,2.4
+2015-05-23,Rennes,Lyon,3.1,3.4,2.3
+2015-05-23,Paris SG,Reims,1.14,9.0,17.0
+2015-05-23,Metz,Lille,3.3,3.3,2.25
+2015-05-23,Marseille,Bastia,1.22,6.5,13.0
+2015-05-23,Lorient,Monaco,7.0,4.2,1.5
+2015-05-23,Lens,Nantes,3.4,3.3,2.2
+2015-05-23,Almeria,Valencia,4.75,4.2,1.67
+2015-05-23,Ath Bilbao,Villarreal,1.67,4.0,5.0
+2015-05-23,Barcelona,La Coruna,1.25,6.0,11.0
+2015-05-23,Celta,Espanol,1.7,4.0,4.75
+2015-05-23,Eibar,Cordoba,1.33,5.0,9.5
+2015-05-23,Granada,Ath Madrid,4.33,2.5,2.3
+2015-05-23,Levante,Elche,1.95,3.5,4.0
+2015-05-23,Malaga,Sevilla,3.3,3.75,2.1
+2015-05-23,Real Madrid,Getafe,1.13,9.0,21.0
+2015-05-23,Vallecano,Sociedad,1.85,3.8,4.0
+2015-05-23,Nacional,Pacos Ferreira,2.2,3.25,3.3
+2015-05-23,Rio Ave,Sp Lisbon,5.75,3.8,1.6
+2015-05-23,Caen,Evian Thonon Gaillard,1.75,3.8,4.5
+2015-05-23,Toulouse,Nice,1.91,3.6,4.0
+2015-05-23,Paderborn,Stuttgart,3.4,3.8,2.05
+2015-05-23,M'gladbach,Augsburg,1.55,4.5,5.5
+2015-05-23,Hoffenheim,Hertha,1.91,3.75,3.9
+2015-05-23,Hannover,Freiburg,1.95,3.6,3.8
+2015-05-23,Hamburg,Schalke 04,2.4,3.6,2.8
+2015-05-23,FC Koln,Wolfsburg,3.8,3.8,1.91
+2015-05-23,Ein Frankfurt,Leverkusen,4.5,4.33,1.67
+2015-05-23,Dortmund,Werder Bremen,1.29,5.75,10.0
+2015-05-23,Sp Braga,Setubal,1.4,4.5,7.5
+2015-05-23,Bayern Munich,Mainz,1.2,7.0,13.0
+2015-05-23,Motherwell,Partick,2.9,3.4,2.38
+2015-05-23,Kilmarnock,Ross County,3.0,3.6,2.2
+2015-05-23,Hamilton,St Mirren,1.73,3.8,4.5
+2015-05-24,Aberdeen,St Johnstone,1.91,3.6,3.75
+2015-05-24,Hull,Man United,3.2,3.75,2.25
+2015-05-24,Newcastle,West Ham,1.83,4.0,4.33
+2015-05-24,Man City,Southampton,1.57,4.5,6.0
+2015-05-24,Leicester,QPR,1.6,4.33,6.0
+2015-05-24,Everton,Tottenham,2.4,3.6,3.0
+2015-05-24,Crystal Palace,Swansea,2.25,3.6,3.3
+2015-05-24,Chelsea,Sunderland,1.36,5.25,9.5
+2015-05-24,Stoke,Liverpool,3.5,3.6,2.15
+2015-05-24,Celtic,Inverness C,1.25,5.75,11.0
+2015-05-24,Gaziantepspor,Eskisehirspor,2.75,3.25,2.55
+2015-05-24,Galatasaray,Besiktas,1.85,3.75,3.9
+2015-05-24,Karabukspor,Sivasspor,2.5,3.5,2.63
+2015-05-24,Arsenal,West Brom,1.4,5.25,8.5
+2015-05-24,Udinese,Sassuolo,2.05,3.5,3.6
+2015-05-24,Parma,Verona,2.63,3.5,2.63
+2015-05-24,Palermo,Fiorentina,3.4,3.5,2.15
+2015-05-24,Milan,Torino,2.5,3.3,2.88
+2015-05-24,Empoli,Sampdoria,2.4,3.4,2.9
+2015-05-24,Chievo,Atalanta,2.1,3.4,3.5
+2015-05-24,Cesena,Cagliari,2.55,3.5,2.7
+2015-05-24,Dundee United,Dundee,2.0,3.5,3.6
+2015-05-24,Aston Villa,Burnley,2.1,3.6,3.75
+2015-05-25,Akhisar Belediyespor,Bursaspor,5.0,3.75,1.67
+2015-05-25,Buyuksehyr,Fenerbahce,3.3,3.25,2.2
+2015-05-25,Lazio,Roma,2.4,3.3,3.0
+2015-05-29,Eskisehirspor,Akhisar Belediyespor,1.8,3.75,4.2
+2015-05-29,Erciyesspor,Karabukspor,2.45,3.5,2.7
+2015-05-29,Besiktas,Genclerbirligi,1.95,3.8,3.4
+2015-05-29,Balikesirspor,Gaziantepspor,2.25,3.75,2.8
+2015-05-30,Atalanta,Milan,2.75,3.5,2.5
+2015-05-30,Mersin Idman Yurdu,Buyuksehyr,6.0,4.33,1.5
+2015-05-30,Fenerbahce,Kasimpasa,1.8,3.6,4.33
+2015-05-30,Bursaspor,Konyaspor,1.4,4.75,7.0
+2015-05-30,Rizespor,Galatasaray,3.1,3.5,2.2
+2015-05-30,Sivasspor,Trabzonspor,3.4,3.6,2.05
+2015-05-30,Verona,Juventus,5.0,3.75,1.7
+2015-05-31,Cagliari,Udinese,2.25,3.5,3.1
+2015-05-31,Fiorentina,Chievo,1.4,5.0,7.5
+2015-05-31,Inter,Empoli,1.53,4.33,6.0
+2015-05-31,Napoli,Lazio,2.1,3.5,3.5
+2015-05-31,Roma,Palermo,1.4,5.0,7.5
+2015-05-31,Sampdoria,Parma,1.36,5.25,8.0
+2015-05-31,Sassuolo,Genoa,2.9,3.5,2.4
+2015-05-31,Torino,Cesena,1.36,5.0,8.5
