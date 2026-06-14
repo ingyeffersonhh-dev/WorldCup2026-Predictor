@@ -513,7 +513,7 @@ def compute_predictions(
                 logger.warning("XGBoost prediction failed for %s vs %s: %s",
                                row["home_team"], row["away_team"], exc)
 
-        # Poisson score matrix
+        # Poisson score matrix & prediction
         if poisson is not None:
             try:
                 lambda_h, lambda_a = poisson.predict_lambdas(features)
@@ -521,6 +521,16 @@ def compute_predictions(
                 lambda_h_val = float(lambda_h.item() if hasattr(lambda_h, "item") else lambda_h)
                 lambda_a_val = float(lambda_a.item() if hasattr(lambda_a, "item") else lambda_a)
                 score_matrix = poisson.exact_score_prob(lambda_h_val, lambda_a_val, rho)
+
+                # Get Poisson 1X2 marginal probabilities
+                p_home_pois, p_draw_pois, p_away_pois = poisson.match_1x2_from_score_matrix(score_matrix)
+
+                # Ensemble (using 50/50 weighting like in Monte Carlo)
+                ensemble_alpha = 0.5
+                ph = ensemble_alpha * ph + (1.0 - ensemble_alpha) * p_home_pois
+                pd_ = ensemble_alpha * pd_ + (1.0 - ensemble_alpha) * p_draw_pois
+                pa = ensemble_alpha * pa + (1.0 - ensemble_alpha) * p_away_pois
+
             except Exception as exc:
                 logger.warning("Poisson prediction failed for %s vs %s: %s",
                                row["home_team"], row["away_team"], exc)
