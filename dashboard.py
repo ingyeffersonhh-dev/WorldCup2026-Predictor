@@ -531,6 +531,23 @@ def compute_predictions(
                 pd_ = ensemble_alpha * pd_ + (1.0 - ensemble_alpha) * p_draw_pois
                 pa = ensemble_alpha * pa + (1.0 - ensemble_alpha) * p_away_pois
 
+                # Adjust the score matrix so it perfectly matches the ensemble 1X2 probabilities
+                if score_matrix is not None and p_home_pois > 0 and p_draw_pois > 0 and p_away_pois > 0:
+                    adj_matrix = np.zeros_like(score_matrix)
+                    max_g = score_matrix.shape[0]
+                    for i in range(max_g):  # local goals
+                        for j in range(max_g):  # away goals
+                            if i > j:
+                                adj_matrix[i, j] = score_matrix[i, j] * (ph / p_home_pois)
+                            elif i == j:
+                                adj_matrix[i, j] = score_matrix[i, j] * (pd_ / p_draw_pois)
+                            else:
+                                adj_matrix[i, j] = score_matrix[i, j] * (pa / p_away_pois)
+                    
+                    # Normalize to ensure sum is exactly 1.0
+                    adj_matrix = adj_matrix / np.sum(adj_matrix)
+                    score_matrix = adj_matrix
+
             except Exception as exc:
                 logger.warning("Poisson prediction failed for %s vs %s: %s",
                                row["home_team"], row["away_team"], exc)
