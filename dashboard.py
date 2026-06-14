@@ -12,6 +12,7 @@ Based on spec R8.1-R8.6 and design C9.
 
 from __future__ import annotations
 
+import base64
 import json
 import logging
 import os
@@ -19,6 +20,8 @@ import subprocess
 import sys
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
+
+import requests
 
 import numpy as np
 import pandas as pd
@@ -40,6 +43,97 @@ FEATURE_STORE_PATH = DATA_PROCESSED / "feature_store.csv"
 CHAMPION_PROBS_PATH = DATA_PROCESSED / "champion_probs.csv"
 MATCH_PROBS_PATH = DATA_PROCESSED / "match_probs.csv"
 FEATURE_SCHEMA_PATH = MODELS_DIR / "feature_schema.json"
+
+# ── GitHub API helpers for live_results persistence ─────────────────────
+GITHUB_OWNER = "ingyeffersonhh-dev"
+GITHUB_REPO = "WorldCup2026-Predictor"
+LIVE_RESULTS_PATH = "data/raw/live_results.csv"
+
+
+def _github_api_headers() -> dict | None:
+    """Return auth headers if a GitHub token is configured, else None."""
+    token = st.secrets.get("github", {}).get("token")
+    if token:
+        return {
+            "Authorization": f"Bearer {token}",
+            "Accept": "application/vnd.github+json",
+        }
+    return None
+
+
+def _load_live_results_from_github() -> pd.DataFrame:
+    """Fetch live_results.csv from GitHub via the Contents API."""
+    headers = _github_api_headers()
+    if headers is None:
+        # Fallback: load from local file
+        local_path = Path("data/raw/live_results.csv")
+        if local_path.exists():
+            try:
+                return pd.read_csv(local_path)
+            except Exception:
+                return pd.DataFrame()
+        return pd.DataFrame()
+
+    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{LIVE_RESULTS_PATH}"
+    resp = requests.get(url, headers=headers)
+
+    if resp.status_code == 404:
+        return pd.DataFrame()  # File doesn't exist yet
+
+    if not resp.ok:
+        st.error(f"Error cargando desde GitHub: {resp.status_code}")
+        return pd.DataFrame()
+
+    data = resp.json()
+    content = base64.b64decode(data["content"]).decode("utf-8").strip()
+    # Cache the sha for later writes
+    st.session_state["live_results_sha"] = data["sha"]
+
+    if not content:
+        return pd.DataFrame()
+
+    try:
+        return pd.read_csv(pd.io.common.StringIO(content))
+    except Exception:
+        return pd.DataFrame()
+
+
+def _save_live_results_to_github(df: pd.DataFrame, message: str) -> bool:
+    """Save live_results.csv back to GitHub via the Contents API."""
+    headers = _github_api_headers()
+    if headers is None:
+        # Fallback: save locally (best-effort on Streamlit Cloud)
+        local_path = Path("data/raw/live_results.csv")
+        local_path.parent.mkdir(parents=True, exist_ok=True)
+        df.to_csv(local_path, index=False)
+        st.success("Guardado localmente (GitHub token no configurado).")
+        return True
+
+    csv_content = df.to_csv(index=False)
+    encoded = base64.b64encode(csv_content.encode("utf-8")).decode("utf-8")
+
+    body: dict[str, Any] = {
+        "message": message,
+        "content": encoded,
+    }
+
+    # Include sha for updates (existing files)
+    sha = st.session_state.get("live_results_sha")
+    if sha:
+        body["sha"] = sha
+
+    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{LIVE_RESULTS_PATH}"
+    resp = requests.put(url, json=body, headers=headers)
+
+    if not resp.ok:
+        st.error(f"Error guardando en GitHub: {resp.status_code} — {resp.text[:200]}")
+        return False
+
+    # Update cached sha from the response
+    result = resp.json()
+    st.session_state["live_results_sha"] = result["content"]["sha"]
+    return True
+
 
 # Feature columns (mirrors xgboost_model.py)
 FEATURE_COLUMNS: List[str] = [
@@ -1223,42 +1317,39 @@ def backtesting_view(feature_schema: Optional[Dict[str, Any]]) -> None:
 def live_results_view(fixture_df: pd.DataFrame) -> None:
     st.title("🔴 Resultados en Vivo")
     st.markdown("Ingresá los resultados reales de los partidos a medida que ocurren. Esto disparará el re-entrenamiento automático del modelo.")
-    
-    live_path = Path("data/raw/live_results.csv")
-    live_results = pd.DataFrame()
-    if live_path.exists():
-        try:
-            live_results = pd.read_csv(live_path)
-            st.success(f"Hay {len(live_results)} partidos registrados.")
-            
-            st.markdown("**Tabla de Resultados Guardados** (Modificá los goles en la tabla o borrá filas y apretá el botón para guardar)")
-            
-            # Tabla editable con altura fija para tener scroll y no ocupar toda la pantalla
-            edited_df = st.data_editor(
-                live_results,
-                column_config={
-                    "home_score": st.column_config.NumberColumn("Goles Local", min_value=0, max_value=20),
-                    "away_score": st.column_config.NumberColumn("Goles Visitante", min_value=0, max_value=20),
-                    "date": st.column_config.Column(disabled=True),
-                    "home_team": st.column_config.Column(disabled=True),
-                    "away_team": st.column_config.Column(disabled=True),
-                    "tournament": st.column_config.Column(disabled=True),
-                    "city": st.column_config.Column(disabled=True),
-                    "country": st.column_config.Column(disabled=True),
-                    "neutral": st.column_config.Column(disabled=True),
-                },
-                hide_index=True,
-                height=250,
-                num_rows="dynamic"  # Permite al usuario borrar un resultado si lo cargó mal
-            )
-            
-            if st.button("💾 Guardar Cambios de la Tabla"):
-                edited_df.to_csv(live_path, index=False)
-                st.success("¡Cambios guardados con éxito!")
+
+    # Load live results from GitHub
+    live_results = _load_live_results_from_github()
+
+    if not live_results.empty:
+        st.success(f"Hay {len(live_results)} partidos registrados.")
+
+        st.markdown("**Tabla de Resultados Guardados** (Modificá los goles en la tabla o borrá filas y apretá el botón para guardar)")
+
+        # Tabla editable con altura fija para tener scroll y no ocupar toda la pantalla
+        edited_df = st.data_editor(
+            live_results,
+            column_config={
+                "home_score": st.column_config.NumberColumn("Goles Local", min_value=0, max_value=20),
+                "away_score": st.column_config.NumberColumn("Goles Visitante", min_value=0, max_value=20),
+                "date": st.column_config.Column(disabled=True),
+                "home_team": st.column_config.Column(disabled=True),
+                "away_team": st.column_config.Column(disabled=True),
+                "tournament": st.column_config.Column(disabled=True),
+                "city": st.column_config.Column(disabled=True),
+                "country": st.column_config.Column(disabled=True),
+                "neutral": st.column_config.Column(disabled=True),
+            },
+            hide_index=True,
+            height=250,
+            num_rows="dynamic"  # Permite al usuario borrar un resultado si lo cargó mal
+        )
+
+        if st.button("💾 Guardar Cambios de la Tabla"):
+            if _save_live_results_to_github(edited_df, "Actualizar resultados en vivo desde dashboard"):
+                st.success("¡Cambios guardados con éxito en GitHub!")
+                st.session_state["live_results_sha"] = None  # Force reload on next fetch
                 st.rerun()
-                
-        except Exception as e:
-            st.warning(f"Error cargando resultados: {e}")
 
     st.subheader("Cargar Nuevo Resultado")
     # Filter matches not already in live_results
@@ -1282,7 +1373,7 @@ def live_results_view(fixture_df: pd.DataFrame) -> None:
     if st.button("Guardar Resultado"):
         idx = match_labels.index(selected_match)
         match_row = unplayed.iloc[idx]
-        
+
         new_row = pd.DataFrame([{
             "date": match_row["date"],
             "home_team": match_row["home_team"],
@@ -1296,8 +1387,10 @@ def live_results_view(fixture_df: pd.DataFrame) -> None:
         }])
 
         df_to_save = pd.concat([live_results, new_row], ignore_index=True) if not live_results.empty else new_row
-        df_to_save.to_csv(live_path, index=False)
-        st.success("Resultado guardado con éxito. Actualizá la página para verlo en la tabla.")
+        match_name = f"{match_row['home_team']} vs {match_row['away_team']}"
+        if _save_live_results_to_github(df_to_save, f"Agregar resultado: {match_name} {home_g}-{away_g}"):
+            st.success("¡Resultado guardado con éxito en GitHub! Actualizá la página para verlo en la tabla.")
+            st.session_state["live_results_sha"] = None  # Force reload on next fetch
 
     st.markdown("---")
     st.subheader("⚙️ Actualizar Modelos")
