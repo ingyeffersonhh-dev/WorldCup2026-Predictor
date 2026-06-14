@@ -5,7 +5,7 @@ match_id,home_team,away_team,home_score,away_score,date,tournament,city,country,
 4.0,United States,Paraguay,3.0,0.0,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
-,Qatar,Switzerland,1.0,1.0,2026-06-13,FIFA World Cup,Unknown,USA,True
-,Brazil,Morocco,1.0,1.0,2026-06-13 00:00:00,FIFA World Cup,Unknown,USA,True
-,Haiti,Scotland,0.0,1.0,2026-06-13 00:00:00,FIFA World Cup,Unknown,USA,True
-,Australia,Turkey,2.0,0.0,2026-06-13 00:00:00,FIFA World Cup,Unknown,USA,True
+5.0,Qatar,Switzerland,1.0,1.0,2026-06-13,FIFA World Cup,Unknown,USA,True
+6.0,Brazil,Morocco,1.0,1.0,2026-06-13 00:00:00,FIFA World Cup,Unknown,USA,True
+7.0,Haiti,Scotland,0.0,1.0,2026-06-13 00:00:00,FIFA World Cup,Unknown,USA,True
+8.0,Australia,Turkey,2.0,0.0,2026-06-13 00:00:00,FIFA World Cup,Unknown,USA,True
