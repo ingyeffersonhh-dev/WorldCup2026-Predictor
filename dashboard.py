@@ -1230,7 +1230,33 @@ def live_results_view(fixture_df: pd.DataFrame) -> None:
         try:
             live_results = pd.read_csv(live_path)
             st.success(f"Hay {len(live_results)} partidos registrados.")
-            st.dataframe(live_results[["date", "home_team", "away_team", "home_score", "away_score"]])
+            
+            st.markdown("**Tabla de Resultados Guardados** (Modificá los goles en la tabla o borrá filas y apretá el botón para guardar)")
+            
+            # Tabla editable con altura fija para tener scroll y no ocupar toda la pantalla
+            edited_df = st.data_editor(
+                live_results,
+                column_config={
+                    "home_score": st.column_config.NumberColumn("Goles Local", min_value=0, max_value=20),
+                    "away_score": st.column_config.NumberColumn("Goles Visitante", min_value=0, max_value=20),
+                    "date": st.column_config.Column(disabled=True),
+                    "home_team": st.column_config.Column(disabled=True),
+                    "away_team": st.column_config.Column(disabled=True),
+                    "tournament": st.column_config.Column(disabled=True),
+                    "city": st.column_config.Column(disabled=True),
+                    "country": st.column_config.Column(disabled=True),
+                    "neutral": st.column_config.Column(disabled=True),
+                },
+                hide_index=True,
+                height=250,
+                num_rows="dynamic"  # Permite al usuario borrar un resultado si lo cargó mal
+            )
+            
+            if st.button("💾 Guardar Cambios de la Tabla"):
+                edited_df.to_csv(live_path, index=False)
+                st.success("¡Cambios guardados con éxito!")
+                st.rerun()
+                
         except Exception as e:
             st.warning(f"Error cargando resultados: {e}")
 
