@@ -1389,8 +1389,9 @@ def live_results_view(fixture_df: pd.DataFrame) -> None:
         df_to_save = pd.concat([live_results, new_row], ignore_index=True) if not live_results.empty else new_row
         match_name = f"{match_row['home_team']} vs {match_row['away_team']}"
         if _save_live_results_to_github(df_to_save, f"Agregar resultado: {match_name} {home_g}-{away_g}"):
-            st.success("¡Resultado guardado con éxito en GitHub! Actualizá la página para verlo en la tabla.")
+            st.success("¡Resultado guardado con éxito en GitHub!")
             st.session_state["live_results_sha"] = None  # Force reload on next fetch
+            st.rerun()
 
     st.markdown("---")
     st.subheader("⚙️ Actualizar Modelos")
